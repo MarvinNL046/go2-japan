@@ -1,7 +1,7 @@
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = "MarvinNL046";
-const REPO_NAME = "go2-japan.com";
-const BRANCH = "master";
+const REPO_NAME = "go2-japan";
+const BRANCH = "main";
 
 export interface FileToCommit {
   path: string;

@@ -1,0 +1,107 @@
+[
+  {
+    "topic": "Ramen Guide: Regional Styles from Tonkotsu to Miso",
+    "category": "food",
+    "priority": 1,
+    "searchVolume": 14000,
+    "targetKeywords": ["japanese ramen guide", "types of ramen", "best ramen japan"]
+  },
+  {
+    "topic": "Sushi Etiquette: How to Eat Sushi Like a Local in Japan",
+    "category": "food",
+    "priority": 2,
+    "searchVolume": 11000,
+    "targetKeywords": ["sushi etiquette japan", "how to eat sushi", "sushi rules japan"]
+  },
+  {
+    "topic": "Japanese Street Food: 15 Must-Try Snacks and Where to Find Them",
+    "category": "food",
+    "priority": 3,
+    "searchVolume": 9500,
+    "targetKeywords": ["japanese street food", "japan street food guide", "best street food japan"]
+  },
+  {
+    "topic": "Wagyu Beef Guide: Grades, Regions, and Where to Try It",
+    "category": "food",
+    "priority": 4,
+    "searchVolume": 8500,
+    "targetKeywords": ["wagyu beef guide", "wagyu grades explained", "best wagyu japan"]
+  },
+  {
+    "topic": "Japanese Breakfast: What to Expect and Where to Eat",
+    "category": "food",
+    "priority": 5,
+    "searchVolume": 6000,
+    "targetKeywords": ["japanese breakfast", "traditional japanese breakfast", "japan breakfast guide"]
+  },
+  {
+    "topic": "Tsukiji and Toyosu Fish Market: Complete Visitor Guide",
+    "category": "food",
+    "priority": 6,
+    "searchVolume": 7500,
+    "targetKeywords": ["tsukiji market guide", "toyosu fish market", "tokyo fish market"]
+  },
+  {
+    "topic": "Izakaya Guide: How to Order and What to Eat at Japanese Pubs",
+    "category": "food",
+    "priority": 7,
+    "searchVolume": 5500,
+    "targetKeywords": ["izakaya guide", "how to order izakaya", "japanese pub food"]
+  },
+  {
+    "topic": "Matcha Everything: Japan's Green Tea Obsession Explained",
+    "category": "food",
+    "priority": 8,
+    "searchVolume": 7000,
+    "targetKeywords": ["matcha japan guide", "matcha desserts japan", "best matcha kyoto"]
+  },
+  {
+    "topic": "Japanese Convenience Store Food: The Best Combini Finds",
+    "category": "food",
+    "priority": 9,
+    "searchVolume": 8000,
+    "targetKeywords": ["japanese convenience store food", "combini food japan", "7-eleven japan food"]
+  },
+  {
+    "topic": "Sake Guide: How to Drink, Order, and Pair Japanese Rice Wine",
+    "category": "food",
+    "priority": 10,
+    "searchVolume": 6500,
+    "targetKeywords": ["sake guide", "how to drink sake", "japanese sake for beginners"]
+  },
+  {
+    "topic": "Kaiseki: Understanding Japan's Multi-Course Fine Dining",
+    "category": "food",
+    "priority": 11,
+    "searchVolume": 4500,
+    "targetKeywords": ["kaiseki guide", "japanese kaiseki dining", "kaiseki course explained"]
+  },
+  {
+    "topic": "Okonomiyaki vs Takoyaki: Osaka's Iconic Dishes Compared",
+    "category": "food",
+    "priority": 12,
+    "searchVolume": 5000,
+    "targetKeywords": ["okonomiyaki vs takoyaki", "osaka food guide", "okonomiyaki guide"]
+  },
+  {
+    "topic": "Japanese Curry: The Comfort Food You Didn't Know You Needed",
+    "category": "food",
+    "priority": 13,
+    "searchVolume": 4000,
+    "targetKeywords": ["japanese curry guide", "japanese curry rice", "best curry japan"]
+  },
+  {
+    "topic": "Depachika: A Guide to Japanese Department Store Food Halls",
+    "category": "food",
+    "priority": 14,
+    "searchVolume": 3500,
+    "targetKeywords": ["depachika guide", "japanese food halls", "department store food japan"]
+  },
+  {
+    "topic": "Vegetarian and Vegan Eating in Japan: Survival Guide",
+    "category": "food",
+    "priority": 15,
+    "searchVolume": 6000,
+    "targetKeywords": ["vegetarian japan", "vegan japan guide", "plant based eating japan"]
+  }
+]
