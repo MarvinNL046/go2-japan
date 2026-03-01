@@ -16,19 +16,16 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center group">
-            <div className="h-16 w-16 relative transform transition-transform group-hover:scale-110">
+            <div className="h-14 w-48 relative transform transition-transform group-hover:scale-105">
               <Image
                 src="/images/logo.webp"
-                alt={siteConfig.tagline}
-                height={64}
-                width={64}
+                alt={siteConfig.name}
+                height={56}
+                width={192}
                 className="object-contain"
                 priority
               />
             </div>
-            <span className="ml-2 text-xl font-bold text-brand-secondary hidden sm:block">
-              {siteConfig.name}
-            </span>
           </Link>
 
           {/* Desktop Navigation */}
