@@ -22,8 +22,12 @@ export default function Home({ cities }: HomeProps) {
       />
 
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-brand-secondary via-brand-secondary-800 to-brand-primary min-h-[60vh] flex items-center">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
+      <section className="relative min-h-[60vh] flex items-center">
+        <div className="absolute inset-0">
+          <img src="/images/hero.webp" alt="Mount Fuji with cherry blossoms" className="w-full h-full object-cover" />
+          <div className="absolute inset-0 bg-brand-secondary/60" />
+        </div>
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
             {t('hero.title')}
           </h1>
