@@ -1,0 +1,50 @@
+# Image Credits
+
+Images sourced from [Unsplash](https://unsplash.com/) under the [Unsplash License](https://unsplash.com/license).
+
+- blog/best-time-to-visit-japan.webp: Photo by Lala Azizli on Unsplash
+- blog/japan-rail-pass-guide.webp: Photo by Ibrahim Abazid on Unsplash
+- blog/japan-travel-guide-2026.webp: Photo by Spenser Sembrat on Unsplash
+- blog/japanese-food-guide.webp: Photo by Giulia Squillace on Unsplash
+- blog/kyoto-temples-guide.webp: Photo by Lala Azizli on Unsplash
+- blog/tokyo-budget-guide.webp: Photo by Dario Brönnimann on Unsplash
+- cities/fukuoka.webp: Photo by Wkndr on Unsplash
+- cities/hakone.webp: Photo by Kevin Charit on Unsplash
+- cities/hiroshima.webp: Photo by sabari nathan on Unsplash
+- cities/kamakura.webp: Photo by Yekaterina Golatkina on Unsplash
+- cities/kyoto.webp: Photo by Joshua Earle on Unsplash
+- cities/nara.webp: Photo by Alejandro Hikari on Unsplash
+- cities/nikko.webp: Photo by Getty Images on Unsplash
+- cities/osaka.webp: Photo by ZHENYU LUO on Unsplash
+- cities/sapporo.webp: Photo by Dominic Kurniawan Suryaputra on Unsplash
+- cities/tokyo.webp: Photo by Simone Viani on Unsplash
+- drinks/japanese-whisky.webp: Photo by Renato Leal on Unsplash
+- drinks/matcha.webp: Photo by Monika Borys on Unsplash
+- drinks/ramune.webp: Photo by Renato Leal on Unsplash
+- drinks/sake.webp: Photo by Brooke Cagle on Unsplash
+- drinks/shochu.webp: Photo by Xtra, Inc. on Unsplash
+- drinks/umeshu.webp: Photo by PTMP on Unsplash
+- food/gyoza.webp: Photo by Getty Images on Unsplash
+- food/kaiseki.webp: Photo by Yosuke Ota on Unsplash
+- food/matcha-desserts.webp: Photo by Monika Borys on Unsplash
+- food/mochi.webp: Photo by Maryam Sicard on Unsplash
+- food/okonomiyaki.webp: Photo by Thomas Boxma on Unsplash
+- food/onigiri.webp: Photo by Maryam Sicard on Unsplash
+- food/ramen.webp: Photo by Andrej Lišakov on Unsplash
+- food/soba.webp: Photo by Andrej Lišakov on Unsplash
+- food/sushi.webp: Photo by Pablo Merchán Montes on Unsplash
+- food/takoyaki.webp: Photo by Perry Merrity II on Unsplash
+- food/tempura.webp: Photo by Colin + Meg on Unsplash
+- food/tonkatsu.webp: Photo by Toa Heftiba on Unsplash
+- food/udon.webp: Photo by Andrej Lišakov on Unsplash
+- food/wagyu.webp: Photo by Thomas Boxma on Unsplash
+- food/yakitori.webp: Photo by Perry Merrity II on Unsplash
+- regions/chubu-tohoku.webp: Photo by Johannes Mändle on Unsplash
+- regions/hokkaido.webp: Photo by A Chosen Soul on Unsplash
+- regions/kansai.webp: Photo by Melissa Patterson on Unsplash
+- regions/kanto.webp: Photo by RODOLFO BARRETTO on Unsplash
+- regions/kyushu.webp: Photo by Mohammed Kertiou on Unsplash
+- visas/evisa.webp: Photo by RODOLFO BARRETTO on Unsplash
+- visas/tourist-visa.webp: Photo by Behnam Norouzi on Unsplash
+- visas/visa-free.webp: Photo by Suzi Kim on Unsplash
+- visas/working-holiday.webp: Photo by Dario Brönnimann on Unsplash
