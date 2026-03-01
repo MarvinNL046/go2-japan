@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "slug": "tokyo",
+    "name": { "en": "Tokyo" },
+    "japaneseName": "東京",
+    "description": { "en": "Japan's sprawling capital is a mesmerizing collision of ultramodern technology and ancient tradition, where neon-lit skyscrapers tower over serene Shinto shrines and centuries-old gardens." },
+    "image": "/images/cities/tokyo.webp",
+    "region": "Kanto",
+    "highlights": ["Shibuya Crossing", "Ancient Temples & Shrines", "World-Class Cuisine", "Akihabara Pop Culture", "Cherry Blossom Season"],
+    "rating": 4.9
+  },
+  {
+    "slug": "kyoto",
+    "name": { "en": "Kyoto" },
+    "japaneseName": "京都",
+    "description": { "en": "Japan's ancient imperial capital for over a thousand years, Kyoto is the cultural heart of the nation, where geisha still glide through lantern-lit alleys and over 2,000 temples preserve centuries of heritage." },
+    "image": "/images/cities/kyoto.webp",
+    "region": "Kansai",
+    "highlights": ["17 UNESCO World Heritage Sites", "Geisha District of Gion", "Bamboo Grove of Arashiyama", "Thousands of Temples & Shrines", "Traditional Tea Ceremonies"],
+    "rating": 4.9
+  },
+  {
+    "slug": "osaka",
+    "name": { "en": "Osaka" },
+    "japaneseName": "大阪",
+    "description": { "en": "Japan's second-largest city and self-proclaimed kitchen of the nation, Osaka is a boisterous, food-obsessed metropolis where the locals are famously warm, funny, and direct." },
+    "image": "/images/cities/osaka.webp",
+    "region": "Kansai",
+    "highlights": ["Street Food Capital of Japan", "Vibrant Nightlife", "Osaka Castle", "Comedy & Entertainment Culture", "Universal Studios Japan"],
+    "rating": 4.7
+  },
+  {
+    "slug": "hiroshima",
+    "name": { "en": "Hiroshima" },
+    "japaneseName": "広島",
+    "description": { "en": "A city defined by resilience and hope, Hiroshima has transformed from the site of the world's first atomic bombing into a vibrant, forward-looking city and powerful symbol of peace." },
+    "image": "/images/cities/hiroshima.webp",
+    "region": "Chugoku",
+    "highlights": ["Peace Memorial Park & Museum", "Atomic Bomb Dome", "Miyajima Island", "Hiroshima-style Okonomiyaki", "Resilient Modern City"],
+    "rating": 4.8
+  },
+  {
+    "slug": "nara",
+    "name": { "en": "Nara" },
+    "japaneseName": "奈良",
+    "description": { "en": "Japan's first permanent capital is an enchanting city where over 1,000 sacred deer roam freely among ancient temples, primeval forests, and some of the country's most important cultural treasures." },
+    "image": "/images/cities/nara.webp",
+    "region": "Kansai",
+    "highlights": ["Free-Roaming Sacred Deer", "Great Buddha at Todai-ji", "Japan's First Capital", "Ancient Temples & Shrines", "Peaceful Atmosphere"],
+    "rating": 4.6
+  },
+  {
+    "slug": "hakone",
+    "name": { "en": "Hakone" },
+    "japaneseName": "箱根",
+    "description": { "en": "A mountainous hot spring resort nestled in the caldera of an ancient volcano, Hakone offers steaming onsen, misty lakes, world-class art museums, and stunning views of Mount Fuji." },
+    "image": "/images/cities/hakone.webp",
+    "region": "Kanto",
+    "highlights": ["Mount Fuji Views", "Natural Hot Springs (Onsen)", "Lake Ashi Pirate Ships", "Hakone Open-Air Museum", "Mountain Railway Loop Route"],
+    "rating": 4.5
+  },
+  {
+    "slug": "kamakura",
+    "name": { "en": "Kamakura" },
+    "japaneseName": "鎌倉",
+    "description": { "en": "Japan's medieval capital perched between forested hills and the Pacific Ocean, Kamakura is a compact treasure of ancient Zen temples, a towering outdoor bronze Buddha, and a laid-back coastal atmosphere." },
+    "image": "/images/cities/kamakura.webp",
+    "region": "Kanto",
+    "highlights": ["Great Buddha (Daibutsu)", "Coastal Temple Town", "Bamboo Temple (Hokoku-ji)", "Beach Culture & Surfing", "Zen Buddhism Heritage"],
+    "rating": 4.5
+  },
+  {
+    "slug": "nikko",
+    "name": { "en": "Nikko" },
+    "japaneseName": "日光",
+    "description": { "en": "A mountain sanctuary of lavishly decorated shrines set among ancient cedar forests, Nikko offers one of Japan's most stunning combinations of cultural splendor and natural beauty." },
+    "image": "/images/cities/nikko.webp",
+    "region": "Kanto",
+    "highlights": ["Ornate Toshogu Shrine", "UNESCO World Heritage Sites", "Spectacular Autumn Foliage", "Kegon Falls & Lake Chuzenji", "Cedar-Lined Approach Road"],
+    "rating": 4.6
+  },
+  {
+    "slug": "fukuoka",
+    "name": { "en": "Fukuoka" },
+    "japaneseName": "福岡",
+    "description": { "en": "Japan's fastest-growing major city combines a legendary street food scene centered on its iconic yatai stalls, a relaxed beach lifestyle, and a buzzing startup culture." },
+    "image": "/images/cities/fukuoka.webp",
+    "region": "Kyushu",
+    "highlights": ["Yatai Street Food Stalls", "Tonkotsu Ramen Birthplace", "Beach City Lifestyle", "Gateway to Kyushu", "Ancient Temples & Modern Culture"],
+    "rating": 4.6
+  },
+  {
+    "slug": "sapporo",
+    "name": { "en": "Sapporo" },
+    "japaneseName": "札幌",
+    "description": { "en": "The vibrant capital of Hokkaido, Sapporo is famous for its spectacular Snow Festival, exceptional seafood, distinctive miso ramen, world-class skiing, and access to Hokkaido's vast wilderness." },
+    "image": "/images/cities/sapporo.webp",
+    "region": "Hokkaido",
+    "highlights": ["Snow Festival (Yuki Matsuri)", "Fresh Seafood & Ramen Alley", "Winter Sports Paradise", "Beer & Whisky Culture", "Gateway to Hokkaido Nature"],
+    "rating": 4.6
+  }
+]

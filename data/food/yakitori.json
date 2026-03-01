@@ -1,0 +1,106 @@
+{
+  "slug": "yakitori",
+  "name": {
+    "en": "Yakitori",
+    "nl": "Yakitori"
+  },
+  "japaneseName": "焼き鳥 (やきとり)",
+  "image": "/images/food/yakitori.webp",
+  "category": "Grill",
+  "description": {
+    "en": "Skewered chicken pieces grilled over charcoal with exacting precision — from juicy thigh meat and crispy skin to heart, liver, and cartilage — seasoned simply with salt or a sweet soy glaze and best enjoyed with a cold beer.",
+    "nl": "Aan spiesjes geregen kippenstukken die met uiterste precisie boven houtskool worden gegrild — van sappig dijvlees en krokante huid tot hart, lever en kraakbeen — eenvoudig op smaak gebracht met zout of een zoete sojasausglazuur, het best te genieten met een koud biertje."
+  },
+  "overview": "Yakitori is Japanese charcoal-grilled chicken elevated to an art form. What might sound simple — small pieces of chicken threaded on bamboo skewers and grilled over bincho-tan white charcoal — is in practice a discipline that demands extraordinary skill in fire management, timing, and understanding of each part of the chicken. A great yakitori chef (yakitori-ya taisho) knows that momo (thigh) needs a different heat level than tsukune (meatball), that kawa (skin) must be folded precisely to render fat and achieve uniform crispness, and that reba (liver) requires just seconds of difference between perfectly creamy and overcooked. The best yakitori-ya use the entire chicken, offering up to 30 different parts — from common cuts like breast and thigh to nose-to-tail offerings like bonjiri (tail), sunagimo (gizzard), and nankotsu (cartilage). Skewers are typically seasoned one of two ways: shio (salt, which lets the ingredient's flavor shine) or tare (a proprietary sweet soy glaze that each shop develops and maintains, sometimes for decades). In Japan's after-work drinking culture, yakitori is the quintessential companion to beer and highball cocktails, and the smoky, convivial atmosphere of a yakitori-ya under the train tracks is one of Japan's most iconic dining experiences.",
+  "origin": {
+    "region": "Nationwide (strong associations with Tokyo)",
+    "history": "While grilling meat on skewers has ancient roots in Japan, yakitori as a widespread food tradition emerged during the Meiji period (1868-1912) when the consumption of meat became more common. The modern yakitori culture took shape in the post-World War II era, when food stalls (yatai) set up near train stations to serve affordable grilled chicken to workers heading home. Cheap cuts and offal were used out of necessity, establishing the nose-to-tail tradition that persists today. The areas beneath elevated railway tracks (gado-shita) became iconic yakitori districts, as the infrastructure provided ready-made shelter for stalls. Yurakucho in Tokyo, beneath the Yamanote Line tracks, remains one of the most atmospheric yakitori districts. In the 1990s and 2000s, yakitori began receiving serious culinary attention, and several yakitori restaurants have since earned Michelin stars."
+  },
+  "ingredients": {
+    "main": [
+      "Chicken (all parts — thigh, breast, skin, wings, liver, heart, gizzard, cartilage, tail)",
+      "Bamboo skewers",
+      "Bincho-tan (Japanese white charcoal)"
+    ],
+    "popular_cuts": [
+      "Momo (thigh meat — juicy and flavorful)",
+      "Negima (thigh alternating with negi leek pieces)",
+      "Tsukune (chicken meatball, often dipped in raw egg yolk)",
+      "Kawa (chicken skin, folded and grilled crispy)",
+      "Reba (liver — creamy when cooked correctly)",
+      "Hatsu (heart — firm and mineral-flavored)",
+      "Sunagimo (gizzard — chewy and earthy)",
+      "Bonjiri (chicken tail/pope's nose — fatty and rich)",
+      "Nankotsu (cartilage — crunchy and fun to eat)",
+      "Tebasaki (chicken wings)"
+    ],
+    "seasonings": [
+      "Shio (salt — the purist's choice)",
+      "Tare (sweet soy glaze — each shop's proprietary recipe)",
+      "Shichimi togarashi (seven-spice chili powder)",
+      "Sansho pepper (Japanese pepper with a tingling quality)",
+      "Yuzu kosho (citrus chili paste)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Shio (Salt) Yakitori",
+      "description": "Seasoned with just salt, allowing the natural flavor of each chicken part to speak. Recommended for fattier cuts like bonjiri and kawa, where the rendered fat provides enough flavor without sauce."
+    },
+    {
+      "name": "Tare (Glaze) Yakitori",
+      "description": "Basted with a sweet-savory soy-based glaze that each shop makes by continuously adding to a base sauce over years. The caramelized tare adds depth and a beautiful lacquered sheen. Best on leaner cuts like breast."
+    },
+    {
+      "name": "Tsukune (Chicken Meatball)",
+      "description": "Hand-formed chicken meatballs grilled on a skewer, often served with a raw egg yolk for dipping. The texture ranges from bouncy to coarse depending on the shop. Usually glazed with tare and considered one of the most satisfying yakitori items."
+    },
+    {
+      "name": "Yakiton (Pork Skewers)",
+      "description": "The pork version of yakitori, particularly associated with areas of Tokyo like Nakano and Shibuya. Features similar nose-to-tail offerings but with pork cuts including kashira (head meat), tan (tongue), and horumon (offal)."
+    }
+  ],
+  "howToOrder": "At a yakitori-ya, order skewers individually (typically 100-400 JPY each) or as a set (moriawase) of 5-10 pieces chosen by the chef. For each skewer, specify 'shio' (salt) or 'tare' (sauce) — if unsure, let the chef choose (omakase). Start with familiar cuts like momo (thigh) and negima (thigh with leek), then venture into offal. Order a beer or whisky highball to drink alongside. Most yakitori-ya also serve small side dishes (otsumami) like edamame, pickles, and cold tofu. At standing-style shops, simply point at what looks good.",
+  "whereToEat": [
+    {
+      "name": "Birdland",
+      "location": "Ginza, Tokyo",
+      "note": "One-Michelin-star yakitori restaurant using Okutama shamo (heritage breed chicken). Counter seating only, where you can watch the master chef work the charcoal grill. Reservations essential. Course from 6,000 JPY."
+    },
+    {
+      "name": "Yurakucho Gado-shita Yakitori Alley",
+      "location": "Yurakucho, Tokyo",
+      "note": "The atmospheric area beneath the Yamanote Line elevated tracks near Yurakucho Station, lined with smoky yakitori stalls. Quintessential Tokyo after-work drinking and grilling atmosphere. No reservations, just find a stool."
+    },
+    {
+      "name": "Toriki",
+      "location": "Meguro, Tokyo",
+      "note": "A legendary no-frills yakitori shop where the elderly owner grills each skewer with absolute precision. Cash only, no reservations, minimal menu. What they lack in ambiance they make up for in flavor."
+    },
+    {
+      "name": "Torikizoku",
+      "location": "Nationwide chain",
+      "note": "Budget-friendly izakaya chain where nearly everything on the menu is 350 JPY (including drinks). Great for an affordable yakitori and beer experience in a lively atmosphere."
+    }
+  ],
+  "priceRange": {
+    "street": "100 - 200 JPY ($0.70 - $1.40) per skewer at festivals and standing shops",
+    "restaurant": "150 - 400 JPY ($1 - $2.80) per skewer at dedicated yakitori-ya",
+    "upscale": "5,000 - 15,000 JPY ($35 - $105) for an omakase course at Michelin-level yakitori"
+  },
+  "tips": [
+    "Let the chef choose the seasoning (shio or tare) if you are unsure — they know which works best for each cut",
+    "Do not remove the meat from the skewer — eat directly from the stick, one skewer at a time",
+    "Order skewers in rounds of 2-4 so they arrive hot from the grill; do not order everything at once",
+    "If this is your first time, start with momo (thigh), negima (thigh with leek), and tsukune (meatball) before trying offal",
+    "Yakitori pairs perfectly with beer, whisky highball, or hot sake — embrace the Japanese after-work drinking culture",
+    "The smoky standing bars under the train tracks (gado-shita) in Yurakucho and Shimbashi offer the most atmospheric experience"
+  ],
+  "culturalNotes": "Yakitori is inseparable from Japan's after-work socializing culture. The typical evening for a Japanese salaryman often includes stopping at a yakitori-ya under the train tracks with colleagues after work, standing at a counter with a beer and a few skewers before catching the last train home. The atmosphere is informal, lively, and egalitarian — the smoke and close quarters break down workplace hierarchies. Yakitori also represents Japan's respect for craft and the nose-to-tail philosophy: nothing is wasted, every part of the chicken is prepared with skill, and each cut has its devoted fans. The culture has elevated what was once a post-war necessity food into a respected culinary art, with Michelin-starred yakitori restaurants coexisting with 100-yen-per-skewer standing bars. Japan even has a 'Yakitori Town' — the city of Higashimatsuyama in Saitama Prefecture, which celebrates an annual yakitori festival.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Michelin Guide Tokyo",
+    "Lonely Planet Japan Food Guide",
+    "NHK World Japan — Yakitori Masters"
+  ]
+}

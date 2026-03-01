@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "slug": "visa-free",
+    "name": {
+      "en": "Visa-Free Entry",
+      "nl": "Visumvrije toegang"
+    },
+    "description": {
+      "en": "Citizens of 71 countries can enter Japan without a visa for stays of 15, 30, or 90 days for tourism, business meetings, and other short-term activities.",
+      "nl": "Burgers van 71 landen kunnen Japan binnenkomen zonder visum voor verblijven van 15, 30 of 90 dagen voor toerisme, zakelijke bijeenkomsten en andere kortdurende activiteiten."
+    },
+    "image": "/images/visas/visa-free.webp",
+    "duration": "15-90 days",
+    "cost": "Free"
+  },
+  {
+    "slug": "tourist-visa",
+    "name": {
+      "en": "Tourist Visa",
+      "nl": "Toeristenvisum"
+    },
+    "description": {
+      "en": "The standard Temporary Visitor visa for nationals who require a visa to enter Japan, allowing stays of 15, 30, or 90 days for tourism and short-term purposes.",
+      "nl": "Het standaard Tijdelijke Bezoeker-visum voor onderdanen die een visum nodig hebben om Japan binnen te komen, voor verblijven van 15, 30 of 90 dagen voor toerisme en kortdurende doeleinden."
+    },
+    "image": "/images/visas/tourist-visa.webp",
+    "duration": "15-90 days",
+    "cost": "¥3,000-6,000"
+  },
+  {
+    "slug": "evisa",
+    "name": {
+      "en": "eVisa",
+      "nl": "eVisum"
+    },
+    "description": {
+      "en": "Japan's electronic visa system allows eligible nationals to apply for a tourist visa online, reducing the need for in-person embassy visits.",
+      "nl": "Japans elektronisch visumsysteem stelt in aanmerking komende onderdanen in staat online een toeristenvisum aan te vragen, waardoor persoonlijke bezoeken aan de ambassade verminderd worden."
+    },
+    "image": "/images/visas/evisa.webp",
+    "duration": "Up to 30 days",
+    "cost": "¥3,000"
+  },
+  {
+    "slug": "working-holiday",
+    "name": {
+      "en": "Working Holiday Visa",
+      "nl": "Werkvakantieversum"
+    },
+    "description": {
+      "en": "A visa allowing young adults (18-30) from partner countries to live and work in Japan for up to one year, combining cultural exchange with temporary employment.",
+      "nl": "Een visum dat jonge volwassenen (18-30) uit partnerlanden in staat stelt tot een jaar in Japan te wonen en werken, waarbij culturele uitwisseling wordt gecombineerd met tijdelijk werk."
+    },
+    "image": "/images/visas/working-holiday.webp",
+    "duration": "Up to 12 months",
+    "cost": "Free"
+  }
+]

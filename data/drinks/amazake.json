@@ -1,0 +1,20 @@
+{
+  "slug": "amazake",
+  "name": "Amazake",
+  "japaneseName": "甘酒",
+  "description": "Amazake, meaning 'sweet sake,' is a traditional Japanese drink made from fermented rice that occupies a unique place in Japanese food culture. Despite its name, amazake is typically non-alcoholic or contains only trace amounts of alcohol (under 1%), making it a drink enjoyed by people of all ages, including children and pregnant women. Its naturally sweet, creamy flavor and thick, porridge-like texture make it unlike any other beverage.\n\nThere are two types of amazake: the traditional variety made with rice koji (aspergillus oryzae mold), where the enzymes in the koji break down rice starches into natural sugars over 8-12 hours of fermentation, and a simpler version made from sake lees (the leftover solids from sake brewing) mixed with sugar and water. The koji version is considered superior and more nutritious, rich in glucose, B vitamins, amino acids, and digestive enzymes — earning it the nickname 'drinkable IV drip' (nomunomu tenteki) in Japan for its nutritional density.\n\nAmazake has experienced a health food renaissance in recent years, with bottled versions appearing in convenience stores and supermarkets marketed for their probiotic benefits, skin health properties, and natural energy boost. Yet amazake remains most atmospheric when sipped from a wooden ladle at a shrine during New Year's, warming your hands on the cup while snow falls around you.",
+  "history": "Amazake has been consumed in Japan for over 1,000 years, with references in the Nihon Shoki (Chronicles of Japan, 720 AD). During the Edo period (1603-1868), amazake sellers were a common sight on city streets, particularly in summer — amazake was consumed as an energy drink to prevent heat exhaustion, and to this day 'amazake' is classified as a summer seasonal word (kigo) in haiku poetry, despite its modern association with winter. The drink has been served at Shinto shrines and Buddhist temples for centuries, particularly during New Year celebrations and harvest festivals. In the modern era, amazake's reputation as a health food has driven a commercial boom, with major brands like Morinaga and Marukome producing convenient bottled versions.",
+  "howToEnjoy": "Traditional amazake is served warm in a cup or bowl, often with a pinch of grated ginger on top to add a spicy contrast to the sweetness. At shrines and temples, it is typically served in a red lacquer cup. Cold amazake is refreshing in summer and is how it was historically consumed. Modern cafes serve amazake smoothies blended with fruit, amazake parfaits, and amazake-based desserts. At home, bottled amazake can be diluted with water and heated, or used as a natural sweetener in cooking. Some craft breweries produce alcoholic amazake with a gentle sake-like quality.",
+  "whereToTry": "Amazake is served free or for a small donation at many shrines and temples during New Year's (January 1-3) and other festivals — Meiji Shrine in Tokyo and Fushimi Inari in Kyoto are notable spots. In Tokyo, the historic Amazake Yokocho (Amazake Alley) near Nihonbashi has shops serving traditional amazake. Convenience stores and supermarkets nationwide carry bottled amazake year-round — Marukome's Koji Amazake and Morinaga's canned version are widely available. At onsen (hot spring) facilities, amazake is a popular post-bath refreshment.",
+  "image": "/images/drinks/amazake.webp",
+  "priceRange": "¥100-300 at shrines and festivals; ¥150-400 per bottle/can at shops; free at some shrine events",
+  "alcoholContent": "Non-alcoholic (under 1% ABV, often 0%)",
+  "bestWith": [
+    "Traditional Japanese wagashi sweets",
+    "Rice crackers (senbei)",
+    "Ginger (as a topping)",
+    "Mochi",
+    "New Year's foods (osechi)",
+    "On its own as a warming winter drink or cooling summer refreshment"
+  ]
+}

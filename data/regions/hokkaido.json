@@ -1,0 +1,19 @@
+{
+  "slug": "hokkaido",
+  "name": "Hokkaido",
+  "japaneseName": "北海道",
+  "description": "Hokkaido, Japan's northernmost main island, is a world apart from the rest of the country — a vast, sparsely populated frontier of volcanic mountains, pristine lakes, lavender fields, and some of the best powder snow on the planet. Covering roughly 22% of Japan's total land area but home to only about 4% of its population, Hokkaido offers wide-open landscapes, untamed wilderness, and a pioneering spirit that feels distinctly different from the ancient cultural density of Honshu.\n\nThe island's character was shaped by its relatively recent development. While the indigenous Ainu people have inhabited Hokkaido for thousands of years, large-scale Japanese settlement only began during the Meiji era (1868-1912), when the government recruited colonists and foreign advisors — primarily American — to develop the island's agriculture and infrastructure. This frontier heritage is visible in Hokkaido's grid-planned cities, Western-style farm buildings, dairy industry, and a culture that is more casual and direct than mainland Japan.\n\nFor visitors, Hokkaido offers extraordinary seasonal variety. Winter brings world-class skiing at Niseko and Furano, the magical Sapporo Snow Festival, and drift ice along the Okhotsk Sea coast. Summer transforms the island into a garden of lavender, sunflowers, and wildflowers under skies free from the mainland's oppressive humidity and rainy season. Year-round, Hokkaido's food is legendary — the cold seas produce exceptional seafood, the farms yield premium dairy and produce, and regional specialties like miso ramen, soup curry, and Genghis Khan grilled lamb are destination-worthy in themselves.",
+  "highlights": [
+    "Sapporo — Snow Festival, miso ramen, craft beer, and vibrant city life",
+    "Niseko — world-renowned powder snow skiing and snowboarding",
+    "Furano and Biei — lavender fields and patchwork hills in summer",
+    "Otaru — romantic canal town with exceptional sushi",
+    "Hakodate — million-dollar night views and historic morning market",
+    "Shiretoko Peninsula — UNESCO World Heritage wilderness and wildlife",
+    "Noboribetsu — dramatic volcanic hot spring resort",
+    "Daisetsuzan National Park — Japan's largest national park with alpine hiking"
+  ],
+  "cities": ["sapporo"],
+  "image": "/images/regions/hokkaido.webp",
+  "bestTimeToVisit": "February for the Sapporo Snow Festival and skiing; July for lavender fields and pleasant summer weather; September-October for autumn foliage. Hokkaido has no rainy season, making summer particularly appealing. Winter (December-March) is cold and snowy but spectacular for winter sports and hot springs."
+}

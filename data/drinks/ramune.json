@@ -1,0 +1,20 @@
+{
+  "slug": "ramune",
+  "name": "Ramune",
+  "japaneseName": "ラムネ",
+  "description": "Ramune is Japan's iconic marble-sealed soda, instantly recognizable by its distinctive Codd-neck bottle with a glass marble trapped in the neck that serves as both stopper and conversation piece. Opening a Ramune is a small ritual — you press the marble down into the bottle using a plastic plunger, creating a satisfying pop and fizz that is as much part of the experience as the drink itself. The original flavor is a light, sweet lemon-lime soda that tastes like bottled nostalgia.\n\nFor Japanese people, Ramune is inextricably linked with summer. The distinctive bottles appear at every matsuri (festival), fireworks display, beach house, and summer event. The clink of marbles in Ramune bottles is one of the defining sounds of Japanese summer, alongside cicadas and wind chimes. Children grow up with the ritual of pressing the marble and trying (unsuccessfully) to fish it out of the bottle afterward.\n\nWhile the original lemon-lime remains the classic, modern Ramune comes in a staggering array of flavors including strawberry, melon, lychee, yuzu, grape, blueberry, and increasingly outlandish novelty flavors like wasabi, takoyaki, curry, and kimchi — mostly produced as fun souvenirs rather than serious beverages. The original flavor, with its clean, slightly citrusy sweetness and aggressive carbonation, remains the one to try.",
+  "history": "Ramune's name is a Japanese rendering of 'lemonade,' reflecting its origins in the carbonated drinks brought to Japan by foreign traders in the 1850s. The Codd-neck bottle design was invented by Englishman Hiram Codd in 1872 to keep carbonated drinks sealed without corks. While this bottle design disappeared from the rest of the world by the early 1900s (replaced by crown caps), Japan embraced it and never let go. The first Ramune was produced in Kobe in 1884 by Scottish pharmacist Alexander Cameron Sim. The drink was initially a luxury item but became widely popular during the Meiji and Taisho periods. Today, about 90% of the world's Codd-neck bottles are produced in Japan for Ramune.",
+  "howToEnjoy": "To open Ramune, remove the plastic wrapper from the top, place the plunger on the marble, and push firmly downward with the heel of your palm. The marble will pop into the bottle with a satisfying fizz. Drink directly from the bottle — tilting it will cause the marble to block the opening, which is part of the fun (the two indentations in the neck are designed to catch the marble while you drink). Best enjoyed ice-cold on a hot summer day at a festival or beach. The experience of opening and drinking Ramune is as important as the taste itself.",
+  "whereToTry": "Ramune is sold at convenience stores, supermarkets, and vending machines throughout Japan, but the quintessential experience is buying one from a yatai (stall) at a summer festival. Major festivals like Tenjin Matsuri in Osaka, Gion Matsuri in Kyoto, and Sumidagawa Fireworks in Tokyo all have Ramune vendors. You will also find them at onsen (hot spring) resorts, beach houses, and tourist areas. Souvenir shops in airports and tourist spots carry novelty flavors. A bottle typically costs ¥150-250.",
+  "image": "/images/drinks/ramune.webp",
+  "priceRange": "¥150-250 per bottle at shops and festivals; ¥200-350 at tourist areas",
+  "alcoholContent": "Non-alcoholic",
+  "bestWith": [
+    "Festival foods (takoyaki, yakisoba, okonomiyaki)",
+    "Grilled corn on the cob",
+    "Shaved ice (kakigori)",
+    "Cotton candy (wataame)",
+    "Candy apples (ringo ame)",
+    "Any summer matsuri food"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "umeshu",
+  "name": "Umeshu",
+  "japaneseName": "梅酒",
+  "description": "Umeshu is a sweet, aromatic Japanese liqueur made by steeping unripe ume fruits (Japanese plums, actually a variety of apricot) in alcohol and sugar. The result is a beautifully balanced drink with a fruity, slightly tart sweetness that makes it one of Japan's most approachable alcoholic beverages — and a perennial favorite among visitors who might not enjoy sake or shochu.\n\nThe basic recipe is elegantly simple: whole green ume fruits are layered with rock sugar in a jar and covered with white liquor (typically shochu or a neutral spirit) and left to steep for at least three months, though many are aged for a year or more. As the ume infuse the alcohol, they release their juices, creating a golden-amber liqueur with a complex flavor profile combining stone fruit sweetness, gentle acidity, and almond-like notes from the ume pit.\n\nWhile commercially produced umeshu from brands like Choya is ubiquitous, Japan's umeshu culture runs much deeper. Many households make their own (homemade umeshu kits appear in supermarkets every June during ume season), and craft producers across Japan create artisanal versions using local ume varieties, different base spirits, and creative additions like honey, shiso leaves, or matcha. Wakayama Prefecture, which produces 60% of Japan's ume, is the epicenter of premium umeshu production.",
+  "history": "Ume trees were introduced to Japan from China over 1,500 years ago and became beloved in Japanese culture, celebrated in poetry, art, and garden design long before cherry blossoms took cultural center stage. The practice of steeping ume in alcohol likely began in the Edo period (1603-1868), originally as a medicinal preparation — ume were believed to ward off fatigue, aid digestion, and prevent food poisoning. The modern commercial umeshu industry took off in 1959 when the liquor tax law was amended to allow home production, and Choya Umeshu, founded in Osaka in 1914, became the leading commercial brand that introduced umeshu to the world.",
+  "howToEnjoy": "Umeshu is wonderfully versatile. Serve it on the rocks (rokku) to enjoy the pure flavor as the ice slowly dilutes it. Mixed with soda water (soda wari) creates a refreshing sparkling drink perfect for summer. With hot water (oyuwari) it becomes a warming winter drink. Some bars serve umeshu-based cocktails. At restaurants, it is often offered as an aperitif or dessert drink. When you find a glass with a whole ume fruit in it, eat the fruit — it is delicious and soft from months of steeping.",
+  "whereToTry": "Umeshu is available at virtually every izakaya, restaurant, and bar in Japan. For premium and artisanal varieties, visit Tenma in Osaka, which has dedicated umeshu bars. Wakayama Prefecture offers umeshu tastings at producers like Nakano BC. In Tokyo, the Umeshu Bar at Shugar Market in Shibuya features over 100 varieties. During ume season (June), visit Kairakuen Garden in Mito or Kitano Tenmangu in Kyoto to see ume blossoms. Many ryokan serve house-made umeshu as a welcome drink.",
+  "image": "/images/drinks/umeshu.webp",
+  "priceRange": "¥400-700 per glass at restaurants; ¥600-3,000 per 720ml bottle at shops",
+  "alcoholContent": "8-15% ABV",
+  "bestWith": [
+    "Wagashi (Japanese sweets)",
+    "Cheese and crackers",
+    "Light appetizers and salads",
+    "Fried foods (as a palate cleanser)",
+    "Desserts and fruit",
+    "On its own as an aperitif or digestif"
+  ]
+}

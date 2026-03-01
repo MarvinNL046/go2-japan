@@ -1,0 +1,107 @@
+{
+  "slug": "soba",
+  "name": {
+    "en": "Soba",
+    "nl": "Soba"
+  },
+  "japaneseName": "蕎麦 (そば)",
+  "image": "/images/food/soba.webp",
+  "category": "Noodle",
+  "description": {
+    "en": "Thin, nutty buckwheat noodles served cold on a bamboo mat with a dipping sauce or hot in a fragrant dashi broth — an elegant Japanese staple deeply connected to seasonal traditions and artisan craftsmanship.",
+    "nl": "Dunne, nootachtige boekweitnoedels geserveerd koud op een bamboemat met een dipsaus of warm in een geurige dashibouillon — een elegant Japans basisgerecht dat diep verbonden is met seizoenstradities en ambachtelijk vakmanschap."
+  },
+  "overview": "Soba noodles are Japan's most refined everyday food — buckwheat noodles whose earthy, nutty flavor and delicate texture have inspired a culinary tradition that borders on the spiritual. Unlike wheat-based udon, soba is made primarily from buckwheat flour (sobako), which gives the noodles their distinctive grayish-brown color and complex flavor that ranges from nutty to slightly sweet. The highest grade soba is 'juwari soba' (100% buckwheat), which is fragile and demanding to make, requiring great skill to keep the dough from crumbling since buckwheat contains no gluten. Most soba uses a ratio of 80% buckwheat to 20% wheat flour (nihachi soba), which provides enough gluten for workability while preserving the buckwheat character. Master soba artisans (shokunin) hand-cut the noodles with a precision that is almost meditative — the width of each noodle must be perfectly uniform, and the process of rolling, folding, and cutting is a practiced ritual. Cold soba (zaru soba) on a bamboo draining mat is considered the purest way to appreciate the noodles' flavor and texture.",
+  "origin": {
+    "region": "Nagano Prefecture / Nationwide",
+    "history": "Buckwheat has been cultivated in Japan since ancient times, but the tradition of making it into noodles dates to the Edo period (1603-1868). Before that, buckwheat was eaten as porridge (sobagaki) or made into dumplings. The development of noodle-cutting techniques in the early Edo period led to the birth of soba as we know it today. Edo (Tokyo) became the center of soba culture, with hundreds of soba shops serving the city's growing population. The tradition of eating soba on New Year's Eve (toshikoshi soba) became established during this period. Nagano Prefecture, with its mountainous terrain ideal for buckwheat cultivation, has long been considered Japan's soba heartland, and Togakushi soba is one of Japan's three great soba traditions."
+  },
+  "ingredients": {
+    "main": [
+      "Buckwheat flour (sobako)",
+      "Wheat flour (for nihachi soba — 80/20 ratio)",
+      "Water",
+      "Dashi broth (kombu and katsuobushi)"
+    ],
+    "toppings": [
+      "Nori (seaweed strips)",
+      "Wasabi (freshly grated)",
+      "Negi (chopped green onion)",
+      "Grated daikon radish",
+      "Tempura (especially kakiage or shrimp)",
+      "Tororo (grated mountain yam)",
+      "Duck (kamo) — for kamo nanban soba",
+      "Raw quail egg"
+    ],
+    "condiments": [
+      "Tsuyu (dipping sauce: dashi, soy sauce, mirin)",
+      "Shichimi togarashi (seven-spice powder)",
+      "Soba-yu (the hot water the noodles were boiled in)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Zaru Soba",
+      "description": "Cold soba served on a bamboo draining mat (zaru) with a side of concentrated tsuyu dipping sauce, wasabi, and green onion. The purest way to taste soba. After eating, the boiling water (soba-yu) is poured into the remaining tsuyu to make a nourishing hot drink."
+    },
+    {
+      "name": "Kake Soba",
+      "description": "Hot soba in a simple dashi broth, often with just green onion as garnish. The Japanese equivalent of a bowl of chicken soup — warming, simple, and deeply satisfying."
+    },
+    {
+      "name": "Tempura Soba",
+      "description": "Soba served with tempura — either placed on top of hot broth or alongside cold zaru soba. Shrimp tempura and kakiage (mixed vegetable and shrimp fritter) are the most common accompaniments."
+    },
+    {
+      "name": "Kamo Nanban Soba",
+      "description": "Hot soba in a rich broth with sliced duck breast and negi (Japanese leek). The duck fat enriches the broth while the charred leek adds sweetness. A winter favorite and one of soba's most luxurious preparations."
+    },
+    {
+      "name": "Toshikoshi Soba (New Year's Eve Soba)",
+      "description": "Eaten on December 31st across Japan, symbolizing the cutting away of the old year's hardships (soba noodles are easy to cut) and wishing for a long, thin life like the noodles. Can be any style but is most commonly kake or tempura soba."
+    }
+  ],
+  "howToOrder": "At soba restaurants, the menu typically divides into cold (tsumemono) and hot (atsumono) options. Start with 'zaru soba' to taste the noodles pure. For a meal, add tempura on the side or order 'tempura soba.' 'Mori soba' is the same as zaru soba but without nori seaweed on top. Order size as 'ichi-mai' (one serving) or 'ni-mai' (double). Always drink the soba-yu (noodle cooking water) at the end by mixing it into your remaining dipping sauce — it is nutritious and considered part of the soba experience.",
+  "whereToEat": [
+    {
+      "name": "Kanda Matsuya",
+      "location": "Kanda, Tokyo",
+      "note": "Operating since 1884, this is one of Tokyo's most revered soba institutions. Hand-cut noodles with a perfect texture and a classic Edo-style tsuyu. Affordable lunch sets draw long weekday queues."
+    },
+    {
+      "name": "Honke Owariya",
+      "location": "Kyoto",
+      "note": "Kyoto's most famous soba restaurant, in business since 1465 — over 550 years. Their signature 'hourai soba' is served in five stacking lacquer trays, each with a small portion and different toppings."
+    },
+    {
+      "name": "Togakushi Soba Shops",
+      "location": "Togakushi, Nagano Prefecture",
+      "note": "The mountain village of Togakushi near Nagano city is home to one of Japan's three great soba traditions. Over 20 soba shops line the pilgrimage road to Togakushi Shrine, all using locally grown buckwheat."
+    },
+    {
+      "name": "Fuji Soba",
+      "location": "Tokyo (standing soba chain)",
+      "note": "Affordable standing soba chain found near most major Tokyo train stations. A bowl starts from 340 JPY. The quintessential quick, cheap, and satisfying train-station meal experience."
+    }
+  ],
+  "priceRange": {
+    "street": "340 - 600 JPY ($2.40 - $4.20) at standing soba shops",
+    "restaurant": "800 - 1,500 JPY ($5.60 - $10.50) at sit-down soba restaurants",
+    "upscale": "2,000 - 5,000 JPY ($14 - $35) at artisan hand-cut soba restaurants"
+  },
+  "tips": [
+    "When eating zaru soba, dip only the bottom third of the noodles into the tsuyu — do not submerge them entirely, as the sauce is concentrated",
+    "Slurp soba vigorously — it aerates the noodles and enhances the buckwheat aroma",
+    "Always drink the soba-yu (noodle cooking water) at the end — it is rich in nutrients and is an essential part of the soba ritual",
+    "The best soba uses 'shin soba' — freshly harvested buckwheat available in autumn (October-November). Many soba shops advertise when they switch to the new season's flour",
+    "At artisan soba shops, order zaru soba first to taste the noodles without distraction before trying more elaborate preparations",
+    "Look for shops that display 'te-uchi' (hand-made) or 'juwari' (100% buckwheat) — these indicate artisan quality"
+  ],
+  "culturalNotes": "Soba holds a special place in Japanese spiritual and seasonal culture. The tradition of eating toshikoshi soba on New Year's Eve is observed by the vast majority of Japanese families — buckwheat noodles symbolize longevity (long noodles) and the ability to cut cleanly from the past year's troubles (soba cuts easily). Soba shops were also traditionally gathering places for Edo's townspeople, and many famous kabuki actors, writers, and artists had their regular soba shops. The craft of hand-making soba has been elevated to an art form with its own certification system — serious hobbyists can earn 'dan' (grade) rankings similar to martial arts. Some Buddhist monks practice soba-making as a form of meditation. In Tokyo, neighborhoods like Kanda and Nihonbashi still preserve the Edo-era soba shop tradition, and many shops have been in the same family for generations.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Nagano Prefecture Tourism Association",
+    "Eric Rath, 'Japan's Cuisines: Food, Place, and Identity' (Reaktion Books, 2016)",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

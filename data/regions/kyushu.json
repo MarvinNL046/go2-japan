@@ -1,0 +1,19 @@
+{
+  "slug": "kyushu",
+  "name": "Kyushu",
+  "japaneseName": "九州",
+  "description": "Kyushu, Japan's third-largest main island, is a land of fire and water — volcanic landscapes that power countless natural hot springs, a subtropical climate that nurtures lush green landscapes, and a rich cultural history shaped by centuries as Japan's gateway to Asia. From the bustling food capital of Fukuoka to the volcanic drama of Mount Aso and the sobering peace of Nagasaki, Kyushu offers experiences found nowhere else in Japan.\n\nThe island's seven prefectures — Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, and Kagoshima — each have distinct identities shaped by geography and history. Kyushu sits on the Pacific Ring of Fire, giving it more active volcanoes and natural hot springs (onsen) than any other region of Japan. Beppu alone has over 2,000 hot spring vents, producing more hot spring water than anywhere else in the world. The volcanic soil creates fertile farmland, the warm Kuroshio Current brings abundant seafood, and the subtropical latitude allows for unique crops including shochu sweet potatoes and Satsuma mandarin oranges.\n\nHistorically, Kyushu was Japan's front door to the outside world. Chinese and Korean cultural influences entered Japan through Kyushu, Christianity first took root here with the arrival of Francis Xavier in 1549, and Nagasaki was Japan's sole trading port with the West during 200 years of national isolation. This history of exchange gives Kyushu a distinct openness and warmth that visitors notice immediately — Kyushu people are known throughout Japan as some of the friendliest and most hospitable.",
+  "highlights": [
+    "Fukuoka — yatai street food stalls and Japan's best tonkotsu ramen",
+    "Beppu — Japan's hot spring capital with 'hells' and sand baths",
+    "Nagasaki — Peace Park, Dejima, and fascinating multicultural history",
+    "Mount Aso — the world's largest volcanic caldera with active crater",
+    "Kumamoto Castle — one of Japan's most magnificent castles",
+    "Yakushima — ancient cedar forests that inspired Princess Mononoke",
+    "Kagoshima — 'Naples of the East' with active Sakurajima volcano",
+    "Yufuin — charming hot spring town with artisan shops and galleries"
+  ],
+  "cities": ["fukuoka", "hiroshima"],
+  "image": "/images/regions/kyushu.webp",
+  "bestTimeToVisit": "March to May for pleasant spring weather and cherry blossoms; October to November for autumn colors and comfortable temperatures. Summer is hot and humid with a pronounced rainy season in June-July. Winter is mild compared to northern Japan, making it a good year-round destination. Typhoon season runs August to October."
+}

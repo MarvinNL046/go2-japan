@@ -1,1 +1,220 @@
-[]
+[
+  {
+    "slug": "kanto",
+    "name": {
+      "en": "Kanto",
+      "nl": "Kanto"
+    },
+    "description": {
+      "en": "Home to Tokyo — the world's largest metropolitan area — along with the ancient samurai capital of Kamakura, the sacred shrines of Nikko, and the hot springs of Hakone with views of Mount Fuji, Kanto is where Japan's ultra-modern present and feudal past coexist in a region of staggering scale and contrast.",
+      "nl": "Thuisbasis van Tokyo — het grootste stedelijke gebied ter wereld — samen met de oude samoerai-hoofdstad Kamakura, de heilige schrijnen van Nikko en de warmwaterbronnen van Hakone met uitzicht op de berg Fuji. Kanto is waar Japans ultramoderne heden en feodaal verleden naast elkaar bestaan in een regio van adembenemende schaal en contrast."
+    },
+    "image": "/images/regions/kanto.webp",
+    "highlights": [
+      { "en": "Tokyo — Shibuya, Shinjuku, Asakusa, Akihabara", "nl": "Tokyo — Shibuya, Shinjuku, Asakusa, Akihabara" },
+      { "en": "Mount Fuji and Hakone", "nl": "Berg Fuji en Hakone" },
+      { "en": "Kamakura's Great Buddha and Zen Temples", "nl": "Kamakura's Grote Boeddha en Zentempels" },
+      { "en": "Nikko Toshogu Shrine", "nl": "Nikko Toshogu-schrijn" }
+    ],
+    "cities": [
+      "tokyo",
+      "yokohama",
+      "kamakura",
+      "nikko"
+    ],
+    "bestTimeToVisit": "March to May / October to November",
+    "overview": "The Kanto region encompasses Japan's political, economic, and cultural center, anchored by the vast Tokyo metropolitan area with its population of over 37 million people. Yet beyond the neon-lit streets of Shinjuku and Shibuya, the region offers remarkable diversity: Kamakura's Zen temples, Nikko's ornate shrines, Hakone's hot springs with Mount Fuji views, and Yokohama's cosmopolitan harbor.",
+    "topExperiences": [
+      {
+        "title": "Experience Tokyo's Contrasts",
+        "description": "Walk from the ancient Senso-ji temple in Asakusa to the neon-lit scramble crossing of Shibuya in a single afternoon, passing through traditional gardens, trendy neighborhoods, and futuristic cityscapes."
+      },
+      {
+        "title": "View Mount Fuji from Hakone",
+        "description": "Take the Hakone loop course for stunning views of Mount Fuji across Lake Ashi, then soak in an onsen hot spring at the end of the day."
+      },
+      {
+        "title": "Walk Among Kamakura's Zen Temples",
+        "description": "Visit the 13-meter Great Buddha, hike the wooded trails between ancient Zen temples, and experience the meditative atmosphere of a former samurai capital just one hour from Tokyo."
+      },
+      {
+        "title": "Explore Nikko's Sacred Mountains",
+        "description": "Marvel at the ornate Toshogu Shrine set among 1,200 ancient cedar trees, then take the scenic road to Lake Chuzenji and Kegon Falls."
+      }
+    ]
+  },
+  {
+    "slug": "kansai",
+    "name": {
+      "en": "Kansai",
+      "nl": "Kansai"
+    },
+    "description": {
+      "en": "Japan's cultural heartland — where the ancient capitals of Kyoto and Nara preserve 1,300 years of temples, shrines, and imperial heritage, while Osaka pulses with the nation's best street food, most vibrant nightlife, and a famously warm and outgoing personality.",
+      "nl": "Japans culturele hart — waar de oude hoofdsteden Kyoto en Nara 1.300 jaar aan tempels, schrijnen en keizerlijk erfgoed bewaren, terwijl Osaka bruist met 's lands beste straatvoedsel, het meest levendige nachtleven en een befaamd warm en extravert karakter."
+    },
+    "image": "/images/regions/kansai.webp",
+    "highlights": [
+      { "en": "Kyoto's 17 UNESCO World Heritage Sites", "nl": "Kyoto's 17 UNESCO-Werelderfgoedsites" },
+      { "en": "Osaka Street Food and Dotonbori Nightlife", "nl": "Osaka-straatvoedsel en Dotonbori-nachtleven" },
+      { "en": "Nara's Ancient Temples and Friendly Deer", "nl": "Nara's oude tempels en vriendelijke herten" },
+      { "en": "Fushimi Inari Thousand Torii Gates", "nl": "Fushimi Inari duizend torii-poorten" }
+    ],
+    "cities": [
+      "kyoto",
+      "osaka",
+      "nara"
+    ],
+    "bestTimeToVisit": "March to May / November",
+    "overview": "The Kansai region is the soul of traditional Japan and simultaneously one of its most dynamic areas. Kyoto, the imperial capital for over a millennium, is home to 17 UNESCO World Heritage Sites. Nara preserves Japan's earliest Buddhist heritage. And Osaka is the nation's kitchen, famous for its street food, nightlife, and unforgettable energy.",
+    "topExperiences": [
+      {
+        "title": "Walk Kyoto's Temple Circuit",
+        "description": "Explore Kyoto's extraordinary density of cultural sites — from the golden pavilion of Kinkaku-ji and the bamboo grove of Arashiyama to the thousands of vermillion torii gates at Fushimi Inari Taisha."
+      },
+      {
+        "title": "Eat Your Way Through Osaka",
+        "description": "Embrace Osaka's kuidaore philosophy along the neon-lit Dotonbori canal — takoyaki, okonomiyaki, kushikatsu, and gyoza at every turn."
+      },
+      {
+        "title": "Feed the Deer in Nara Park",
+        "description": "Interact with over 1,000 friendly deer who roam freely among the ancient temples of Nara, including the awe-inspiring Todai-ji with its Great Buddha statue."
+      },
+      {
+        "title": "Stay at a Koyasan Temple",
+        "description": "Spend a night in a Buddhist temple lodging atop Mount Koya, eat shojin ryori, and walk the atmospheric Okunoin cemetery at dawn among 200,000 moss-covered tombstones."
+      }
+    ]
+  },
+  {
+    "slug": "hokkaido",
+    "name": {
+      "en": "Hokkaido",
+      "nl": "Hokkaido"
+    },
+    "description": {
+      "en": "Japan's wild northern frontier — a vast island of dramatic landscapes where powder-perfect ski resorts, lavender fields stretching to the horizon, pristine national parks, and the freshest seafood in the country offer a Japan that feels like another world entirely.",
+      "nl": "Japans wilde noordelijke grens — een uitgestrekt eiland met dramatische landschappen waar skigebieden met perfecte poedersneeuw, lavendelvelden tot aan de horizon, ongerepte nationale parken en de verste zeevruchten van het land een Japan bieden dat als een geheel andere wereld aanvoelt."
+    },
+    "image": "/images/regions/hokkaido.webp",
+    "highlights": [
+      { "en": "Sapporo Snow Festival and Miso Ramen", "nl": "Sapporo Sneeuwfestival en miso-ramen" },
+      { "en": "Niseko and Furano Powder Skiing", "nl": "Poedersneeuw skieen in Niseko en Furano" },
+      { "en": "Daisetsuzan National Park", "nl": "Daisetsuzan Nationaal Park" },
+      { "en": "Lavender Fields of Furano and Biei", "nl": "Lavendelvelden van Furano en Biei" }
+    ],
+    "cities": [
+      "sapporo",
+      "niseko",
+      "hakodate"
+    ],
+    "bestTimeToVisit": "December to March (skiing) / July (lavender and hiking)",
+    "overview": "Hokkaido is Japan's northernmost main island and its last frontier, with wide-open spaces, rugged coastlines, and untamed wilderness. World-class skiing, pristine national parks, extraordinary seafood, and a climate dramatically different from the rest of Japan make it a destination that rewards visitors in every season.",
+    "topExperiences": [
+      {
+        "title": "Ski Niseko's Legendary Powder",
+        "description": "Experience some of the best powder skiing on earth at Niseko's four interconnected resorts, where an average of 14-15 meters of light, dry snow falls each season."
+      },
+      {
+        "title": "Visit the Sapporo Snow Festival",
+        "description": "Marvel at hundreds of enormous, intricately carved snow and ice sculptures lining Odori Park during the annual Yuki Matsuri in early February."
+      },
+      {
+        "title": "Explore Shiretoko Peninsula",
+        "description": "Hike through pristine forests, spot brown bears fishing for salmon, and in winter, walk on sea ice during guided drift ice walks at this UNESCO World Heritage Site."
+      },
+      {
+        "title": "Walk the Lavender Fields of Furano",
+        "description": "Visit Farm Tomita and surrounding farms in July when rolling hillsides are blanketed in vivid purple lavender, set against the Tokachi mountain range."
+      }
+    ]
+  },
+  {
+    "slug": "kyushu",
+    "name": {
+      "en": "Kyushu",
+      "nl": "Kyushu"
+    },
+    "description": {
+      "en": "Japan's subtropical southern island where active volcanoes, steaming hot springs, and lush green landscapes set the stage for a region rich in history, warm hospitality, and some of the country's most exciting food and drink traditions.",
+      "nl": "Japans subtropisch zuidelijk eiland waar actieve vulkanen, dampende warmwaterbronnen en weelderige groene landschappen het decor vormen voor een regio rijk aan geschiedenis, warme gastvrijheid en enkele van de meest opwindende eet- en drinktradities van het land."
+    },
+    "image": "/images/regions/kyushu.webp",
+    "highlights": [
+      { "en": "Fukuoka Yatai Street Food Stalls", "nl": "Fukuoka yatai-straateetstalletjes" },
+      { "en": "Beppu Hot Springs (Eight Hells)", "nl": "Beppu warmwaterbronnen (Acht Hellen)" },
+      { "en": "Mount Aso Active Volcano", "nl": "Actieve vulkaan Berg Aso" },
+      { "en": "Nagasaki Peace Memorial", "nl": "Nagasaki Vredesmonument" }
+    ],
+    "cities": [
+      "fukuoka",
+      "nagasaki",
+      "beppu",
+      "kagoshima"
+    ],
+    "bestTimeToVisit": "March to May / October to November",
+    "overview": "Kyushu is Japan's third-largest island and its gateway to Asia, where volcanic activity has created one of the world's greatest concentrations of hot springs. Fukuoka's yatai street food, Beppu's steaming hell springs, Mount Aso's massive caldera, and Nagasaki's poignant history combine with famously friendly people and bold cuisine.",
+    "topExperiences": [
+      {
+        "title": "Eat at Fukuoka's Yatai Stalls",
+        "description": "Pull up a stool at one of Fukuoka's 100+ yatai open-air food stalls for bowls of Hakata tonkotsu ramen, yakitori, and gyoza, washed down with cold beer."
+      },
+      {
+        "title": "Soak in Beppu's Hot Springs",
+        "description": "Tour the dramatic Jigoku (Hell) hot springs of vivid blue, red, and white, then relax in one of Beppu's hundreds of public baths."
+      },
+      {
+        "title": "Hike Yakushima's Ancient Forests",
+        "description": "Trek through the moss-covered, millennia-old cedar forests of Yakushima Island — the inspiration for Miyazaki's Princess Mononoke."
+      },
+      {
+        "title": "Stand at the Edge of Mount Aso",
+        "description": "Peer into the smoking crater of Nakadake, the active vent of Mount Aso's massive caldera — one of the largest in the world."
+      }
+    ]
+  },
+  {
+    "slug": "chubu-tohoku",
+    "name": {
+      "en": "Chubu & Tohoku",
+      "nl": "Chubu en Tohoku"
+    },
+    "description": {
+      "en": "Japan's mountainous heartland and rugged northern frontier — where the soaring Japanese Alps, UNESCO-listed thatched villages, ancient castle towns, and some of the country's most spectacular festivals offer an authentic Japan experience away from the well-trodden Tokyo-Kyoto corridor.",
+      "nl": "Japans bergachtige hart en ruige noordelijke grens — waar de hoog oprijzende Japanse Alpen, UNESCO-beschermde rieten dorpen, oude kasteelsteden en enkele van 's lands meest spectaculaire festivals een authentieke Japan-ervaring bieden buiten de gebaande paden van Tokyo en Kyoto."
+    },
+    "image": "/images/regions/chubu-tohoku.webp",
+    "highlights": [
+      { "en": "Japanese Alps and Alpine Hiking", "nl": "Japanse Alpen en alpenwandelen" },
+      { "en": "Shirakawa-go UNESCO Thatched Villages", "nl": "Shirakawa-go UNESCO rieten dorpen" },
+      { "en": "Kanazawa's Preserved Samurai and Geisha Districts", "nl": "Kanazawa's bewaard gebleven samoerai- en geishawijken" },
+      { "en": "Tohoku Summer Festivals", "nl": "Tohoku zomerfestivals" }
+    ],
+    "cities": [
+      "kanazawa",
+      "takayama",
+      "matsumoto",
+      "sendai"
+    ],
+    "bestTimeToVisit": "April to June (spring) / August (festivals) / October to November (autumn foliage)",
+    "overview": "Chubu and Tohoku together form Japan's magnificent mountainous heartland and its rugged northern frontier. From the Japanese Alps and the thatched villages of Shirakawa-go to Kanazawa's samurai districts and the spectacular Tohoku summer festivals, these regions offer deep cultural experiences and breathtaking natural beauty.",
+    "topExperiences": [
+      {
+        "title": "Hike the Japanese Alps",
+        "description": "Trek through the Northern Alps on the Tateyama Kurobe Alpine Route or hike the Kamikochi valley, surrounded by 3,000-meter peaks, crystal-clear rivers, and pristine mountain landscapes."
+      },
+      {
+        "title": "Visit Shirakawa-go's Thatched Villages",
+        "description": "Step back in time in the UNESCO World Heritage villages of Shirakawa-go and Gokayama, where steep thatched-roof farmhouses (gassho-zukuri) stand amid rice paddies against a mountain backdrop."
+      },
+      {
+        "title": "Explore Kanazawa's Edo-era Districts",
+        "description": "Wander the beautifully preserved samurai and geisha districts, visit Kenroku-en (one of Japan's top three gardens), and explore the 21st Century Museum of Contemporary Art."
+      },
+      {
+        "title": "Experience Tohoku's Summer Festivals",
+        "description": "Witness the spectacular Nebuta Festival in Aomori, with its enormous illuminated floats, the Tanabata Festival in Sendai, and the Kanto Festival in Akita."
+      }
+    ]
+  }
+]

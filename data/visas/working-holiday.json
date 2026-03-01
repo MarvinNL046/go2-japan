@@ -1,0 +1,45 @@
+{
+  "slug": "working-holiday",
+  "name": "Working Holiday Visa",
+  "description": "Japan's Working Holiday Visa program allows young adults from partner countries to live and work in Japan for up to one year, combining cultural exchange with the opportunity to fund their travels through temporary employment. This visa is specifically designed for young people who want to experience Japanese life and culture firsthand, with work permitted as a secondary activity to support their stay. It is one of the few visa categories that allows foreign nationals to work in Japan without employer sponsorship.",
+  "eligibility": "Citizens of countries with bilateral Working Holiday agreements with Japan, currently including Australia, New Zealand, Canada, the United Kingdom, Ireland, France, Germany, Denmark, Norway, Sweden, Iceland, South Korea, Taiwan, Hong Kong, Austria, Czech Republic, Slovakia, Hungary, Spain, Argentina, Chile, Poland, Portugal, Israel, Estonia, Lithuania, the Netherlands, and others (the list continues to expand). Applicants must be aged 18-30 at the time of application (18-25 for some countries like Iceland and the UK). Must not have previously received a Japan Working Holiday Visa. Must have sufficient funds (generally ¥200,000-300,000 or equivalent) and hold a valid passport.",
+  "duration": "Up to 12 months from the date of entry. The visa is single-entry (once you leave Japan, it is no longer valid unless you obtain a re-entry permit before departing). Extensions beyond 12 months are generally not possible under this visa category.",
+  "requirements": [
+    "Valid passport from an eligible country with at least 18 months remaining validity",
+    "Completed visa application form",
+    "Recent passport-sized photograph (4.5cm x 4.5cm, white background)",
+    "Curriculum vitae or resume",
+    "Statement of reasons for applying — a written essay explaining your motivation, travel plans, and interest in Japanese culture (usually 1-2 pages)",
+    "Detailed itinerary or travel plan for your stay in Japan",
+    "Proof of sufficient funds — typically bank statements showing ¥200,000-300,000 ($1,400-2,000 USD) or equivalent, plus evidence of a return flight or sufficient funds to purchase one",
+    "Return flight ticket or proof of sufficient funds to purchase one",
+    "Proof of health insurance covering your stay (some countries require this)",
+    "For some nationalities: a certificate of no criminal record or health certificate"
+  ],
+  "applicationProcess": [
+    "Confirm your eligibility — check age requirements and whether your country has a Working Holiday agreement with Japan",
+    "Visit the website of the Japanese embassy or consulate in your country to download the application form and check country-specific requirements",
+    "Write your statement of reasons — explain why you want to experience life in Japan, your cultural interests, and your rough travel plans. Be genuine and specific.",
+    "Gather all required documents, including bank statements, resume, and photographs",
+    "Submit your application in person at the Japanese embassy or consulate (postal applications are not accepted in most countries)",
+    "Attend an interview if required (some consulates conduct interviews, others do not)",
+    "Wait for processing — typically 1-2 weeks, though it can vary by country and season",
+    "If approved, collect your passport with the Working Holiday visa. Note the visa validity period for entry — you must enter Japan within this period",
+    "Upon arrival in Japan, present your Working Holiday visa to immigration and receive your residence card",
+    "Register your address at the local ward office (kuyakusho) within 14 days of finding accommodation"
+  ],
+  "cost": "Free in most cases — Japan does not charge a visa fee for Working Holiday Visas for most nationalities. Some countries may charge a small processing fee at the embassy level. You will need to budget for health insurance, initial accommodation, and living costs until you find employment.",
+  "processingTime": "Typically 1-2 weeks from submission. Some consulates process applications in as few as 5 business days. Country-specific quotas (e.g., Canada has an annual cap) mean applications may close before the end of the year — apply early. Some countries have specific application windows rather than year-round acceptance.",
+  "importantNotes": [
+    "The Working Holiday Visa is a once-in-a-lifetime opportunity — you can only receive it once, so plan your timing carefully",
+    "You may work in most jobs, but employment in adult entertainment, gambling, and certain nightlife establishments is prohibited",
+    "There is typically no restriction on the number of hours you can work, unlike student visas",
+    "Popular work options include teaching English at conversation schools (eikaiwa), hospitality, farm work, ski resort jobs, and restaurant/cafe work",
+    "The visa is single-entry by default — if you want to travel to other countries during your stay, obtain a re-entry permit at immigration before leaving Japan",
+    "You must register at the local ward office within 14 days of finding accommodation and will receive a residence card (zairyu card)",
+    "Japan's National Health Insurance (NHI) enrollment is required and costs approximately ¥1,500-2,000 per month — this is separate from any travel insurance",
+    "Country-specific annual quotas exist — Australia and New Zealand have no cap, while countries like Canada, the UK, and France have limited spots that fill quickly",
+    "Having basic Japanese language ability significantly improves your job prospects and overall experience, though it is not a requirement",
+    "Consider arriving in March-April (start of the fiscal year) or September-October when companies are more actively hiring"
+  ]
+}

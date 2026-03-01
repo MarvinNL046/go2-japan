@@ -1,0 +1,109 @@
+{
+  "slug": "matcha-desserts",
+  "name": {
+    "en": "Matcha Desserts",
+    "nl": "Matcha-desserts"
+  },
+  "japaneseName": "抹茶スイーツ (まっちゃスイーツ)",
+  "image": "/images/food/matcha-desserts.webp",
+  "category": "Dessert",
+  "description": {
+    "en": "Japan's vibrant green tea powder transformed into an extraordinary range of desserts — from traditional matcha mochi and wagashi to modern matcha soft-serve, parfaits, tiramisu, and cakes with an intense, bittersweet flavor.",
+    "nl": "Japans levendige groene theepoeder getransformeerd in een buitengewoon scala aan desserts — van traditionele matcha-mochi en wagashi tot moderne matcha-softijs, parfaits, tiramisu en taarten met een intense, bitterszoete smaak."
+  },
+  "overview": "Matcha has been central to Japanese culture for nearly a millennium as the tea used in the formal tea ceremony (chanoyu), but in recent decades, it has experienced a second revolution as a dessert ingredient of astonishing versatility. Japan's dessert makers have discovered that matcha's vivid green color, complex bitter-sweet-umami flavor profile, and natural affinity for dairy and sweet components make it an ideal ingredient for both traditional and modern sweets. In Kyoto and Uji — the historic heartland of Japanese tea cultivation — matcha desserts have become a culinary category unto themselves, with entire cafes and shops dedicated exclusively to matcha sweets. The matcha parfait, layered with matcha ice cream, matcha jelly, matcha cake, shiratama (mochi dumplings), red bean paste, and whipped cream in a tall glass, has become an iconic Japanese dessert experience. But the matcha dessert universe extends far beyond parfaits: matcha tiramisu, matcha roll cake, matcha warabi mochi, matcha chocolate, matcha Kit-Kats, and matcha soft-serve ice cream are all beloved. What makes Japan's matcha desserts special is the quality of the matcha itself — ceremonial and culinary grades from Uji, Nishio, and other Japanese growing regions deliver a depth of flavor that imported matcha rarely matches.",
+  "origin": {
+    "region": "Uji (Kyoto Prefecture) / Nationwide",
+    "history": "Matcha was introduced to Japan from China by the Zen Buddhist monk Eisai in 1191. While initially used only in Zen monasteries, the practice of whisking powdered green tea spread to the aristocracy and eventually became the foundation of the Japanese tea ceremony, codified by tea master Sen no Rikyu in the 16th century. For centuries, matcha's culinary role was limited to traditional wagashi sweets served alongside tea. The modern matcha dessert boom began in Kyoto in the 1990s and 2000s, when tea shops like Tsujiri and Nakamura Tokichi began offering matcha-flavored soft-serve, parfaits, and cakes to attract younger customers. The trend exploded domestically and internationally, and matcha is now one of the most popular dessert flavors in Japan. Uji in Kyoto Prefecture, where premium matcha has been cultivated since the 13th century, remains the epicenter of matcha dessert culture."
+  },
+  "ingredients": {
+    "main": [
+      "Matcha powder (stone-ground shade-grown green tea)",
+      "Sugar and sweeteners",
+      "Dairy (milk, cream, butter)",
+      "Red bean paste (anko)",
+      "Mochi (glutinous rice cake)"
+    ],
+    "common_components": [
+      "Matcha ice cream or soft-serve",
+      "Matcha jelly (kanten/agar-based)",
+      "Shiratama dango (chewy mochi dumplings)",
+      "Kuromitsu (black sugar syrup)",
+      "Kinako (roasted soybean powder)",
+      "Whipped cream",
+      "Matcha sponge cake or chiffon cake",
+      "White chocolate"
+    ],
+    "traditional_sweets": [
+      "Matcha warabi mochi (bracken starch jelly dusted with matcha)",
+      "Matcha yokan (matcha-flavored sweet bean jelly)",
+      "Matcha daifuku (matcha mochi with sweet filling)",
+      "Matcha castella (matcha-flavored Japanese sponge cake)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Matcha Parfait",
+      "description": "Japan's signature matcha dessert: a tall glass layered with matcha ice cream, matcha jelly, matcha cake, shiratama mochi, red bean paste, whipped cream, and often matcha granola or cornflakes. Available at tea houses and cafes throughout Kyoto and major cities."
+    },
+    {
+      "name": "Matcha Soft-Serve Ice Cream",
+      "description": "Rich, creamy soft-serve with an intense matcha flavor, often using high-grade matcha from Uji. Some shops offer different 'levels' of matcha intensity. Kyoto's Nanaya offers a scale of 1 to 7, with level 7 using the world's most concentrated matcha."
+    },
+    {
+      "name": "Matcha Warabi Mochi",
+      "description": "Delicate, wobbly cubes of bracken starch jelly dusted with matcha powder and served with kuromitsu (black sugar syrup). The texture is silky and cool, making it a perfect summer treat. A traditional Kyoto specialty."
+    },
+    {
+      "name": "Matcha Tiramisu",
+      "description": "A Japanese twist on the Italian classic, replacing coffee with matcha and mascarpone with a lighter Japanese cream. Layers of matcha-soaked sponge, cream, and dusted matcha powder. Found at cafes and bakeries nationwide."
+    },
+    {
+      "name": "Matcha Kit-Kat and Confections",
+      "description": "Japan's most famous souvenir snack — matcha-flavored Kit-Kat bars using Uji matcha. Available at convenience stores, airports, and souvenir shops. Part of a broader universe of matcha-flavored commercial sweets including Pocky, cookies, and chocolates."
+    }
+  ],
+  "howToOrder": "At tea houses and matcha cafes, menus typically feature a range of matcha desserts — parfaits, soft-serve, matcha sets with wagashi, and drinks. Many Kyoto tea houses offer a 'matcha set' that includes whisked matcha tea served with a traditional sweet for 800-1,500 JPY. At soft-serve stands, simply choose your size and flavor (some offer swirl combinations of matcha and vanilla). At specialty shops like Nanaya, you choose your matcha intensity level. Matcha desserts are available year-round but are especially refreshing in summer.",
+  "whereToEat": [
+    {
+      "name": "Nakamura Tokichi Honten",
+      "location": "Uji, Kyoto Prefecture",
+      "note": "A tea merchant since 1854, their Uji cafe serves what many consider the definitive matcha parfait. The matcha is exceptionally high quality, sourced from their own Uji plantations. The cafe overlooks the Uji River. Expect a queue of 30-60 minutes."
+    },
+    {
+      "name": "Tsujiri",
+      "location": "Uji (original), Kyoto, Tokyo, nationwide",
+      "note": "Founded in 1860 in Uji, Tsujiri is credited with popularizing matcha desserts in modern Japan. Their matcha soft-serve, parfaits, and matcha floats are consistently excellent. The Gion Kyoto branch is beautifully located."
+    },
+    {
+      "name": "Nanaya",
+      "location": "Aoyama, Tokyo; Shizuoka",
+      "note": "Famous for offering matcha gelato in seven intensity levels — from light level 1 to the intensely bitter and rich level 7, claimed to be the world's most concentrated matcha ice cream. Fascinating to compare different levels."
+    },
+    {
+      "name": "Saryo Suisen",
+      "location": "Uji, Kyoto",
+      "note": "A refined tea house in the heart of Uji's tea district, offering beautifully presented matcha parfaits, matcha soba, and traditional whisked matcha with seasonal wagashi. A serene alternative to the more crowded spots."
+    }
+  ],
+  "priceRange": {
+    "street": "300 - 500 JPY ($2.10 - $3.50) for matcha soft-serve and simple sweets",
+    "restaurant": "800 - 1,500 JPY ($5.60 - $10.50) for matcha parfaits and dessert sets",
+    "upscale": "1,500 - 3,000 JPY ($10.50 - $21) for premium matcha courses or multi-item sets"
+  },
+  "tips": [
+    "Visit Uji (a 20-minute train ride from Kyoto) for the most authentic matcha dessert experience — the entire town is devoted to tea culture",
+    "The matcha used in desserts is typically 'culinary grade' — good for baking and ice cream but different from the more delicate 'ceremonial grade' used for drinking",
+    "If you love matcha, try it at different intensity levels at Nanaya to discover your preference — most people find level 4-5 ideal",
+    "Matcha Kit-Kats from Japan (especially Uji matcha or dark matcha versions) make excellent, lightweight souvenirs",
+    "At traditional tea houses, a matcha set with a seasonal wagashi sweet is the classic pairing — the bitter tea and sweet confection complement each other perfectly",
+    "Try matcha in savory applications too — matcha soba noodles and matcha salt with tempura are delicious crossovers"
+  ],
+  "culturalNotes": "Matcha's transformation from a sacred tea ceremony ingredient to a pop-culture dessert flavor is one of the most fascinating stories in modern Japanese food culture. For centuries, matcha was associated exclusively with the austere aesthetics of chado (the way of tea), where every movement, utensil, and sip carried deep philosophical meaning. The commercialization of matcha as a flavor for ice cream, Kit-Kats, and lattes initially raised eyebrows among tea ceremony purists, but has ultimately brought matcha culture to a vastly wider audience and reinvigorated interest in traditional tea. Today, both worlds coexist: you can sip ceremonial matcha in a 400-year-old Kyoto tea house in the morning and enjoy a matcha parfait at a trendy cafe in the afternoon. The matcha boom has also had significant economic benefits for Japanese tea farmers, particularly in Uji, where demand for both ceremonial and culinary-grade matcha continues to grow. Matcha's global popularity has made it one of Japan's most successful culinary exports, alongside sushi and ramen.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Uji City Tourism Association",
+    "Kyoto Prefecture Tea Industry Association",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

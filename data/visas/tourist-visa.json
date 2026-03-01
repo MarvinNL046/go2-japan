@@ -1,0 +1,40 @@
+{
+  "slug": "tourist-visa",
+  "name": "Tourist Visa (Temporary Visitor)",
+  "description": "The standard tourist visa for Japan, officially called the 'Temporary Visitor' visa, is required for nationals of countries that do not have a visa exemption agreement with Japan. This single-entry or multiple-entry visa allows visitors to enter Japan for tourism, visiting friends or relatives, business meetings, attending conferences, or other short-term non-work activities. The visa is issued by Japanese embassies and consulates worldwide and requires applying in person or through an authorized travel agency.",
+  "eligibility": "Citizens of countries without a visa exemption agreement with Japan who wish to visit for tourism, business meetings, visiting relatives, or attending events. This includes nationals of most Southeast Asian, South Asian, African, and Middle Eastern countries. Applicants must demonstrate sufficient funds, a clear travel itinerary, and intent to return to their home country.",
+  "duration": "15, 30, or 90 days depending on nationality and purpose",
+  "requirements": [
+    "Valid passport with at least 6 months remaining validity and blank visa pages",
+    "Completed visa application form (available from the Japanese embassy or consulate website)",
+    "Recent passport-sized photograph (4.5cm x 4.5cm, white background, taken within 6 months)",
+    "Round-trip flight itinerary or confirmed booking",
+    "Hotel reservations or accommodation details for the entire stay",
+    "Detailed daily itinerary of activities in Japan",
+    "Proof of sufficient funds (bank statements from the last 3 months, minimum varies by consulate)",
+    "Employment certificate or proof of occupation (students: enrollment certificate)",
+    "If visiting someone: invitation letter from the host in Japan with their residence card copy",
+    "Additional documents may be required depending on your nationality and the consulate"
+  ],
+  "applicationProcess": [
+    "Determine the nearest Japanese embassy or consulate and check their specific requirements (these can vary)",
+    "Gather all required documents — some consulates require applications through designated travel agencies rather than direct submission",
+    "Complete the visa application form accurately in English or Japanese",
+    "Submit the application in person or through the designated agency — postal applications are generally not accepted",
+    "Pay the visa processing fee (if applicable — some nationalities are exempt from fees under reciprocal agreements)",
+    "Wait for processing (typically 5 business days, but can vary)",
+    "Collect your passport with the visa stamp — the visa shows the validity period and number of entries permitted",
+    "Upon arrival in Japan, present your passport, visa, and disembarkation card to immigration for the entry stamp"
+  ],
+  "cost": "¥3,000 (approximately $20 USD) for single entry; ¥6,000 (approximately $40 USD) for multiple entry. Some nationalities are exempt from fees. Fees are paid in local currency at the consulate upon collection.",
+  "processingTime": "5 business days on average, though this varies by consulate and season. Peak travel periods (cherry blossom season, Golden Week, New Year) may require longer processing. Some consulates offer expedited processing for an additional fee.",
+  "importantNotes": [
+    "A visa does not guarantee entry — immigration officers at the port of entry make the final decision",
+    "You cannot work or receive payment for services on a tourist visa, even for short-term or volunteer work",
+    "Overstaying your visa is a serious offense in Japan that can result in detention, deportation, and a re-entry ban of 5-10 years",
+    "If you hold a passport from a visa-exempt country, you do not need to apply for this visa — check the visa-free entry list",
+    "Some consulates require you to apply through a designated travel agency rather than directly — check your local consulate's procedures",
+    "Japan generally does not allow visa status changes from within the country — you must leave and re-enter with the correct visa",
+    "Keep your passport with you at all times while in Japan, as police may request identification checks"
+  ]
+}

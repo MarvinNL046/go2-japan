@@ -11,6 +11,7 @@
     "data:verify": "node lib/verify-data.js"
   },
   "dependencies": {
+    "@react-email/components": "^1.0.8",
     "@tailwindcss/typography": "^0.5.19",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.513.0",
@@ -19,7 +20,9 @@
     "react-dom": "^18",
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.1",
-    "remark-html": "^16.0.1"
+    "remark-html": "^16.0.1",
+    "resend": "^6.9.3",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@types/node": "^20",

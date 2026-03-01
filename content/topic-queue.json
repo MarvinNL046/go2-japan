@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "Japan Cherry Blossom Season 2026: When & Where to See Sakura",
+    "category": "seasonal",
+    "priority": 1,
+    "searchVolume": 12000,
+    "targetKeywords": ["japan cherry blossom 2026", "sakura season japan", "best cherry blossom spots japan"]
+  },
+  {
+    "topic": "Tokyo Itinerary: How to Spend 3, 5, or 7 Days",
+    "category": "city-guide",
+    "priority": 2,
+    "searchVolume": 9500,
+    "targetKeywords": ["tokyo itinerary", "tokyo 3 day itinerary", "how many days in tokyo"]
+  },
+  {
+    "topic": "Japan Autumn Foliage Guide: Best Spots for Koyo",
+    "category": "seasonal",
+    "priority": 3,
+    "searchVolume": 8000,
+    "targetKeywords": ["japan autumn foliage", "koyo japan", "best fall foliage japan"]
+  },
+  {
+    "topic": "Onsen Etiquette: Complete Guide to Japanese Hot Springs",
+    "category": "activities",
+    "priority": 4,
+    "searchVolume": 7500,
+    "targetKeywords": ["onsen etiquette", "japanese hot springs guide", "how to use onsen"]
+  },
+  {
+    "topic": "Osaka Street Food Guide: What to Eat in Japan's Kitchen",
+    "category": "food",
+    "priority": 5,
+    "searchVolume": 6500,
+    "targetKeywords": ["osaka street food", "dotonbori food guide", "osaka food guide"]
+  },
+  {
+    "topic": "Japan on a Budget: Complete Money-Saving Guide",
+    "category": "budget",
+    "priority": 6,
+    "searchVolume": 8500,
+    "targetKeywords": ["japan budget travel", "cheap japan travel", "japan travel costs"]
+  },
+  {
+    "topic": "Japanese Etiquette: 20 Cultural Rules Every Visitor Should Know",
+    "category": "practical",
+    "priority": 7,
+    "searchVolume": 5500,
+    "targetKeywords": ["japanese etiquette", "japan cultural rules", "japan travel etiquette"]
+  },
+  {
+    "topic": "Best Day Trips from Tokyo: 10 Easy Escapes",
+    "category": "city-guide",
+    "priority": 8,
+    "searchVolume": 7000,
+    "targetKeywords": ["day trips from tokyo", "tokyo day trips", "easy trips from tokyo"]
+  },
+  {
+    "topic": "Japan Ski Guide: Best Resorts for the 2025-2026 Season",
+    "category": "seasonal",
+    "priority": 9,
+    "searchVolume": 5000,
+    "targetKeywords": ["japan ski resorts", "skiing japan", "best ski resorts japan"]
+  },
+  {
+    "topic": "Navigating Tokyo's Train System: A Beginner's Guide",
+    "category": "transport",
+    "priority": 10,
+    "searchVolume": 6000,
+    "targetKeywords": ["tokyo train system", "tokyo metro guide", "tokyo subway map"]
+  }
+]

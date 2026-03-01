@@ -1,0 +1,20 @@
+{
+  "slug": "japanese-whisky",
+  "name": "Japanese Whisky",
+  "japaneseName": "ジャパニーズウイスキー",
+  "description": "Japanese whisky has risen from obscurity to become one of the most celebrated and sought-after spirits categories in the world, regularly competing with and beating the finest Scotch whiskies in international blind tastings. Modeled on Scottish traditions but refined through a distinctly Japanese approach to craftsmanship, precision, and attention to detail, Japanese whisky offers an elegance and balance that has captivated connoisseurs globally.\n\nThe two dominant producers — Suntory (maker of Yamazaki, Hakushu, and Hibiki) and Nikka (maker of Yoichi and Miyagikyo) — were both founded by pioneers who studied distilling in Scotland. Yet Japanese whisky has developed its own identity: the use of unique Japanese oak (mizunara) for aging imparts distinctive sandalwood, coconut, and incense notes found in no other whisky tradition. Japan's varied climate — from the snowy mountains of Hokkaido to the humid lowlands of Kyushu — creates diverse aging conditions that influence character.\n\nThe global whisky boom of the 2010s led to severe shortages of aged Japanese whisky, driving prices for bottles like Yamazaki 18 and Hibiki 21 to extraordinary heights. In response, Japanese distillers have introduced excellent no-age-statement expressions and new craft distilleries have opened across the country. In 2021, Japan established official standards defining 'Japanese Whisky' to protect the category's integrity, requiring production and aging in Japan using malted grain.",
+  "history": "Japanese whisky begins with Masataka Taketsuru, a young chemist who traveled to Scotland in 1918 to study organic chemistry and fell in love with both whisky-making and a Scottish woman named Rita. He returned to Japan and helped Shinjiro Torii establish Japan's first malt whisky distillery at Yamazaki (near Kyoto) in 1923 under the Suntory brand. Taketsuru later left to found his own company, Nikka, opening the Yoichi distillery in Hokkaido in 1934, choosing the location for its climate similarities to Scotland. For decades, Japanese whisky was consumed primarily domestically as highballs. International recognition exploded after Suntory's whiskies won top prizes at the International Spirits Challenge in 2003, and the 2014 'World Whisky of the Year' award for Yamazaki Single Malt Sherry Cask brought global fame.",
+  "howToEnjoy": "The Japanese highball (whisky with soda water over ice) is the most popular way to drink whisky in Japan and is an art form in itself — the best bars chill the glass, add precisely cut ice, pour the whisky, add perfectly carbonated soda, and stir exactly 13.5 times. Neat or on the rocks with a single large ice sphere (allowing slow dilution without rapid cooling) are preferred for premium expressions. Mizuwari (whisky with still water) is popular with meals. At whisky bars, order a tasting flight to compare distilleries.",
+  "whereToTry": "Visit the Suntory Yamazaki Distillery (30 minutes from Kyoto/Osaka) or the Suntory Hakushu Distillery in the Southern Alps of Yamanashi for tours and tastings (reservation required). Nikka's Yoichi Distillery in Hokkaido and Miyagikyo Distillery near Sendai are equally rewarding. In Tokyo, legendary whisky bars include Bar Zoetrope (300+ Japanese whiskies), Bar High Five in Ginza, and Star Bar. Osaka's Bar Nayuta and Kyoto's Bar Cordon Noir are excellent. Many upscale hotel bars also maintain impressive Japanese whisky collections.",
+  "image": "/images/drinks/japanese-whisky.webp",
+  "priceRange": "¥600-2,000 per glass at bars; ¥3,000-15,000 per 700ml bottle at shops; rare aged expressions ¥30,000-500,000+",
+  "alcoholContent": "40-46% ABV",
+  "bestWith": [
+    "Highball with yakiniku (grilled meat)",
+    "Sushi and sashimi (with mizuwari)",
+    "Dark chocolate",
+    "Smoked and dried foods",
+    "Wagyu beef",
+    "Cheese plates"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kanto",
+  "name": "Kanto",
+  "japaneseName": "関東",
+  "description": "The Kanto region, centered around Tokyo, is Japan's political, economic, and cultural powerhouse — home to nearly a third of the country's population and the vast Tokyo-Yokohama metropolitan area, the largest urban agglomeration on earth. Yet beyond the neon-lit skyscrapers and bustling train stations, Kanto offers surprising diversity: the ancient temples of Kamakura and Nikko, the natural beauty of Hakone's hot springs and Mount Fuji views, the coastal charm of Yokohama's Chinatown, and the quiet rural landscapes of Gunma and Tochigi prefectures.\n\nKanto encompasses seven prefectures — Tokyo, Kanagawa, Saitama, Chiba, Ibaraki, Tochigi, and Gunma — spanning from the Pacific coast to the mountainous interior. The region sits on the Kanto Plain, Japan's largest flat area, which historically made it ideal for rice cultivation and ultimately for urbanization. The Tone and Tama rivers provide water, and the surrounding mountains create a natural amphitheater that has shaped the region's development for centuries.\n\nFor most international visitors, Kanto is their introduction to Japan. Tokyo's seemingly endless urban landscape gives way within an hour to mountain retreats, historic towns, and seaside escapes that showcase a completely different side of the country. Whether you spend three days or three weeks in the region, Kanto rewards exploration beyond its famous capital.",
+  "highlights": [
+    "Tokyo — the world's largest metropolis and Japan's cultural epicenter",
+    "Kamakura — medieval capital with the Great Buddha and seaside temples",
+    "Nikko — UNESCO World Heritage shrines in ancient cedar forests",
+    "Hakone — hot springs, art museums, and Mount Fuji views",
+    "Yokohama — Japan's largest Chinatown and historic port district",
+    "Mount Fuji — Japan's sacred icon, visible from across the region on clear days",
+    "Kawagoe — the 'Little Edo' with preserved warehouse district",
+    "Nikko National Park — waterfalls, lakes, and highland hiking"
+  ],
+  "cities": ["tokyo", "kamakura", "nikko", "hakone"],
+  "image": "/images/regions/kanto.webp",
+  "bestTimeToVisit": "March to May for cherry blossoms and pleasant weather; October to November for autumn foliage. Summer (June-August) is hot and humid. Winter is cold but dry with clear skies and excellent Mount Fuji visibility."
+}

@@ -2,12 +2,14 @@ import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
 import commonEn from '../translations/en/common.json';
+import guidesEn from '../translations/en/guides.json';
 
 const defaultTranslations: Record<string, any> = {
   common: commonEn,
+  guides: guidesEn,
 };
 
-type TranslationFile = 'common';
+type TranslationFile = 'common' | 'guides';
 
 export function useTranslation(file: TranslationFile = 'common') {
   const router = useRouter();

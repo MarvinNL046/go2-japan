@@ -1,0 +1,21 @@
+{
+  "slug": "chubu-tohoku",
+  "name": "Chubu & Tohoku",
+  "japaneseName": "中部・東北",
+  "description": "Chubu and Tohoku together form Japan's magnificent mountainous heartland and its rugged northern frontier — a vast swath of central and northern Honshu that encompasses the soaring Japanese Alps, pristine rural landscapes, revered sake brewing regions, and some of the country's most spectacular and least-touristed destinations. These regions offer an authentic Japan experience away from the well-trodden Tokyo-Kyoto corridor.\n\nChubu, meaning 'central region,' includes the prefectures stretching from the Sea of Japan coast to the Pacific, split by the dramatic spine of the Japanese Alps. Here you will find the beautifully preserved Edo-era post towns of Takayama and Tsumago, the UNESCO World Heritage thatched-roof villages of Shirakawa-go, the castle city of Matsumoto, the contemporary art island of Kanazawa, and Niigata's legendary sake country. The Japanese Alps — comprising the Northern, Central, and Southern Alps — rival the European Alps in grandeur and offer world-class hiking, skiing, and hot spring experiences.\n\nTohoku, the six northeastern prefectures of Honshu, remains one of Japan's most rewarding regions for adventurous travelers. Less visited by international tourists, Tohoku preserves deep rural traditions, dramatic seasonal landscapes, and some of Japan's most spectacular summer festivals — the Nebuta Festival in Aomori, the Tanabata Festival in Sendai, and the Kanto Festival in Akita draw millions with their elaborately decorated floats and lanterns. The region's volcanic landscape powers excellent onsen, while heavy snowfall creates outstanding skiing and the famous 'snow monsters' (juhyo) of Zao.",
+  "highlights": [
+    "Japanese Alps — world-class hiking along the Tateyama Kurobe Alpine Route",
+    "Takayama — beautifully preserved Edo-era merchant town",
+    "Shirakawa-go — UNESCO thatched-roof farmhouse villages",
+    "Kanazawa — samurai and geisha districts with Kenroku-en garden",
+    "Matsumoto — stunning black 'Crow Castle' and art city culture",
+    "Niigata — Japan's premier sake brewing region with 90+ breweries",
+    "Sendai — 'City of Trees' and gateway to Matsushima Bay",
+    "Tohoku festivals — Nebuta, Tanabata, and Kanto summer celebrations",
+    "Zao — winter snow monsters and volcanic crater lake",
+    "Ginzan Onsen — atmospheric gas-lit hot spring town"
+  ],
+  "cities": [],
+  "image": "/images/regions/chubu-tohoku.webp",
+  "bestTimeToVisit": "April to June for spring and alpine wildflowers; July to September for hiking in the Japanese Alps and Tohoku summer festivals (early August); October to November for spectacular autumn foliage. Winter (December-March) brings excellent skiing and magical snowy landscapes, particularly in Tohoku, plus atmospheric onsen visits."
+}

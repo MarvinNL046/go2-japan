@@ -1,0 +1,20 @@
+{
+  "slug": "shochu",
+  "name": "Shochu",
+  "japaneseName": "焼酎",
+  "description": "Shochu is Japan's native distilled spirit, distinct from sake (which is brewed) and far more versatile than most visitors realize. While sake dominates international perception of Japanese alcohol, shochu actually outsells sake in Japan and is deeply embedded in the drinking culture of southern Japan, particularly Kyushu. Made by distilling fermented base ingredients — most commonly sweet potato (imo), barley (mugi), rice (kome), or brown sugar (kokuto) — shochu typically ranges from 25-35% ABV, placing it between wine and whisky in strength.\n\nThe flavor profile of shochu varies dramatically based on its base ingredient. Imo (sweet potato) shochu, the specialty of Kagoshima and Miyazaki prefectures, is the most distinctive — rich, earthy, and aromatic with a complexity that surprises first-time tasters. Mugi (barley) shochu from Oita Prefecture is lighter and more approachable, while kome (rice) shochu from Kumamoto is clean and elegant. Kokuto (brown sugar) shochu, exclusively produced in the Amami Islands of Kagoshima, offers caramel-like sweetness.\n\nUnlike vodka or other neutral spirits, quality shochu — particularly single-distillation honkaku shochu — retains the character of its base ingredient, making it a spirit with genuine terroir. This has led to a growing appreciation both domestically and internationally, with premium aged shochu rivaling fine whisky in complexity and price.",
+  "history": "Distillation technology reached Japan via trade routes from Southeast Asia and the Korean Peninsula around the 15th century, first arriving on the southern islands of Okinawa (where it evolved into awamori) and Kyushu. The oldest known written reference to shochu in Japan dates to 1559, in graffiti carved by carpenters at the Koriyama Hachiman Shrine in Kagoshima. For centuries, shochu was primarily a Kyushu drink, largely unknown in the rest of Japan. A nationwide 'shochu boom' in the 1980s and 2000s brought it mainstream recognition, and today it is Japan's most consumed spirit by volume.",
+  "howToEnjoy": "Shochu is enjoyed in several ways. On the rocks (rokku) is popular for premium shochu, allowing the flavors to open up as the ice melts. Mixed with hot water (oyuwari) is the traditional Kyushu style, especially in winter — pour the hot water first, then add shochu to release the aroma. Mixed with cold water (mizuwari) is refreshing in summer. Chuhai cocktails use shochu as a base mixed with soda and fruit flavors. At izakayas, order by style and specify your preferred drinking method.",
+  "whereToTry": "Kyushu is shochu heartland. In Kagoshima, visit distilleries like Satsuma Shuzo or the Shochu Museum. In Miyazaki, try imo shochu at local izakayas. In Tokyo, shochu bars like Shinbashi Shochu Bar and speciality izakayas offer curated selections. Many izakayas nationwide have extensive shochu menus organized by base ingredient and region. Department store liquor floors in major cities offer tastings and expert guidance. For an immersive experience, stay at a Kyushu ryokan where local shochu is served with regional cuisine.",
+  "image": "/images/drinks/shochu.webp",
+  "priceRange": "¥300-600 per glass at izakayas; ¥1,000-5,000 per 720ml bottle at shops; premium aged varieties ¥3,000-15,000+",
+  "alcoholContent": "25-35% ABV (typically 25%)",
+  "bestWith": [
+    "Grilled meats and yakitori",
+    "Sashimi (especially with mugi shochu)",
+    "Kushikatsu (deep-fried skewers)",
+    "Kyushu cuisine (tonkotsu, chicken nanban)",
+    "Oden (winter stew)",
+    "Izakaya dishes (edamame, pickles, karaage)"
+  ]
+}

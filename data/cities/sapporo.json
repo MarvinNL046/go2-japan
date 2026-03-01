@@ -1,0 +1,156 @@
+{
+  "slug": "sapporo",
+  "name": {
+    "en": "Sapporo"
+  },
+  "japaneseName": "札幌",
+  "image": "/images/cities/sapporo.webp",
+  "region": "Hokkaido",
+  "highlights": [
+    "Sapporo Snow Festival",
+    "Miso Ramen Birthplace",
+    "Craft Beer Capital",
+    "World-Class Skiing",
+    "Fresh Seafood & Crab"
+  ],
+  "description": {
+    "en": "The capital of Japan's wild northern frontier island of Hokkaido, Sapporo is a modern, grid-planned city surrounded by mountains and known for its iconic Snow Festival, miso ramen, thriving craft beer scene, and easy access to some of Japan's best skiing and natural hot springs. With wide boulevards, abundant green spaces, and a pioneer spirit distinct from mainland Japan, Sapporo offers a refreshingly different Japanese city experience."
+  },
+  "overview": "Sapporo, with a population of nearly 2 million, is Japan's fifth-largest city and the largest city north of Tokyo. Unlike most Japanese cities with histories stretching back centuries, Sapporo was developed from the 1860s as part of the Meiji government's colonization of Hokkaido, with American advisors helping to plan the city on a grid pattern — unusual in Japan. The city's name comes from the Ainu language (sat poro pet, meaning 'dry, great river'), reflecting the indigenous Ainu people who inhabited Hokkaido long before Japanese settlement. Sapporo gained international recognition as host of the 1972 Winter Olympics, which established it as a world-class winter sports destination. Today, the city is famous for the Sapporo Snow Festival (Yuki Matsuri), held every February, which draws over 2 million visitors to see hundreds of massive snow and ice sculptures illuminated along Odori Park. Beyond winter, Sapporo is a year-round destination with excellent food — particularly miso ramen, soup curry, Genghis Khan (grilled lamb), and the freshest seafood from Hokkaido's cold waters — a vibrant craft beer scene anchored by the historic Sapporo Brewery, and access to spectacular natural surroundings.",
+  "neighborhoods": [
+    {
+      "name": "Odori & Downtown (大通)",
+      "description": "The green spine of Sapporo, Odori Park stretches 1.5km through the city center and serves as the main venue for the Snow Festival, the Summer Festival beer garden, and the Autumn Festival food fair. The 147-meter Sapporo TV Tower at the park's eastern end offers panoramic views. The surrounding area is the city's main shopping and business district, with department stores, underground shopping arcades, and the landmark Sapporo Clock Tower — a wooden structure built in 1878 as part of Sapporo Agricultural College (now Hokkaido University).",
+      "highlights": [
+        "Odori Park (Snow Festival venue)",
+        "Sapporo TV Tower observation deck",
+        "Sapporo Clock Tower",
+        "Underground shopping arcades (Pole Town, Aurora Town)"
+      ]
+    },
+    {
+      "name": "Susukino (すすきの)",
+      "description": "Japan's northernmost and one of its largest entertainment districts, Susukino comes alive at night with thousands of restaurants, bars, izakayas, and clubs. The neon-lit streets have a more relaxed feel than Tokyo's Kabukicho or Osaka's nightlife areas. Susukino is particularly famous for its ramen alley (Ganso Ramen Yokocho), where a narrow corridor houses a row of ramen shops, each specializing in different styles. The district also hosts ice sculpture displays during the Snow Festival.",
+      "highlights": [
+        "Ganso Ramen Yokocho (original ramen alley)",
+        "Neon-lit entertainment streets",
+        "Late-night dining culture",
+        "Snow Festival ice sculpture venue"
+      ]
+    },
+    {
+      "name": "Tanukikoji (狸小路)",
+      "description": "One of Japan's oldest covered shopping arcades, stretching nearly 1km through the city center. Dating back to 1873, this seven-block arcade is home to over 200 shops ranging from traditional Japanese goods to modern fashion, along with restaurants, cafes, and the occasional retro game center. It connects the downtown shopping area with Susukino, making it a natural walking route.",
+      "highlights": [
+        "Historic covered shopping arcade",
+        "Traditional and modern shops",
+        "Connecting walkway between downtown and Susukino"
+      ]
+    },
+    {
+      "name": "Hokkaido University Area (北海道大学)",
+      "description": "The sprawling Hokkaido University campus is one of Japan's most beautiful, with wide tree-lined avenues, historical buildings, and the famous ginkgo tree-lined avenue that turns brilliant gold in autumn. The campus is open to visitors and includes the Hokkaido University Museum (free admission), a botanical garden, and the Clark statue commemorating William S. Clark, the American educator who famously said 'Boys, be ambitious!' to his students in 1877.",
+      "highlights": [
+        "Ginkgo tree avenue (spectacular in autumn)",
+        "Hokkaido University Museum (free)",
+        "Historical campus architecture",
+        "Botanical garden"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "New Chitose Airport (CTS), located 45km southeast of Sapporo, is Hokkaido's main gateway. The JR Rapid Airport train reaches Sapporo Station in 37 minutes (¥1,150). Airport buses take 60-80 minutes (¥1,100) and serve major hotels. Direct flights connect to Tokyo (1 hour 30 minutes), Osaka, Nagoya, Fukuoka, and international destinations including Seoul, Taipei, Bangkok, and seasonal services to other Asian cities.",
+    "byTrain": "The Hokkaido Shinkansen currently terminates at Shin-Hakodate-Hokuto in southern Hokkaido, from where a limited express train continues to Sapporo (3.5 hours from Shin-Hakodate-Hokuto). The Shinkansen extension to Sapporo is under construction with expected completion around 2030. From Tokyo, the fastest current rail journey takes about 8 hours. JR limited express trains connect Sapporo to Asahikawa (1 hour 25 minutes), Hakodate (3.5 hours), and Obihiro (2.5 hours).",
+    "byBus": "Highway buses connect Sapporo to other Hokkaido cities and are often the most economical option. Buses run to Asahikawa (2 hours, ¥2,100), Hakodate (5.5 hours, ¥4,900), and Otaru (1 hour, ¥680). Overnight buses from Tokyo are available but take approximately 17 hours."
+  },
+  "gettingAround": "Sapporo's grid layout makes navigation straightforward — addresses use a coordinate system based on cardinal directions from the TV Tower intersection (e.g., North 3, West 4). The city has three subway lines (Namboku, Tozai, and Toho) covering major areas, with single rides costing ¥210-380. A one-day subway pass costs ¥830 (weekdays) or ¥520 (weekends/holidays — called Donichika Kippu and excellent value). The streetcar (tram) loop line serves the southwestern part of the city including Mount Moiwa ropeway access. Sapporo is very walkable in the city center, and cycling is popular in warmer months.",
+  "bestTimeToVisit": {
+    "best": "February (Snow Festival), June to September (summer), and December to March (skiing)",
+    "description": "Sapporo is a year-round destination with distinct seasonal appeals. The Snow Festival in early February is the signature event. Summer (June-September) offers comfortable temperatures, lavender fields, and outdoor festivals. Winter brings world-class skiing at nearby resorts.",
+    "seasons": {
+      "spring": "April-May: Late spring arrives slowly, 5-18°C. Cherry blossoms arrive in early May, about a month later than Tokyo. The city shakes off winter as parks and gardens come alive.",
+      "summer": "June-August: Pleasantly warm without the oppressive humidity of mainland Japan, 15-26°C. No rainy season (tsuyu does not reach Hokkaido). Perfect for outdoor activities, festivals, and day trips. Lavender blooms in Furano in July.",
+      "autumn": "September-November: Crisp and colorful, 5-20°C. Hokkaido University's ginkgo avenue peaks in late October. Autumn foliage is spectacular in Jozankei Onsen (40 minutes from city center). Fresh autumn harvests dominate restaurant menus.",
+      "winter": "December-March: Cold and snowy, -7 to 1°C. Sapporo receives about 5 meters of cumulative snowfall per season. The Snow Festival runs in early February. World-class skiing at Niseko, Rusutsu, and Teine (30 minutes from city center). Ideal for hot spring visits."
+    }
+  },
+  "budget": {
+    "backpacker": "$45-70/day",
+    "midRange": "$100-200/day",
+    "luxury": "$300-600+/day",
+    "details": "Hostel dorm beds cost ¥2,000-3,500 ($14-24). Business hotels range from ¥5,000-10,000 ($34-67). Miso ramen costs ¥800-1,100 ($5-7). A soup curry meal costs ¥1,000-1,500 ($7-10). Fresh seafood donburi (rice bowls) at Nijo Market range from ¥1,500-3,500 ($10-24). A Sapporo draft beer costs ¥400-600 ($3-4). Subway rides cost ¥210-380 ($1.50-2.60). Accommodation prices spike during the Snow Festival in February — book months in advance."
+  },
+  "mustDo": [
+    {
+      "name": "Experience the Sapporo Snow Festival",
+      "description": "Held annually in early February, this world-famous festival transforms Odori Park into an open-air gallery of over 200 snow and ice sculptures, some as large as buildings. The Susukino venue features illuminated ice sculptures, while the Tsudome venue offers snow slides and activities. The festival draws over 2 million visitors over its week-long run. Even outside February, Sapporo celebrates snow with illumination events from November to March."
+    },
+    {
+      "name": "Eat miso ramen in its birthplace",
+      "description": "Sapporo is the birthplace of miso ramen, created in 1955 at the restaurant Aji no Sanpei. The local style features a rich miso-based broth with curly yellow noodles, topped with sweetcorn, butter, bean sprouts, and ground pork. Visit Ganso Ramen Yokocho in Susukino or try famous shops like Sumire, Keyaki, and Ebisoba Ichigen for their unique takes on the Sapporo style."
+    },
+    {
+      "name": "Visit the Sapporo Beer Museum and Garden",
+      "description": "Housed in a handsome red-brick Meiji-era building that was once the Sapporo Brewery, this free museum traces the history of beer in Japan from its 1876 origins in Sapporo. The adjacent beer garden serves fresh Sapporo beer alongside Genghis Khan (jingisukan) grilled lamb — the classic Hokkaido combination. The all-you-can-eat-and-drink courses are popular and excellent value."
+    },
+    {
+      "name": "Feast on fresh seafood at Nijo Market",
+      "description": "Operating since 1903, this bustling market in the city center sells the freshest seafood from Hokkaido's cold waters — hairy crab, king crab, sea urchin (uni), salmon roe (ikura), scallops, and more. Several stalls serve kaisendon (seafood rice bowls) piled high with glistening sashimi. Eat at the market stalls or buy crab to be shipped anywhere in Japan."
+    },
+    {
+      "name": "See the city from Mount Moiwa",
+      "description": "Take the ropeway and mini cable car to the 531-meter summit of Mount Moiwa for what was voted one of Japan's 'New Three Great Night Views.' The 360-degree panorama of Sapporo's illuminated grid stretching to the horizon is stunning. The observation deck features the 'Bell of Happiness' and a love-lock railing, making it a popular couples' destination."
+    },
+    {
+      "name": "Try Sapporo's soup curry",
+      "description": "A uniquely Sapporo invention from the 1970s, soup curry is a thin, spice-rich curry broth served with large pieces of vegetables (potato, carrot, eggplant, lotus root) and your choice of protein, alongside a separate bowl of rice. Famous shops include Suage, Magic Spice, and Garaku. Each shop has its own spice level system — start mild and work up."
+    }
+  ],
+  "food": {
+    "description": "Sapporo's food culture is defined by Hokkaido's incredible natural bounty — the cold northern seas provide some of Japan's finest seafood, the vast farmlands produce premium dairy, corn, potatoes, and melons, and the long winters inspired hearty warming dishes found nowhere else in Japan. Combined with a thriving craft beer scene and Japan's most famous beer brand, Sapporo is a food lover's paradise.",
+    "specialties": [
+      "Miso Ramen — Sapporo's signature dish: rich miso broth with curly noodles, sweetcorn, butter, bean sprouts, and ground pork. Born here in 1955 and now one of Japan's three great ramen styles",
+      "Soup Curry — A uniquely Sapporo creation: thin, aromatic curry broth with large vegetable chunks and choice of chicken, pork, or seafood. Each shop has its own spice blend",
+      "Genghis Khan (Jingisukan) — Grilled lamb or mutton cooked on a dome-shaped grill, named after the Mongol emperor. A Hokkaido specialty best enjoyed with Sapporo beer at the Beer Garden",
+      "Kaisendon — Seafood rice bowls piled with fresh sashimi, sea urchin (uni), salmon roe (ikura), crab, and scallops from Hokkaido's pristine waters",
+      "Shiroi Koibito — Sapporo's famous white chocolate biscuit souvenir by Ishiya. The factory in the suburbs offers tours and a charming European-themed park",
+      "Yubari Melon — Hokkaido's premium cantaloupe, prized for its sweetness and aroma. Available in season (May-August) at markets and as melon parfaits, soft serve, and sweets throughout the city"
+    ]
+  },
+  "safety": "Sapporo is very safe, consistent with Japan's overall low crime rates. Winter conditions are the main safety consideration — sidewalks can be icy and slippery from December to March, so wear boots with good grip. Blizzard conditions occasionally affect transportation. The city has well-developed snow removal systems but be prepared for delays during heavy snowfall. Summer is virtually hazard-free. As with all of Hokkaido, bear encounters are possible in mountain areas outside the city — follow local warnings on hiking trails.",
+  "localTips": [
+    "Sapporo's address system uses a grid based on the TV Tower: 'North 3, West 4' means 3 blocks north and 4 blocks west. Once you understand it, navigation is very easy.",
+    "The Donichika Kippu (weekend/holiday subway pass) costs only ¥520 for unlimited rides and is extraordinary value. Even two trips nearly pay for it.",
+    "In winter, use the underground pedestrian network (Chikaho) connecting Sapporo Station to Susukino through Odori — it is warm and weather-proof.",
+    "Hokkaido has no rainy season (tsuyu). Summer in Sapporo is pleasantly warm without the stifling humidity of mainland Japan, making it a popular domestic escape.",
+    "Book Snow Festival accommodation at least 3-6 months in advance. Hotels sell out quickly and prices double or triple during the festival.",
+    "For skiing, Mount Teine is only 30 minutes from the city center and was used for the 1972 Olympics. Niseko (2 hours by car) offers world-famous powder snow but requires more planning."
+  ],
+  "dayTrips": [
+    {
+      "name": "Otaru",
+      "distance": "40km northwest, approximately 30 minutes by JR train",
+      "description": "A charming port town famous for its romantic canal lined with converted stone warehouses, now housing galleries, cafes, and shops. Otaru is renowned for its sushi (some of Hokkaido's best), glasswork, music boxes, and sake breweries. The canal is magical when illuminated in the evening or during the February Snow Light Path festival."
+    },
+    {
+      "name": "Jozankei Onsen",
+      "distance": "26km southwest, approximately 60 minutes by bus",
+      "description": "A hot spring resort town nestled in a forested valley of the Toyohira River. The autumn foliage here (early to mid-October) is among the most spectacular in Hokkaido, with illuminated gorges creating stunning nightscapes. Multiple ryokan and day-use facilities offer indoor and outdoor baths fed by natural hot springs."
+    },
+    {
+      "name": "Niseko",
+      "distance": "100km southwest, approximately 2 hours by car or bus",
+      "description": "World-renowned for its consistently deep, dry powder snow, Niseko is one of Asia's top ski destinations. Four interconnected resorts — Grand Hirafu, Hanazono, Niseko Village, and Annupuri — offer diverse terrain. Summer brings rafting, hiking, and cycling. The area has a strong international community with excellent dining."
+    },
+    {
+      "name": "Furano and Biei",
+      "distance": "115km east, approximately 2 hours by JR train",
+      "description": "Famous for its lavender fields (peaking in July) and the patchwork hills of Biei, this area is one of Hokkaido's most photogenic landscapes. Farm Tomita is the most famous lavender farm. In winter, Biei's Blue Pond and frozen landscape are equally stunning. The area also offers excellent skiing at Furano Ski Resort."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Sapporo Tourism Bureau (welcome.city.sapporo.jp)",
+    "Japan Guide (japan-guide.com/e/e2163.html)"
+  ]
+}

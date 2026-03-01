@@ -1,0 +1,156 @@
+{
+  "slug": "fukuoka",
+  "name": {
+    "en": "Fukuoka"
+  },
+  "japaneseName": "福岡",
+  "image": "/images/cities/fukuoka.webp",
+  "region": "Kyushu",
+  "highlights": [
+    "Hakata Ramen Capital",
+    "Yatai Street Food Stalls",
+    "Ancient Temples & Shrines",
+    "Beach City Living",
+    "Gateway to Kyushu"
+  ],
+  "description": {
+    "en": "Japan's gateway to Asia and the largest city on Kyushu island, Fukuoka is a relaxed, cosmopolitan port city famous for its incredible food scene, open-air yatai street stalls, beautiful beaches, and a quality of life that consistently ranks among Japan's best. Often overlooked by tourists rushing between Tokyo and Kyoto, Fukuoka rewards visitors with a warm atmosphere, compact walkability, and some of the best ramen on earth."
+  },
+  "overview": "Fukuoka, with a population of over 1.6 million, is the largest city on the island of Kyushu and Japan's sixth-largest city overall. Its history stretches back over 2,000 years as a vital trading port with mainland Asia — archaeological evidence at Korokan, the ancient guest house ruins near Fukuoka Castle, shows continuous trade with China and Korea since the 1st century. The city is actually a merger of two historic towns: the merchant port of Hakata on the east side and the samurai castle town of Fukuoka on the west, divided by the Naka River. To this day, the main train station is called Hakata Station, and the city's most famous cultural exports — Hakata ramen, Hakata dolls, and the Hakata Gion Yamakasa festival — carry the old name. Modern Fukuoka is a thriving startup hub and one of Japan's most livable cities, with a compact urban core, an international airport just two subway stops from the city center, beautiful parks, and a mild climate. The city's famous yatai (open-air food stalls) along the Naka River and in Tenjin are a quintessential Fukuoka experience, serving steaming bowls of tonkotsu ramen, grilled yakitori, and gyoza to locals and visitors seated side by side.",
+  "neighborhoods": [
+    {
+      "name": "Tenjin (天神)",
+      "description": "Fukuoka's main commercial and shopping district is centered around the Tenjin underground shopping mall (Tenchika), one of Japan's largest. Above ground, department stores, boutiques, and the IMS and Solaria Plaza complexes line wide boulevards. At night, the southern edge along the Naka River transforms as yatai food stalls set up, creating an atmospheric outdoor dining scene unique in Japan.",
+      "highlights": [
+        "Tenjin Underground City (Tenchika)",
+        "Naka River yatai food stalls",
+        "Acros Fukuoka step garden building",
+        "Tenjin Central Park"
+      ]
+    },
+    {
+      "name": "Hakata (博多)",
+      "description": "The historic eastern side of Fukuoka, centered around Hakata Station, is the city's transportation hub and a major shopping area with the JR Hakata City complex, KITTE Hakata, and Canal City Hakata — a massive entertainment and shopping complex designed by Jon Jerde with a canal running through its center. The area is also home to several important temples along the Hakata Machiya historic district.",
+      "highlights": [
+        "Canal City Hakata entertainment complex",
+        "Hakata Station shopping",
+        "Kushida Shrine",
+        "Hakata Machiya Folk Museum"
+      ]
+    },
+    {
+      "name": "Nakasu (中洲)",
+      "description": "Sandwiched between the Naka and Hakata rivers on a narrow island, Nakasu is Kyushu's largest entertainment district and one of Japan's three major nightlife areas. By day it is quiet, but at night it comes alive with thousands of bars, restaurants, and clubs. The Nakasu yatai stalls along the riverbank are the most famous in Fukuoka, with around 20 stalls serving ramen, oden, and yakitori.",
+      "highlights": [
+        "Nakasu yatai food stalls",
+        "Neon-lit entertainment district",
+        "River views from Nakasu bridges"
+      ]
+    },
+    {
+      "name": "Ohori Park & Fukuoka Castle (大濠公園・福岡城)",
+      "description": "The city's green lung, Ohori Park features a large lake modeled after West Lake in Hangzhou, China, with a pleasant 2km walking path and three islands connected by elegant bridges. Adjacent Maizuru Park contains the ruins of Fukuoka Castle, once one of the largest castles in Japan. The Fukuoka Art Museum and a traditional Japanese garden sit along the lake's edge.",
+      "highlights": [
+        "Ohori Park lakeside walking path",
+        "Fukuoka Castle ruins and panoramic views",
+        "Fukuoka Art Museum",
+        "Japanese garden"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Fukuoka Airport (FUK) is remarkably close to the city center — just two subway stops (5 minutes) from Hakata Station and 11 minutes from Tenjin. It handles both domestic and international flights, with direct connections to Tokyo (1 hour 50 minutes), Osaka, Sapporo, Seoul, Shanghai, Taipei, Bangkok, and other Asian cities. Airport buses also connect to the city center (¥270, 15-20 minutes).",
+    "byTrain": "Hakata Station is the western terminus of the Sanyo Shinkansen. The bullet train reaches Hiroshima in 1 hour, Osaka in 2 hours 30 minutes, and Tokyo in 5 hours via the Nozomi service. The Kyushu Shinkansen connects south to Kumamoto (33 minutes) and Kagoshima (1 hour 17 minutes). A Japan Rail Pass covers the Sakura and Hikari services but not the faster Nozomi and Mizuho trains.",
+    "byBus": "Highway buses connect Fukuoka to other Kyushu cities and beyond. The Nishitetsu Tenjin Highway Bus Terminal is the main hub. Buses run frequently to Kumamoto (2 hours, ¥2,500), Nagasaki (2.5 hours, ¥2,620), and Beppu (2.5 hours, ¥3,250). Overnight buses reach Osaka (8 hours, from ¥5,000) and Tokyo (14 hours, from ¥8,000)."
+  },
+  "gettingAround": "Fukuoka's compact size makes it easy to navigate. The city has two subway lines: the Kuko (Airport) Line connecting the airport, Hakata, Nakasu, and Tenjin, and the Hakozaki Line branching east toward the university area. Single rides cost ¥210-360. Nishitetsu buses cover the wider city area. A one-day subway pass costs ¥640. The city is also very bikeable, with a public bike-sharing system called Charichari. Walking between Hakata, Nakasu, and Tenjin is pleasant and takes 15-20 minutes between each area.",
+  "bestTimeToVisit": {
+    "best": "March to May and October to November",
+    "description": "Spring and autumn offer the most pleasant weather for exploring Fukuoka. Cherry blossoms arrive in late March to early April, and autumn colors peak in November. The Hakata Gion Yamakasa festival in July is spectacular but coincides with hot, humid weather.",
+    "seasons": {
+      "spring": "March-May: Mild and pleasant, 10-23°C. Cherry blossoms in late March to early April. Ohori Park and Maizuru Park are popular hanami spots.",
+      "summer": "June-August: Hot and humid, 25-33°C. The Hakata Gion Yamakasa festival (July 1-15) is the city's biggest event. Rainy season (tsuyu) lasts through June. Beach season at Momochi Seaside Park.",
+      "autumn": "September-November: Comfortable temperatures, 13-25°C. Autumn foliage in November. Clear skies and pleasant weather. Hakata Kunchi festival in October.",
+      "winter": "December-February: Cool but mild compared to northern Japan, 3-12°C. Less crowded. Good season for hot pot and ramen. Occasional snow flurries but rarely accumulates."
+    }
+  },
+  "budget": {
+    "backpacker": "$40-65/day",
+    "midRange": "$100-200/day",
+    "luxury": "$300-600+/day",
+    "details": "Hostel dorm beds cost ¥2,000-3,500 ($14-24). Business hotels near Hakata Station range from ¥5,000-9,000 ($34-60). A bowl of Hakata ramen at a yatai costs ¥700-1,000 ($5-7). Yatai meals average ¥1,500-3,000 ($10-20) with drinks. A quality sushi lunch runs ¥1,500-2,500 ($10-17). Subway rides cost ¥210-360 ($1.50-2.50). Fukuoka is generally 10-20% cheaper than Tokyo for food and accommodation."
+  },
+  "mustDo": [
+    {
+      "name": "Eat Hakata tonkotsu ramen at a yatai",
+      "description": "Fukuoka's signature dish is tonkotsu (pork bone) ramen — a rich, creamy, milky-white broth with thin straight noodles. Order at a yatai stall along the Naka River for the authentic experience. You can choose your noodle firmness: yawa (soft), futsu (normal), kata (firm), or bari-kata (extra firm). Most yatai are open from around 6pm to 2am. Famous permanent shops include Ichiran (which originated here), Ippudo, and Shin Shin."
+    },
+    {
+      "name": "Visit Dazaifu Tenmangu Shrine",
+      "description": "This important shrine dedicated to the god of learning, Sugawara no Michizane, is a 30-minute train ride from Tenjin via the Nishitetsu line. The grounds feature 6,000 plum trees that bloom in February-March, a treasure house museum, and the stunning Komyozenji Zen garden. On the approach, try umegae mochi (grilled rice cakes with plum paste) — a tradition since the shrine's founding in 905 AD."
+    },
+    {
+      "name": "Explore the Hakata Gion Yamakasa festival or its heritage",
+      "description": "Held July 1-15, this 770-year-old festival features teams of men racing through the streets carrying enormous decorated floats (kakiyama) weighing over a ton. Even outside the festival, you can see the beautifully decorated kazari yamakasa floats permanently displayed at Kushida Shrine, the festival's home, and learn about the tradition at the Hakata Machiya Folk Museum."
+    },
+    {
+      "name": "Stroll through Ohori Park and Fukuoka Castle ruins",
+      "description": "This beautiful park built around a central lake is perfect for a morning jog, an afternoon stroll, or a visit to the Fukuoka Art Museum. Adjacent Maizuru Park, built on the grounds of Fukuoka Castle, offers panoramic views of the city from the remaining stone walls. During cherry blossom season, the parks are lit up for nighttime hanami viewing."
+    },
+    {
+      "name": "Shop and eat at Canal City Hakata",
+      "description": "This massive entertainment complex designed by American architect Jon Jerde features a canal running through its center with regular fountain shows. With over 250 shops, a cinema complex, a theater, and the Ramen Stadium food court featuring eight famous ramen shops from across Japan, it is a destination in itself."
+    },
+    {
+      "name": "Visit Momochi Seaside and Fukuoka Tower",
+      "description": "Fukuoka's waterfront area features a long sandy beach, the 234-meter Fukuoka Tower (Japan's tallest seaside tower) with panoramic observation decks, and the Hawks' PayPay Dome baseball stadium. Watching a Softbank Hawks game with enthusiastic local fans is a quintessential Fukuoka experience."
+    }
+  ],
+  "food": {
+    "description": "Fukuoka is one of Japan's greatest food cities, with a culture built around fresh seafood from the Genkai Sea, hearty Kyushu cuisine, and the famous yatai street stall tradition. The city's culinary reputation centers on Hakata tonkotsu ramen, but extends to an impressive range of specialties that reflect both its port heritage and its role as Kyushu's culinary capital.",
+    "specialties": [
+      "Hakata Tonkotsu Ramen — Rich, creamy pork bone broth with thin straight noodles. Order 'kaedama' (noodle refill) when you finish your noodles but still have broth left",
+      "Motsu Nabe — Hot pot made with beef or pork offal (intestines), cabbage, garlic chives, and chili flakes in a miso or soy sauce broth. A hearty Hakata specialty best enjoyed in winter",
+      "Mentaiko — Spicy marinated pollock roe, a Hakata delicacy served on rice, in pasta, on bread, or as an onigiri filling. Fukuya is credited with creating mentaiko in 1949",
+      "Mizutaki — A light chicken hot pot where bone-in chicken pieces are simmered in a milky collagen-rich broth. Dipped in ponzu sauce with condiments",
+      "Hakata Gyoza — Bite-sized pan-fried dumplings with crispy bottoms, typically thinner-skinned and smaller than Tokyo-style gyoza. Often served as a ramen side dish",
+      "Yakitori — Charcoal-grilled chicken skewers are hugely popular in Fukuoka, with many specialized yakitori yatai stalls"
+    ]
+  },
+  "safety": "Fukuoka is extremely safe, even by Japanese standards. The city has low crime rates and is very walkable at all hours. The yatai areas and Nakasu entertainment district are safe for visitors, though the usual common sense applies in nightlife areas. Fukuoka is in a typhoon zone (mainly August-October) and experiences occasional earthquakes. The city has clear evacuation procedures and emergency broadcast systems. Tap water is safe to drink.",
+  "localTips": [
+    "The yatai stalls typically open around 6pm and close around 2am. They are busiest on Friday and Saturday nights. Arriving before 8pm helps avoid queues at the most popular stalls.",
+    "Fukuoka Airport's proximity to the city center means you can be eating ramen in Tenjin within 30 minutes of landing — one of the best airport-to-food ratios in Japan.",
+    "Try ordering 'kaedama' (extra noodles for about ¥150) at ramen shops once you have finished your first serving of noodles. It is the local way to enjoy ramen.",
+    "The Nishitetsu train to Dazaifu features special 'Tabito' sightseeing trains decorated with plum blossom motifs — check the schedule for these.",
+    "Fukuoka's tap water comes from a limited supply, so the city has a strong water conservation culture. You may notice smaller water glasses at restaurants.",
+    "For a local beach experience, head to Itoshima peninsula (30 minutes by train), known for its beautiful coastline, cafes, and Instagram-famous scenery."
+  ],
+  "dayTrips": [
+    {
+      "name": "Dazaifu",
+      "distance": "16km southeast, approximately 30 minutes by Nishitetsu train",
+      "description": "Home to the famous Tenmangu Shrine and the innovative Kyushu National Museum designed by Kisho Kurokawa. The approach street is lined with traditional shops selling umegae mochi and local crafts. The area was once the seat of government for all of Kyushu."
+    },
+    {
+      "name": "Itoshima",
+      "distance": "30km west, approximately 35 minutes by JR Chikuhi Line",
+      "description": "A scenic coastal peninsula popular with locals for its beautiful beaches, seaside cafes, craft workshops, and fresh oyster huts in winter. The married couple rocks (Meoto Iwa) at Futamigaura Beach and the palm-lined Keya coast are highlights."
+    },
+    {
+      "name": "Yanagawa",
+      "distance": "50km south, approximately 50 minutes by Nishitetsu train",
+      "description": "Known as the 'Venice of Kyushu,' this canal town offers charming punted boat rides (donkobune) through willow-lined waterways. Famous for its unagi (eel) steamed in a lacquer box (seiro mushi), a local delicacy since the Edo period."
+    },
+    {
+      "name": "Kumamoto",
+      "distance": "118km south, approximately 33 minutes by Kyushu Shinkansen",
+      "description": "Home to the magnificent Kumamoto Castle (one of Japan's finest), the beautiful Suizenji Garden, and basashi (horse meat sashimi). The castle is undergoing restoration after the 2016 earthquake, and the reconstruction process itself has become a fascinating attraction."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Fukuoka City Official Tourism Guide (yokanavi.com)",
+    "Japan Guide (japan-guide.com/e/e2149.html)"
+  ]
+}

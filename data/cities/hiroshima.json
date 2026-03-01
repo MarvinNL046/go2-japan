@@ -1,0 +1,142 @@
+{
+  "slug": "hiroshima",
+  "name": {
+    "en": "Hiroshima"
+  },
+  "japaneseName": "広島",
+  "image": "/images/cities/hiroshima.webp",
+  "region": "Chugoku",
+  "highlights": [
+    "Peace Memorial Park & Museum",
+    "Atomic Bomb Dome",
+    "Miyajima Island",
+    "Hiroshima-style Okonomiyaki",
+    "Resilient Modern City"
+  ],
+  "description": {
+    "en": "A city defined by resilience and hope, Hiroshima has transformed from the site of the world's first atomic bombing into a vibrant, forward-looking city and powerful symbol of peace. Beyond its deeply moving memorials, Hiroshima charms visitors with its excellent food scene, friendly locals, and easy access to the sacred island of Miyajima."
+  },
+  "overview": "On August 6, 1945, Hiroshima became the first city in history to suffer an atomic bombing, an event that killed an estimated 140,000 people by the end of that year and left the city in ruins. Today, Hiroshima stands as a remarkable testament to human resilience: a thriving modern city of 1.2 million people that has consciously rebuilt itself as an international symbol of peace. The Peace Memorial Park and Museum, centered on the haunting Atomic Bomb Dome (the only structure left standing near the bomb's hypocenter), draws visitors from around the world and remains one of the most profoundly moving experiences in Japan. But Hiroshima is far more than its tragic history. Built on a series of river deltas where the Ota River fans out into the Seto Inland Sea, the city is sometimes called 'the City of Water.' It has an excellent tram system, a passionate obsession with its baseball team (the Hiroshima Toyo Carp) and its own distinctive style of okonomiyaki — a layered pancake with noodles that rivals Osaka's version. The sacred island of Miyajima, with its iconic 'floating' torii gate, lies just a short ferry ride from the city.",
+  "neighborhoods": [
+    {
+      "name": "Peace Memorial Park Area",
+      "description": "The epicenter of Hiroshima's rebirth, this expansive park sits on the island that was the city's busiest commercial district before the bombing. The park contains the Peace Memorial Museum (reopened after major renovation), the Atomic Bomb Dome (UNESCO World Heritage Site), the Children's Peace Monument with its thousands of paper cranes, and numerous cenotaphs and monuments. The park is at its most powerful during quiet morning visits and during the August 6 annual peace ceremony.",
+      "highlights": [
+        "Hiroshima Peace Memorial Museum",
+        "Atomic Bomb Dome (Genbaku Dome)",
+        "Children's Peace Monument",
+        "Flame of Peace and Memorial Cenotaph"
+      ]
+    },
+    {
+      "name": "Hondori & Kamiyacho (本通・紙屋町)",
+      "description": "Hiroshima's main commercial district stretches along the covered Hondori shopping arcade and radiates out from the Kamiyacho intersection. This lively area is packed with department stores, boutiques, restaurants, and the famous okonomiyaki village (Okonomimura) — a multi-story building with over 20 okonomiyaki stalls. The area has a youthful energy thanks to nearby universities.",
+      "highlights": [
+        "Hondori covered shopping arcade",
+        "Okonomimura (Okonomiyaki Village)",
+        "Department stores and local boutiques",
+        "Street-level cafes and bars"
+      ]
+    },
+    {
+      "name": "Nagarekawa (流川)",
+      "description": "Hiroshima's main entertainment and nightlife district lies just east of the Hondori area. The streets are lined with izakayas, bars, clubs, and restaurants, making it the city's social hub after dark. The atmosphere is welcoming and less intimidating than entertainment districts in larger cities. This is also a prime area for sampling Hiroshima-style okonomiyaki at local favorites.",
+      "highlights": [
+        "Vibrant izakaya and bar scene",
+        "Late-night dining options",
+        "Local okonomiyaki restaurants",
+        "Friendly, approachable nightlife"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Hiroshima Airport (HIJ) is located 50km east of the city center in Mihara. Airport limousine buses reach Hiroshima Station and the Bus Center in 45-55 minutes (¥1,370). The airport handles domestic flights from Tokyo Haneda (1 hour 25 minutes), Sapporo, and other cities, plus limited international routes.",
+    "byTrain": "Hiroshima Station is a stop on the Sanyo Shinkansen. From Tokyo: 4 hours by Nozomi (¥19,440). From Kyoto: 1 hour 40 minutes by Nozomi. From Osaka: 1 hour 20 minutes by Nozomi. From Fukuoka/Hakata: 1 hour by Nozomi. The Nozomi is the fastest but is not covered by the Japan Rail Pass; Sakura and Hikari services are covered and add 15-30 minutes.",
+    "byBus": "Highway buses connect Hiroshima to Osaka (5 hours, from ¥4,000), Tokyo (11 hours overnight, from ¥5,000), and Fukuoka (4.5 hours). Buses arrive at Hiroshima Bus Center, conveniently located downtown near the Peace Park."
+  },
+  "gettingAround": "Hiroshima has an excellent and photogenic streetcar (tram) system, one of the few remaining in Japan. The Hiroden tram network covers most of the city and extends to Miyajima-guchi port. A single ride costs ¥220 (flat rate regardless of distance), and a one-day pass is ¥700 (or ¥900 including the Miyajima ferry). Trams run frequently and are the most convenient way to get around. The city is also very flat and bicycle-friendly — rental cycles are available through the Peacecle bike-sharing system (¥165 per 60 minutes). Walking is pleasant along the riverside paths. JR trains are useful for reaching Miyajima-guchi and the Shinkansen station.",
+  "bestTimeToVisit": {
+    "best": "March to May and October to November",
+    "description": "Spring and autumn offer the most comfortable weather for exploring the city on foot and visiting Miyajima. The cherry blossoms in Peace Memorial Park and the autumn foliage on Miyajima are particularly spectacular. August 6 is the annual Peace Memorial Ceremony — a deeply moving but crowded time to visit.",
+    "seasons": {
+      "spring": "March-May: Cherry blossoms peak late March to early April, 8-22°C. Peace Memorial Park and Miyajima are beautiful during hanami season. Comfortable temperatures for walking.",
+      "summer": "June-August: Hot and humid, 25-35°C. The August 6 Peace Memorial Ceremony draws visitors from around the world. Paper lanterns float on the rivers in the evening ceremony. Intense heat requires planning.",
+      "autumn": "September-November: Pleasant temperatures, 10-25°C. Miyajima's maple valley (Momijidani) is one of Japan's most famous autumn foliage spots, typically peaking in mid to late November.",
+      "winter": "December-February: Cool but mild compared to eastern Japan, 3-10°C. Fewer tourists and oyster season — Hiroshima produces two-thirds of Japan's oysters. Miyajima's winter scenery is serene."
+    }
+  },
+  "budget": {
+    "backpacker": "$40-60/day",
+    "midRange": "$80-170/day",
+    "luxury": "$200-450+/day",
+    "details": "Hostel dorm beds cost ¥2,000-3,500 ($13-23). Business hotels near the station range from ¥5,000-9,000 ($33-60). Mid-range hotels cost ¥10,000-20,000 ($67-133). Hiroshima-style okonomiyaki costs ¥800-1,200 ($5-8). A tram ride is a flat ¥220 ($1.50). Miyajima ferry is ¥200 ($1.30) each way with JR (free with JR Pass). Peace Memorial Museum entry is ¥200 ($1.30). Grilled oysters on Miyajima cost ¥200-500 ($1.30-3.30) each."
+  },
+  "mustDo": [
+    {
+      "name": "Visit the Peace Memorial Park and Museum",
+      "description": "The extensively renovated museum presents the story of the atomic bombing through personal artifacts, survivor testimonies, and unflinching documentation. Allow at least 2 hours. Begin at the museum, then walk through the park past the Memorial Cenotaph, the Flame of Peace (which will burn until all nuclear weapons are eliminated), and the Children's Peace Monument inspired by Sadako Sasaki's paper cranes. Early morning visits are the most contemplative."
+    },
+    {
+      "name": "Stand before the Atomic Bomb Dome",
+      "description": "The skeletal ruins of the former Hiroshima Prefectural Industrial Promotion Hall, almost directly below the bomb's detonation point, have been preserved exactly as they appeared after the blast. Now a UNESCO World Heritage Site, the dome is most powerful at dusk when it is illuminated against the evening sky, and its reflection shimmers in the Motoyasu River."
+    },
+    {
+      "name": "Take the ferry to Miyajima Island",
+      "description": "The sacred island of Itsukushima (commonly called Miyajima) is home to one of Japan's most iconic images: the vermilion torii gate of Itsukushima Shrine appearing to float on the water at high tide. The shrine complex itself is a UNESCO World Heritage Site built over the water. Explore beyond the shrine to hike Mount Misen (530m, ropeway available), encounter friendly deer, and sample local specialties including momiji manju (maple leaf cakes) and grilled oysters."
+    },
+    {
+      "name": "Eat Hiroshima-style okonomiyaki",
+      "description": "Unlike Osaka's mixed-batter style, Hiroshima okonomiyaki is layered: a thin crepe, mountains of cabbage, bean sprouts, pork, yakisoba noodles, and a fried egg, all stacked and pressed on the griddle. Okonomimura, a multi-story building with 24 stalls, is the most famous spot, but locals often prefer individual restaurants like Nagata-ya, Hassho, or Micchan (the shop credited with creating the Hiroshima style in 1950)."
+    },
+    {
+      "name": "Sample Hiroshima oysters in season",
+      "description": "Hiroshima Prefecture produces roughly two-thirds of Japan's oysters, and from October through March, the city becomes an oyster paradise. Try them grilled (kaki no dotenabe), raw, fried (kaki furai), or in a hot pot. The oyster boats along the river and restaurants in Nagarekawa serve them in every preparation. Miyajima's waterfront stalls offer freshly grilled oysters for ¥200-500 each."
+    }
+  ],
+  "food": {
+    "description": "Hiroshima's food scene is defined by a few beloved specialties prepared with local pride and excellent ingredients. The city's position on the Seto Inland Sea provides exceptional seafood, particularly its famous oysters, while its signature layered okonomiyaki has achieved near-religious status among locals. The drinking culture is warm and unpretentious, centered on neighborhood izakayas.",
+    "specialties": [
+      "Hiroshima-style Okonomiyaki — Layered (not mixed) savory pancake with thin crepe, cabbage, pork, yakisoba noodles, and fried egg. Fundamentally different from Osaka-style",
+      "Hiroshima Oysters (Kaki) — The region produces 65% of Japan's oysters. Served grilled, raw, fried, or in dotenabe (miso-based hot pot) from October to March",
+      "Momiji Manju — Maple-leaf-shaped cakes filled with red bean, custard, chocolate, or matcha. Miyajima's signature sweet, now found throughout Hiroshima",
+      "Tsukemen — Spicy dipping ramen style that is hugely popular in Hiroshima. Bakudan-ya is the most famous chain",
+      "Anago-meshi — Grilled conger eel over rice, a Miyajima specialty. Ueno on Miyajima has served it since 1901",
+      "Hiroshima Tsukemen — Cold ramen noodles dipped in a spicy sesame-chili broth, a local invention distinct from Tokyo-style tsukemen"
+    ]
+  },
+  "safety": "Hiroshima is one of Japan's safest cities with extremely low crime rates. The city has a peaceful, welcoming atmosphere and locals are known for their warmth toward visitors. The entertainment district of Nagarekawa is safe even late at night. Tap water is safe to drink. On Miyajima, be mindful of the free-roaming deer — they are generally docile but may snatch food or paper items from your hands. The Peace Memorial Park and its surroundings are respectful spaces; behave accordingly.",
+  "localTips": [
+    "Get the one-day Hiroden tram pass with Miyajima ferry (¥900) — it covers unlimited tram rides plus the round-trip ferry to Miyajima and is excellent value.",
+    "Visit Peace Memorial Park early in the morning (before 9am) for the most reflective experience, before tour groups arrive.",
+    "Check Miyajima's tide tables before visiting — the torii gate is most photogenic at high tide when it appears to float, but at low tide you can walk out to its base.",
+    "Hiroshima is a major baseball city. If visiting during the season (April-October), try to catch a Hiroshima Toyo Carp game at Mazda Zoom-Zoom Stadium — the passionate fans and atmosphere are unforgettable.",
+    "For okonomiyaki, avoid the ground floor of Okonomimura (most tourist-oriented) and head to the upper floors, or better yet, try standalone restaurants like Nagata-ya or Hassho."
+  ],
+  "dayTrips": [
+    {
+      "name": "Miyajima (Itsukushima)",
+      "distance": "25km southwest, approximately 1 hour by tram and ferry",
+      "description": "The sacred island with its iconic floating torii gate is Hiroshima's essential day trip. Beyond Itsukushima Shrine, hike or take the ropeway up Mount Misen for panoramic Inland Sea views, explore the charming shopping streets, and feast on grilled oysters and anago (conger eel) rice."
+    },
+    {
+      "name": "Onomichi",
+      "distance": "80km east, approximately 1.5 hours by JR Sanyo Line",
+      "description": "A picturesque hillside port town known as the starting point of the Shimanami Kaido, a 70km cycling route across six islands to Shikoku via stunning bridges. The town itself has atmospheric temple walks, cat-filled narrow lanes, and a thriving arts scene in converted warehouses."
+    },
+    {
+      "name": "Rabbit Island (Okunoshima)",
+      "distance": "75km east, approximately 2 hours by train and ferry",
+      "description": "This small island in the Seto Inland Sea is famously home to hundreds of friendly wild rabbits that approach visitors for food. The island also has a sobering history as a secret poison gas manufacturing site during World War II, documented in a small museum. Accessible via ferry from Tadanoumi Station."
+    },
+    {
+      "name": "Iwakuni",
+      "distance": "45km southwest, approximately 50 minutes by JR Sanyo Line",
+      "description": "Home to the elegant Kintai-kyo Bridge, a beautiful five-arched wooden bridge spanning the Nishiki River. Originally built in 1673, the bridge is one of Japan's most photographed structures. Combine with a visit to Iwakuni Castle on the hilltop above for panoramic views."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Japan Guide — Hiroshima (japan-guide.com/e/e2160.html)",
+    "Hiroshima Convention & Visitors Bureau (visithiroshima.net)"
+  ]
+}

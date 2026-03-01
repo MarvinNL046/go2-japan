@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "slug": "sushi",
+    "name": {
+      "en": "Sushi",
+      "nl": "Sushi"
+    },
+    "image": "/images/food/sushi.webp",
+    "category": "Seafood",
+    "description": {
+      "en": "Japan's most iconic culinary art form — vinegared rice paired with the freshest raw fish, shellfish, or vegetables, shaped by hand by trained chefs who dedicate years to mastering each precise movement.",
+      "nl": "Japans meest iconische culinaire kunstvorm — met azijn op smaak gebrachte rijst gecombineerd met de verste rauwe vis, schelpdieren of groenten, met de hand gevormd door getrainde chefs die jarenlang elke precieze beweging perfectioneren."
+    }
+  },
+  {
+    "slug": "ramen",
+    "name": {
+      "en": "Ramen",
+      "nl": "Ramen"
+    },
+    "image": "/images/food/ramen.webp",
+    "category": "Noodle Soup",
+    "description": {
+      "en": "Japan's beloved noodle soup featuring springy wheat noodles in a deeply flavored broth — from rich, creamy tonkotsu pork bone to clear, elegant shio salt — topped with chashu pork, a soft-boiled egg, and an array of garnishes.",
+      "nl": "Japans geliefde noedelsoep met veerkrachtige tarwenoedels in een diep gearomatiseerde bouillon — van rijke, romige tonkotsu varkensbotbouillon tot heldere, elegante shio-zoutbouillon — belegd met chashu-varkensvlees, een zachtgekookt ei en diverse garnituren."
+    }
+  },
+  {
+    "slug": "tempura",
+    "name": {
+      "en": "Tempura",
+      "nl": "Tempura"
+    },
+    "image": "/images/food/tempura.webp",
+    "category": "Fried",
+    "description": {
+      "en": "Lightly battered and deep-fried seafood and vegetables with an impossibly crisp, lacy coating that shatters at the first bite while keeping the ingredients inside perfectly tender and steaming.",
+      "nl": "Licht gepaneerd en gefrituurd zeevoedsel en groenten met een ongelooflijk knapperig, kantachtig laagje dat bij de eerste hap breekt terwijl de ingredienten binnenin perfect mals en dampend blijven."
+    }
+  },
+  {
+    "slug": "okonomiyaki",
+    "name": {
+      "en": "Okonomiyaki",
+      "nl": "Okonomiyaki"
+    },
+    "image": "/images/food/okonomiyaki.webp",
+    "category": "Griddle",
+    "description": {
+      "en": "A savory Japanese pancake loaded with shredded cabbage and your choice of fillings — pork, seafood, cheese, mochi — griddled until golden and topped with a sweet-tangy sauce, mayonnaise, bonito flakes, and seaweed powder.",
+      "nl": "Een hartige Japanse pannenkoek vol met geraspte kool en vulling naar keuze — varkensvlees, zeevruchten, kaas, mochi — gebakken tot goudbruin en afgewerkt met een zoetzure saus, mayonaise, bonitovlokken en zeewierpoeder."
+    }
+  },
+  {
+    "slug": "takoyaki",
+    "name": {
+      "en": "Takoyaki",
+      "nl": "Takoyaki"
+    },
+    "image": "/images/food/takoyaki.webp",
+    "category": "Street Food",
+    "description": {
+      "en": "Golden, crispy-on-the-outside, molten-on-the-inside octopus balls — a quintessential Osaka street food made by pouring batter into hemispherical molds and spinning each ball with a pick until perfectly round and piping hot.",
+      "nl": "Goudkleurige, knapperig-van-buiten, smeuig-van-binnen octopusballetjes — een typisch Osaka straatgerecht dat wordt gemaakt door beslag in halfronde vormen te gieten en elk balletje met een priem te draaien tot het perfect rond en gloeiend heet is."
+    }
+  },
+  {
+    "slug": "udon",
+    "name": {
+      "en": "Udon",
+      "nl": "Udon"
+    },
+    "image": "/images/food/udon.webp",
+    "category": "Noodle",
+    "description": {
+      "en": "Thick, chewy wheat noodles served in a delicate dashi broth or cold with a dipping sauce — a comforting staple that ranges from humble train station stands to refined artisan noodle shops.",
+      "nl": "Dikke, kauwbare tarwenoedels geserveerd in een delicate dashibouillon of koud met een dipsaus — een troostrijk basisgerecht dat varieert van bescheiden treinstationstalletjes tot verfijnde ambachtelijke noedelzaken."
+    }
+  },
+  {
+    "slug": "soba",
+    "name": {
+      "en": "Soba",
+      "nl": "Soba"
+    },
+    "image": "/images/food/soba.webp",
+    "category": "Noodle",
+    "description": {
+      "en": "Thin, nutty buckwheat noodles served cold on a bamboo mat with a dipping sauce or hot in a fragrant dashi broth — an elegant Japanese staple deeply connected to seasonal traditions and artisan craftsmanship.",
+      "nl": "Dunne, nootachtige boekweitnoedels geserveerd koud op een bamboemat met een dipsaus of warm in een geurige dashibouillon — een elegant Japans basisgerecht dat diep verbonden is met seizoenstradities en ambachtelijk vakmanschap."
+    }
+  },
+  {
+    "slug": "tonkatsu",
+    "name": {
+      "en": "Tonkatsu",
+      "nl": "Tonkatsu"
+    },
+    "image": "/images/food/tonkatsu.webp",
+    "category": "Fried",
+    "description": {
+      "en": "A thick-cut pork cutlet coated in crispy panko breadcrumbs and deep-fried to golden perfection, served with shredded cabbage, rice, miso soup, and a tangy brown tonkatsu sauce — Japan's ultimate comfort food.",
+      "nl": "Een dikgesneden varkenskotelet gecoat met knapperige panko-broodkruimels en goudbruin gefrituurd, geserveerd met geraspte kool, rijst, misosoep en een pittige bruine tonkatsusaus — Japans ultieme troostvoedsel."
+    }
+  },
+  {
+    "slug": "yakitori",
+    "name": {
+      "en": "Yakitori",
+      "nl": "Yakitori"
+    },
+    "image": "/images/food/yakitori.webp",
+    "category": "Grill",
+    "description": {
+      "en": "Skewered chicken pieces grilled over charcoal with exacting precision — from juicy thigh meat and crispy skin to heart, liver, and cartilage — seasoned simply with salt or a sweet soy glaze and best enjoyed with a cold beer.",
+      "nl": "Aan spiesjes geregen kippenstukken die met uiterste precisie boven houtskool worden gegrild — van sappig dijvlees en krokante huid tot hart, lever en kraakbeen — eenvoudig op smaak gebracht met zout of een zoete sojasausglazuur, het best te genieten met een koud biertje."
+    }
+  },
+  {
+    "slug": "mochi",
+    "name": {
+      "en": "Mochi",
+      "nl": "Mochi"
+    },
+    "image": "/images/food/mochi.webp",
+    "category": "Dessert",
+    "description": {
+      "en": "Soft, chewy rice cakes made from pounded glutinous rice, enjoyed in countless forms — from sweet red bean-filled daifuku and grilled New Year's mochi to delicate sakura mochi wrapped in cherry blossom leaves.",
+      "nl": "Zachte, kauwbare rijstkoeken gemaakt van gestampte kleefrijst, in talloze vormen genoten — van zoete daifuku gevuld met rode bonenpasta en gegrilde nieuwjaarsmochi tot delicate sakura-mochi gewikkeld in kersenbloesembladeren."
+    }
+  },
+  {
+    "slug": "wagyu",
+    "name": {
+      "en": "Wagyu Beef",
+      "nl": "Wagyu-rundvlees"
+    },
+    "image": "/images/food/wagyu.webp",
+    "category": "Main",
+    "description": {
+      "en": "Japan's legendary marbled beef, prized for its extraordinary fat distribution that creates a buttery, melt-in-your-mouth texture unlike any other beef in the world — from the famous Kobe beef to lesser-known regional breeds.",
+      "nl": "Japans legendarische gemarmerde rundvlees, gewaardeerd om zijn buitengewone vetverdeling die een boterachtige, smelt-op-je-tong textuur creert die nergens ter wereld wordt geevenaard — van het beroemde Kobe-rundvlees tot minder bekende regionale rassen."
+    }
+  },
+  {
+    "slug": "gyoza",
+    "name": {
+      "en": "Gyoza",
+      "nl": "Gyoza"
+    },
+    "image": "/images/food/gyoza.webp",
+    "category": "Dumpling",
+    "description": {
+      "en": "Pan-fried dumplings with a thin wheat wrapper encasing a juicy filling of ground pork, cabbage, garlic, and ginger — seared golden and crispy on the bottom while remaining soft and steamy on top.",
+      "nl": "Gebakken dumplings met een dun tarwevelletje dat een sappige vulling van gemalen varkensvlees, kool, knoflook en gember omhult — goudbruin en knapperig gebakken aan de onderkant terwijl de bovenkant zacht en dampend blijft."
+    }
+  },
+  {
+    "slug": "onigiri",
+    "name": {
+      "en": "Onigiri",
+      "nl": "Onigiri"
+    },
+    "image": "/images/food/onigiri.webp",
+    "category": "Rice",
+    "description": {
+      "en": "Hand-pressed rice balls filled with savory ingredients like salted salmon, pickled plum, or seasoned kelp, wrapped in crisp nori seaweed — Japan's original portable meal and the heart of everyday Japanese comfort food.",
+      "nl": "Met de hand gedrukte rijstballen gevuld met hartige ingredienten zoals gezouten zalm, ingemaakte pruim of gekruide kelp, gewikkeld in krokant nori-zeewier — Japans originele maaltijd voor onderweg en het hart van het dagelijkse Japanse troostvoedsel."
+    }
+  },
+  {
+    "slug": "kaiseki",
+    "name": {
+      "en": "Kaiseki",
+      "nl": "Kaiseki"
+    },
+    "image": "/images/food/kaiseki.webp",
+    "category": "Multi-course",
+    "description": {
+      "en": "The pinnacle of Japanese haute cuisine — an exquisitely presented multi-course meal celebrating seasonal ingredients through a carefully orchestrated progression of tastes, textures, and cooking techniques, served on handcrafted ceramics.",
+      "nl": "Het hoogtepunt van de Japanse haute cuisine — een prachtig gepresenteerde meergangendmaaltijd die seizoensingredienten viert via een zorgvuldig georkestreerde progressie van smaken, texturen en bereidingstechnieken, geserveerd op handgemaakt aardewerk."
+    }
+  },
+  {
+    "slug": "matcha-desserts",
+    "name": {
+      "en": "Matcha Desserts",
+      "nl": "Matcha-desserts"
+    },
+    "image": "/images/food/matcha-desserts.webp",
+    "category": "Dessert",
+    "description": {
+      "en": "Japan's vibrant green tea powder transformed into an extraordinary range of desserts — from traditional matcha mochi and wagashi to modern matcha soft-serve, parfaits, tiramisu, and cakes with an intense, bittersweet flavor.",
+      "nl": "Japans levendige groene theepoeder getransformeerd in een buitengewoon scala aan desserts — van traditionele matcha-mochi en wagashi tot moderne matcha-softijs, parfaits, tiramisu en taarten met een intense, bitterszoete smaak."
+    }
+  }
+]

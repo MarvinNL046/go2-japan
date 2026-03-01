@@ -1,0 +1,20 @@
+{
+  "slug": "matcha",
+  "name": "Matcha",
+  "japaneseName": "抹茶",
+  "description": "Matcha is a finely ground powder made from specially shade-grown green tea leaves, and it stands apart from all other teas in that you consume the entire leaf rather than steeping and discarding it. This gives matcha its distinctive vivid green color, rich umami flavor, and a concentration of antioxidants, L-theanine, and caffeine that delivers calm alertness rather than the jittery energy of coffee.\n\nThe highest grades of matcha — ceremonial grade — are produced in regions like Uji (Kyoto), Nishio (Aichi), and Yame (Fukuoka), where tea bushes are shaded under canopies for 20-30 days before harvest. This shading forces the plants to produce more chlorophyll and amino acids, creating a sweeter, more complex flavor. The leaves are steamed, dried, deveined, and stone-ground into an ultrafine powder using granite mills that produce only about 40 grams per hour.\n\nIn modern Japan, matcha has transcended the tea ceremony to become a beloved flavor in its own right. You will find matcha lattes at every cafe, matcha soft-serve ice cream on practically every tourist street, matcha Kit-Kats as the quintessential souvenir, and high-end matcha desserts at patisseries. Yet the most profound way to experience matcha remains the traditional tea ceremony (chanoyu), where the preparation and consumption of a single bowl becomes a meditation on aesthetics, mindfulness, and the Japanese concept of ichigo ichie — one time, one meeting.",
+  "history": "Matcha's origins trace to China's Song Dynasty (960-1279), where powdered tea was consumed by Buddhist monks for its meditative properties. The Zen monk Eisai brought tea seeds and the powdered tea tradition to Japan in 1191, writing 'Kissa Yojoki' (How to Stay Healthy by Drinking Tea). The tea ceremony (chado) was formalized by Sen no Rikyu in the 16th century, establishing the wabi-sabi aesthetic principles of simplicity, directness, and imperfection that still define the practice. Uji, near Kyoto, became the center of premium matcha production and remains so today.",
+  "howToEnjoy": "Traditional matcha is prepared by sifting 1-2 grams of powder into a chawan (tea bowl), adding 70-80ml of water heated to 80°C (not boiling), and whisking vigorously with a chasen (bamboo whisk) in a W or M motion until frothy. Thick matcha (koicha) uses more powder and is kneaded rather than whisked. For casual enjoyment, matcha lattes with steamed milk are ubiquitous. Always pair matcha with a wagashi (Japanese sweet) to balance the slight bitterness — this contrast is central to the tea ceremony experience.",
+  "whereToTry": "Kyoto is the matcha capital. Visit a traditional tea house in the gardens of Kinkaku-ji, Ginkaku-ji, or Kodai-ji for a bowl of matcha with a seasonal wagashi sweet. In Uji, the Byodo-in temple area has teahouses and matcha shops including the centuries-old Tsuen Tea and Nakamura Tokichi. In Tokyo, try Ippodo Tea in Marunouchi or Suzukien in Asakusa, which serves the world's most intense matcha gelato in seven levels of concentration. For a full tea ceremony experience, book at Camellia in Kyoto or En in Tokyo.",
+  "image": "/images/drinks/matcha.webp",
+  "priceRange": "¥500-1,500 for matcha with wagashi at a tea house; ¥400-700 for a matcha latte; ¥1,000-5,000 for 30g of ceremonial-grade powder",
+  "alcoholContent": "Non-alcoholic",
+  "bestWith": [
+    "Wagashi (Japanese traditional sweets)",
+    "Mochi and daifuku",
+    "Yokan (sweet bean jelly)",
+    "Castella sponge cake",
+    "Matcha-flavored desserts and parfaits",
+    "Dango (sweet rice dumplings)"
+  ]
+}

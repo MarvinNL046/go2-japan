@@ -1,0 +1,109 @@
+{
+  "slug": "sushi",
+  "name": {
+    "en": "Sushi",
+    "nl": "Sushi"
+  },
+  "japaneseName": "寿司 (すし)",
+  "image": "/images/food/sushi.webp",
+  "category": "Seafood",
+  "description": {
+    "en": "Japan's most iconic culinary art form — vinegared rice paired with the freshest raw fish, shellfish, or vegetables, shaped by hand by trained chefs who dedicate years to mastering each precise movement.",
+    "nl": "Japans meest iconische culinaire kunstvorm — met azijn op smaak gebrachte rijst gecombineerd met de verste rauwe vis, schelpdieren of groenten, met de hand gevormd door getrainde chefs die jarenlang elke precieze beweging perfectioneren."
+  },
+  "overview": "Sushi is the dish that put Japanese cuisine on the world map, yet what most people experience abroad barely scratches the surface of this refined culinary tradition. At its core, sushi is about the harmony between seasoned rice (shari) and its topping (neta), but achieving that harmony requires extraordinary skill. A sushi apprentice in Tokyo traditionally trains for ten years — two years just learning to cook rice properly, three years mastering the preparation of fish. The rice must be body temperature, the fish must be cut at the precise angle to release its flavor, and the wasabi must be freshly grated from real wasabi root (not the horseradish paste common outside Japan). At top-tier sushi counters (omakase bars), the chef selects the finest fish from Toyosu Market each morning and serves each piece at the exact moment it reaches peak flavor, creating a progression of tastes that unfolds like a carefully composed symphony.",
+  "origin": {
+    "region": "Tokyo (Edo) / Nationwide",
+    "history": "Sushi's origins trace back over a thousand years to narezushi, a method of preserving fish in fermented rice that originated in Southeast Asia and reached Japan around the 8th century. The rice was originally discarded and only the preserved fish was eaten. Over centuries, the fermentation period shortened until, in early 19th-century Edo (Tokyo), a chef named Hanaya Yohei revolutionized the concept by placing fresh raw fish atop small mounds of vinegared rice and serving it as a fast food at street stalls. This 'Edomae-zushi' (Edo-front sushi, named for the fish caught in Tokyo Bay) became the foundation of modern nigiri sushi. After World War II, sushi moved from street stalls into restaurants, and the kaiten-zushi (conveyor belt sushi) format invented in 1958 in Osaka democratized the dish for everyday diners."
+  },
+  "ingredients": {
+    "main": [
+      "Short-grain Japanese rice (koshihikari)",
+      "Rice vinegar, sugar, and salt (sushi-zu seasoning)",
+      "Fresh fish (tuna, salmon, sea bream, yellowtail, mackerel)",
+      "Nori (roasted seaweed sheets)"
+    ],
+    "seafood": [
+      "Maguro (tuna — akami, chutoro, otoro)",
+      "Sake/Salmon (サーモン)",
+      "Hamachi (yellowtail)",
+      "Ebi (shrimp)",
+      "Uni (sea urchin)",
+      "Ikura (salmon roe)",
+      "Hotate (scallop)",
+      "Ika (squid)",
+      "Anago (conger eel)"
+    ],
+    "condiments": [
+      "Freshly grated wasabi (hon-wasabi)",
+      "Soy sauce (shoyu)",
+      "Pickled ginger (gari)",
+      "Shiso leaf (perilla)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nigiri-zushi",
+      "description": "The quintessential sushi form: a hand-pressed oval of vinegared rice topped with a slice of raw fish or seafood. The chef applies a dab of wasabi between the rice and fish. This is the standard at traditional sushi restaurants."
+    },
+    {
+      "name": "Maki-zushi (Rolls)",
+      "description": "Rice and fillings rolled inside a sheet of nori seaweed. Hosomaki are thin rolls with a single filling, futomaki are thick rolls with multiple fillings, and uramaki (inside-out rolls) have rice on the outside."
+    },
+    {
+      "name": "Chirashi-zushi (Scattered Sushi)",
+      "description": "A bowl of sushi rice topped with an artful arrangement of assorted sashimi, vegetables, and garnishes. Popular as a lunch set at sushi restaurants and a common home-cooked celebration dish."
+    },
+    {
+      "name": "Temaki (Hand Rolls)",
+      "description": "A cone-shaped piece of nori filled with rice, fish, and vegetables, eaten by hand. Casual and fun, popular at informal gatherings and often made DIY at home."
+    },
+    {
+      "name": "Oshizushi (Pressed Sushi)",
+      "description": "A specialty of Osaka where rice and toppings are compressed in a wooden mold (oshibako) to create neat rectangular blocks. Battera (mackerel pressed sushi) is the most famous variety."
+    }
+  ],
+  "howToOrder": "At a traditional sushi counter (sushi-ya), the best experience is omakase ('I leave it to you'), where the chef selects and serves pieces one at a time based on the day's best fish. Prices are typically 8,000-30,000 JPY for omakase. You can also order a la carte by pointing at the neta case or saying the fish name. At kaiten-zushi (conveyor belt), simply take plates as they pass — prices are indicated by plate color, typically 100-500 JPY per plate. Say 'oaiso' or 'okaikei' when you want the bill.",
+  "whereToEat": [
+    {
+      "name": "Sukiyabashi Jiro (Honten)",
+      "location": "Ginza, Tokyo",
+      "note": "The legendary three-Michelin-star sushi counter made famous by the documentary 'Jiro Dreams of Sushi.' Reservations are extremely difficult to obtain and require a concierge booking. Omakase only, approximately 40,000 JPY."
+    },
+    {
+      "name": "Sushi Dai",
+      "location": "Toyosu Market, Tokyo",
+      "note": "Famous sushi restaurant inside the Toyosu fish market complex. Expect queues of 2-3 hours for their renowned omakase set featuring the market's freshest catches. Opens at 5:00 AM."
+    },
+    {
+      "name": "Sushiro / Kura Sushi / Hamazushi",
+      "location": "Nationwide chains",
+      "note": "Japan's most popular conveyor belt sushi chains offering excellent quality at 100-300 JPY per plate. Perfect for budget travelers and families. Often have touch-screen ordering and fun gimmicks."
+    },
+    {
+      "name": "Endo Sushi",
+      "location": "Osaka Central Fish Market",
+      "note": "A legendary sushi stall inside Osaka's fish market since 1907, known for large, generously topped nigiri at reasonable prices. Popular with market workers and tourists alike."
+    }
+  ],
+  "priceRange": {
+    "street": "100 - 500 JPY per plate ($0.70 - $3.50) at conveyor belt sushi",
+    "restaurant": "3,000 - 8,000 JPY ($20 - $55) for a sushi set lunch",
+    "upscale": "15,000 - 50,000 JPY ($100 - $350) for omakase at a high-end counter"
+  },
+  "tips": [
+    "Eat nigiri sushi in one bite — splitting it in two causes it to fall apart and is considered poor form",
+    "Dip the fish side (not the rice) into soy sauce to avoid over-saturating the rice and causing it to crumble",
+    "Do not mix wasabi into your soy sauce at a proper sushi counter — the chef has already applied the right amount between the rice and fish",
+    "Pickled ginger (gari) is a palate cleanser between pieces, not a topping to place on sushi",
+    "At conveyor belt restaurants, the freshest pieces are those ordered directly from the kitchen via the touch screen, not those circling on the belt",
+    "Lunch sets at high-end sushi restaurants often offer the same quality as dinner at a fraction of the price"
+  ],
+  "culturalNotes": "Sushi in Japan is as much about the relationship between chef and diner as it is about the food itself. At traditional counters, the itamae (sushi chef) stands behind a glass case displaying the day's fish, and the interaction is intimate and almost ritualistic. The chef gauges your pace, adjusts seasoning to your preference, and times each piece to serve at its peak. It is considered polite to eat each piece promptly after it is placed before you. Sushi etiquette allows eating nigiri with either chopsticks or fingers — many purists prefer fingers for better control. The culture around sushi apprenticeship is famously rigorous: Jiro Ono's apprentices at Sukiyabashi Jiro train for a minimum of ten years. Sushi also plays a role in celebrations — chirashi-zushi is a staple of Hinamatsuri (Girls' Day, March 3), and sushi platters are common at New Year's gatherings.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Michelin Guide Tokyo",
+    "Trevor Corson, 'The Story of Sushi' (Harper Perennial, 2008)",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

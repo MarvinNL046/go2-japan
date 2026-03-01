@@ -1,0 +1,40 @@
+{
+  "slug": "evisa",
+  "name": "eVisa (Electronic Visa)",
+  "description": "Japan launched its electronic visa (eVisa) system to streamline the tourist visa application process for eligible nationalities. The eVisa allows applicants to submit their visa application online through the official Visit Japan Web portal or the Japanese eVisa system, reducing the need for in-person visits to embassies and consulates. The eVisa is specifically for short-term stays for tourism purposes and produces an electronic visa that is linked to your passport.",
+  "eligibility": "Currently available to nationals of select countries including China, Brazil, Saudi Arabia, and others — the list of eligible nationalities is being gradually expanded. Applicants must be applying for a short-term tourism visa (not business, study, or work). The eVisa is intended for individual tourists, not group tours. Applicants must have a valid email address and the ability to upload digital copies of required documents.",
+  "duration": "Up to 30 days (single entry), though specific duration depends on nationality",
+  "requirements": [
+    "Valid passport with at least 6 months remaining validity",
+    "Digital passport-sized photograph meeting specified dimensions and format requirements",
+    "Valid email address for account registration and communication",
+    "Credit or debit card for online fee payment",
+    "Round-trip flight booking or itinerary",
+    "Accommodation details for the stay in Japan",
+    "Travel itinerary with planned activities",
+    "Proof of sufficient financial means (digital copies of bank statements)",
+    "Additional documents as required based on nationality"
+  ],
+  "applicationProcess": [
+    "Check whether your nationality is eligible for the Japan eVisa on the official Ministry of Foreign Affairs website",
+    "Create an account on the official eVisa portal (www.evisa.mofa.go.jp)",
+    "Fill out the online application form with your personal details, travel plans, and passport information",
+    "Upload required documents including passport photo page scan, photograph, and supporting documents",
+    "Pay the visa fee online using a credit or debit card",
+    "Receive a confirmation email with your application reference number",
+    "Wait for processing — you will receive email notification of the result",
+    "If approved, download and print the eVisa confirmation to present alongside your passport at immigration",
+    "Upon arrival, present your passport, printed eVisa, and completed arrival card to immigration officers"
+  ],
+  "cost": "Approximately ¥3,000 ($20 USD) for single entry, paid online. Fees may vary by nationality. Some processing fees from the portal may apply additionally.",
+  "processingTime": "Typically 5-7 business days from submission of a complete application. Processing may take longer during peak travel periods. Applicants are advised to apply at least 2-3 weeks before their planned departure date.",
+  "importantNotes": [
+    "The eVisa system is relatively new and the list of eligible nationalities changes — always check the latest information on the official MOFA website",
+    "An eVisa is electronically linked to your passport — if you get a new passport after receiving the eVisa, you must reapply",
+    "Print a copy of your eVisa confirmation as a backup, even though it is electronically linked to your passport",
+    "The eVisa is for tourism only — it does not permit work, paid activities, or extended stays",
+    "If your nationality is not yet eligible for eVisa, you must apply through the traditional embassy/consulate process",
+    "Ensure all uploaded documents are clear, legible, and in the correct format to avoid processing delays",
+    "The eVisa does not replace the need to complete Visit Japan Web registration for customs and immigration upon arrival"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "udon",
+  "name": {
+    "en": "Udon",
+    "nl": "Udon"
+  },
+  "japaneseName": "うどん",
+  "image": "/images/food/udon.webp",
+  "category": "Noodle",
+  "description": {
+    "en": "Thick, chewy wheat noodles served in a delicate dashi broth or cold with a dipping sauce — a comforting staple that ranges from humble train station stands to refined artisan noodle shops.",
+    "nl": "Dikke, kauwbare tarwenoedels geserveerd in een delicate dashibouillon of koud met een dipsaus — een troostrijk basisgerecht dat varieert van bescheiden treinstationstalletjes tot verfijnde ambachtelijke noedelzaken."
+  },
+  "overview": "Udon is one of Japan's most ancient and beloved noodle traditions — thick, glossy wheat noodles with a distinctive chewy bounce that the Japanese call 'koshi.' While ramen gets much of the international spotlight, udon is arguably more deeply rooted in Japanese food culture, with a history stretching back over a thousand years. The noodles are made from just three ingredients — wheat flour, water, and salt — yet achieving the perfect texture requires skill and experience. The dough is traditionally kneaded by foot (stepping on it repeatedly in a plastic bag) to develop the gluten that gives udon its characteristic elasticity. Udon can be served in countless ways: swimming in a steaming hot dashi broth with simple toppings, cold and firm on a bamboo draining mat (zaru) with a concentrated dipping sauce, stir-fried with vegetables, or in a rich curry sauce. The dish's spiritual home is Kagawa Prefecture on the island of Shikoku, which has rebranded itself as 'Udon Prefecture' and is home to over 600 udon shops for a population of under one million.",
+  "origin": {
+    "region": "Kagawa Prefecture (Shikoku) / Nationwide",
+    "history": "Udon's origins are debated, with legends attributing its introduction to the Buddhist monk Kukai (Kobo Daishi), who is said to have brought noodle-making techniques from Tang Dynasty China to his home province of Sanuki (now Kagawa) in the 9th century. Historical evidence confirms udon existed in Japan by the Muromachi period (1336-1573), when it was served at temples and to nobility. By the Edo period, udon had become everyday food for commoners. Kagawa Prefecture developed its distinctive Sanuki udon — characterized by firm, elastic noodles with strong koshi — and the region has been synonymous with Japan's finest udon ever since. Today, Kagawa has the highest per-capita udon consumption in Japan, and 'udon taxi' tours take visitors to hidden local shops."
+  },
+  "ingredients": {
+    "main": [
+      "Wheat flour (medium to strong flour)",
+      "Water",
+      "Salt",
+      "Dashi broth (kombu, katsuobushi, iriko dried sardines)"
+    ],
+    "toppings": [
+      "Tenkasu (tempura crumbs)",
+      "Aburaage (fried tofu pouch) — for kitsune udon",
+      "Tempura (especially kakiage or ebi tempura)",
+      "Wakame seaweed",
+      "Green onion (negi)",
+      "Raw egg or onsen tamago (soft poached egg)",
+      "Grated daikon radish",
+      "Tororo (grated mountain yam)"
+    ],
+    "condiments": [
+      "Soy sauce",
+      "Shichimi togarashi (seven-spice chili powder)",
+      "Grated ginger",
+      "Sesame seeds"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Sanuki Udon (Kagawa)",
+      "description": "The gold standard of udon, defined by its firm, square-cut noodles with powerful koshi (chewy bounce). Often served simply as 'kamaage' (freshly boiled, dipped in sauce) or 'bukkake' (cold noodles with concentrated sauce poured over). Kagawa has over 600 udon shops."
+    },
+    {
+      "name": "Kitsune Udon",
+      "description": "Udon in hot dashi broth topped with a large piece of sweetly simmered aburaage (fried tofu pouch). A Osaka specialty with a comforting, mildly sweet flavor. Named after the fox (kitsune), which in Japanese folklore loves fried tofu."
+    },
+    {
+      "name": "Tanuki Udon",
+      "description": "Hot udon topped with crunchy tenkasu (tempura batter bits). A simple, affordable, and satisfying bowl found at udon stands everywhere. Named after the tanuki (raccoon dog) of Japanese folklore."
+    },
+    {
+      "name": "Curry Udon",
+      "description": "Thick udon noodles in a rich Japanese curry broth, often with sliced pork or chicken and vegetables. A hearty, warming dish popular in colder months. Beware of splashing — the thick curry sauce splatters easily."
+    },
+    {
+      "name": "Nabeyaki Udon",
+      "description": "A winter favorite: udon simmered in a clay pot (donabe) with tempura, chicken, vegetables, kamaboko fish cake, and a raw egg cracked on top that cooks in the residual heat. Served bubbling hot in the pot."
+    }
+  ],
+  "howToOrder": "At self-service udon shops (common in Kagawa and chain restaurants), order at the counter, choose your noodle size (small/regular/large), select your style (hot broth, cold, or kamaage), then move along the counter to add toppings like tempura or onigiri. Pay at the end. At sit-down restaurants, order from the menu. Common sizes are 'sho' (small, 1 ball of noodles), 'chu' (medium, 2 balls), or 'dai' (large, 3 balls). Add tempura or inari-zushi on the side for a complete meal.",
+  "whereToEat": [
+    {
+      "name": "Udon Baka Ichidai",
+      "location": "Takamatsu, Kagawa",
+      "note": "Famous for their butter-and-pepper 'kamaage butter udon' — freshly boiled noodles tossed with butter and black pepper, creating a Japanese-style cacio e pepe. A must-visit in Kagawa."
+    },
+    {
+      "name": "Yamada-ya",
+      "location": "Multiple locations, Kagawa",
+      "note": "A beloved Sanuki udon chain known for exceptional koshi (noodle firmness) and a clean, elegant iriko (dried sardine) dashi broth. The simple kamaage udon here is perfection."
+    },
+    {
+      "name": "Marugame Seimen",
+      "location": "Nationwide chain",
+      "note": "Japan's largest self-service udon chain with over 800 locations. Noodles are made fresh in-house and you can watch the process. Excellent quality for the price (from 340 JPY). Perfect for budget travelers."
+    },
+    {
+      "name": "Tsurutontan",
+      "location": "Tokyo, Osaka, major cities",
+      "note": "Upscale udon restaurant known for creative variations and famously large bowls. Their mentaiko cream udon and curry udon are popular. Open late into the night in many locations."
+    }
+  ],
+  "priceRange": {
+    "street": "200 - 500 JPY ($1.40 - $3.50) at self-service shops and train station stands",
+    "restaurant": "600 - 1,200 JPY ($4.20 - $8.40) at sit-down udon restaurants",
+    "upscale": "1,200 - 2,500 JPY ($8.40 - $17.50) at premium or creative udon restaurants"
+  },
+  "tips": [
+    "Visit Kagawa Prefecture for the ultimate udon pilgrimage — take the 'udon taxi' to visit hidden local shops that even Japanese travelers queue for",
+    "At self-service shops, add toppings at the counter before paying — tenkasu (tempura bits) and green onion are often free",
+    "Slurping udon is expected and practical — the noodles are thick and slippery, and slurping cools them efficiently",
+    "Try udon at a train station stand (tachigui) for an authentic everyday Japanese experience — standing, eating a quick bowl between trains",
+    "If ordering curry udon, be careful of splattering — many restaurants provide paper bibs for a reason",
+    "Sanuki udon noodles are best within 15 minutes of being boiled — eat promptly for peak koshi"
+  ],
+  "culturalNotes": "Udon is one of the most egalitarian foods in Japan — it is affordable, available everywhere from train stations to Michelin-starred restaurants, and beloved by all ages and social classes. In Kagawa Prefecture, udon is not just food but identity: the prefecture officially calls itself 'Udon-ken' (Udon Prefecture), license plates feature an udon design, and the local dialect has more words for udon textures than most languages have for snow. Udon also has deep connections to Buddhist temple culture — many temple pilgrims on the 88-temple Shikoku pilgrimage sustain themselves on bowls of udon between temples. Toshikoshi udon (or soba), eaten on New Year's Eve, symbolizes cutting away the old year's troubles and wishing for a long life, as the long noodles represent longevity.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Kagawa Prefecture Tourism Association",
+    "Lonely Planet Japan Food Guide",
+    "NHK World Japan — Udon: The Soul of Shikoku"
+  ]
+}

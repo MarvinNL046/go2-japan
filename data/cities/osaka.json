@@ -1,0 +1,158 @@
+{
+  "slug": "osaka",
+  "name": {
+    "en": "Osaka"
+  },
+  "japaneseName": "大阪",
+  "image": "/images/cities/osaka.webp",
+  "region": "Kansai",
+  "highlights": [
+    "Street Food Capital of Japan",
+    "Vibrant Nightlife",
+    "Osaka Castle",
+    "Comedy & Entertainment Culture",
+    "Universal Studios Japan"
+  ],
+  "description": {
+    "en": "Japan's second-largest city and self-proclaimed kitchen of the nation, Osaka is a boisterous, food-obsessed metropolis where the locals are famously warm, funny, and direct. From the neon-drenched canal of Dotonbori to the retro charm of Shinsekai, Osaka offers Japan's most approachable and entertaining urban experience."
+  },
+  "overview": "Osaka has been Japan's commercial powerhouse for centuries, earning the nickname 'tenka no daidokoro' (the nation's kitchen) for its role as the country's rice trading center during the Edo period. The city's merchant-class heritage fostered a culture that values pragmatism, humor, and good food — in sharp contrast to the more reserved manners of Tokyo. Osakans are known throughout Japan for their directness, their distinctive dialect (Osaka-ben), and their greeting 'mokarimakka?' ('are you making money?'). With a metropolitan population of 19 million, Osaka is Japan's third-largest economy and a major hub for manufacturing, pharmaceuticals, and electronics. The city is home to iconic companies like Panasonic, Sharp, and Nintendo (headquartered in nearby Kyoto but with deep Osaka roots). For visitors, Osaka's greatest draws are its incredible street food scene — centered on the philosophy of 'kuidaore' (eat until you drop) — its energetic nightlife, the historic Osaka Castle, and its position as a gateway to the Kansai region including Kyoto, Nara, and Kobe.",
+  "neighborhoods": [
+    {
+      "name": "Dotonbori & Namba (道頓堀・難波)",
+      "description": "The beating heart of Osaka's entertainment and street food scene, Dotonbori is a sensory overload of neon signs, giant mechanical crabs, and the aroma of grilling takoyaki. The canal-side pedestrian area is packed with restaurants, street food stalls, and bars. The famous Glico Running Man sign has been an Osaka landmark since 1935. Namba extends south with major shopping complexes, the labyrinthine Namba Walk underground mall, and the traditional Hozenji Yokocho alley with its moss-covered Buddhist statue.",
+      "highlights": [
+        "Glico Running Man sign",
+        "Dotonbori canal walk",
+        "Street food stalls (takoyaki, okonomiyaki)",
+        "Hozenji Yokocho historic alley",
+        "Namba Grand Kagetsu comedy theater"
+      ]
+    },
+    {
+      "name": "Shinsekai (新世界)",
+      "description": "Built in 1912 as a 'new world' modeled on Paris and New York's Coney Island, Shinsekai is now a wonderfully retro district with a nostalgic, slightly rough-edged charm. The area is dominated by the Tsutenkaku Tower (modeled after the Eiffel Tower) and famous for kushikatsu (deep-fried skewers) restaurants with their strict 'no double-dipping' sauce rule. Colorful signage, old-school game centers, and cheap izakayas make this one of Osaka's most characterful neighborhoods.",
+      "highlights": [
+        "Tsutenkaku Tower",
+        "Kushikatsu restaurant row",
+        "Retro game centers and arcades",
+        "Jan Jan Yokocho shopping street"
+      ]
+    },
+    {
+      "name": "Umeda & Kita (梅田・北)",
+      "description": "Osaka's northern business district is anchored by the massive Osaka/Umeda Station complex and features a dramatically different personality from the south. The Umeda Sky Building's Floating Garden Observatory offers panoramic views from its futuristic connected twin towers. Below ground, an extensive network of underground shopping malls and restaurants connects the various stations. The area is home to department stores, upscale dining, and the Grand Front Osaka complex.",
+      "highlights": [
+        "Umeda Sky Building Floating Garden",
+        "HEP Five rooftop Ferris wheel",
+        "Grand Front Osaka",
+        "Underground shopping labyrinths"
+      ]
+    },
+    {
+      "name": "Osaka Castle Area (大阪城)",
+      "description": "The imposing Osaka Castle, originally built by Toyotomi Hideyoshi in 1583 to unify Japan, sits within an expansive park that is one of Osaka's premier cherry blossom viewing spots. The current concrete reconstruction (1931) houses a museum on Hideyoshi and Osaka's history, with an observation deck offering city views. The surrounding Osaka Castle Park covers 106 hectares with moats, stone walls, and gardens.",
+      "highlights": [
+        "Osaka Castle main tower and museum",
+        "Cherry blossom viewing in spring",
+        "Nishinomaru Garden",
+        "Osaka-jo Hall concert venue"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Kansai International Airport (KIX), built on an artificial island in Osaka Bay, handles international and some domestic flights. The JR Haruka Express reaches Tennoji in 35 minutes (¥1,740) and continues to Kyoto. The Nankai Rapit limited express reaches Namba in 34 minutes (¥1,450). Osaka Itami Airport (ITM), 30 minutes north by monorail and train, handles most domestic flights. Limousine buses connect both airports to major hotels and stations.",
+    "byTrain": "Shin-Osaka Station is a major Shinkansen hub. From Tokyo: 2 hours 30 minutes by Nozomi (¥14,520). From Hiroshima: 1 hour 20 minutes by Nozomi. From Kyoto: 15 minutes by JR Special Rapid (¥580). Shin-Osaka is connected to central Osaka (Namba, Umeda) by subway in 10-20 minutes.",
+    "byBus": "Overnight highway buses connect Osaka to Tokyo (8-9 hours, from ¥3,000), Hiroshima (5 hours), and other cities. Major terminals are at JR Osaka Station, Namba OCAT, and Abenobashi. Willer Express and JR Bus offer comfortable options."
+  },
+  "gettingAround": "Osaka has an extensive subway system with 9 lines covering the city efficiently. A one-day pass costs ¥820 on weekdays or ¥620 on weekends and holidays. The Osaka Amazing Pass (¥2,800 for one day, ¥3,600 for two days) includes unlimited subway/bus rides plus free entry to over 40 attractions including Osaka Castle, Umeda Sky Building, and various river cruises. JR lines connect major stations on the JR Loop Line (similar to Tokyo's Yamanote Line). Walking is easy in the flat terrain, especially around Namba-Dotonbori and Shinsekai. Taxis start at ¥680.",
+  "bestTimeToVisit": {
+    "best": "March to May and October to November",
+    "description": "Spring cherry blossom season (late March to mid-April) and autumn (October-November) offer the most pleasant weather for exploring. Osaka's food scene and indoor attractions make it a year-round destination, but summer heat and humidity can be oppressive.",
+    "seasons": {
+      "spring": "March-May: Cherry blossoms peak late March to early April, 10-23°C. Osaka Castle Park and the Mint Bureau's famous cherry blossom passage (limited opening) are highlights. Pleasant weather for walking and eating outdoors.",
+      "summer": "June-August: Hot and humid, 25-36°C. June's rainy season transitions to intense summer heat. Tenjin Matsuri (July 24-25), one of Japan's top three festivals, features spectacular boat processions and fireworks on the Okawa River.",
+      "autumn": "September-November: Comfortable temperatures, 12-27°C. Osaka Castle Park and Minoo Park (with its waterfall) are popular autumn foliage spots. The food scene peaks as seasonal ingredients come into play.",
+      "winter": "December-February: Cold but manageable, 3-10°C. Fewer tourists and lower hotel prices. Osaka's many indoor food halls and underground shopping areas make it comfortable regardless of weather. Excellent illumination events."
+    }
+  },
+  "budget": {
+    "backpacker": "$40-65/day",
+    "midRange": "$100-200/day",
+    "luxury": "$250-600+/day",
+    "details": "Hostel dorm beds cost ¥2,000-3,500 ($13-23). Business hotels range from ¥5,000-9,000 ($33-60). Mid-range hotels cost ¥12,000-25,000 ($80-167). Takoyaki from a street stall costs ¥500-800 ($3-5) for 8 pieces. Okonomiyaki at a restaurant runs ¥800-1,500 ($5-10). A kushikatsu set costs ¥1,000-2,000 ($7-13). Beer at an izakaya is ¥400-600 ($3-4). Osaka is generally 10-20% cheaper than Tokyo for accommodation and dining."
+  },
+  "mustDo": [
+    {
+      "name": "Eat your way through Dotonbori",
+      "description": "Osaka's most famous street is a gastronomic adventure. Start with takoyaki (octopus balls) from Wanaka or Kukuru, move to okonomiyaki (savory pancake) at Mizuno or Fukutaro, try kushikatsu (deep-fried skewers) at Daruma, and finish with fluffy Japanese cheesecake from Rikuro's. The philosophy of 'kuidaore' (eat until you drop) is meant to be taken literally here."
+    },
+    {
+      "name": "Explore Osaka Castle and its park",
+      "description": "The iconic five-story castle tower, originally built by the warlord Toyotomi Hideyoshi in 1583, stands atop massive stone walls surrounded by moats. The interior museum tells the story of Hideyoshi's rise and the castle's dramatic history. The observation deck on the 8th floor offers panoramic city views. Entry is ¥600. The surrounding 106-hectare park is one of Osaka's best cherry blossom spots in spring."
+    },
+    {
+      "name": "Visit Kuromon Market for fresh seafood",
+      "description": "Known as 'Osaka's Kitchen,' this 600-meter covered market has over 150 stalls selling fresh seafood, produce, and prepared foods. Try ultra-fresh sashimi, grilled king crab legs, sea urchin, puffer fish, and seasonal fruits. The market is most lively between 9am and 2pm. While increasingly tourist-oriented, it remains a genuine working market with excellent quality."
+    },
+    {
+      "name": "Experience Shinsekai's retro charm",
+      "description": "This wonderfully nostalgic neighborhood centered on Tsutenkaku Tower feels like stepping into 1960s Japan. The kushikatsu restaurants here are legendary — Daruma, with its angry chef mascot, has been serving since 1929. Explore the old-school game arcades, photograph the colorful signs, and soak in the unique atmosphere. Visit the nearby Spa World for an extravagant themed bathing experience."
+    },
+    {
+      "name": "Drink at an Osaka izakaya in Ura-Namba",
+      "description": "The backstreets behind Namba (Ura-Namba) have emerged as Osaka's hottest dining and drinking area, with tiny izakayas, wine bars, and creative restaurants packed into narrow alleys. Unlike the tourist-heavy Dotonbori, this area attracts predominantly local crowds. Look for standing bars (tachinomi) serving draft beer from ¥300 and excellent small plates."
+    },
+    {
+      "name": "Take in the view from Umeda Sky Building",
+      "description": "This striking architectural landmark features two 40-story towers connected at the top by the Floating Garden Observatory. The rooftop open-air deck (173 meters high, ¥1,500) offers 360-degree views over Osaka, especially stunning at sunset. The basement houses the retro-themed Takimi-koji restaurant alley recreating early 20th-century Osaka streetscapes."
+    }
+  ],
+  "food": {
+    "description": "Osaka is Japan's undisputed street food capital, built on the local philosophy of 'kuidaore' — eating until you drop. The city's merchant heritage created a culture that prizes good, affordable food above all else. While Tokyo may have more Michelin stars, Osaka's strength is its incredible depth of casual, soul-satisfying eating at every price point. The local saying goes: 'Kyoto people spend on clothing, Osaka people spend on food.'",
+    "specialties": [
+      "Takoyaki — Crispy-outside, molten-inside octopus balls topped with sauce, mayonnaise, bonito flakes, and seaweed. Osaka's most iconic street food",
+      "Okonomiyaki — A thick savory pancake of batter, cabbage, and toppings (pork, shrimp, squid) grilled on a hot plate. Osaka-style mixes everything in the batter before cooking",
+      "Kushikatsu — Deep-fried skewers of meat, seafood, and vegetables with a strict 'no double-dipping' communal sauce rule. Shinsekai is the heartland",
+      "Kitsune Udon — Thick wheat noodles in sweet dashi broth topped with sweet fried tofu (aburaage). Said to have been invented in Osaka at Usami Tei Matsubaya in 1893",
+      "Butaman — Large steamed pork buns, an Osaka specialty since 551 Horai opened near Namba in 1945. The line outside is constant",
+      "Tecchiri — Puffer fish (fugu) hot pot, a winter delicacy. Osaka has Japan's highest concentration of licensed fugu restaurants, particularly in the Shinsekai area"
+    ]
+  },
+  "safety": "Osaka is very safe for visitors, though it has a slightly grittier, more boisterous character than Tokyo or Kyoto. Petty crime is rare, and even late-night areas like Dotonbori and Namba are generally safe. The Tobita Shinchi area near Shinsekai is a red-light district best avoided. Be cautious of touts around Dotonbori trying to lure you into overpriced bars. Tap water is safe to drink. Osaka's famous friendliness means you will likely receive unsolicited help if you look lost, and the city is one of the easiest in Japan for non-Japanese speakers to navigate.",
+  "localTips": [
+    "The Osaka Amazing Pass is exceptional value — unlimited transport plus free entry to 40+ attractions including Osaka Castle, Umeda Sky Building, and river cruises. Available at tourist information centers.",
+    "Osaka-ben (Osaka dialect) is distinct from standard Japanese. Locals appreciate if you learn a few phrases: 'ookini' (thank you) and 'maido' (hello/welcome) will earn smiles.",
+    "The best takoyaki is debated endlessly, but locals often recommend Aizuya in Tamade (the original inventor) over the tourist-packed Dotonbori stalls.",
+    "For the best okonomiyaki experience, sit at the counter and watch the chef cook it on the teppan in front of you rather than at a table where you cook it yourself.",
+    "The Mint Bureau (Zoheikiyoku) opens its cherry blossom passage for just one week each April, featuring 350 trees of 130 rare varieties not found in typical parks. Check dates on their website.",
+    "Osaka's nightlife runs much later than other Japanese cities. Many bars and restaurants in Namba and Umeda stay open well past midnight, with some operating until 5am."
+  ],
+  "dayTrips": [
+    {
+      "name": "Kyoto",
+      "distance": "43km northeast, approximately 15 minutes by JR Special Rapid",
+      "description": "Japan's ancient imperial capital with its 2,000 temples, geisha districts, and bamboo groves is just 15 minutes away by fast train, making it the most convenient day trip in Japan. Focus on Fushimi Inari, Kinkaku-ji, and Arashiyama for a packed single day."
+    },
+    {
+      "name": "Nara",
+      "distance": "35km east, approximately 45 minutes by JR or Kintetsu Railway",
+      "description": "Home to the Great Buddha at Todai-ji Temple and over 1,000 friendly free-roaming deer in Nara Park. The compact historic center is easily walkable. Visit Kasuga-taisha Shrine with its thousands of stone lanterns and the charming Naramachi merchant district."
+    },
+    {
+      "name": "Kobe",
+      "distance": "33km west, approximately 20 minutes by JR Special Rapid",
+      "description": "This cosmopolitan port city is famous for Kobe beef (try it at its source), the historic Kitano district with its Western-style mansions, vibrant Chinatown (Nankinmachi), and the harbor area. Mount Rokko offers panoramic views and an excellent night vista."
+    },
+    {
+      "name": "Mount Koya (Koyasan)",
+      "distance": "80km south, approximately 2 hours by Nankai Railway and cable car",
+      "description": "The sacred mountaintop headquarters of Shingon Buddhism, founded by Kobo Daishi in 816 AD. Stay overnight in a temple lodging (shukubo) for a profound experience including vegetarian monk's cuisine (shojin ryori), morning prayer services, and a walk through the atmospheric Okunoin cemetery with its 200,000 stone monuments."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Japan Guide — Osaka (japan-guide.com/e/e2157.html)",
+    "Osaka Convention & Tourism Bureau (osaka-info.jp)"
+  ]
+}

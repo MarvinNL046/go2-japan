@@ -1,0 +1,20 @@
+{
+  "slug": "sake",
+  "name": "Sake",
+  "japaneseName": "日本酒",
+  "description": "Sake, or nihonshu as it is properly called in Japanese, is Japan's most iconic alcoholic beverage — a rice wine brewed through a unique parallel fermentation process that has no true equivalent anywhere in the world. Made from just four ingredients — rice, water, koji mold, and yeast — sake achieves a remarkable spectrum of flavors, from fruity and floral to earthy and umami-rich, depending on the rice variety, water source, polishing ratio, and brewing technique.\n\nThe world of sake is vast and nuanced, with classifications based on how much the rice grain is polished before brewing. Junmai Daiginjo, where at least 50% of each grain is polished away, produces elegant, aromatic sakes, while Junmai styles retain more rice character and pair beautifully with food. Modern craft sake brewers (toji) are pushing boundaries with sparkling sakes, aged koshu, and experimental yeast strains, while traditional breweries (kura) in regions like Niigata, Fushimi (Kyoto), and Nada (Kobe) continue centuries-old methods.\n\nSake can be enjoyed at a wide range of temperatures — from well-chilled (reishu) to piping hot (atsukan) — with the ideal temperature depending on the style. Premium ginjo sakes are best slightly chilled to preserve their delicate aromatics, while robust junmai styles often shine when gently warmed, releasing deeper umami flavors.",
+  "history": "Sake brewing in Japan dates back at least 2,000 years, with early references in the Kojiki (712 AD), Japan's oldest historical text. The development of koji mold fermentation — the breakthrough that distinguishes sake from other rice wines — likely evolved from Chinese techniques but was perfected in Japan by Buddhist temple breweries during the Nara period (710-794). By the Edo period (1603-1868), the Nada district near Kobe had become Japan's sake capital thanks to its superior miyamizu water, and commercial brewing flourished. The industry peaked in the 1970s but has experienced a renaissance since the 2000s, with craft breweries and international interest driving innovation.",
+  "howToEnjoy": "Sake is traditionally poured from a tokkuri (ceramic flask) into small ochoko cups or wooden masu boxes. In formal settings, it is polite to pour for others rather than yourself. At izakayas and restaurants, you can order by the glass (gurasu), small flask (tokkuri, roughly 180ml), or larger bottle (isshobin, 1.8L). Try a tasting flight (nomi kurabe) to compare styles. Temperature matters: serve premium ginjo chilled, versatile junmai at room temperature or slightly warm, and hearty honjozo hot.",
+  "whereToTry": "Sake bars and izakayas throughout Japan serve excellent selections. In Tokyo, try the standing sake bars (tachinomi) near Shinbashi or the refined bars of Ginza. Kyoto's Fushimi district and Kobe's Nada district offer brewery tours and tastings at the source. Niigata, known as Japan's sake country, has the Ponshukan sake tasting center at Echigo-Yuzawa Station with over 90 sakes on tap. Many department store basement floors (depachika) have impressive sake sections with tasting opportunities.",
+  "image": "/images/drinks/sake.webp",
+  "priceRange": "¥300-800 per glass, ¥500-2,000 per tokkuri at restaurants; ¥800-5,000+ per 720ml bottle at shops",
+  "alcoholContent": "15-17% ABV (typically)",
+  "bestWith": [
+    "Sashimi and sushi",
+    "Grilled fish (yakizakana)",
+    "Tempura",
+    "Tofu dishes (hiyayakko, agedashi)",
+    "Izakaya small plates (otoshi)",
+    "Kaiseki multi-course meals"
+  ]
+}

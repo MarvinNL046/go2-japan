@@ -1,0 +1,150 @@
+{
+  "slug": "kamakura",
+  "name": {
+    "en": "Kamakura"
+  },
+  "japaneseName": "鎌倉",
+  "image": "/images/cities/kamakura.webp",
+  "region": "Kanto",
+  "highlights": [
+    "Great Buddha (Daibutsu)",
+    "Coastal Temple Town",
+    "Bamboo Temple (Hokoku-ji)",
+    "Beach Culture & Surfing",
+    "Zen Buddhism Heritage"
+  ],
+  "description": {
+    "en": "Japan's medieval capital perched between forested hills and the Pacific Ocean, Kamakura is a compact treasure of ancient Zen temples, a towering outdoor bronze Buddha, and a laid-back coastal atmosphere that makes it one of the most rewarding day trips from Tokyo."
+  },
+  "overview": "Kamakura served as the seat of Japan's first military government (shogunate) from 1185 to 1333, a period that established the warrior class as Japan's dominant political force and introduced Zen Buddhism from China. The city's geography — surrounded on three sides by forested hills and fronting the sea — made it a natural fortress and contributes to its enduring charm. Despite its small size (population 170,000), Kamakura packs an extraordinary density of cultural treasures: over 65 temples and 19 shrines within its compact borders, including five of the great Zen temples (Kamakura Gozan) that shaped Japanese art, architecture, and philosophy. The 13th-century Great Buddha (Daibutsu), a 13.35-meter bronze Amida Buddha sitting in open air since a tsunami destroyed its hall in 1498, is one of Japan's most iconic images. Today Kamakura balances its historical character with a relaxed beach-town vibe, attracting surfers, hikers, and weekend visitors from Tokyo alongside temple pilgrims and history enthusiasts.",
+  "neighborhoods": [
+    {
+      "name": "Kamakura Station Area & Komachi-dori",
+      "description": "The area around Kamakura's main station is the commercial heart of the town. Komachi-dori, a bustling pedestrian shopping street extending from the station to Tsurugaoka Hachimangu shrine, is lined with restaurants, cafes, souvenir shops, and food stalls. The street is known for its abundance of food options including shirasu (whitebait) restaurants, matcha cafes, and artisan shops. On weekends, it can become extremely crowded.",
+      "highlights": [
+        "Komachi-dori shopping and dining street",
+        "Tsurugaoka Hachimangu Shrine",
+        "Numerous cafes and restaurants",
+        "Souvenir and craft shops"
+      ]
+    },
+    {
+      "name": "Hase (長谷)",
+      "description": "The area around Hase Station on the Enoden line is home to Kamakura's two most famous attractions: the Great Buddha at Kotoku-in and the Hase-dera Temple with its enormous wooden Kannon statue and beautiful gardens. The streets between the station and these sites are lined with small restaurants, craft shops, and traditional sweet shops. The area has a quieter, more refined atmosphere than the busy station area.",
+      "highlights": [
+        "Great Buddha (Daibutsu) at Kotoku-in",
+        "Hase-dera Temple and gardens",
+        "Charming streets with local shops",
+        "Views over Yuigahama Beach"
+      ]
+    },
+    {
+      "name": "Kita-Kamakura (北鎌倉)",
+      "description": "One stop north of Kamakura on the JR Yokosuka Line, Kita-Kamakura is a quieter, more atmospheric area with several of Kamakura's most important Zen temples nestled in forested valleys. Engaku-ji and Kencho-ji, the first and second of the Kamakura Gozan (Five Great Zen Temples), are steps from the station. The area has a more contemplative atmosphere, with fewer tourists and more opportunities for peaceful temple exploration.",
+      "highlights": [
+        "Engaku-ji Temple",
+        "Kencho-ji Temple",
+        "Meigetsuin (Hydrangea Temple)",
+        "Peaceful forest paths between temples"
+      ]
+    },
+    {
+      "name": "Yuigahama & Zaimokuza Beach (由比ヶ浜・材木座)",
+      "description": "Kamakura's coastal side offers a completely different atmosphere from its temple districts. Yuigahama Beach is the main swimming and surfing beach, with a lively summer scene of beach houses (temporary seasonal restaurants and bars). Zaimokuza Beach is quieter and popular with windsurfers. The beachfront area has a growing cafe and restaurant scene that operates year-round, giving Kamakura its distinctive beach-town character.",
+      "highlights": [
+        "Yuigahama Beach swimming and surfing",
+        "Summer beach houses (umi no ie)",
+        "Year-round beachfront cafes",
+        "Sunset views over Enoshima"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "The nearest airport is Tokyo's Haneda Airport (HND), approximately 1 hour away by Keikyu Line to Yokohama then JR Yokosuka Line to Kamakura. From Narita Airport (NRT), allow 2-2.5 hours via Tokyo.",
+    "byTrain": "JR Yokosuka Line runs directly from Tokyo Station to Kamakura (57 minutes, ¥950) and from Yokohama (25 minutes, ¥350). From Shinjuku, the JR Shonan-Shinjuku Line reaches Kamakura in about 60 minutes (¥950). The charming Enoshima Electric Railway (Enoden) connects Kamakura to Enoshima and Fujisawa along the coast (34 minutes end to end, ¥310).",
+    "byBus": "Local buses from Kamakura Station serve destinations not on train lines, but trains are the primary transport for arriving in Kamakura."
+  },
+  "gettingAround": "Kamakura is best explored on foot and by train. Most temples in the central and Kita-Kamakura areas are walkable, and several hiking trails connect different temple clusters through forested hills. The Enoden (Enoshima Electric Railway) is a charming two-car tram running along the coast from Kamakura to Fujisawa, connecting Hase (for the Great Buddha), the beaches, and Enoshima island. JR Yokosuka Line connects Kamakura to Kita-Kamakura (3 minutes). Rental bicycles are available near the station for ¥1,500-2,000 per day and are practical for reaching the Great Buddha area and beaches. The hills make some cycling routes moderately challenging.",
+  "bestTimeToVisit": {
+    "best": "April and June and November to December",
+    "description": "Cherry blossom season (late March to mid-April) and autumn foliage (late November to mid-December) are the most beautiful times, but Kamakura's hydrangea season (mid-June) is equally spectacular and uniquely Kamakura. The city is a year-round destination, with the beaches adding summer appeal.",
+    "seasons": {
+      "spring": "March-May: Cherry blossoms peak late March to early April, 10-22°C. Tsurugaoka Hachimangu's approach and Kenchoji are prime spots. Comfortable walking weather.",
+      "summer": "June-August: Hydrangeas bloom mid-June at Meigetsuin and Hase-dera. 22-32°C. Beaches open for swimming July-August with seasonal beach houses. Hot and humid but ocean breezes help.",
+      "autumn": "September-November: Comfortable temperatures, 12-24°C. Autumn foliage peaks late November to mid-December, later than Tokyo. Engaku-ji and Hase-dera are prime viewing spots.",
+      "winter": "December-February: Cool and clear, 3-12°C. Fewer tourists. Hatsumode (New Year shrine visits) at Tsurugaoka Hachimangu draw large crowds January 1-3. Clear winter days offer beautiful temple scenery."
+    }
+  },
+  "budget": {
+    "backpacker": "$40-65/day",
+    "midRange": "$100-200/day",
+    "luxury": "$250-500+/day",
+    "details": "Budget guesthouses cost ¥4,000-7,000 ($27-47). Mid-range hotels and traditional inns range from ¥10,000-25,000 ($67-167). Great Buddha entry costs ¥300 ($2). Most temple entry fees are ¥200-500 ($1.30-3.30). Shirasu (whitebait) rice bowl costs ¥1,000-1,500 ($7-10). Coffee at a Komachi-dori cafe runs ¥500-800 ($3-5). Enoden day pass is ¥800 ($5). A day trip from Tokyo costs roughly ¥2,000-3,000 ($13-20) for round-trip train fare."
+  },
+  "mustDo": [
+    {
+      "name": "Stand before the Great Buddha (Daibutsu)",
+      "description": "Kamakura's most iconic sight is this serene 13.35-meter, 93-ton bronze Amida Buddha at Kotoku-in temple, cast in 1252. The statue has sat in the open air since 1498, when a tsunami washed away the hall that originally housed it. For ¥50 extra, you can enter the hollow interior to see the casting techniques. The quiet morning hours offer the most contemplative experience."
+    },
+    {
+      "name": "Explore the bamboo garden at Hokoku-ji",
+      "description": "This Zen temple's grove of over 2,000 moso bamboo stalks creates a serene, otherworldly atmosphere. A small tea house within the grove serves matcha tea and sweets (¥600) — sipping tea surrounded by towering bamboo is one of Kamakura's most memorable experiences. Entry is ¥300. Visit early morning for the best light filtering through the bamboo canopy."
+    },
+    {
+      "name": "Walk the Daibutsu Hiking Trail",
+      "description": "This scenic 3km hiking trail through forested hills connects Kita-Kamakura to the Great Buddha area, passing by several temples and offering glimpses of the sea through the trees. The trail takes about 1.5 hours at a leisurely pace and offers a completely different perspective on Kamakura than the busy streets below. Start at Jochi-ji temple in Kita-Kamakura."
+    },
+    {
+      "name": "Visit Tsurugaoka Hachimangu Shrine",
+      "description": "Kamakura's most important shrine, founded by Minamoto Yoritomo (the first Kamakura shogun) in 1180, sits at the top of a broad ceremonial approach (dankazura) flanked by cherry trees. The shrine complex includes a museum of temple treasures, lotus ponds, and in September, the spectacular yabusame (horseback archery) festival. The wide stone staircase to the main hall offers views over the city to the sea."
+    },
+    {
+      "name": "Ride the Enoden coastal railway",
+      "description": "The Enoshima Electric Railway (Enoden) is one of Japan's most charming train lines, running two-car trams through residential streets so narrow they nearly touch the houses, along the coast with Pacific Ocean views, and between Kamakura's major sights. The stretch between Kamakura-Koko-mae and Inamuragasaki, with the sea right beside the tracks, is particularly famous and has appeared in countless films and anime."
+    },
+    {
+      "name": "See the hydrangeas at Meigetsuin",
+      "description": "Known as the 'Hydrangea Temple,' Meigetsuin in Kita-Kamakura becomes a sea of blue hydrangeas in mid-June, drawing photographers and flower lovers from across Japan. The temple's round 'Window of Enlightenment' framing the inner garden is another famous image. Entry is ¥500 (¥700 during hydrangea season). Arrive before opening (8:30am) to avoid long queues."
+    }
+  ],
+  "food": {
+    "description": "Kamakura's food scene reflects its dual identity as a historic temple town and coastal resort. Fresh seafood, particularly shirasu (whitebait) caught in Sagami Bay, is the signature ingredient, while the town's Buddhist heritage influences its vegetarian temple cuisine (shojin ryori). Komachi-dori and the streets around the stations offer a wide variety of dining options from traditional to trendy.",
+    "specialties": [
+      "Shirasu (Whitebait) — Tiny translucent fish served raw (nama-shirasu, available April-December) or boiled (kamaage shirasu) on rice bowls. Kamakura's signature dish",
+      "Kamakura Vegetables (Kamakura Yasai) — Locally grown heritage vegetables used by restaurants throughout the town. The morning market at Renbaijo is the source",
+      "Kencho-ji style Kenchinjiru — A hearty vegetable soup originally created at Kencho-ji temple, a Kamakura original that spread throughout Japan",
+      "Matcha and Wagashi — Kamakura's many temples and tea houses serve high-quality matcha with seasonal Japanese sweets. Hokoku-ji's bamboo garden tea house is exceptional",
+      "Daibutsu Manjuu — Buddha-shaped sweet buns sold near the Great Buddha, a popular souvenir in various flavors"
+    ]
+  },
+  "safety": "Kamakura is extremely safe. The main considerations are crowded conditions on weekends and holidays (particularly on Komachi-dori and at the Great Buddha), uneven stone steps at temples that can be slippery when wet, and strong ocean currents at the beaches. Hiking trails are well-marked but bring water and appropriate footwear. In summer, be prepared for heat and carry sun protection. Tap water is safe to drink.",
+  "localTips": [
+    "Visit on weekdays if possible — Kamakura is one of Tokyo's most popular day trips and weekends can be overwhelmingly crowded, especially on Komachi-dori.",
+    "Start at Kita-Kamakura in the morning for the quietest temple experiences, then work south toward the busier Kamakura Station area.",
+    "Raw shirasu (nama-shirasu) is only available from about April to December, with a fishing ban in January-March. Boiled shirasu is available year-round.",
+    "The Daibutsu Hiking Trail is a wonderful way to connect Kita-Kamakura with the Hase/Great Buddha area while avoiding the busy roads. Wear proper shoes as the trail has roots and stones.",
+    "Take the Enoden to Enoshima to extend your day trip — the island has a shrine, caves, a spa with ocean views, and excellent seafood restaurants."
+  ],
+  "dayTrips": [
+    {
+      "name": "Enoshima",
+      "distance": "10km west, approximately 25 minutes by Enoden",
+      "description": "This small island connected to the mainland by a bridge offers Enoshima Shrine, sea caves, a Samuel Cocking Garden with an observation lighthouse (Sea Candle), and excellent fresh seafood restaurants. On clear days, Mount Fuji is visible across Sagami Bay. Combined with Kamakura, it makes a perfect full day."
+    },
+    {
+      "name": "Yokohama",
+      "distance": "22km north, approximately 25 minutes by JR Yokosuka Line",
+      "description": "Japan's second-largest city offers the atmospheric Chinatown (Japan's largest), the Minato Mirai waterfront district with its striking skyline, the Cup Noodles Museum, and Sankeien Garden. Yokohama's international heritage as Japan's first major port gives it a cosmopolitan character."
+    },
+    {
+      "name": "Shonan Coast",
+      "distance": "5-15km west, along the Enoden line",
+      "description": "The Shonan coast stretching west from Kamakura is Japan's most famous surf culture area. The beach towns of Kugenuma and Chigasaki offer a relaxed California-esque vibe, with surf shops, beachfront cafes, and views of Enoshima and Mount Fuji. The Enoden railway runs along portions of the coast."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Japan Guide — Kamakura (japan-guide.com/e/e2166.html)",
+    "Kamakura City Tourism Association (trip-kamakura.com)"
+  ]
+}

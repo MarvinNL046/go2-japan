@@ -1,0 +1,169 @@
+{
+  "slug": "tokyo",
+  "name": {
+    "en": "Tokyo"
+  },
+  "japaneseName": "東京",
+  "image": "/images/cities/tokyo.webp",
+  "region": "Kanto",
+  "highlights": [
+    "Shibuya Crossing",
+    "Ancient Temples & Shrines",
+    "World-Class Cuisine",
+    "Akihabara Pop Culture",
+    "Cherry Blossom Season"
+  ],
+  "description": {
+    "en": "Japan's sprawling capital is a mesmerizing collision of ultramodern technology and ancient tradition, where neon-lit skyscrapers tower over serene Shinto shrines and centuries-old gardens. Tokyo rewards endless exploration with its world-leading food scene, quirky subcultures, and neighborhoods that each feel like their own distinct city."
+  },
+  "overview": "Tokyo, Japan's capital and the world's most populous metropolitan area with over 37 million people, is a city of staggering contrasts and limitless discovery. Originally a small fishing village called Edo, it became the seat of the Tokugawa shogunate in 1603 and was renamed Tokyo ('Eastern Capital') when Emperor Meiji moved the imperial court here in 1868. The city was devastated twice in the 20th century — by the 1923 Great Kanto Earthquake and by World War II firebombing — and rebuilt itself each time into something more ambitious. Today Tokyo is a global capital of finance, technology, fashion, and gastronomy, holding more Michelin stars than any other city on earth. Yet for all its modernity, Tokyo is deeply rooted in tradition: ancient temples like Senso-ji in Asakusa, the Imperial Palace grounds in the city center, and the forested Meiji Shrine in Harajuku offer tranquil counterpoints to the electric energy of Shibuya, Shinjuku, and Akihabara. Each of Tokyo's 23 special wards has its own personality, making it a city you could spend months exploring without exhausting its possibilities.",
+  "neighborhoods": [
+    {
+      "name": "Shinjuku (新宿)",
+      "description": "Tokyo's bustling commercial and entertainment hub is home to the world's busiest railway station, processing over 3.5 million passengers daily. The west side features a dramatic skyline of skyscrapers including the Tokyo Metropolitan Government Building with its free observation decks. The east side gives way to the neon-drenched entertainment district of Kabukicho, while hidden alleyways like Golden Gai — a labyrinth of over 200 tiny bars, each seating 6-10 people — and Omoide Yokocho ('Memory Lane') offer atmospheric drinking and yakitori.",
+      "highlights": [
+        "Tokyo Metropolitan Government Building observation decks (free)",
+        "Golden Gai tiny bar district",
+        "Omoide Yokocho (Piss Alley) yakitori stalls",
+        "Kabukicho entertainment district",
+        "Shinjuku Gyoen National Garden"
+      ]
+    },
+    {
+      "name": "Shibuya (渋谷)",
+      "description": "Famous for its iconic scramble crossing where up to 3,000 people cross simultaneously at peak times, Shibuya is Tokyo's youth culture epicenter. The area around the Hachiko statue (the faithful dog who waited for his deceased owner) is a major meeting point. Recent developments like Shibuya Sky observation deck and Shibuya Stream have modernized the district, while nearby Daikanyama and Nakameguro offer a more refined, tree-lined atmosphere with independent boutiques and specialty coffee shops.",
+      "highlights": [
+        "Shibuya Scramble Crossing",
+        "Hachiko Statue",
+        "Shibuya Sky observation deck",
+        "Center-gai shopping street",
+        "Nearby Daikanyama and Nakameguro"
+      ]
+    },
+    {
+      "name": "Asakusa (浅草)",
+      "description": "Tokyo's most traditionally atmospheric neighborhood centers on Senso-ji, the city's oldest temple founded in 645 AD. The approach via Kaminarimon ('Thunder Gate') with its massive red lantern leads through Nakamise-dori, a 250-meter shopping street selling traditional crafts, rice crackers, and souvenirs. The surrounding streets retain an old-town feel with rickshaw rides, traditional inns (ryokan), and views across the Sumida River to the Tokyo Skytree.",
+      "highlights": [
+        "Senso-ji Temple and Kaminarimon Gate",
+        "Nakamise-dori shopping street",
+        "Views of Tokyo Skytree across the river",
+        "Traditional craft shops and sweet stalls"
+      ]
+    },
+    {
+      "name": "Harajuku & Omotesando (原宿・表参道)",
+      "description": "Harajuku's Takeshita Street is the epicenter of Japanese youth fashion, packed with colorful boutiques, crepe stands, and cosplay shops. Just steps away, the tree-lined Omotesando boulevard — sometimes called Tokyo's Champs-Elysees — is lined with flagship stores by world-renowned architects (Tadao Ando's Omotesando Hills, Toyo Ito's Tod's building, SANAA's Dior). Between these extremes lies the forested approach to Meiji Shrine, one of Tokyo's most important Shinto sites.",
+      "highlights": [
+        "Takeshita Street youth fashion",
+        "Meiji Shrine (Meiji Jingu)",
+        "Omotesando architectural flagship stores",
+        "Cat Street vintage shops"
+      ]
+    },
+    {
+      "name": "Akihabara (秋葉原)",
+      "description": "Known worldwide as 'Electric Town,' Akihabara is the beating heart of Japan's otaku (geek) culture. Multi-story electronics shops like Yodobashi Camera sit alongside anime and manga stores, retro game arcades, maid cafes, and figure shops. The district has evolved from a postwar black market for radio parts to the global symbol of Japanese pop culture, attracting fans from around the world.",
+      "highlights": [
+        "Electronics mega-stores",
+        "Anime and manga shops",
+        "Retro game arcades",
+        "Maid cafes and themed restaurants"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Tokyo is served by two airports. Narita International Airport (NRT), 60km east of the city center, handles most international flights. The Narita Express (N'EX) train reaches Tokyo Station in 53 minutes (around ¥3,250). Limousine buses serve major hotels and stations (¥3,200, 85-120 minutes). Haneda Airport (HND), just 15km south of central Tokyo, handles domestic and an increasing number of international flights. The Tokyo Monorail reaches Hamamatsucho in 13 minutes (¥500), while the Keikyu Line reaches Shinagawa in 11 minutes (¥300).",
+    "byTrain": "Tokyo Station and Shinagawa Station are major Shinkansen (bullet train) hubs. The Tokaido Shinkansen connects to Kyoto (2 hours 15 minutes), Osaka (2 hours 30 minutes), and Hiroshima (4 hours). The Tohoku Shinkansen runs north to Sendai (1.5 hours) and Shin-Aomori (3 hours). The Hokuriku Shinkansen reaches Kanazawa (2.5 hours). A Japan Rail Pass covers unlimited travel on most JR trains and is highly recommended for multi-city trips.",
+    "byBus": "Highway buses connect Tokyo to most major cities and are the budget option. Buses to Osaka and Kyoto take 7-9 hours (from ¥3,000-6,000 for overnight services). Major terminals include Shinjuku Expressway Bus Terminal (Busta Shinjuku), Tokyo Station Yaesu South Exit, and Ikebukuro. Operators include Willer Express, JR Bus, and Jamjamliner."
+  },
+  "gettingAround": "Tokyo's public transportation network is one of the world's most efficient and extensive. The system combines JR lines (including the circular Yamanote Line connecting major stations), Tokyo Metro (9 lines), and Toei Subway (4 lines). Get a Suica or Pasmo IC card for seamless tap-and-go payment across all trains, buses, and even convenience stores. Single subway rides cost ¥170-320. A Tokyo Subway Ticket (24/48/72-hour unlimited Metro and Toei rides) is excellent value for tourists at ¥800/1,200/1,500. Taxis are clean and safe but expensive (starting at ¥500, roughly ¥400-500 per km). Walking and cycling are excellent for exploring individual neighborhoods. Trains run approximately 5:00am to midnight; plan your evening accordingly or be prepared for a taxi if you miss the last train.",
+  "bestTimeToVisit": {
+    "best": "March to May and October to November",
+    "description": "Spring cherry blossom season (late March to mid-April) and autumn foliage (mid-November to early December) are Tokyo's most spectacular and popular times. The weather is pleasant, skies are often clear, and the city's parks and gardens are at their most beautiful. Be aware that these peak seasons bring larger crowds and higher hotel prices.",
+    "seasons": {
+      "spring": "March-May: Cherry blossoms peak late March to mid-April, 10-22°C. Hanami (flower viewing) parties fill parks like Ueno, Shinjuku Gyoen, and Chidorigafuchi. Pleasant temperatures and mostly dry weather.",
+      "summer": "June-August: Hot and humid, 25-35°C. June brings tsuyu (rainy season) with persistent drizzle. July-August are intensely hot but feature major festivals including Sumidagawa Fireworks and Bon Odori dances.",
+      "autumn": "September-November: Comfortable temperatures, 12-25°C. Autumn leaves peak mid-November to early December. Clear skies and mild weather make this ideal for sightseeing. Many cultural festivals and events.",
+      "winter": "December-February: Cold but mostly dry and sunny, 2-12°C. Clear winter days offer the best views of Mount Fuji from the city. Excellent for hot spring visits. Holiday illuminations transform neighborhoods in December."
+    }
+  },
+  "budget": {
+    "backpacker": "$50-80/day",
+    "midRange": "$120-250/day",
+    "luxury": "$350-800+/day",
+    "details": "Hostel dorm beds cost ¥2,500-4,000 ($17-27). Budget business hotels (like Toyoko Inn or APA Hotel) range from ¥6,000-10,000 ($40-67) per night. Mid-range hotels cost ¥15,000-35,000 ($100-235). Convenience store meals (onigiri, bento) cost ¥300-800 ($2-5). Ramen or curry at a casual restaurant runs ¥800-1,200 ($5-8). A sushi lunch set at a quality restaurant costs ¥1,500-3,000 ($10-20). A draft beer at an izakaya is ¥400-600 ($3-4). Train rides within central Tokyo cost ¥170-320 ($1-2) per trip."
+  },
+  "mustDo": [
+    {
+      "name": "Experience the Shibuya Scramble Crossing",
+      "description": "Stand at the world's busiest pedestrian intersection and cross with up to 3,000 people at once. For the best view, head to the Shibuya Sky observation deck (¥2,000) on the rooftop of Shibuya Scramble Square, or watch from the Starbucks on the second floor of the Tsutaya building overlooking the crossing."
+    },
+    {
+      "name": "Visit Meiji Shrine and walk through the forested approach",
+      "description": "Enter through the towering 12-meter torii gate and walk the gravel path through 70 hectares of dense forest — remarkably, every one of the 120,000 trees was donated from across Japan and planted by volunteers when the shrine was built in 1920. The shrine itself honors Emperor Meiji and Empress Shoken. Time your visit for morning to witness traditional wedding processions."
+    },
+    {
+      "name": "Eat at Tsukiji Outer Market",
+      "description": "While the inner wholesale market moved to Toyosu in 2018, the Tsukiji Outer Market remains a vibrant warren of over 400 shops and stalls selling the freshest sushi, tamagoyaki (Japanese omelet), oysters, wagyu beef skewers, and matcha sweets. Arrive before 9am for the best experience. For the wholesale tuna auction, visit Toyosu Market (advance reservation required)."
+    },
+    {
+      "name": "Explore Senso-ji Temple in Asakusa",
+      "description": "Tokyo's oldest and most visited temple dates to 645 AD. Pass through the iconic Kaminarimon gate with its giant red lantern, browse the traditional shops along Nakamise-dori, and admire the five-story pagoda. Visit early morning or evening to avoid peak crowds and see the temple beautifully illuminated. Draw an omikuji (fortune slip) for ¥100 — Senso-ji is famous for its high rate of bad fortunes, which you can tie to a rack to leave behind."
+    },
+    {
+      "name": "Drink in Golden Gai's tiny bars",
+      "description": "This atmospheric cluster of six narrow alleys in Shinjuku contains over 200 tiny bars, most seating fewer than 10 people. Each has its own theme, character, and regular crowd — from jazz to punk rock to cinema. Some charge a cover (¥500-1,500) and a few are locals-only, but many warmly welcome visitors. Go after 8pm and be prepared for intimate, memorable conversations."
+    },
+    {
+      "name": "See Tokyo from above at the Tokyo Skytree",
+      "description": "At 634 meters, the Tokyo Skytree is the world's tallest free-standing broadcast tower. The Tembo Deck (350m, ¥2,100) and Tembo Galleria (450m, additional ¥1,000) offer extraordinary panoramic views. On clear days, Mount Fuji is visible to the west. Visit at sunset for the most dramatic experience, watching the city transform from daylight to a sea of lights."
+    }
+  ],
+  "food": {
+    "description": "Tokyo holds more Michelin stars than any other city in the world, but its culinary greatness extends far beyond fine dining. From standing soba counters in train stations to seven-course kaiseki meals, from conveyor-belt sushi to smoky yakitori alleys, Tokyo's food scene is defined by an obsessive pursuit of perfection at every price point. Many of the best meals cost under ¥1,000.",
+    "specialties": [
+      "Sushi — From ¥1,000 conveyor-belt kaiten-zushi to legendary omakase at Sukiyabashi Jiro. Tsukiji Outer Market and Toyosu are essential for sushi lovers",
+      "Ramen — Tokyo's signature style is shoyu (soy sauce) based with curly noodles. Famous shops like Fuunji (tsukemen), Afuri (yuzu shio), and Ichiran (tonkotsu) draw long queues",
+      "Tonkatsu — Thick-cut, panko-breaded deep-fried pork cutlet. Maisen in Omotesando and Butagumi in Nishi-Azabu are legendary",
+      "Monjayaki — Tokyo's answer to Osaka's okonomiyaki: a savory, gooey batter cooked on a griddle. Best experienced on Monja Street in Tsukishima",
+      "Yakitori — Charcoal-grilled chicken skewers, from standard cuts to adventurous parts. The smoky alleys of Yurakucho under the train tracks and Omoide Yokocho in Shinjuku are iconic",
+      "Tempura — Light, crispy battered seafood and vegetables. Tendon (tempura rice bowl) from Tenya starts at ¥500 for a satisfying meal"
+    ]
+  },
+  "safety": "Tokyo is one of the safest major cities in the world. Violent crime against tourists is virtually nonexistent, and it is common to see unattended bags, wallets left on cafe tables, and children riding trains alone. Lost items are routinely turned in to station offices and police boxes (koban). The main concerns for visitors are natural disasters (earthquakes — familiarize yourself with building evacuation procedures), crowded trains during rush hour (8-9:30am), and the occasional drink-spiking scam in Roppongi nightlife establishments. Tap water is safe to drink throughout Tokyo. Carry cash, as many small restaurants and shops do not accept credit cards despite Japan's reputation for technology.",
+  "localTips": [
+    "Get a Suica or Pasmo IC card immediately upon arrival — it works on virtually all trains, buses, and even vending machines and convenience stores throughout Japan.",
+    "Many restaurants use ticket vending machines (shokkenki) at the entrance. Insert money, select your dish from the buttons (many have photos), take the ticket to the counter. It is perfectly normal and efficient.",
+    "Tipping is not practiced in Japan and can actually be considered rude. Service charges are included in the price.",
+    "Convenience stores (7-Eleven, FamilyMart, Lawson) are genuinely excellent in Japan, offering fresh onigiri, bento boxes, quality coffee, and ATMs that accept foreign cards.",
+    "Trains stop running around midnight. If you miss the last train, options include capsule hotels, manga cafes (which offer reclining chairs and showers for around ¥2,000), or taxis (expensive but safe).",
+    "Carry a small towel or handkerchief — most public restrooms do not have paper towels or hand dryers, and you will see locals use personal towels."
+  ],
+  "dayTrips": [
+    {
+      "name": "Kamakura",
+      "distance": "50km south, approximately 1 hour by JR Yokosuka Line",
+      "description": "The former medieval capital of Japan is home to the iconic Great Buddha (Kotoku-in), the stunning bamboo groves of Hokoku-ji Temple, and dozens of atmospheric temples and shrines set among forested hills. The Enoshima Electric Railway (Enoden) runs along the coast and is an experience in itself."
+    },
+    {
+      "name": "Nikko",
+      "distance": "150km north, approximately 2 hours by Tobu Railway",
+      "description": "The lavishly decorated UNESCO World Heritage shrines and temples of Nikko, including the ornate Toshogu Shrine (mausoleum of Tokugawa Ieyasu), are set amid towering cryptomeria cedar forests. The nearby Kegon Falls and Lake Chuzenji add natural beauty to the cultural riches."
+    },
+    {
+      "name": "Hakone",
+      "distance": "90km southwest, approximately 1.5 hours by Odakyu Railway",
+      "description": "A popular hot spring resort area in the mountains with views of Mount Fuji. The Hakone Free Pass covers the loop route including mountain railway, cable car, ropeway, and pirate ship across Lake Ashi. Visit the Hakone Open-Air Museum and soak in an onsen (hot spring bath)."
+    },
+    {
+      "name": "Mount Fuji & Kawaguchiko",
+      "distance": "100km west, approximately 2 hours by direct bus from Shinjuku",
+      "description": "Japan's iconic 3,776-meter volcano is visible from Tokyo on clear days. The Five Lakes (Fuji Goko) region at its base, particularly Kawaguchiko, offers stunning views, the Chureito Pagoda photo spot, and the eerie Aokigahara forest. The climbing season runs July to early September."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Japan Guide (japan-guide.com/e/e2164.html)",
+    "Tokyo Convention & Visitors Bureau (gotokyo.org)"
+  ]
+}

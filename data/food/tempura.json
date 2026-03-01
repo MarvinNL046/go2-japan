@@ -1,0 +1,115 @@
+{
+  "slug": "tempura",
+  "name": {
+    "en": "Tempura",
+    "nl": "Tempura"
+  },
+  "japaneseName": "天ぷら (てんぷら)",
+  "image": "/images/food/tempura.webp",
+  "category": "Fried",
+  "description": {
+    "en": "Lightly battered and deep-fried seafood and vegetables with an impossibly crisp, lacy coating that shatters at the first bite while keeping the ingredients inside perfectly tender and steaming.",
+    "nl": "Licht gepaneerd en gefrituurd zeevoedsel en groenten met een ongelooflijk knapperig, kantachtig laagje dat bij de eerste hap breekt terwijl de ingredienten binnenin perfect mals en dampend blijven."
+  },
+  "overview": "Tempura is the art of frying elevated to its highest form. While the concept of battering and deep-frying food arrived in Japan via Portuguese missionaries in the 16th century, Japanese cooks transformed it into something entirely different — a dish of remarkable lightness and delicacy where the batter serves not to mask but to enhance the natural flavor of each ingredient. The secret lies in the batter: ice-cold water mixed briefly with soft wheat flour, deliberately under-mixed so lumps remain, creating the characteristic lacy, crisp coating that is never heavy or greasy. Master tempura chefs dedicate their careers to perfecting the oil temperature (typically 170-180 degrees Celsius), the thickness of the batter, and the precise frying time for each ingredient — a shiso leaf might need 15 seconds while a sweet potato slice requires three minutes. At high-end tempura counters, diners sit before the chef and receive each piece moments after it leaves the oil, served on a sheet of handmade washi paper that absorbs any excess oil.",
+  "origin": {
+    "region": "Originated in Nagasaki, perfected in Tokyo (Edo)",
+    "history": "Tempura derives from the Portuguese 'tempero' (seasoning) or 'tempora' (times, referring to Lent fasting periods when Catholics ate fried vegetables and fish instead of meat). Portuguese missionaries and traders introduced the frying technique to Nagasaki in the 16th century. The dish migrated to Edo (Tokyo) where it became a popular street food sold at outdoor stalls (yatai) during the Edo period (1603-1868). Tokugawa Ieyasu, the founder of the Tokugawa shogunate, was famously fond of tempura. Over time, Edo-style tempura evolved into a refined culinary tradition, with dedicated tempura restaurants emerging in the late 19th century. Today, Edo-mae (Tokyo-style) tempura using sesame oil is considered the pinnacle of the craft."
+  },
+  "ingredients": {
+    "main": [
+      "Soft wheat flour (hakurikiko)",
+      "Ice-cold water",
+      "Egg (sometimes)",
+      "Sesame oil and/or vegetable oil for frying"
+    ],
+    "seafood": [
+      "Ebi (prawns — the most iconic tempura ingredient)",
+      "Kisu (Japanese whiting)",
+      "Anago (conger eel)",
+      "Ika (squid)",
+      "Hotate (scallop)",
+      "Small fish (wakasagi, shirauo)"
+    ],
+    "vegetables": [
+      "Kabocha (Japanese pumpkin)",
+      "Satsumaimo (sweet potato)",
+      "Shiso leaf (perilla)",
+      "Nasu (Japanese eggplant)",
+      "Shiitake mushroom",
+      "Renkon (lotus root)",
+      "Shishito pepper"
+    ],
+    "condiments": [
+      "Tentsuyu (dipping sauce: dashi, soy sauce, mirin)",
+      "Grated daikon radish",
+      "Grated fresh ginger",
+      "Matcha salt or yuzu salt"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Edomae Tempura (Tokyo-style)",
+      "description": "The refined, counter-service style using sesame oil for a richer, nuttier flavor. Pieces are served one at a time directly from the fryer. Focuses on seafood, especially prawns and small fish. Considered the highest form of tempura."
+    },
+    {
+      "name": "Tendon (Tempura Rice Bowl)",
+      "description": "Crispy tempura pieces arranged over a bowl of steamed rice and drizzled with a sweet soy-based tare sauce. An affordable and satisfying lunch option found at dedicated tendon restaurants throughout Japan."
+    },
+    {
+      "name": "Tempura Soba / Udon",
+      "description": "Tempura served atop hot or cold buckwheat soba or wheat udon noodles. The contrast between the crispy batter and the broth or dipping sauce is deeply satisfying. A staple at soba and udon restaurants."
+    },
+    {
+      "name": "Kakiage",
+      "description": "A fritter-style tempura where thinly sliced vegetables and small shrimp are mixed together and fried as a single crispy disc. Common as a topping for soba, udon, or rice bowls."
+    },
+    {
+      "name": "Kansai-style Tempura",
+      "description": "In Osaka and Kyoto, tempura tends to use vegetable oil rather than sesame oil, resulting in a lighter, more neutral flavor. The batter is also typically thinner and crispier, and vegetables play a larger role."
+    }
+  ],
+  "howToOrder": "At a tempura counter (tempura-ya), order a set course (tempura course) where the chef will serve pieces one at a time. Sets typically range from 5 to 12 pieces. At casual restaurants, order a 'tempura teishoku' (set meal) which includes tempura, rice, miso soup, and pickles. For a quick meal, a 'tendon' (tempura bowl) is a great value option. At soba or udon shops, simply add 'tempura' to your noodle order. Dip each piece in tentsuyu sauce with grated daikon, or try with just salt.",
+  "whereToEat": [
+    {
+      "name": "Tempura Kondo",
+      "location": "Ginza, Tokyo",
+      "note": "Two-Michelin-star tempura restaurant run by master chef Fumio Kondo, famous for his sweet potato and carrot tempura that elevate humble vegetables to art. Reservations essential, courses from 13,000 JPY."
+    },
+    {
+      "name": "Tendon Tenya",
+      "location": "Nationwide chain",
+      "note": "Japan's largest tempura bowl chain offering excellent quality tendon starting from 500 JPY. Perfect for a quick, affordable, and satisfying tempura meal."
+    },
+    {
+      "name": "Tsunahachi",
+      "location": "Shinjuku, Tokyo (multiple locations)",
+      "note": "Operating since 1924, this beloved tempura restaurant offers high-quality counter-style tempura at more accessible prices. Lunch sets from 1,500 JPY."
+    },
+    {
+      "name": "Tempura Matsu",
+      "location": "Kyoto",
+      "note": "A refined Kyoto-style tempura restaurant using seasonal Kyoto vegetables (kyo-yasai) and light vegetable oil, reflecting the elegance of Kansai cuisine."
+    }
+  ],
+  "priceRange": {
+    "street": "500 - 1,000 JPY ($3.50 - $7) for tendon at chain restaurants",
+    "restaurant": "1,500 - 5,000 JPY ($10 - $35) for tempura set meals",
+    "upscale": "10,000 - 25,000 JPY ($70 - $175) for counter-service tempura courses"
+  },
+  "tips": [
+    "Eat each piece immediately when served — tempura loses its crispness within minutes",
+    "At counter restaurants, the chef serves pieces one at a time at the optimal moment; eat at the chef's pace",
+    "Try tempura with just salt (matcha salt or yuzu salt) before using the dipping sauce to appreciate the pure flavor",
+    "When dipping in tentsuyu, only dip briefly — do not soak the piece or the batter will become soggy",
+    "Lunch courses at high-end tempura restaurants are significantly cheaper than dinner and often use the same quality ingredients",
+    "The best tempura should feel light, never greasy — if it feels heavy, the oil temperature was wrong"
+  ],
+  "culturalNotes": "Tempura represents one of the most successful examples of Japan's ability to adopt a foreign concept and transform it into something uniquely Japanese. The Portuguese frying technique was refined over 400 years into a sophisticated culinary art form with its own master-apprentice tradition. At the highest level, tempura chefs train for decades and the craft is treated with the same reverence as sushi-making. Tempura also played an important role in making Edo (Tokyo) a great food city — during the Edo period, tempura was one of the three great street foods of Edo alongside sushi and soba. Today, tempura is deeply woven into Japanese food culture: it appears in bento boxes, on New Year's soba, at temple cuisine restaurants, and at Michelin-starred counters, bridging the everyday and the extraordinary.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Michelin Guide Tokyo",
+    "Eric Rath, 'Japan's Cuisines: Food, Place, and Identity' (Reaktion Books, 2016)",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

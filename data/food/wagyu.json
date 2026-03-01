@@ -1,0 +1,104 @@
+{
+  "slug": "wagyu",
+  "name": {
+    "en": "Wagyu Beef",
+    "nl": "Wagyu-rundvlees"
+  },
+  "japaneseName": "和牛 (わぎゅう)",
+  "image": "/images/food/wagyu.webp",
+  "category": "Main",
+  "description": {
+    "en": "Japan's legendary marbled beef, prized for its extraordinary fat distribution that creates a buttery, melt-in-your-mouth texture unlike any other beef in the world — from the famous Kobe beef to lesser-known regional breeds.",
+    "nl": "Japans legendarische gemarmerde rundvlees, gewaardeerd om zijn buitengewone vetverdeling die een boterachtige, smelt-op-je-tong textuur creert die nergens ter wereld wordt geevenaard — van het beroemde Kobe-rundvlees tot minder bekende regionale rassen."
+  },
+  "overview": "Wagyu literally means 'Japanese cow,' but the word has become synonymous with the most exquisitely marbled beef on the planet. Japanese wagyu is defined by its intense intramuscular fat (sashi) — delicate webs of white fat threaded through deep red meat that, when cooked, dissolve into the muscle fibers to create an almost unbelievable tenderness and a rich, sweet, buttery flavor with a clean finish. This marbling is graded on the Japanese Meat Grading Association's scale, with A5 being the highest grade (the 'A' refers to yield, and '5' to meat quality, which itself scores marbling, color, firmness, and fat quality). Achieving A5 marbling requires specific genetics (primarily the Japanese Black, or Kuroge Washu breed), meticulous husbandry with carefully controlled diets, low stress, and years of patient raising — wagyu cattle are typically raised for 28-32 months compared to 18-22 months for conventional beef cattle. The experience of eating true Japanese A5 wagyu for the first time is genuinely revelatory — the fat begins to melt at body temperature, and a single bite delivers a richness so intense that even steak lovers are satisfied after just a few slices.",
+  "origin": {
+    "region": "Nationwide (major brands: Kobe, Matsusaka, Omi, Yonezawa, Miyazaki)",
+    "history": "Cattle have been present in Japan for over 2,000 years, primarily as draft animals for rice farming. Eating beef was effectively banned for over 1,200 years due to Buddhist prohibitions on consuming four-legged animals, and it was not until the Meiji Restoration in 1868 that beef consumption was actively promoted by the government as part of its modernization program. Emperor Meiji publicly ate beef in 1872 to encourage the practice. Japan's cattle breeds — isolated on islands and in valleys with limited crossbreeding — had developed unique genetic traits including a predisposition to intense marbling. The Kobe beef brand was established first, gaining international fame after foreign traders in the port city of Kobe discovered the extraordinary quality of Tajima cattle from Hyogo Prefecture. Other regional brands like Matsusaka (Mie Prefecture) and Omi (Shiga Prefecture) followed, each with strict certification standards."
+  },
+  "ingredients": {
+    "main": [
+      "Japanese wagyu beef (primarily Japanese Black / Kuroge Washu breed)",
+      "Minimal seasoning — salt and pepper, or soy sauce-based dipping sauces"
+    ],
+    "accompaniments": [
+      "Steamed Japanese rice",
+      "Ponzu sauce (citrus soy)",
+      "Grated wasabi",
+      "Rock salt",
+      "Garlic chips",
+      "Grilled seasonal vegetables"
+    ],
+    "condiments": [
+      "Yuzu kosho (citrus chili paste)",
+      "Soy sauce",
+      "Sesame dipping sauce (for shabu-shabu)",
+      "Ponzu with grated daikon"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Kobe Beef (Kobe-gyu)",
+      "description": "The most internationally famous wagyu brand, from Tajima cattle raised in Hyogo Prefecture. Must meet strict criteria: born in Hyogo, raised in Hyogo, slaughtered in Hyogo, with a marbling score of BMS 6 or higher. Only about 3,000 head qualify annually. Genuine Kobe beef restaurants display a certification number."
+    },
+    {
+      "name": "Matsusaka Beef (Matsusaka-ushi)",
+      "description": "Considered by many Japanese beef connoisseurs to be the finest wagyu, raised in Mie Prefecture. Only virgin female cows qualify, pampered with beer-mash feed and massage (at some farms). The fat is said to have a particularly sweet, delicate flavor."
+    },
+    {
+      "name": "Omi Beef (Omi-gyu)",
+      "description": "Japan's oldest beef brand with over 400 years of history, from Shiga Prefecture near Lake Biwa. Known for a refined, mellow fat flavor and particularly fine-grained marbling."
+    },
+    {
+      "name": "Yakiniku (Japanese BBQ)",
+      "description": "Wagyu sliced thin and grilled by diners at their table over charcoal or gas. This is one of the most popular and affordable ways to enjoy wagyu in Japan, as you can order individual cuts and control the cooking yourself."
+    },
+    {
+      "name": "Shabu-shabu / Sukiyaki",
+      "description": "Paper-thin slices of wagyu swished briefly in hot broth (shabu-shabu) or simmered in a sweet soy-based sauce with vegetables (sukiyaki). These hot-pot styles are beloved winter preparations that showcase the marbling as it melts."
+    }
+  ],
+  "howToOrder": "At yakiniku restaurants, order individual cuts by name — 'karubi' (short rib, fattier) and 'rosu' (loin) are the most popular. For a premium experience, ask for 'tokujou' (premium grade) cuts. At steak restaurants, specify your preferred weight (typically 100g-200g for wagyu, as it is very rich) and doneness (medium-rare is recommended for wagyu). For shabu-shabu and sukiyaki, order a set that includes vegetables and rice. Many restaurants offer wagyu lunch sets at significantly lower prices than dinner. Always check whether the restaurant serves genuine Japanese wagyu (wa-gyu) or imported/crossbred beef.",
+  "whereToEat": [
+    {
+      "name": "Mouriya",
+      "location": "Kobe (Sannomiya)",
+      "note": "One of Kobe's most respected teppanyaki steak restaurants, serving certified Kobe beef cooked on a flat iron griddle before you. Lunch courses start from around 8,000 JPY for genuine Kobe beef."
+    },
+    {
+      "name": "Wadakin",
+      "location": "Matsusaka, Mie Prefecture",
+      "note": "Legendary Matsusaka beef restaurant in operation since 1878. They raise their own cattle on a dedicated farm. Both sukiyaki and steak courses are available. A pilgrimage-worthy experience."
+    },
+    {
+      "name": "Gyukatsu Motomura",
+      "location": "Tokyo (Shibuya, Shinjuku), Osaka, major cities",
+      "note": "Specializing in gyukatsu (breaded and deep-fried beef cutlet) served rare with dipping sauces and a hot stone to cook slices to your preferred doneness. A unique and affordable wagyu experience from 1,400 JPY."
+    },
+    {
+      "name": "Any yakiniku restaurant",
+      "location": "Nationwide",
+      "note": "Yakiniku (Japanese BBQ) is the most accessible way to try wagyu. Budget chains like Gyu-Kaku offer wagyu options, while premium yakiniku restaurants serve A5-grade cuts. Prices range widely from 3,000 to 20,000+ JPY per person."
+    }
+  ],
+  "priceRange": {
+    "street": "1,500 - 3,000 JPY ($10.50 - $21) for wagyu bowls or gyukatsu",
+    "restaurant": "5,000 - 12,000 JPY ($35 - $84) for yakiniku or lunch teppanyaki sets",
+    "upscale": "15,000 - 50,000 JPY ($105 - $350) for premium Kobe or Matsusaka beef dinner courses"
+  },
+  "tips": [
+    "Order less wagyu than you think you need — the richness is intense, and 150-200g is typically plenty for one person as a main course",
+    "For the best value, eat wagyu at lunch — many teppanyaki restaurants offer lunch sets with the same quality beef at 40-60% of the dinner price",
+    "At yakiniku, do not overcook wagyu — the marbled fat begins to melt at body temperature, and medium-rare preserves the best texture",
+    "Ask to see the certification certificate if you want to verify genuine Kobe beef — legitimate restaurants display the 10-digit individual identification number",
+    "Try wagyu in different preparations during your trip: teppanyaki steak, yakiniku BBQ, shabu-shabu, and sukiyaki each highlight different aspects of the beef",
+    "Convenience stores like Lawson and 7-Eleven occasionally sell affordable wagyu beef bowls and onigiri for a budget-friendly taste"
+  ],
+  "culturalNotes": "The Japanese relationship with beef is relatively recent in historical terms. For over 1,200 years, a combination of Buddhist beliefs and imperial edicts discouraged the consumption of four-legged animals. The Meiji government's promotion of beef eating in the 1870s was part of a broader campaign to 'strengthen the Japanese body' in the image of Westerners, and it was initially controversial. Today, wagyu has become one of Japan's most important cultural exports and a source of national pride. The strict geographic certification systems (similar to French AOC wine classifications) reflect the Japanese emphasis on provenance, quality control, and regional identity. Each wagyu brand maintains detailed genealogical records — every cow can be traced back through its lineage. The care lavished on wagyu cattle (stress-free environments, carefully balanced diets, and in some cases, individual attention) reflects the Japanese aesthetic principle that extraordinary quality requires extraordinary patience and dedication.",
+  "sources": [
+    "Japan Meat Grading Association",
+    "Kobe Beef Marketing and Distribution Promotion Association",
+    "Japan National Tourism Organization (JNTO)",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "visa-free",
+  "name": "Visa-Free Entry (Visa Exemption)",
+  "description": "Japan maintains visa exemption agreements with 71 countries and territories, allowing their citizens to enter Japan for short-term stays without obtaining a visa in advance. This is the most common way international tourists visit Japan. Eligible passport holders simply arrive at a Japanese port of entry and receive a 'Temporary Visitor' stamp permitting stays of 15, 30, or 90 days depending on their nationality. This visa-free status covers tourism, business meetings, visiting friends and family, attending conferences, and other non-work activities.",
+  "eligibility": "Citizens of 71 countries and territories with visa exemption agreements with Japan. This includes most EU/EEA countries, the United States, Canada, Australia, New Zealand, the United Kingdom, South Korea, Singapore, Hong Kong, Taiwan, and many others. The permitted stay duration varies: most Western countries receive 90 days, while some nations receive 15 or 30 days. Travelers must hold a valid passport and have a return or onward ticket.",
+  "duration": "15, 30, or 90 days depending on nationality. Most Western nationals receive 90 days. Some nationalities (e.g., Brunei, Thailand, Indonesia under certain conditions) receive 15 days.",
+  "requirements": [
+    "Valid passport from an eligible visa-exempt country",
+    "Return or onward ticket (airlines may check this before boarding)",
+    "Sufficient funds for the duration of stay (immigration officers may ask for proof, though this is rare for visa-exempt nationals)",
+    "No criminal record that would trigger an entry ban",
+    "Must not intend to work or engage in paid activities",
+    "Complete the Visit Japan Web registration (recommended but not always mandatory) or fill out the arrival card on the plane",
+    "Completed customs declaration form"
+  ],
+  "applicationProcess": [
+    "Verify your nationality is on Japan's visa exemption list on the Ministry of Foreign Affairs website",
+    "Ensure your passport is valid for the duration of your stay (6 months validity recommended though not strictly required for all nationalities)",
+    "Book your flights and accommodation",
+    "Optionally register on Visit Japan Web (visit-japan-web.digital.go.jp) to pre-register your customs and immigration information for faster processing at arrival",
+    "Complete the disembarkation card provided on your flight or at the airport",
+    "Upon arrival, proceed to the immigration counter, present your passport, arrival card, and return ticket if requested",
+    "Provide fingerprints and a facial photograph at the immigration counter (required for all foreign nationals over 16)",
+    "Receive your entry stamp — check that the dates and permitted stay duration are correct"
+  ],
+  "cost": "Free — no visa fees apply for visa-exempt entry",
+  "processingTime": "No advance processing required. Entry is granted at the port of arrival, typically taking 5-30 minutes at the immigration counter depending on queue length. Visit Japan Web pre-registration can speed up the process.",
+  "importantNotes": [
+    "The 90-day (or 15/30-day) visa-free stay cannot be extended at immigration offices within Japan in most cases — plan your trip within the permitted duration",
+    "Visa-free entry does not permit any form of employment, paid work, or remunerated activity — this includes teaching, freelancing, and volunteer work that provides compensation",
+    "Japan counts your stay from the day of arrival to the day of departure — the entry and exit days both count toward your permitted stay",
+    "If you plan to leave Japan and return during the same trip (e.g., a side trip to South Korea), you will receive a new entry stamp and a fresh stay period upon return",
+    "Japanese immigration has become increasingly strict about repeated short stays — if you leave and immediately re-enter multiple times, you may be questioned or denied entry",
+    "Always carry your passport while in Japan — Japanese law requires foreign nationals to have their passport or residence card available for police identification checks",
+    "Visit Japan Web registration is increasingly expected and will speed up your arrival process significantly — register at least 2 weeks before your trip",
+    "Some nationalities that normally qualify for visa-free entry may need to check whether the exemption has been temporarily suspended — this occurred during COVID-19"
+  ]
+}

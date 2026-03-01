@@ -1,0 +1,101 @@
+{
+  "slug": "takoyaki",
+  "name": {
+    "en": "Takoyaki",
+    "nl": "Takoyaki"
+  },
+  "japaneseName": "たこ焼き (たこやき)",
+  "image": "/images/food/takoyaki.webp",
+  "category": "Street Food",
+  "description": {
+    "en": "Golden, crispy-on-the-outside, molten-on-the-inside octopus balls — a quintessential Osaka street food made by pouring batter into hemispherical molds and spinning each ball with a pick until perfectly round and piping hot.",
+    "nl": "Goudkleurige, knapperig-van-buiten, smeuig-van-binnen octopusballetjes — een typisch Osaka straatgerecht dat wordt gemaakt door beslag in halfronde vormen te gieten en elk balletje met een priem te draaien tot het perfect rond en gloeiend heet is."
+  },
+  "overview": "Takoyaki is the undisputed king of Osaka street food and one of the most recognizable Japanese snacks worldwide. These golf-ball-sized spheres are made from a thin wheat flour batter poured into a special cast-iron mold with hemispherical indentations. A chunk of boiled octopus (tako), tenkasu (tempura scraps), pickled ginger, and green onion are dropped into each well, and as the batter sets, the cook uses a pointed pick to skillfully rotate each ball, creating a perfectly round sphere with a crispy golden shell and a creamy, almost molten interior. Watching a takoyaki vendor work the griddle — rapidly spinning dozens of balls with choreographed precision — is street theater in itself. The finished balls are served in a boat-shaped paper tray, drizzled with takoyaki sauce and mayonnaise, and topped with dancing bonito flakes and aonori seaweed. The trick is waiting long enough for them to cool down — the inside reaches scorching temperatures.",
+  "origin": {
+    "region": "Osaka",
+    "history": "Takoyaki was invented in 1935 by Tomekichi Endo, a street food vendor in Osaka's Nishinari ward. He adapted an earlier dish called 'rajioyaki' (radio balls) — which used beef — by substituting octopus, inspired by 'akashiyaki' (egg-based octopus dumplings from nearby Akashi city in Hyogo Prefecture). The dish quickly became Osaka's defining street food. During the post-war years, takoyaki stalls proliferated throughout Osaka, and nearly every household in the city owns a takoyaki griddle for making them at home — it is said that a takoyaki pan is a more essential kitchen item in Osaka than a rice cooker."
+  },
+  "ingredients": {
+    "main": [
+      "Wheat flour batter (flour, eggs, dashi stock, soy sauce)",
+      "Boiled octopus (tako), cut into bite-sized chunks",
+      "Tenkasu (tempura scraps)",
+      "Beni shoga (pickled red ginger)",
+      "Negi (chopped green onion)"
+    ],
+    "toppings": [
+      "Takoyaki sauce (similar to Worcestershire-based okonomiyaki sauce)",
+      "Japanese mayonnaise (Kewpie)",
+      "Katsuobushi (bonito flakes)",
+      "Aonori (green seaweed powder)"
+    ],
+    "condiments": [
+      "Ponzu (citrus soy sauce) — for Akashi-style",
+      "Soy sauce",
+      "Salt and lemon",
+      "Mentaiko (spicy cod roe) mayonnaise"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Standard Osaka Takoyaki",
+      "description": "The classic version with a crispy shell, creamy interior, and chunk of octopus inside, topped with sauce, mayo, bonito flakes, and aonori. The baseline against which all variations are measured."
+    },
+    {
+      "name": "Akashiyaki (Tamagoyaki)",
+      "description": "The predecessor from Akashi city, using a softer, egg-rich batter that creates a more delicate, custard-like ball. Served in a wooden tray and dipped in warm dashi broth rather than topped with sauce. Lighter and more refined."
+    },
+    {
+      "name": "Kari-kari Takoyaki (Crispy Style)",
+      "description": "Fried twice or cooked longer to achieve an extra-crispy exterior throughout. Some shops serve them sauceless with just salt and lemon to highlight the crunch."
+    },
+    {
+      "name": "Cheese / Mentaiko Takoyaki",
+      "description": "Modern variations adding melted cheese inside the ball or replacing the standard sauce with mentaiko (spicy pollock roe) mayonnaise. Popular with younger diners."
+    }
+  ],
+  "howToOrder": "At takoyaki stalls, orders come in portions of 6, 8, or 12 balls. 'Takoyaki hitofune' (one boat) is the standard order. Some shops offer flavor variations — choose between classic sauce, ponzu, shio (salt), or specialty options. Point and choose. At many shops, you can watch the preparation from start to finish. Simply line up, order at the counter, pay, and receive your tray. Some busier spots have ticket machines.",
+  "whereToEat": [
+    {
+      "name": "Wanaka",
+      "location": "Namba, Osaka",
+      "note": "Regularly voted Osaka's best takoyaki. The crispy outer shell and impossibly creamy center are perfectly balanced. Located near Sennichimae shopping arcade."
+    },
+    {
+      "name": "Kukuru",
+      "location": "Dotonbori, Osaka",
+      "note": "A popular Dotonbori takoyaki stall with a giant octopus sign, known for generous chunks of octopus. Has both classic and creative flavors. Perfect for late-night snacking."
+    },
+    {
+      "name": "Takoyaki Doraku Wanaka",
+      "location": "Amerikamura, Osaka",
+      "note": "Branch of the famous Wanaka in Osaka's trendy Amerikamura (American Village) neighborhood. Great for a takoyaki break while shopping."
+    },
+    {
+      "name": "Gindaco",
+      "location": "Nationwide chain",
+      "note": "The largest takoyaki chain in Japan, found at train stations and shopping malls nationwide. Their style is distinctively crispy ('kari-kari') with a substantial crust. Consistent quality everywhere."
+    }
+  ],
+  "priceRange": {
+    "street": "400 - 600 JPY ($2.80 - $4.20) for 6-8 pieces",
+    "restaurant": "600 - 1,000 JPY ($4.20 - $7) for premium varieties or larger portions",
+    "upscale": "1,000 - 1,500 JPY ($7 - $10) for specialty sets with multiple flavors"
+  },
+  "tips": [
+    "Wait at least two minutes before biting into a freshly made takoyaki — the inside is like molten lava and will burn your mouth",
+    "Eat takoyaki immediately; they lose their crispy-outside-creamy-inside contrast quickly as they cool",
+    "In Osaka, takoyaki is considered a snack (oyatsu), not a meal — locals often grab a boat as an afternoon pick-me-up",
+    "If you want to try the Akashi predecessor, take a day trip to Akashi (30 minutes from Kobe) for authentic akashiyaki dipped in warm dashi",
+    "Many Osaka homes own takoyaki griddles — if you stay with a Japanese family, a takoyaki party is a common social event",
+    "Dotonbori in Osaka has the highest concentration of takoyaki stalls — walk the strip and compare multiple vendors"
+  ],
+  "culturalNotes": "Takoyaki is inseparable from Osaka identity. The saying goes that every Osaka household owns a takoyaki griddle, and surveys consistently show that over 80% of Osaka families do indeed have one. Takoyaki parties ('tako-pa') are a common social event where friends gather, set up the griddle on the dining table, and spend hours making and eating takoyaki together — much like a barbecue in Western countries. The dish also reflects Osaka's reputation as Japan's 'kitchen' (tenka no daidokoro) and the city's philosophy of 'kuidaore' — eating to excess. Osaka's working-class food culture, which prizes affordable, flavorful, filling food above all, finds its purest expression in the humble takoyaki ball.",
+  "sources": [
+    "Osaka Convention & Tourism Bureau",
+    "Japan National Tourism Organization (JNTO)",
+    "Lonely Planet Japan Food Guide",
+    "NHK World Japan — Takoyaki Documentary"
+  ]
+}

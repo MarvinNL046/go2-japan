@@ -1,0 +1,20 @@
+{
+  "slug": "chuhai",
+  "name": "Chuhai",
+  "japaneseName": "チューハイ",
+  "description": "Chuhai — short for 'shochu highball' — is Japan's ubiquitous fruity canned cocktail and one of the country's most popular alcoholic drinks. At its simplest, a chuhai is shochu mixed with carbonated water and fruit flavoring, but the category has expanded into a vast universe of ready-to-drink canned cocktails that line entire convenience store refrigerator sections with dizzying variety. Lemon (the original and still most popular), grapefruit, peach, grape, plum, yuzu, and pineapple are just the beginning.\n\nThe chuhai phenomenon reflects something essential about Japanese drinking culture: convenience, affordability, and low-pressure enjoyment. A tall 500ml can of chuhai costs ¥150-250 at a convenience store, making it one of Japan's cheapest alcoholic drinks. At izakayas, draft chuhai is a staple of nomihodai (all-you-can-drink) plans and pairs effortlessly with any food. The drinks are light, refreshing, and designed to accompany conversation and snacking rather than to be sipped contemplatively.\n\nThe canned chuhai market in Japan is fiercely competitive, with major brewers Suntory, Kirin, Asahi, and Sapporo constantly releasing new flavors, seasonal limited editions, and premium lines. Suntory's '-196' line (named for the temperature at which fruit is freeze-infused) and Kirin's Hyoketsu ('Frozen') are bestsellers. The Strong Zero line, containing 9% ABV despite tasting deceptively light, has achieved cult status and internet fame for its potency relative to its easy-drinking nature.",
+  "history": "Chuhai originated in post-war Tokyo's working-class drinking establishments (tachinomi and yokocho), where cheap shochu was mixed with carbonated water and lemon to create an affordable, refreshing drink. The name 'chuhai' is a portmanteau of 'chu' (from shochu) and 'hai' (from highball). The drink remained a blue-collar bar staple until the 1980s, when Toyo Jozo (later acquired by Asahi) launched the first canned chuhai in 1983, transforming it from a bar drink into a convenience store phenomenon. The 2000s saw an explosion of flavors and premium lines. The Strong Zero (Suntory, launched 2009) became a cultural phenomenon, particularly popular among young drinkers for its high alcohol content and sweet taste.",
+  "howToEnjoy": "Canned chuhai is best enjoyed cold, straight from a convenience store refrigerator or vending machine. At izakayas, draft chuhai is mixed fresh and served in tall glasses — the nama (draft) lemon chuhai is a classic order. At all-you-can-drink parties (nomihodai), chuhai is typically included in the plan. For first-timers, start with lemon (remon sawa) or grapefruit (gurepu furutsu) flavors. Be cautious with Strong Zero and similar 9% varieties — they are stronger than they taste. Chuhai pairs well with virtually any izakaya food.",
+  "whereToTry": "Every convenience store in Japan (7-Eleven, FamilyMart, Lawson) has a full chuhai section — this is the easiest and most authentic way to try them. Izakayas throughout Japan serve draft chuhai. The yokocho (alley bar districts) like Harmonica Yokocho in Kichijoji, Hoppy Street in Asakusa, and Omoide Yokocho in Shinjuku serve classic hand-mixed chuhai in the original style. For premium versions, supermarket liquor sections carry craft chuhai using real fruit juice. Vending machines in some neighborhoods sell chuhai alongside soft drinks.",
+  "image": "/images/drinks/chuhai.webp",
+  "priceRange": "¥150-300 per can at convenience stores; ¥300-500 per glass at izakayas",
+  "alcoholContent": "3-9% ABV (most commonly 5-7%)",
+  "bestWith": [
+    "Yakitori (grilled chicken skewers)",
+    "Karaage (fried chicken)",
+    "Gyoza (dumplings)",
+    "Edamame",
+    "Takoyaki (octopus balls)",
+    "Any izakaya food or festival snacks"
+  ]
+}

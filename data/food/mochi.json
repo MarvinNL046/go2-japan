@@ -1,0 +1,106 @@
+{
+  "slug": "mochi",
+  "name": {
+    "en": "Mochi",
+    "nl": "Mochi"
+  },
+  "japaneseName": "餅 (もち)",
+  "image": "/images/food/mochi.webp",
+  "category": "Dessert",
+  "description": {
+    "en": "Soft, chewy rice cakes made from pounded glutinous rice, enjoyed in countless forms — from sweet red bean-filled daifuku and grilled New Year's mochi to delicate sakura mochi wrapped in cherry blossom leaves.",
+    "nl": "Zachte, kauwbare rijstkoeken gemaakt van gestampte kleefrijst, in talloze vormen genoten — van zoete daifuku gevuld met rode bonenpasta en gegrilde nieuwjaarsmochi tot delicate sakura-mochi gewikkeld in kersenbloesembladeren."
+  },
+  "overview": "Mochi is one of Japan's oldest and most culturally significant foods — a soft, elastic rice cake made by steaming glutinous rice (mochigome) and pounding it repeatedly until it transforms into a smooth, stretchy dough. The traditional mochi-making process (mochitsuki) involves one person swinging a heavy wooden mallet into a large stone mortar while another person quickly turns and wets the dough between strikes — a dramatic, rhythmic performance that requires perfect timing and trust. While most commercial mochi today is machine-made, the mochitsuki tradition survives at temples, community events, and New Year celebrations across Japan. Mochi's versatility is extraordinary: it can be sweet (filled with red bean paste as daifuku, wrapped in strawberries as ichigo daifuku, coated in kinako soybean powder), savory (grilled and wrapped in nori with soy sauce, added to soups), or somewhere in between. Mochi is central to Japanese New Year (Oshogatsu) traditions, where kagami mochi (mirror mochi) — two stacked round rice cakes topped with a bitter orange — is displayed as an offering to the gods.",
+  "origin": {
+    "region": "Nationwide (ancient origins)",
+    "history": "Mochi has been part of Japanese food culture for at least 2,000 years, with evidence of rice pounding tools dating back to the Yayoi period (300 BC - 300 AD). In ancient Japan, mochi was considered sacred — the stretchy, pure-white rice cakes were seen as embodying the spirit of rice, Japan's most important crop, and were offered to Shinto gods (kami) at shrines and during harvest festivals. By the Heian period (794-1185), mochi had become an essential part of court cuisine and seasonal celebrations. The New Year tradition of displaying kagami mochi and eating ozoni (mochi soup) became established during the Muromachi period (1336-1573). Today, mochi remains deeply tied to seasonal celebrations and is one of the few traditional foods that has also found massive international popularity in its modern forms."
+  },
+  "ingredients": {
+    "main": [
+      "Mochigome (glutinous/sticky rice)",
+      "Water",
+      "Cornstarch or potato starch (for dusting)"
+    ],
+    "fillings": [
+      "Anko (sweet red bean paste — koshian smooth or tsubuan chunky)",
+      "Ichigo (strawberry — for ichigo daifuku)",
+      "Matcha cream",
+      "Ice cream (for mochi ice cream)",
+      "Shiroan (white bean paste)"
+    ],
+    "toppings": [
+      "Kinako (roasted soybean powder)",
+      "Kuromitsu (black sugar syrup)",
+      "Nori (roasted seaweed)",
+      "Soy sauce",
+      "Anko (red bean paste)",
+      "Sakura leaves (pickled cherry blossom leaves)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Daifuku",
+      "description": "A round mochi ball filled with sweet red bean paste (anko). The soft, stretchy exterior and sweet filling make it one of Japan's most popular wagashi (traditional sweets). Ichigo daifuku (with a whole strawberry inside) is a beloved modern variation."
+    },
+    {
+      "name": "Sakura Mochi",
+      "description": "Pink-tinted mochi wrapped in a pickled cherry blossom leaf, eaten during hanami (cherry blossom viewing) season in spring. The slightly salty leaf is eaten together with the sweet mochi for a harmonious contrast. There are two styles: Kanto (rolled crepe) and Kansai (grainy rice)."
+    },
+    {
+      "name": "Yaki Mochi (Grilled Mochi)",
+      "description": "Blocks of mochi grilled until puffed and golden with a crispy crust and gooey interior. Dipped in soy sauce and wrapped in nori seaweed, or served with sweet kinako powder. A common winter treat and New Year food."
+    },
+    {
+      "name": "Ozoni (New Year's Mochi Soup)",
+      "description": "A soup containing mochi served on New Year's Day, with recipes varying dramatically by region. Kanto-style uses a clear dashi broth with rectangular grilled mochi; Kansai-style uses white miso broth with round boiled mochi."
+    },
+    {
+      "name": "Mochi Ice Cream",
+      "description": "Small balls of ice cream wrapped in a thin layer of mochi, invented in the 1980s by the Lotte company. Flavors range from vanilla and chocolate to matcha, mango, and seasonal specialties. Now popular worldwide."
+    }
+  ],
+  "howToOrder": "At wagashi shops and tea houses, mochi sweets are displayed in glass cases — point to choose or ask the staff for seasonal recommendations. At specialty mochi shops, daifuku and other mochi sweets are sold individually (150-400 JPY each) or in boxes for gifts. Freshly pounded mochi (tsukitate mochi) is sometimes available at temples, festivals, and specialty shops — look for the mallet and mortar on display. At convenience stores (konbini), packaged daifuku and mochi ice cream are always available in the sweets section.",
+  "whereToEat": [
+    {
+      "name": "Nakatanidou",
+      "location": "Nara",
+      "note": "Famous for their high-speed mochitsuki performance — a mesmerizing display of hand-pounding mochi at an incredible pace. Their fresh yomogi (mugwort) mochi filled with anko is the specialty. Often draws large crowds."
+    },
+    {
+      "name": "Toraya",
+      "location": "Tokyo (Akasaka), Kyoto, multiple locations",
+      "note": "Japan's most prestigious wagashi maker, with over 500 years of history as purveyor to the Imperial Court. Their beautifully crafted yokan and mochi reflect the pinnacle of Japanese confectionery art."
+    },
+    {
+      "name": "Demachi Futaba",
+      "location": "Kyoto (Demachi area)",
+      "note": "Legendary mochi shop famous for their mame daifuku (mochi with whole red beans visible in the skin). Lines form before opening. Cash only, and they often sell out by early afternoon."
+    },
+    {
+      "name": "Any convenience store",
+      "location": "Nationwide",
+      "note": "Seven-Eleven, Lawson, and FamilyMart all carry excellent mochi ice cream, daifuku, and seasonal mochi varieties at budget-friendly prices. A perfectly acceptable way to experience mochi daily."
+    }
+  ],
+  "priceRange": {
+    "street": "100 - 300 JPY ($0.70 - $2.10) per piece at convenience stores and street stalls",
+    "restaurant": "300 - 600 JPY ($2.10 - $4.20) per piece at specialty wagashi shops",
+    "upscale": "500 - 1,500 JPY ($3.50 - $10.50) for premium handmade mochi or gift boxes"
+  },
+  "tips": [
+    "Chew mochi thoroughly before swallowing — its sticky, stretchy texture is a real choking hazard, and several people die each year in Japan from mochi choking, especially elderly people during New Year",
+    "The freshest mochi is best — same-day mochi from specialty shops has a superior soft texture compared to packaged versions",
+    "Visit during cherry blossom season (late March - early April) to try seasonal sakura mochi",
+    "At convenience stores, the mochi ice cream section offers an ever-rotating selection of seasonal and limited-edition flavors",
+    "If you visit Nara, time your trip to Nakatanidou to watch the high-speed mochitsuki performance — it is one of Nara's most entertaining free experiences",
+    "Grilled mochi with kinako powder and kuromitsu syrup is a simple but deeply satisfying traditional snack"
+  ],
+  "culturalNotes": "Mochi is one of the most symbolically significant foods in Japanese culture. During New Year (Oshogatsu), kagami mochi (two stacked round mochi cakes topped with a daidai bitter orange) is placed in homes and shrines as an offering to the gods, representing the old and new year. On January 11th (kagami biraki), the mochi is ceremonially broken and eaten — it must be broken, not cut, as cutting is considered bad luck. Mochi also appears at other celebrations: children's first birthday (issho mochi, where a child carries a heavy mochi on their back), Boys' Day (kashiwa mochi wrapped in oak leaves), and Girls' Day (hishi mochi — diamond-shaped tri-colored mochi). The mochitsuki ceremony itself — the rhythmic pounding of rice — is a communal bonding activity that brings families and neighborhoods together. Despite its festive associations, mochi has a sobering darker side: each New Year, Japanese media report cases of elderly people choking on the sticky treat, and fire departments issue annual warnings about mochi safety.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Toraya Confectionery — History of Wagashi",
+    "Lonely Planet Japan Food Guide",
+    "Ministry of Agriculture, Forestry and Fisheries of Japan"
+  ]
+}

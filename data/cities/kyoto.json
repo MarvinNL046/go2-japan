@@ -1,0 +1,157 @@
+{
+  "slug": "kyoto",
+  "name": {
+    "en": "Kyoto"
+  },
+  "japaneseName": "京都",
+  "image": "/images/cities/kyoto.webp",
+  "region": "Kansai",
+  "highlights": [
+    "17 UNESCO World Heritage Sites",
+    "Geisha District of Gion",
+    "Bamboo Grove of Arashiyama",
+    "Thousands of Temples & Shrines",
+    "Traditional Tea Ceremonies"
+  ],
+  "description": {
+    "en": "Japan's ancient imperial capital for over a thousand years, Kyoto is the cultural heart of the nation, where geisha still glide through lantern-lit alleys, Zen gardens inspire contemplation, and over 2,000 temples and shrines preserve centuries of artistic and spiritual heritage. The city seamlessly blends living tradition with modern life across its grid of streets set against a backdrop of forested mountains."
+  },
+  "overview": "Kyoto served as Japan's imperial capital from 794 to 1868, a span of over a millennium that left it with an unparalleled concentration of cultural treasures. The city was deliberately spared from Allied bombing during World War II — partly due to the advocacy of scholars who recognized its irreplaceable heritage — making it one of the few Japanese cities with significant prewar architecture intact. Today Kyoto is home to 17 UNESCO World Heritage Sites, approximately 2,000 temples, 400 shrines, and countless traditional machiya (wooden townhouses). The city follows a grid pattern inspired by the ancient Chinese capital of Chang'an, with mountains on three sides creating a natural amphitheater that turns spectacular during cherry blossom and autumn foliage seasons. Kyoto is the birthplace of many quintessentially Japanese arts: the tea ceremony, ikebana (flower arranging), Noh theater, kaiseki cuisine, and numerous traditional crafts. Despite its ancient character, Kyoto is also a modern city of 1.5 million people with excellent public transportation, vibrant nightlife, and a thriving university culture anchored by Kyoto University and Doshisha University.",
+  "neighborhoods": [
+    {
+      "name": "Higashiyama (東山)",
+      "description": "The eastern mountain district is Kyoto's most atmospheric area, with stone-paved lanes, traditional wooden buildings, and some of the city's most famous temples. The walk from Kiyomizu-dera through Sannen-zaka and Ninen-zaka slopes, past tea houses and ceramic shops, to the Yasaka Pagoda is one of Japan's most iconic strolls. The area comes alive during evening illumination events in spring and autumn.",
+      "highlights": [
+        "Kiyomizu-dera Temple",
+        "Sannen-zaka and Ninen-zaka historic lanes",
+        "Yasaka Shrine and Maruyama Park",
+        "Kodai-ji Temple"
+      ]
+    },
+    {
+      "name": "Gion (祇園)",
+      "description": "Kyoto's most famous geisha district, where geiko (Kyoto's term for geisha) and maiko (apprentice geisha) can still be spotted hurrying between engagements in the early evening. Hanami-koji Street, lined with exclusive tea houses (ochaya) and high-end restaurants, is the area's main thoroughfare. The traditional wooden machiya architecture, stone-paved streets, and paper lanterns create an atmosphere that feels transported from another century.",
+      "highlights": [
+        "Hanami-koji Street",
+        "Geiko and maiko sightings at dusk",
+        "Shirakawa Canal area",
+        "Gion Corner cultural performances"
+      ]
+    },
+    {
+      "name": "Arashiyama (嵐山)",
+      "description": "This scenic district on Kyoto's western outskirts is famous for its soaring bamboo grove, where towering stalks create an otherworldly green canopy along winding paths. The area also features the picturesque Togetsukyo Bridge spanning the Katsura River, numerous temples including the exquisite moss garden of Saiho-ji, and the romantic Sagano scenic railway. Monkey Park Iwatayama offers panoramic views and wild Japanese macaques.",
+      "highlights": [
+        "Bamboo Grove (Chikurin)",
+        "Togetsukyo Bridge",
+        "Tenryu-ji Temple (UNESCO)",
+        "Monkey Park Iwatayama"
+      ]
+    },
+    {
+      "name": "Downtown / Kawaramachi (河原町)",
+      "description": "Kyoto's modern commercial center runs along Shijo-dori and Kawaramachi-dori, with department stores, restaurants, and shopping arcades. Nishiki Market, a 400-year-old covered food market known as 'Kyoto's Kitchen,' stretches five blocks with over 100 vendors selling pickles, tofu, matcha sweets, fresh fish, and Kyoto-specific ingredients. The area along the Kamo River (Kamogawa) is particularly atmospheric in summer when restaurants set up riverside dining platforms (noryo-yuka).",
+      "highlights": [
+        "Nishiki Market ('Kyoto's Kitchen')",
+        "Pontocho alley dining",
+        "Kamogawa riverside walks",
+        "Teramachi and Shinkyogoku shopping arcades"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Kyoto does not have its own airport. The nearest is Kansai International Airport (KIX), 100km south, connected by the JR Haruka Express train (75 minutes, ¥3,640 or ¥1,800 with ICOCA & Haruka discount for foreign visitors). Osaka Itami Airport (ITM), 50km away, handles most domestic flights and is connected by limousine bus (55 minutes, ¥1,340). From Tokyo, the Shinkansen (2 hours 15 minutes) is faster and more convenient than flying.",
+    "byTrain": "Kyoto Station is a major Shinkansen stop on the Tokaido line. From Tokyo: 2 hours 15 minutes by Nozomi (¥13,970, not covered by Japan Rail Pass) or 2 hours 40 minutes by Hikari (covered by JR Pass). From Osaka: 15 minutes by JR Special Rapid (¥580). From Hiroshima: 1 hour 40 minutes by Nozomi. Kyoto Station itself is a striking modern architectural landmark designed by Hiroshi Hara.",
+    "byBus": "Highway buses connect Kyoto to Tokyo (7-8 hours, from ¥3,500 overnight), Hiroshima (5 hours), and other cities. Buses arrive at the Kyoto Station Hachijo Exit bus terminal. Willer Express and JR Bus are reliable operators."
+  },
+  "gettingAround": "Kyoto's bus network is the most practical way to reach many temples and shrines. A one-day bus pass costs ¥700 and covers most city routes. The two subway lines (Karasuma north-south and Tozai east-west) are useful but limited in coverage. JR and private railways (Keihan, Hankyu) connect specific corridors. Cycling is excellent in Kyoto's flat grid layout — rental bikes cost ¥800-1,500 per day and many guesthouses offer free bicycles. Walking is the best way to explore temple districts like Higashiyama. Taxis are readily available, starting at ¥500. In peak seasons (cherry blossom and autumn foliage), buses in popular areas can become extremely crowded — consider cycling or walking instead.",
+  "bestTimeToVisit": {
+    "best": "Late March to mid-April and mid-November to early December",
+    "description": "Cherry blossom season (late March to mid-April) and autumn foliage (mid-November to early December) transform Kyoto into one of the world's most beautiful cities. The city's countless gardens, temple grounds, and mountain backdrop create extraordinary displays of seasonal color. These peak seasons are crowded and accommodation fills up months in advance.",
+    "seasons": {
+      "spring": "March-May: Cherry blossoms typically peak late March to mid-April, 8-22°C. Philosopher's Path, Maruyama Park, and Daigo-ji are prime hanami spots. Warm days and cool evenings make sightseeing comfortable.",
+      "summer": "June-August: Hot and humid, 25-37°C. June brings the rainy season (tsuyu). July features the spectacular Gion Matsuri festival, one of Japan's three great festivals, with elaborate float processions. Hydrangeas bloom at temples.",
+      "autumn": "September-November: Magnificent foliage peaks mid-November to early December, 10-25°C. Tofuku-ji, Eikando, and Kiyomizu-dera are famous viewing spots. Many temples offer special evening illumination (lightup) events.",
+      "winter": "December-February: Cold but manageable, 1-10°C. Fewer tourists and occasional snowfall dusting temples create serene, photogenic scenes. Excellent for hot pot dining and onsen visits. New Year celebrations at shrines are atmospheric."
+    }
+  },
+  "budget": {
+    "backpacker": "$50-75/day",
+    "midRange": "$120-250/day",
+    "luxury": "$300-1,000+/day",
+    "details": "Hostel dorm beds cost ¥2,500-4,000 ($17-27). Guesthouses and budget hotels range from ¥5,000-10,000 ($33-67). Traditional ryokan (Japanese inn) experiences range widely from ¥15,000 ($100) to ¥80,000+ ($535+) per person including dinner and breakfast. Temple entrance fees are typically ¥400-600 ($3-4) each and add up quickly. A set lunch at a restaurant costs ¥1,000-2,000 ($7-13). Matcha and wagashi (sweets) at a tea house cost ¥800-1,500 ($5-10). Kaiseki dinner starts from ¥10,000 ($67) at quality restaurants."
+  },
+  "mustDo": [
+    {
+      "name": "Walk through the Fushimi Inari Taisha torii gates",
+      "description": "The thousands of vermilion torii gates snaking up Mount Inari create one of Japan's most iconic images. The full circuit to the 233-meter summit and back takes 2-3 hours, but you can turn back at any point. The shrine is dedicated to Inari, the Shinto god of rice and business prosperity. Visit early morning (before 8am) or evening to avoid crowds — the shrine is open 24 hours and the gates are illuminated at night."
+    },
+    {
+      "name": "Wander through Arashiyama Bamboo Grove",
+      "description": "The towering bamboo stalks of this grove create a cathedral-like atmosphere, with dappled light filtering through and the sound of wind rustling through the canopy. The path is relatively short (about 500 meters) but deeply atmospheric. Arrive at dawn for an uncrowded experience. Combine with visits to nearby Tenryu-ji Temple (UNESCO World Heritage) and a stroll along the Katsura River."
+    },
+    {
+      "name": "Experience a traditional tea ceremony",
+      "description": "Kyoto is the birthplace of the Japanese tea ceremony (chado or sado). Many temples and tea houses offer ceremonies ranging from casual matcha experiences (¥1,000-2,000, 30 minutes) to formal multi-hour affairs. En (near Kenninji Temple), Camellia Garden (in Gion), and Tai An at Myokian Temple (the oldest surviving tea room, requiring advance reservation) offer authentic experiences."
+    },
+    {
+      "name": "Visit Kinkaku-ji (Golden Pavilion)",
+      "description": "The three-story pavilion covered in gold leaf, reflected in the mirror-like Kyokochi Pond, is one of Japan's most photographed buildings. Originally built in 1397 as a retirement villa for Shogun Ashikaga Yoshimitsu, it was famously burned down by a monk in 1950 (the subject of Yukio Mishima's novel 'The Temple of the Golden Pavilion') and rebuilt in 1955. Entry is ¥500 and includes a charm-like ticket."
+    },
+    {
+      "name": "Explore Nishiki Market and taste Kyoto cuisine",
+      "description": "This 400-year-old covered market stretches five blocks and is packed with over 100 specialty food shops. Sample Kyoto-specific delicacies: dashimaki tamago (rolled omelet), tsukemono (Kyoto-style pickles), yuba (tofu skin), nama-fu (wheat gluten confections), and matcha everything. The market is most lively between 10am and 4pm. Several shops offer eat-in options."
+    },
+    {
+      "name": "Watch for geiko in Gion at dusk",
+      "description": "Between 5:30pm and 6:30pm on Hanami-koji Street and the streets near Shirakawa Canal, you may spot geiko and maiko in full regalia hurrying to evening engagements. Be respectful — photograph from a distance, do not block their path, and never touch their kimono. For a guaranteed experience, book a maiko dinner or attend Gion Corner's cultural performance (¥5,000)."
+    }
+  ],
+  "food": {
+    "description": "Kyoto cuisine (Kyo-ryori) is considered the pinnacle of Japanese culinary art, emphasizing seasonal ingredients, subtle flavors, and exquisite presentation. The city's Buddhist heritage produced shojin-ryori (vegetarian temple cuisine) and its imperial past refined kaiseki, the elaborate multi-course dining tradition. Kyoto's soft water produces exceptional tofu, sake, and matcha.",
+    "specialties": [
+      "Kaiseki — Multi-course haute cuisine reflecting seasonal ingredients and meticulous presentation. A full kaiseki dinner is one of Japan's great culinary experiences",
+      "Yudofu — Simple simmered tofu, a Kyoto specialty due to the city's exceptional soft water. Best at restaurants near Nanzen-ji Temple like Okutan (founded 1635)",
+      "Matcha sweets — Kyoto is Japan's matcha capital. Uji, just south of the city, produces the country's finest green tea. Try matcha parfaits at Tsujiri or Nakamura Tokichi",
+      "Obanzai — Traditional Kyoto home cooking, featuring small dishes of seasonal vegetables prepared simply. Many restaurants along Pontocho serve obanzai sets",
+      "Yatsuhashi — Kyoto's signature souvenir sweet: triangular mochi filled with cinnamon, matcha, or seasonal flavors. Available throughout the city",
+      "Nishin Soba — Herring soba noodles, a Kyoto comfort food dating back over 100 years. Best at Matsuba near Nanzen-ji or Totoya in Gion"
+    ]
+  },
+  "safety": "Kyoto is extremely safe for visitors. Petty crime rates are among the lowest in the world, and it is perfectly normal to walk alone at night in virtually all areas. The main safety considerations are the intense summer heat (stay hydrated and take breaks), crowded streets during peak tourist seasons (especially in Higashiyama and Arashiyama), and cyclists on narrow streets. Tap water is safe to drink. Many temples have uneven stone steps that can be slippery when wet. Be aware of cultural etiquette: remove shoes when entering temples, do not photograph geiko/maiko aggressively, and speak softly in temple and shrine grounds.",
+  "localTips": [
+    "Visit the most popular sites (Fushimi Inari, Kiyomizu-dera, Bamboo Grove) either at dawn or just before closing to avoid overwhelming crowds, especially during cherry blossom and autumn foliage seasons.",
+    "Rent a bicycle — Kyoto is mostly flat and cycling is the fastest, most flexible way to temple-hop. Many rental shops are near Kyoto Station and charge ¥800-1,500 per day.",
+    "Buy a book of temple stamp pages (goshuin-cho, ¥1,000-2,000) and collect beautiful hand-calligraphed stamps at each temple you visit (¥300-500 each). It makes a meaningful, unique souvenir.",
+    "Kyoto's best kaiseki lunch sets (starting ¥3,000-5,000) are a fraction of dinner prices and offer essentially the same quality. Book lunch at restaurants that charge ¥15,000+ for dinner.",
+    "The Philosopher's Path (Tetsugaku no Michi) between Ginkaku-ji and Nanzen-ji is a beautiful 2km canal-side walk perfect for cherry blossoms and a quieter alternative to crowded spots.",
+    "Many Kyoto temples close at 5pm. Plan your day to visit temples in the morning and early afternoon, then explore Gion, Pontocho, and downtown in the evening."
+  ],
+  "dayTrips": [
+    {
+      "name": "Nara",
+      "distance": "42km south, approximately 45 minutes by JR Nara Line",
+      "description": "Japan's first permanent capital (710-784 AD) is home to the enormous Todai-ji Temple with its giant bronze Buddha, the friendly free-roaming deer of Nara Park, and the atmospheric Kasuga-taisha Shrine with its hundreds of stone and bronze lanterns. An easy and rewarding half-day or full-day trip."
+    },
+    {
+      "name": "Osaka",
+      "distance": "43km southwest, approximately 15 minutes by JR Special Rapid",
+      "description": "Japan's kitchen and street food capital is just 15 minutes away by fast train. Visit Osaka Castle, explore the neon-lit Dotonbori canal, and eat your way through Shinsekai and Kuromon Market. The Umeda Sky Building observation deck offers panoramic city views."
+    },
+    {
+      "name": "Uji",
+      "distance": "15km south, approximately 20 minutes by JR or Keihan Railway",
+      "description": "This small city is famous for producing Japan's finest matcha green tea. Visit the stunning Byodo-in Temple (featured on the ¥10 coin), stroll along the picturesque Uji River, and sample matcha in every form imaginable at the tea shops lining Byodo-in Omotesando street."
+    },
+    {
+      "name": "Mount Hiei (Hieizan)",
+      "distance": "10km northeast, approximately 1 hour by bus and cable car",
+      "description": "The sacred mountain between Kyoto and Lake Biwa is home to Enryaku-ji, the headquarters of Tendai Buddhism founded in 788 AD (UNESCO World Heritage). The mountain offers forested walking trails, panoramic views, and a cable car ride. Combine with views of Lake Biwa from the eastern slope."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Japan Guide — Kyoto (japan-guide.com/e/e2158.html)",
+    "Kyoto City Official Travel Guide (kyoto.travel)"
+  ]
+}

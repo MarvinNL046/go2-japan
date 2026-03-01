@@ -1,0 +1,107 @@
+{
+  "slug": "tonkatsu",
+  "name": {
+    "en": "Tonkatsu",
+    "nl": "Tonkatsu"
+  },
+  "japaneseName": "豚カツ (とんかつ)",
+  "image": "/images/food/tonkatsu.webp",
+  "category": "Fried",
+  "description": {
+    "en": "A thick-cut pork cutlet coated in crispy panko breadcrumbs and deep-fried to golden perfection, served with shredded cabbage, rice, miso soup, and a tangy brown tonkatsu sauce — Japan's ultimate comfort food.",
+    "nl": "Een dikgesneden varkenskotelet gecoat met knapperige panko-broodkruimels en goudbruin gefrituurd, geserveerd met geraspte kool, rijst, misosoep en een pittige bruine tonkatsusaus — Japans ultieme troostvoedsel."
+  },
+  "overview": "Tonkatsu is the dish that best represents Japan's brilliant adaptation of Western cuisine (yoshoku). A thick slab of pork loin or tenderloin is coated in flour, egg, and coarse panko breadcrumbs, then deep-fried at a precise temperature until the exterior shatters into flaky, golden shards while the interior remains juicy and tender. The magic lies in the panko — Japan's uniquely light, airy breadcrumbs made from crustless white bread using an electrical current rather than baking, which creates the irregular, jagged texture that fries up incomparably crispy. A proper tonkatsu teishoku (set meal) is a study in balance: the rich, crispy cutlet is served alongside a mountain of finely shredded raw cabbage that provides freshness and crunch, steamed rice, miso soup, pickles, and the iconic Worcestershire-style tonkatsu sauce for dipping. At premium restaurants using heritage breed pork like kurobuta (Berkshire), the cutlet is a revelation — the fat melts on the tongue and the pork has a depth of flavor rarely associated with the cut.",
+  "origin": {
+    "region": "Tokyo",
+    "history": "Tonkatsu evolved from European-style breaded cutlets (like Wiener schnitzel and French côtelettes) that arrived in Japan during the Meiji period (1868-1912) as part of the government's push to modernize and adopt Western customs, including diet. The earliest versions, called 'katsuretsu' (from the English 'cutlet'), used thin slices of beef or veal fried in butter. In the 1920s and 1930s, Tokyo restaurants began using thicker cuts of pork, switching to deep-frying in oil rather than pan-frying, and serving it with rice and chopsticks rather than on a plate with a knife and fork. This transformation from Western dish to something uniquely Japanese was complete by the 1930s, when the name 'tonkatsu' (ton = pork, katsu = cutlet) was coined. The word 'katsu' also sounds like the Japanese word for 'to win' (勝つ), making tonkatsu a popular pre-exam and pre-competition good-luck meal."
+  },
+  "ingredients": {
+    "main": [
+      "Thick-cut pork loin (rosu) or tenderloin (hire)",
+      "Panko breadcrumbs",
+      "Flour coating",
+      "Beaten egg",
+      "Frying oil (vegetable or lard)"
+    ],
+    "accompaniments": [
+      "Shredded raw cabbage",
+      "Steamed Japanese rice",
+      "Miso soup (usually red miso)",
+      "Tsukemono (Japanese pickles)",
+      "Tonkatsu sauce (sweet-tangy Worcestershire-style sauce)"
+    ],
+    "condiments": [
+      "Tonkatsu sauce (Bull-Dog brand is iconic)",
+      "Karashi (Japanese hot mustard)",
+      "Sesame seeds (often ground at the table with a mortar)",
+      "Lemon wedges",
+      "Salt (at premium shops for tasting the pork's natural flavor)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Rosu Katsu (Pork Loin Cutlet)",
+      "description": "The classic choice: a thick slice of pork loin with a rim of fat that becomes meltingly tender when fried. Richer and more flavorful than tenderloin, with the fat adding juiciness and depth. The standard at most tonkatsu restaurants."
+    },
+    {
+      "name": "Hire Katsu (Pork Tenderloin Cutlet)",
+      "description": "A leaner, more delicate cut from the tenderloin. Slightly less rich than rosu but incredibly tender and popular with those who prefer less fat. Usually cut into medallion-shaped pieces."
+    },
+    {
+      "name": "Katsudon (Cutlet Rice Bowl)",
+      "description": "Sliced tonkatsu simmered with onion in a sweet dashi-soy broth and bound with beaten egg, served over a bowl of rice. An incredibly satisfying one-bowl meal and a popular good-luck food before exams."
+    },
+    {
+      "name": "Katsu Curry",
+      "description": "Tonkatsu served on rice and smothered in thick Japanese curry sauce. A fusion of two beloved yoshoku dishes that is deeply comforting and widely available at curry chains and katsu shops."
+    },
+    {
+      "name": "Kurobuta Tonkatsu",
+      "description": "Premium tonkatsu made with kurobuta (Berkshire heritage breed pork), especially from Kagoshima Prefecture. The meat has more marbling, a sweeter flavor, and a tender texture that elevates the dish to fine dining territory."
+    }
+  ],
+  "howToOrder": "At a tonkatsu restaurant, choose between 'rosu katsu' (loin — fattier, richer) or 'hire katsu' (tenderloin — leaner, more delicate), then select your size (typically 120g, 150g, or 200g). Most orders come as a 'teishoku' (set meal) with cabbage, rice, miso soup, and pickles included. Rice and cabbage refills are often free. At some premium shops, you grind sesame seeds at the table using a small mortar (suribachi) and mix them into the tonkatsu sauce. Try the first bite with just salt or karashi mustard to taste the pork, then move to sauce.",
+  "whereToEat": [
+    {
+      "name": "Maisen",
+      "location": "Omotesando, Tokyo",
+      "note": "Perhaps Tokyo's most famous tonkatsu restaurant, housed in a converted pre-war bathhouse. Their kurobuta (Berkshire pork) rosu katsu is exceptional. Long queues are common but the takeaway counter offers sandwiches (katsu-sando) with no wait."
+    },
+    {
+      "name": "Tonkatsu Narikura",
+      "location": "Asakusa, Tokyo",
+      "note": "A revered tonkatsu institution near Senso-ji temple, known for their exceptionally crispy coating and juicy pork. Often ranked among Tokyo's top three tonkatsu shops."
+    },
+    {
+      "name": "Butagumi",
+      "location": "Nishi-Azabu, Tokyo",
+      "note": "An innovative tonkatsu restaurant offering a selection of different pork breeds from across Japan. Diners choose their preferred breed and cut, making it an educational as well as culinary experience."
+    },
+    {
+      "name": "Wako",
+      "location": "Shibuya, Tokyo",
+      "note": "Popular mid-range tonkatsu chain known for excellent quality, generous free refills of cabbage, rice, and miso soup, and a comfortable dining atmosphere."
+    }
+  ],
+  "priceRange": {
+    "street": "500 - 900 JPY ($3.50 - $6.30) at chain restaurants and katsudon shops",
+    "restaurant": "1,200 - 2,000 JPY ($8.40 - $14) for a tonkatsu teishoku set",
+    "upscale": "2,500 - 5,000 JPY ($17.50 - $35) for premium kurobuta or wagyu katsu"
+  },
+  "tips": [
+    "Ask for 'rosu' if you like richer, fattier pork, or 'hire' if you prefer lean meat — there is no wrong choice, just personal preference",
+    "Grind the sesame seeds at the table and mix them into the sauce for a nuttier, more complex dipping sauce",
+    "Take advantage of free cabbage and rice refills — they are offered at most tonkatsu restaurants",
+    "Try the first piece with just a sprinkle of salt or a dab of karashi mustard to appreciate the pork quality before adding sauce",
+    "Eat tonkatsu for lunch — sets are typically 200-500 JPY cheaper than dinner, with the same quality",
+    "The word 'katsu' sounds like 'to win' in Japanese — students eat katsudon before exams as a good-luck ritual"
+  ],
+  "culturalNotes": "Tonkatsu is one of the great examples of yoshoku — Western-influenced dishes that Japan has so thoroughly adopted and perfected that they have become quintessentially Japanese. The dish also reflects Japan's relationship with meat: until the Meiji Restoration in 1868, eating four-legged animals was discouraged by Buddhist tradition and imperial edict. The Meiji government actively promoted meat eating as part of its modernization program, and tonkatsu became one of the dishes that helped normalize pork consumption. Today, the katsu/win wordplay (勝つ) makes tonkatsu and katsudon deeply embedded in Japanese superstition culture — students eat katsudon before entrance exams, athletes before competitions, and business people before important negotiations. The dish has spawned an entire katsu-sando (cutlet sandwich) culture that has become a Japanese convenience store staple and a global food trend.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Katarzyna Cwiertka, 'Modern Japanese Cuisine' (Reaktion Books, 2006)",
+    "Lonely Planet Japan Food Guide",
+    "NHK World Japan — Tonkatsu: The Perfect Cutlet"
+  ]
+}

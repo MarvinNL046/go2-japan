@@ -1,0 +1,106 @@
+{
+  "slug": "gyoza",
+  "name": {
+    "en": "Gyoza",
+    "nl": "Gyoza"
+  },
+  "japaneseName": "餃子 (ぎょうざ)",
+  "image": "/images/food/gyoza.webp",
+  "category": "Dumpling",
+  "description": {
+    "en": "Pan-fried dumplings with a thin wheat wrapper encasing a juicy filling of ground pork, cabbage, garlic, and ginger — seared golden and crispy on the bottom while remaining soft and steamy on top.",
+    "nl": "Gebakken dumplings met een dun tarwevelletje dat een sappige vulling van gemalen varkensvlees, kool, knoflook en gember omhult — goudbruin en knapperig gebakken aan de onderkant terwijl de bovenkant zacht en dampend blijft."
+  },
+  "overview": "Gyoza are Japan's take on Chinese jiaozi dumplings, and while the lineage is clear, the Japanese version has evolved into something distinctly its own — smaller, thinner-skinned, more garlicky, and almost always pan-fried (yaki-gyoza) rather than boiled or steamed. The classic Japanese gyoza features a thin wheat wrapper pleated into a crescent shape around a filling of ground pork, finely chopped cabbage, garlic, ginger, nira (garlic chives), and sesame oil. The cooking technique is what makes them special: the gyoza are placed flat-side down in a hot oiled pan, seared until the bottoms are golden and crispy, then water is added and the pan is covered to steam the tops until tender. The result is a magnificent textural contrast — the 'hane' (wings), a lacy, crispy skirt connecting the dumplings, shatters satisfyingly while the top is soft and the filling is juicy. Gyoza are a beloved side dish at ramen shops, a staple at izakaya (Japanese pubs), and the centerpiece of dedicated gyoza restaurants, particularly in the cities of Utsunomiya and Hamamatsu, which compete fiercely for the title of Japan's gyoza capital.",
+  "origin": {
+    "region": "Chinese origins, adapted nationwide (capitals: Utsunomiya, Hamamatsu)",
+    "history": "Gyoza were brought to Japan by soldiers returning from Manchuria after World War II, who had developed a taste for Chinese jiaozi during the war. The Japanese adapted the dumpling to local tastes — making the wrappers thinner, increasing the garlic content (garlic was believed to aid post-war recovery), and developing the pan-fried (yaki) cooking method that produces the signature crispy bottom. Utsunomiya in Tochigi Prefecture and Hamamatsu in Shizuoka Prefecture became Japan's two great gyoza cities, both claiming the highest per-capita gyoza consumption. Utsunomiya's gyoza culture grew thanks to the city's former military base (Nakano Military Academy's officers stationed in Manchuria retired there), while Hamamatsu's tradition is linked to its large Chinese immigrant community."
+  },
+  "ingredients": {
+    "main": [
+      "Thin wheat flour wrappers (gyoza no kawa)",
+      "Ground pork",
+      "Finely chopped cabbage (or hakusai napa cabbage)",
+      "Garlic",
+      "Fresh ginger",
+      "Nira (garlic chives)"
+    ],
+    "seasoning": [
+      "Sesame oil",
+      "Soy sauce",
+      "Salt and white pepper",
+      "Chicken stock powder (optional)"
+    ],
+    "dipping_sauce": [
+      "Soy sauce",
+      "Rice vinegar",
+      "Rayu (chili oil)",
+      "Yuzu kosho (citrus chili paste)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Yaki-gyoza (Pan-fried)",
+      "description": "The standard Japanese style: seared on the bottom in a hot pan until golden and crispy, then steamed with water to cook the top. The crispy bottom and soft top create the signature textural contrast. Served in rows of 5-8 pieces."
+    },
+    {
+      "name": "Sui-gyoza (Boiled)",
+      "description": "Dumplings boiled in broth or water, closer to the original Chinese style. The wrapper is softer throughout. Sometimes served in a light soup. Less common than yaki-gyoza but available at many Chinese restaurants in Japan."
+    },
+    {
+      "name": "Age-gyoza (Deep-fried)",
+      "description": "Deep-fried gyoza with an all-over crispy shell. Less common as a restaurant dish but popular as a snack at izakaya. Crunchier and richer than pan-fried."
+    },
+    {
+      "name": "Hane-tsuki Gyoza (Wing Gyoza)",
+      "description": "Pan-fried gyoza with an extra-dramatic lacy, crispy skirt (hane = wings) connecting all the dumplings in the pan. Achieved by adding a slurry of flour and water during the steaming process. A specialty of certain gyoza chains."
+    },
+    {
+      "name": "Utsunomiya-style / Hamamatsu-style",
+      "description": "Utsunomiya gyoza tend to be vegetable-forward with more cabbage and nira. Hamamatsu-style is typically served in a circular arrangement with bean sprouts in the center. Both cities have dozens of dedicated gyoza restaurants and compete for Japan's gyoza consumption title."
+    }
+  ],
+  "howToOrder": "At ramen shops, simply add 'gyoza' to your ramen order — a set of 5-6 pieces typically costs 300-500 JPY. At dedicated gyoza restaurants, order by the serving (hitotsu = one plate of 6-12 pieces). In Utsunomiya and Hamamatsu, order multiple plates to try different fillings and styles. Mix your own dipping sauce from the table condiments: soy sauce, rice vinegar, and rayu (chili oil) in your preferred ratio. A common ratio is 1 part soy sauce, 1 part vinegar, and a drizzle of chili oil.",
+  "whereToEat": [
+    {
+      "name": "Utsunomiya Minmin",
+      "location": "Utsunomiya, Tochigi Prefecture",
+      "note": "The most famous gyoza restaurant in Japan's gyoza capital. Their yaki-gyoza, sui-gyoza, and age-gyoza are all excellent. The original shop near Utsunomiya Station always has a queue."
+    },
+    {
+      "name": "Gyoza no Ohsho",
+      "location": "Nationwide chain",
+      "note": "Japan's largest gyoza chain with over 700 locations. Reliable, affordable (6 gyoza for around 290 JPY), and available almost everywhere. Perfect for a quick, satisfying gyoza fix with beer."
+    },
+    {
+      "name": "Hamamatsu Gyoza District",
+      "location": "Hamamatsu Station area, Shizuoka",
+      "note": "The area around Hamamatsu Station has dozens of gyoza shops. Look for the circular 'Hamamatsu-style' plating with bean sprouts. Multiple shops are within walking distance for a gyoza crawl."
+    },
+    {
+      "name": "Harajuku Gyoza Lou",
+      "location": "Harajuku, Tokyo",
+      "note": "Popular Tokyo gyoza spot known for their juicy, garlicky gyoza and relaxed atmosphere. Open until 4:00 AM on weekends, making it a perfect late-night spot. Always busy."
+    }
+  ],
+  "priceRange": {
+    "street": "250 - 400 JPY ($1.75 - $2.80) for 5-6 pieces at chain restaurants",
+    "restaurant": "400 - 800 JPY ($2.80 - $5.60) for a plate at dedicated gyoza restaurants",
+    "upscale": "800 - 1,500 JPY ($5.60 - $10.50) for premium or specialty gyoza"
+  },
+  "tips": [
+    "Mix your own dipping sauce: a common ratio is equal parts soy sauce and rice vinegar with a few drops of rayu chili oil",
+    "Eat gyoza right away — the crispy bottom becomes soggy within minutes as the steam softens it",
+    "Gyoza pair exceptionally well with beer and are considered one of Japan's best drinking snacks",
+    "In Utsunomiya, take the Shinkansen from Tokyo (50 minutes) for a dedicated gyoza day trip — it is one of Japan's great food pilgrimages",
+    "At ramen shops, a side of gyoza with your ramen is almost mandatory — the combination is a classic Japanese comfort meal",
+    "Be aware that Japanese gyoza are very garlicky — not ideal just before a business meeting or date"
+  ],
+  "culturalNotes": "Gyoza occupies a fascinating place in Japanese food culture as a dish that arrived from China but was thoroughly Japanified within a single generation. While Japanese people are aware of the Chinese origins, they consider gyoza to be distinctly Japanese — similar to how Americans view pizza. The fierce rivalry between Utsunomiya and Hamamatsu over which is the true gyoza capital has become a fun cultural phenomenon, with both cities tracking per-capita consumption statistics annually and celebrating the competition. Gyoza also reflects Japan's post-war food culture — it emerged during a period of scarcity and became permanently embedded in the national diet. Today, gyoza is one of Japan's most democratic foods: equally at home as a side dish at a ramen counter, as the main event at a specialty restaurant, as a drinking snack at an izakaya, or as a frozen food cooked at home. The frozen gyoza market in Japan is enormous, and brands like Ajinomoto and Osaka Ohsho produce frozen gyoza that are remarkably close to restaurant quality.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Utsunomiya City Tourist Association",
+    "Hamamatsu & Lake Hamana Tourism Bureau",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "onigiri",
+  "name": {
+    "en": "Onigiri",
+    "nl": "Onigiri"
+  },
+  "japaneseName": "おにぎり (お握り)",
+  "image": "/images/food/onigiri.webp",
+  "category": "Rice",
+  "description": {
+    "en": "Hand-pressed rice balls filled with savory ingredients like salted salmon, pickled plum, or seasoned kelp, wrapped in crisp nori seaweed — Japan's original portable meal and the heart of everyday Japanese comfort food.",
+    "nl": "Met de hand gedrukte rijstballen gevuld met hartige ingredienten zoals gezouten zalm, ingemaakte pruim of gekruide kelp, gewikkeld in krokant nori-zeewier — Japans originele maaltijd voor onderweg en het hart van het dagelijkse Japanse troostvoedsel."
+  },
+  "overview": "Onigiri is perhaps the most essential expression of Japanese food culture — simple rice shaped by hand into triangles, cylinders, or spheres, filled or mixed with savory ingredients, and often wrapped in a sheet of nori seaweed. No other food is as ubiquitous in daily Japanese life: they are the backbone of bento boxes, the grab-and-go breakfast of millions of commuters, the fuel for school excursions and hiking trips, and the comfort food mothers make for their children. Despite their apparent simplicity, great onigiri require care — the rice must be freshly cooked and seasoned lightly with salt, pressed firmly enough to hold together but gently enough to remain fluffy (not compressed), and filled with ingredients that complement without overpowering the rice. At specialty onigiri shops, the rice is pressed to order, the nori is premium quality, and the fillings use high-quality ingredients like hand-flaked grilled salmon or house-pickled umeboshi. But onigiri's greatest ambassador is undoubtedly the Japanese convenience store (konbini), where the onigiri section offers an astonishing rotating selection of flavors in cleverly engineered packaging that keeps the nori crisp until the moment of eating.",
+  "origin": {
+    "region": "Nationwide (ancient origins)",
+    "history": "Onigiri is one of Japan's oldest foods, with evidence of rice balls found at archaeological sites dating back over 2,000 years. The Murasaki Shikibu Diary from the early 11th century mentions rice balls being given to servants at a palace celebration. During the Kamakura period (1185-1333), samurai carried onigiri wrapped in bamboo sheaths as portable battlefield rations. The use of nori seaweed wrapping became common during the Edo period when nori cultivation expanded in Tokyo Bay. In the Meiji period, onigiri became standard fare for soldiers and schoolchildren. The convenience store revolution of the 1970s and 1980s transformed onigiri from a home-made food into a commercial product, with 7-Eleven introducing its now-iconic triangular onigiri packaging in 1978."
+  },
+  "ingredients": {
+    "main": [
+      "Japanese short-grain rice (uruchimai)",
+      "Salt (for seasoning hands and rice surface)",
+      "Nori (roasted seaweed sheets)"
+    ],
+    "classic_fillings": [
+      "Sake (salted grilled salmon) — the most popular filling",
+      "Umeboshi (pickled Japanese plum — intensely sour and salty)",
+      "Kombu (simmered kelp in soy sauce and mirin)",
+      "Tuna mayo (canned tuna mixed with Kewpie mayonnaise)",
+      "Tarako (salted pollock roe)",
+      "Mentaiko (spicy marinated pollock roe)",
+      "Okaka (bonito flakes mixed with soy sauce)"
+    ],
+    "modern_fillings": [
+      "Teriyaki chicken",
+      "Shrimp tempura",
+      "Beef sukiyaki",
+      "Cheese and bacon",
+      "Tenmusu (shrimp tempura onigiri — Nagoya specialty)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Standard Nori-wrapped Onigiri",
+      "description": "The classic triangular rice ball with a filling inside and a sheet of nori seaweed wrapped around it. Convenience stores use special packaging that keeps the nori separate from the rice until unwrapping, maintaining crispness."
+    },
+    {
+      "name": "Yaki Onigiri (Grilled Rice Ball)",
+      "description": "Onigiri brushed with soy sauce or miso and grilled until the surface is toasty and slightly charred. No seaweed or filling — the flavor comes from the caramelized soy sauce crust. A popular izakaya menu item and street food."
+    },
+    {
+      "name": "Maze/Takikomi Onigiri (Mixed Rice)",
+      "description": "Onigiri where flavoring is mixed throughout the rice rather than placed as a filling. Varieties include wakame (seaweed), shiso (perilla), and takikomi gohan (rice cooked with vegetables, mushrooms, or chicken)."
+    },
+    {
+      "name": "Tenmusu",
+      "description": "A Nagoya specialty: a small onigiri with a piece of shrimp tempura tucked inside, partially protruding from the rice. The combination of fluffy rice, crispy tempura, and nori is irresistible."
+    },
+    {
+      "name": "Omusubi vs Onigiri",
+      "description": "The terms are used interchangeably, though 'omusubi' (to bind/connect) is more common in eastern Japan and traditionally refers to triangular shapes, while 'onigiri' (to grip/press) is more common in western Japan and can refer to any shape."
+    }
+  ],
+  "howToOrder": "At convenience stores, simply pick up onigiri from the dedicated display (usually near the entrance). Prices are on the package. The packaging has numbered tabs showing you how to open it properly to keep the nori crisp. At specialty onigiri shops, choose your filling from the menu or display case. Some shops make them to order. At restaurants and izakaya, yaki onigiri (grilled) is typically on the menu as a side dish or drinking snack. For the best convenience store selection, visit early in the morning when shelves are freshly stocked.",
+  "whereToEat": [
+    {
+      "name": "Onigiri Asakusa Yadoroku",
+      "location": "Asakusa, Tokyo",
+      "note": "Tokyo's oldest onigiri specialty shop, operating since 1954. Onigiri are made to order by hand with premium rice and traditional fillings. Counter seating only, with onigiri from 300 JPY. A beautiful experience of simplicity."
+    },
+    {
+      "name": "Bongo",
+      "location": "Otsuka, Tokyo",
+      "note": "Legendary onigiri shop famous for their enormous hand-pressed onigiri with over 50 filling options. The onigiri are remarkably large and loosely pressed for optimal texture. Always a queue."
+    },
+    {
+      "name": "7-Eleven / Lawson / FamilyMart",
+      "location": "Nationwide (60,000+ stores combined)",
+      "note": "Japan's convenience stores sell an estimated 2.2 billion onigiri per year. The quality is genuinely excellent, with seasonal limited-edition flavors rotating constantly. Prices from 110-250 JPY."
+    },
+    {
+      "name": "Tenmusu specialty shops",
+      "location": "Nagoya",
+      "note": "Try the Nagoya-original tenmusu (shrimp tempura onigiri) at specialty shops near Nagoya Station. Small, addictive, and perfect as a snack or light meal."
+    }
+  ],
+  "priceRange": {
+    "street": "110 - 250 JPY ($0.75 - $1.75) at convenience stores",
+    "restaurant": "250 - 500 JPY ($1.75 - $3.50) per piece at specialty onigiri shops",
+    "upscale": "500 - 1,000 JPY ($3.50 - $7) for premium or artisan onigiri"
+  },
+  "tips": [
+    "Learn to open convenience store onigiri properly — pull tab 1 (top center), then pull tabs 2 and 3 (sides) to separate the packaging while wrapping the nori around the rice. The instructions are on the back.",
+    "Onigiri are best eaten within a few hours of purchase — the rice hardens as it cools (though convenience store versions are engineered to last longer)",
+    "For a cheap, filling breakfast, grab two onigiri and a bottle of green tea from a konbini — it is what millions of Japanese do every morning",
+    "If you cannot read Japanese, look for the photos on the label: salmon (pink/orange), umeboshi (red/pink plum), tuna mayo (beige/yellow), and mentaiko (red/speckled)",
+    "Try yaki onigiri at an izakaya with a beer — the charred soy sauce aroma is irresistible",
+    "Onigiri make the perfect hiking and travel snack — portable, filling, and available at every station and rest stop"
+  ],
+  "culturalNotes": "Onigiri is the embodiment of 'okaa-san no aji' (mother's taste) in Japanese culture. For generations, Japanese mothers have woken early to press onigiri by hand for their children's school bento boxes, and the dish carries deep emotional associations with care, home, and comfort. The act of making onigiri — pressing warm rice with salted hands — is often one of the first cooking skills taught to Japanese children. Onigiri also reflects a core Japanese aesthetic value: that the highest art lies in perfecting something simple. There are no fancy techniques or expensive ingredients, yet the difference between a carelessly made and a lovingly made onigiri is immediately apparent. In times of disaster, onigiri is always the first food distributed to evacuees — its portability, shelf stability, and comforting nature make it the default emergency food. The Japanese Self-Defense Forces and Red Cross maintain massive onigiri production capabilities for disaster response.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "7-Eleven Japan — Onigiri History",
+    "Ministry of Agriculture, Forestry and Fisheries of Japan",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

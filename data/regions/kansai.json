@@ -1,0 +1,19 @@
+{
+  "slug": "kansai",
+  "name": "Kansai",
+  "japaneseName": "関西",
+  "description": "Kansai, also known as the Kinki region, is the cultural and historical heart of Japan — home to the ancient capitals of Kyoto and Nara, the boisterous food capital of Osaka, and some of the country's most important temples, shrines, and cultural traditions. If Tokyo represents Japan's future, Kansai is its soul. The region was the center of Japanese civilization for over a millennium, and its legacy is visible in the extraordinary concentration of UNESCO World Heritage sites, traditional arts, and centuries-old cultural practices that continue to this day.\n\nThe Kansai region encompasses the prefectures of Osaka, Kyoto, Hyogo, Nara, Wakayama, Shiga, and Mie, stretching from the shores of Lake Biwa (Japan's largest lake) to the pilgrimage trails of the Kii Peninsula. Each prefecture has a distinct personality: Kyoto's refined elegance, Osaka's irreverent energy, Nara's serene antiquity, Kobe's cosmopolitan sophistication, and Wakayama's spiritual wilderness along the Kumano Kodo pilgrimage routes.\n\nKansai is also where you will experience some of Japan's most dramatic cultural contrasts — geisha gliding through Kyoto's Gion district a short train ride from Osaka's raucous Dotonbori, ancient Shinto forests neighboring cutting-edge architecture, and Michelin-starred kaiseki meals complementing no-frills street food stalls. For many travelers, Kansai is where Japan truly comes alive.",
+  "highlights": [
+    "Kyoto — 17 UNESCO World Heritage sites, geisha districts, and 2,000+ temples",
+    "Osaka — Japan's street food capital with legendary nightlife",
+    "Nara — friendly bowing deer and the world's largest bronze Buddha",
+    "Kobe — Wagyu beef, sake breweries, and cosmopolitan port culture",
+    "Himeji Castle — Japan's finest surviving original castle",
+    "Kumano Kodo — ancient pilgrimage trails through sacred mountains",
+    "Mount Koya (Koyasan) — overnight stay at a Buddhist temple",
+    "Fushimi Inari — the iconic tunnel of 10,000 vermillion torii gates"
+  ],
+  "cities": ["kyoto", "osaka", "nara"],
+  "image": "/images/regions/kansai.webp",
+  "bestTimeToVisit": "March to May for cherry blossoms (peaking late March to mid-April); October to early December for autumn foliage (peaking mid-November). Avoid Golden Week (late April to early May) and Obon (mid-August) when domestic tourism peaks. Summer is hot and humid; winter is mild but cold enough for snow in the mountains."
+}

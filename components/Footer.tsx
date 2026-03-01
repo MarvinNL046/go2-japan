@@ -74,10 +74,18 @@ const Footer = () => {
               <p className="text-gray-400 text-sm">
                 &copy; {currentYear} {siteConfig.domain}. {t('footer.rights')}.
               </p>
-              <div className="flex items-center gap-4 text-sm">
-                <Link href="/privacy" className="text-gray-400 hover:text-white transition-colors">{t('footer.privacy')}</Link>
+              <div className="flex items-center gap-4 text-sm flex-wrap">
+                <Link href="/about/" className="text-gray-400 hover:text-white transition-colors">About</Link>
                 <span className="text-gray-600">|</span>
-                <Link href="/terms" className="text-gray-400 hover:text-white transition-colors">{t('footer.terms')}</Link>
+                <Link href="/contact/" className="text-gray-400 hover:text-white transition-colors">Contact</Link>
+                <span className="text-gray-600">|</span>
+                <Link href="/editorial-policy/" className="text-gray-400 hover:text-white transition-colors">Editorial Policy</Link>
+                <span className="text-gray-600">|</span>
+                <Link href="/affiliate-disclosure/" className="text-gray-400 hover:text-white transition-colors">Affiliate Disclosure</Link>
+                <span className="text-gray-600">|</span>
+                <Link href="/privacy/" className="text-gray-400 hover:text-white transition-colors">{t('footer.privacy')}</Link>
+                <span className="text-gray-600">|</span>
+                <Link href="/terms/" className="text-gray-400 hover:text-white transition-colors">{t('footer.terms')}</Link>
               </div>
             </div>
             <div className="mt-4 md:mt-0">

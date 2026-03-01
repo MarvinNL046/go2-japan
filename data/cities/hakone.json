@@ -1,0 +1,147 @@
+{
+  "slug": "hakone",
+  "name": {
+    "en": "Hakone"
+  },
+  "japaneseName": "箱根",
+  "image": "/images/cities/hakone.webp",
+  "region": "Kanto",
+  "highlights": [
+    "Mount Fuji Views",
+    "Natural Hot Springs (Onsen)",
+    "Lake Ashi Pirate Ships",
+    "Hakone Open-Air Museum",
+    "Mountain Railway Loop Route"
+  ],
+  "description": {
+    "en": "A mountainous hot spring resort nestled in the caldera of an ancient volcano, Hakone has been Tokyo's favorite escape for centuries, offering steaming onsen, misty lakes, world-class art museums, and on clear days, jaw-dropping views of Mount Fuji rising above Lake Ashi."
+  },
+  "overview": "Hakone sits within the collapsed caldera of a volcano that last erupted around 3,000 years ago, creating the dramatic landscape of mountains, forests, hot springs, and Lake Ashi that makes this one of Japan's most popular resort destinations. Located just 90 minutes from Tokyo within the Fuji-Hakone-Izu National Park, Hakone has been prized for its natural hot springs since at least the Nara period (8th century) and became a major station on the old Tokaido road connecting Tokyo and Kyoto during the Edo period. Today the town (population 11,000, though it hosts over 20 million visitors annually) is spread across a mountainous area connected by a famous loop route of different transportation modes: mountain railway, cable car, ropeway, and pirate ship. The area offers an exceptional concentration of art museums, traditional ryokan (Japanese inns), and outdoor experiences. The great prize is a clear view of Mount Fuji across Lake Ashi — visible roughly 30-40% of days, with winter mornings offering the best odds.",
+  "neighborhoods": [
+    {
+      "name": "Hakone-Yumoto (箱根湯本)",
+      "description": "The gateway to Hakone and its largest hot spring town, Hakone-Yumoto sits at the base of the mountains around the Odakyu terminal station. The main street is lined with souvenir shops, manju (sweet bun) vendors, and small restaurants. Several day-use onsen (public baths) are within walking distance, and the area has the widest range of accommodation from budget to luxury. The Hayakawa River running through town creates a pleasant atmosphere.",
+      "highlights": [
+        "Numerous day-use onsen facilities",
+        "Shopping street with local specialties",
+        "Tenzan Tohji-kyo (popular day onsen)",
+        "Gateway to the Hakone loop route"
+      ]
+    },
+    {
+      "name": "Gora (強羅)",
+      "description": "A mountain resort area centered around the terminus of the Hakone Tozan Railway, Gora developed as an upscale retreat in the early 20th century. The area is home to the excellent Hakone Museum of Art (with a stunning moss garden), several high-end ryokan and modern resort hotels, and the starting point of the Hakone cable car to Sounzan. Gora Park, a French-style garden, offers tea ceremony experiences and craft workshops.",
+      "highlights": [
+        "Hakone Museum of Art and moss garden",
+        "Gora Park with tea ceremony",
+        "Upscale ryokan and resorts",
+        "Cable car connection to Sounzan"
+      ]
+    },
+    {
+      "name": "Owakudani (大涌谷)",
+      "description": "This volcanic valley, accessible by the Hakone Ropeway, is an otherworldly landscape of sulfurous steam vents, bubbling pools, and barren rocky terrain on the slopes of Mount Kamiyama. The area is famous for its kuro-tamago (black eggs), ordinary eggs boiled in the sulfurous hot springs until the shell turns black — eating one is said to add seven years to your life. On clear days, the ropeway offers spectacular views of Mount Fuji.",
+      "highlights": [
+        "Volcanic steam vents and sulfur landscape",
+        "Kuro-tamago (black eggs)",
+        "Mount Fuji views from the ropeway",
+        "Geological information center"
+      ]
+    },
+    {
+      "name": "Lake Ashi / Moto-Hakone (芦ノ湖・元箱根)",
+      "description": "The scenic caldera lake is Hakone's centerpiece, famous for its views of Mount Fuji reflected in its waters and the vermilion torii gate of Hakone Shrine rising from the lakeside forest. Sightseeing pirate ships and traditional-style boats cruise the lake. The old Tokaido Cedar Avenue, planted in 1618, and the Hakone Checkpoint (a reconstructed Edo-period barrier gate) provide historical interest along the southern shore.",
+      "highlights": [
+        "Mount Fuji views across the lake",
+        "Hakone Shrine and lakeside torii gate",
+        "Sightseeing cruise ships",
+        "Old Tokaido Cedar Avenue"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "The nearest airport is Tokyo's Haneda Airport (HND), approximately 2 hours away via train. From Narita Airport (NRT), allow 3 hours. No direct airport connections exist; travel via central Tokyo or Odawara.",
+    "byTrain": "The most popular route is the Odakyu Romance Car limited express from Shinjuku Station directly to Hakone-Yumoto (85 minutes, ¥2,330). Regular Odakyu trains (with transfer at Odawara) take about 2 hours but cost only ¥1,220. From Odawara (a stop on the Tokaido Shinkansen, 35 minutes from Tokyo Station, ¥3,740), the Hakone Tozan Railway reaches Hakone-Yumoto in 15 minutes. The Hakone Free Pass from Odakyu (¥6,100 from Shinjuku) includes round-trip train travel plus unlimited use of all Hakone loop transportation for 2 days.",
+    "byBus": "Odakyu Highway Express buses run directly from Shinjuku Bus Terminal to Hakone (2 hours, from ¥2,100). Buses also connect Hakone to Gotemba Premium Outlets and the Mount Fuji area."
+  },
+  "gettingAround": "The famous Hakone loop route uses six different modes of transport to circle the area: Hakone Tozan Railway (mountain switchback train from Hakone-Yumoto to Gora), cable car (Gora to Sounzan), ropeway (Sounzan over Owakudani to Togendai), sightseeing boat (across Lake Ashi to Moto-Hakone or Hakone-machi), and buses (back to Hakone-Yumoto). The Hakone Free Pass covers all of these and is the best value for exploring. The mountain terrain means walking between areas is impractical — rely on the transportation network. Hakone Tozan buses fill gaps between the loop route stops.",
+  "bestTimeToVisit": {
+    "best": "November and January to February",
+    "description": "Autumn foliage (early to mid-November) is spectacular in Hakone's mountainous terrain, with the Hakone Tozan Railway through colorful tunnels of leaves being particularly famous. Winter (January-February) offers the clearest skies and best chances of seeing Mount Fuji, plus the pleasure of soaking in outdoor onsen in cold air. Spring and summer are pleasant but Fuji is often obscured by clouds.",
+    "seasons": {
+      "spring": "March-May: Cherry blossoms bloom later here than Tokyo due to elevation, peaking in mid-April. 8-18°C. Hydrangeas along the mountain railway bloom from mid-June to mid-July.",
+      "summer": "June-August: Mild by Japanese standards, 18-27°C. Hydrangea season (June-July) is gorgeous along the Tozan Railway. Mount Fuji views are least likely due to clouds and haze. Popular escape from Tokyo's heat.",
+      "autumn": "September-November: The most visually stunning season, 8-20°C. Autumn foliage peaks early to mid-November, with the mountain railway and Sengokuhara area being prime spots. Book accommodation well in advance.",
+      "winter": "December-February: Cold, 0-8°C, with occasional snow. The best season for Mount Fuji views — clear winter mornings offer the highest probability. Outdoor onsen in the cold air is a quintessential Hakone experience."
+    }
+  },
+  "budget": {
+    "backpacker": "$60-90/day",
+    "midRange": "$150-300/day",
+    "luxury": "$400-1,000+/day",
+    "details": "Budget accommodation starts from ¥5,000-8,000 ($33-53) at guesthouses and hostels. Mid-range ryokan with onsen and meals cost ¥15,000-35,000 ($100-233) per person. Luxury ryokan like Gora Kadan and Hakone Ginyu start from ¥50,000+ ($333+) per person with kaiseki dinner and breakfast. The Hakone Free Pass costs ¥6,100 ($41) from Shinjuku and covers 2 days of transport. Day-use onsen facilities charge ¥1,000-2,500 ($7-17). Kuro-tamago (black eggs) cost ¥500 ($3.30) for 5 at Owakudani."
+  },
+  "mustDo": [
+    {
+      "name": "Ride the complete Hakone loop route",
+      "description": "The classic Hakone experience combines six modes of transport in a scenic loop: mountain switchback railway through forested gorges, cable car up steep mountainsides, ropeway over the volcanic Owakudani valley, and pirate ship across Lake Ashi. Allow a full day to complete the loop with stops. The Hakone Free Pass covers everything."
+    },
+    {
+      "name": "Soak in a natural hot spring onsen",
+      "description": "Hakone is one of Japan's premier onsen destinations with 17 distinct hot spring sources offering different mineral compositions. For first-timers, Tenzan Tohji-kyo in Hakone-Yumoto offers excellent day-use outdoor baths (rotenburo) in a forested riverside setting (¥1,300). For the ultimate experience, stay overnight at a ryokan with private onsen. Remember: tattoos are still prohibited at many facilities, though an increasing number are becoming tattoo-friendly."
+    },
+    {
+      "name": "Eat black eggs at Owakudani",
+      "description": "The volcanic valley's sulfurous hot springs naturally turn egg shells jet black while cooking the eggs inside. Legend says each black egg (kuro-tamago) adds seven years to your life. Sold in bags of five for ¥500 at the Owakudani station. Eat them while taking in the dramatic volcanic landscape and, on clear days, views of Mount Fuji."
+    },
+    {
+      "name": "Visit the Hakone Open-Air Museum",
+      "description": "Japan's first open-air museum (opened 1969) displays over 100 sculptures by artists including Henry Moore, Rodin, and Niki de Saint Phalle across beautifully landscaped grounds with mountain views. The Picasso Collection (318 works) and the stunning stained-glass tower are highlights. A foot bath fed by natural hot spring water lets you rest weary feet while enjoying the art. Entry ¥1,600."
+    },
+    {
+      "name": "Visit Hakone Shrine and its lakeside torii",
+      "description": "The vermilion torii gate of Hakone Shrine standing at the edge of Lake Ashi, framed by cedar forests, is one of the most photographed scenes in the Hakone area. The shrine itself, founded in 757 AD, sits in a dense forest of ancient cedar trees and has been a site of worship for samurai and travelers for centuries. The atmospheric approach through towering cedars is as memorable as the shrine itself."
+    }
+  ],
+  "food": {
+    "description": "Hakone's cuisine highlights local mountain and lake ingredients, traditional Japanese inn cooking, and a few unique volcanic specialties. Many visitors experience Hakone's food through ryokan kaiseki dinners, which showcase seasonal ingredients in an elaborate multi-course format. The area is also known for its soba noodles, tofu, and sweets.",
+    "specialties": [
+      "Kuro-tamago (Black Eggs) — Eggs boiled in Owakudani's sulfurous hot springs until the shell turns black. Said to add seven years to your life per egg",
+      "Hakone Soba — Buckwheat noodles made with Hakone's pure mountain water. Best at traditional soba shops in Hakone-Yumoto and along the old Tokaido road",
+      "Yuba (Tofu Skin) — Delicate tofu skin served in various preparations at restaurants throughout Hakone, benefiting from the area's clean water",
+      "Manju — Sweet steamed buns in various flavors. Hakone-Yumoto's main street has numerous shops offering freshly steamed manju, often with local ingredients",
+      "Ryokan Kaiseki — The elaborate multi-course dinners served at Hakone's traditional inns are a culinary highlight, featuring seasonal mountain and sea ingredients"
+    ]
+  },
+  "safety": "Hakone is very safe for visitors. The main considerations are natural: volcanic activity at Owakudani occasionally causes closures of the ropeway and hiking trails (check current status before visiting), and mountain weather can change quickly, so bring layers and rain gear. Mountain roads can be narrow and winding — drive carefully if renting a car. In winter, roads may have ice. Bears have been spotted rarely in more remote forested areas; stick to marked trails. Tap water is safe to drink.",
+  "localTips": [
+    "Buy the Hakone Free Pass (¥6,100 from Shinjuku, 2 days) — it pays for itself easily and eliminates the hassle of buying individual tickets for each transport mode.",
+    "For the best chance of seeing Mount Fuji, visit in winter (January-February) and aim for early morning. By midday, clouds typically obscure the view even on clear days.",
+    "Stay overnight at a ryokan if your budget allows — the experience of kaiseki dinner, soaking in onsen under the stars, and a Japanese breakfast is one of the highlights of any Japan trip.",
+    "The Hakone Tozan Railway is particularly beautiful during hydrangea season (mid-June to mid-July) when the tracks are flanked by blue and purple blooms, and during autumn foliage (early to mid-November).",
+    "Check the volcanic alert level at Owakudani before planning your route — during elevated activity, the ropeway section over Owakudani may close and alternative buses are provided.",
+    "Travel the loop route counterclockwise (starting with the boat, then ropeway, then railway) to avoid the heaviest crowds, as most tourists go clockwise from Hakone-Yumoto."
+  ],
+  "dayTrips": [
+    {
+      "name": "Gotemba Premium Outlets",
+      "distance": "20km east, approximately 40 minutes by bus",
+      "description": "Japan's largest outlet mall with over 200 stores offering 30-70% discounts on international and Japanese brands. The outdoor mall is set against a stunning Mount Fuji backdrop on clear days. Free shuttle buses run from Hakone and there is a direct highway bus from Shinjuku."
+    },
+    {
+      "name": "Odawara",
+      "distance": "15km east, approximately 15 minutes by Hakone Tozan Railway",
+      "description": "This coastal castle town features the beautifully restored Odawara Castle, surrounded by moats and gardens particularly stunning during cherry blossom season. The town also offers fresh seafood at the fishing port area and serves as a gateway between the Shinkansen and Hakone."
+    },
+    {
+      "name": "Mishima Skywalk",
+      "distance": "25km south, approximately 40 minutes by bus",
+      "description": "Japan's longest pedestrian suspension bridge (400m) offers breathtaking views of Mount Fuji, Suruga Bay, and the Izu Peninsula. The surrounding park includes zip lines, adventure courses, and a flower garden. Best visited on clear mornings for optimal Fuji views."
+    }
+  ],
+  "sources": [
+    "Japan National Tourism Organization (japan.travel)",
+    "Japan Guide — Hakone (japan-guide.com/e/e5200.html)",
+    "Hakone Navi Official Guide (hakonenavi.jp)"
+  ]
+}

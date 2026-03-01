@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "slug": "sake",
+    "name": {
+      "en": "Sake",
+      "nl": "Sake"
+    },
+    "image": "/images/drinks/sake.webp",
+    "category": "Alcohol",
+    "description": {
+      "en": "Japan's iconic rice wine — a refined, complex alcoholic beverage brewed from polished rice, water, yeast, and koji mold, ranging from light and floral to rich and savory, and deeply woven into Japanese ceremony, cuisine, and daily life.",
+      "nl": "Japans iconische rijstwijn — een verfijnd, complex alcoholisch drankje gebrouwen van gepolijste rijst, water, gist en koji-schimmel, varierend van licht en bloemig tot rijk en hartig, en diep verweven met Japanse ceremonies, keuken en het dagelijks leven."
+    }
+  },
+  {
+    "slug": "matcha",
+    "name": {
+      "en": "Matcha",
+      "nl": "Matcha"
+    },
+    "image": "/images/drinks/matcha.webp",
+    "category": "Tea",
+    "description": {
+      "en": "Vibrant green powdered tea whisked into a frothy, umami-rich drink — the centerpiece of the Japanese tea ceremony for nearly a millennium and now enjoyed daily in cafes, temples, and homes across Japan.",
+      "nl": "Levendig groen theepoeder opgeklopt tot een schuimig, umami-rijk drankje — het middelpunt van de Japanse theeceremonie sinds bijna een millennium en nu dagelijks genoten in cafes, tempels en huizen door heel Japan."
+    }
+  },
+  {
+    "slug": "shochu",
+    "name": {
+      "en": "Shochu",
+      "nl": "Shochu"
+    },
+    "image": "/images/drinks/shochu.webp",
+    "category": "Alcohol",
+    "description": {
+      "en": "Japan's versatile distilled spirit made from sweet potato, barley, rice, or other ingredients — smoother and more aromatic than vodka, lower in alcohol than whisky, and deeply tied to the culture of southern Japan.",
+      "nl": "Japans veelzijdige gedistilleerde drank gemaakt van zoete aardappel, gerst, rijst of andere ingredienten — zachter en aromatischer dan wodka, lager in alcohol dan whisky, en diep verbonden met de cultuur van Zuid-Japan."
+    }
+  },
+  {
+    "slug": "umeshu",
+    "name": {
+      "en": "Umeshu",
+      "nl": "Umeshu"
+    },
+    "image": "/images/drinks/umeshu.webp",
+    "category": "Alcohol",
+    "description": {
+      "en": "Sweet, fragrant plum wine made by steeping unripe Japanese ume plums in alcohol and sugar — a smooth, fruity drink beloved as an aperitif and one of the most accessible Japanese alcoholic beverages for visitors.",
+      "nl": "Zoete, geurige pruimenwijn gemaakt door onrijpe Japanse ume-pruimen te weken in alcohol en suiker — een zachte, fruitige drank die geliefd is als aperitief en een van de meest toegankelijke Japanse alcoholische dranken voor bezoekers."
+    }
+  },
+  {
+    "slug": "japanese-whisky",
+    "name": {
+      "en": "Japanese Whisky",
+      "nl": "Japanse whisky"
+    },
+    "image": "/images/drinks/japanese-whisky.webp",
+    "category": "Alcohol",
+    "description": {
+      "en": "World-class whisky inspired by Scottish traditions but refined with Japanese precision — from the smoky, peated expressions of Yoichi to the delicate, floral notes of Yamazaki, now rivaling the finest Scotch on the global stage.",
+      "nl": "Whisky van wereldklasse geinspireerd door Schotse tradities maar verfijnd met Japanse precisie — van de rokerige, geturfde expressies van Yoichi tot de delicate, bloemige noten van Yamazaki, nu concurrerend met de beste Scotch op het wereldtoneel."
+    }
+  },
+  {
+    "slug": "ramune",
+    "name": {
+      "en": "Ramune",
+      "nl": "Ramune"
+    },
+    "image": "/images/drinks/ramune.webp",
+    "category": "Soft Drink",
+    "description": {
+      "en": "Japan's iconic marble-sealed soda — a refreshing, lightly sweet carbonated lemon-lime drink served in a distinctive Codd-neck bottle that requires pushing a glass marble into the neck to open, creating a fun, fizzy experience.",
+      "nl": "Japans iconische frisdrankje met knikkerafsluiting — een verfrissend, licht zoet koolzuurhoudend citroen-limoendranke in een karakteristieke Codd-hals fles die geopend wordt door een glazen knikker in de hals te duwen, wat een leuke, bruisende ervaring oplevert."
+    }
+  },
+  {
+    "slug": "amazake",
+    "name": {
+      "en": "Amazake",
+      "nl": "Amazake"
+    },
+    "image": "/images/drinks/amazake.webp",
+    "category": "Traditional",
+    "description": {
+      "en": "A sweet, creamy, traditional Japanese drink made from fermented rice using koji mold — naturally sweet with no added sugar, often served warm at shrines and festivals, and considered a nourishing health drink.",
+      "nl": "Een zoet, romig, traditioneel Japans drankje gemaakt van gefermenteerde rijst met koji-schimmel — van nature zoet zonder toegevoegde suiker, vaak warm geserveerd bij tempels en festivals, en beschouwd als een voedzaam gezondheidsdrankje."
+    }
+  },
+  {
+    "slug": "chuhai",
+    "name": {
+      "en": "Chuhai",
+      "nl": "Chuhai"
+    },
+    "image": "/images/drinks/chuhai.webp",
+    "category": "Alcohol",
+    "description": {
+      "en": "Japan's favorite casual cocktail — a refreshing mix of shochu (or vodka) with soda water and fruit flavoring, available in an incredible range of flavors at every izakaya and convenience store in the country.",
+      "nl": "Japans favoriete casual cocktail — een verfrissende mix van shochu (of wodka) met sodawater en fruitsmaak, verkrijgbaar in een ongelofelijk scala aan smaken bij elk izakaya en elke convenience store in het land."
+    }
+  }
+]

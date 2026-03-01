@@ -1,0 +1,108 @@
+{
+  "slug": "ramen",
+  "name": {
+    "en": "Ramen",
+    "nl": "Ramen"
+  },
+  "japaneseName": "ラーメン",
+  "image": "/images/food/ramen.webp",
+  "category": "Noodle Soup",
+  "description": {
+    "en": "Japan's beloved noodle soup featuring springy wheat noodles in a deeply flavored broth — from rich, creamy tonkotsu pork bone to clear, elegant shio salt — topped with chashu pork, a soft-boiled egg, and an array of garnishes.",
+    "nl": "Japans geliefde noedelsoep met veerkrachtige tarwenoedels in een diep gearomatiseerde bouillon — van rijke, romige tonkotsu varkensbotbouillon tot heldere, elegante shio-zoutbouillon — belegd met chashu-varkensvlees, een zachtgekookt ei en diverse garnituren."
+  },
+  "overview": "Ramen is Japan's ultimate comfort food, a steaming bowl of wheat noodles swimming in a meticulously crafted broth that can take anywhere from six to seventy-two hours to prepare. While ramen's roots trace to Chinese noodle soups, Japan has transformed it into something entirely its own — a national obsession with regional variations so distinct that entire guidebooks and television shows are dedicated to cataloguing them. Every city, every neighborhood, and seemingly every chef has their own interpretation. The broth is the soul of any ramen bowl, and it is here that Japan's ramen masters pour their creativity and obsession. Some simmer mountains of pork bones for days to achieve the opaque, collagen-rich tonkotsu of Kyushu. Others carefully extract a crystalline chicken or seafood broth for a refined shio or shoyu base. The noodles themselves vary in thickness, shape, and hydration depending on the broth they will accompany. Toppings range from meltingly tender braised pork belly (chashu) and jammy soft-boiled eggs (ajitsuke tamago) to bamboo shoots (menma), nori, green onions, and butter. Slurping loudly is not just acceptable — it is expected, as it aerates the noodles and enhances the flavor.",
+  "origin": {
+    "region": "Chinese origins, perfected nationwide in Japan",
+    "history": "Ramen arrived in Japan through Chinese immigrants in the late 19th and early 20th centuries, initially served at Chinese restaurants in port cities like Yokohama and Kobe under the name 'shina soba' (Chinese noodles). After World War II, cheap wheat flour from American food aid and returning soldiers from China fueled a ramen boom. Street stalls (yatai) proliferated, and regional styles began emerging: miso ramen in Sapporo (1955), tonkotsu ramen in Hakata (1940s), and countless local variations across the country. The invention of instant ramen by Momofuku Ando in 1958 further cemented ramen's place in Japanese culture. By the 1980s and 1990s, ramen had evolved from cheap street food to a craft food movement, with celebrity chefs and ramen ranking websites driving innovation. Today, Japan has over 30,000 ramen shops."
+  },
+  "ingredients": {
+    "main": [
+      "Wheat noodles (flour, water, kansui alkaline mineral water, sometimes egg)",
+      "Broth (pork bones, chicken bones, dried fish, kombu, or a combination)",
+      "Tare seasoning base (soy sauce, miso, or salt)"
+    ],
+    "toppings": [
+      "Chashu (braised pork belly or shoulder)",
+      "Ajitsuke tamago (marinated soft-boiled egg)",
+      "Menma (fermented bamboo shoots)",
+      "Nori (roasted seaweed)",
+      "Negi (chopped green onion)",
+      "Moyashi (bean sprouts)",
+      "Narutomaki (fish cake with pink spiral)",
+      "Kikurage (wood ear mushroom)"
+    ],
+    "condiments": [
+      "Rayu (chili oil)",
+      "Garlic (raw or roasted)",
+      "Sesame seeds",
+      "Black pepper",
+      "Butter (especially in Sapporo-style)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Tonkotsu Ramen (Hakata/Fukuoka)",
+      "description": "The signature ramen of Kyushu, featuring an opaque, creamy white broth made by boiling pork bones at a rolling boil for 12-72 hours until the collagen emulsifies. Served with thin, straight noodles and minimal toppings. The kaedama system lets you order extra noodles in your remaining broth."
+    },
+    {
+      "name": "Shoyu Ramen (Tokyo)",
+      "description": "The original Tokyo-style ramen with a clear brown broth seasoned with soy sauce, typically made from chicken and sometimes pork or seafood. Medium-thick curly noodles with classic toppings of chashu, menma, nori, and narutomaki."
+    },
+    {
+      "name": "Miso Ramen (Sapporo)",
+      "description": "Born in Sapporo, Hokkaido in 1955, this hearty style features a rich broth blended with miso paste, often topped with butter, sweet corn, ground pork, and bean sprouts. The thick, curly noodles stand up to the robust broth. Perfect for cold Hokkaido winters."
+    },
+    {
+      "name": "Shio Ramen (Hakodate)",
+      "description": "The lightest and most delicate style, seasoned simply with salt. The clear, golden broth lets the quality of the base ingredients shine. Associated with Hakodate in Hokkaido, where the style emphasizes a clean chicken or seafood stock."
+    },
+    {
+      "name": "Tsukemen (Dipping Ramen)",
+      "description": "Created by Kazuo Yamagishi at Taishoken in Tokyo in 1961. Cold or room-temperature noodles are served separately from a concentrated, intensely flavored dipping broth. You dip the noodles into the broth before each bite. Increasingly popular nationwide."
+    }
+  ],
+  "howToOrder": "At most ramen shops, you order from a ticket vending machine (shokkenki) at the entrance. Insert money, press the button for your chosen ramen, and hand the ticket to the staff. Common customization options include noodle firmness (katame for firm, futsu for normal, yawarakame for soft), richness (kotteri for rich, assari for light), and garlic amount. At Hakata-style shops, you can order 'kaedama' (extra noodles, usually 100-200 JPY) when you finish your first serving. Solo diners often sit at a counter facing the kitchen.",
+  "whereToEat": [
+    {
+      "name": "Ichiran",
+      "location": "Nationwide (flagship in Tenjin, Fukuoka)",
+      "note": "Famous tonkotsu chain with individual booth seating and a customization form where you specify broth richness, garlic level, spice, and noodle firmness. Open 24 hours at many locations. A great first ramen experience."
+    },
+    {
+      "name": "Fuunji",
+      "location": "Shinjuku, Tokyo",
+      "note": "Legendary tsukemen shop near Shinjuku Station, regularly ranked among Tokyo's best. Known for an intensely concentrated fish-and-pork dipping broth. Expect a 30-60 minute queue."
+    },
+    {
+      "name": "Ippudo",
+      "location": "Founded in Fukuoka, locations nationwide",
+      "note": "Premium tonkotsu ramen chain that helped popularize Hakata-style ramen across Japan and internationally. Their Shiromaru (original white) and Akamaru (modern spicy) are signature bowls."
+    },
+    {
+      "name": "Shin-Yokohama Ramen Museum",
+      "location": "Shin-Yokohama, Yokohama",
+      "note": "A unique food theme park recreating a 1958 Tokyo streetscape, featuring famous ramen shops from across Japan under one roof. Perfect for sampling multiple regional styles in one visit."
+    }
+  ],
+  "priceRange": {
+    "street": "700 - 1,000 JPY ($5 - $7) at standard ramen shops",
+    "restaurant": "1,000 - 1,500 JPY ($7 - $10) at popular or specialty shops",
+    "upscale": "1,500 - 3,000 JPY ($10 - $20) at premium or Michelin-recognized ramen shops"
+  },
+  "tips": [
+    "Slurp your noodles loudly — it is not rude in Japan; it cools the noodles and is said to enhance the flavor by aerating them",
+    "Eat ramen quickly before the noodles absorb too much broth and become soft — Japanese call overcooked noodles 'nobita' (stretched), and it is not a compliment",
+    "Order noodles 'katame' (firm) if you eat slowly, as they will continue to soften in the hot broth",
+    "Many ramen shops are tiny with only 8-12 seats — solo diners are the norm, and there is no stigma eating alone",
+    "Lunchtime (11:30 AM - 1:30 PM) sees the longest queues; try visiting at 2:00 PM or after 8:00 PM for shorter waits",
+    "At tonkotsu shops, always try kaedama (extra noodles) for 100-200 JPY to use up the remaining rich broth"
+  ],
+  "culturalNotes": "Ramen occupies a unique place in Japanese food culture — it is simultaneously everyday fast food and an obsessive artisan craft. Japan's ramen culture has spawned an entire ecosystem of ramen critics, ranking websites (like Ramen Database), TV shows, and ramen festivals. Many ramen chefs are treated like artists, spending years perfecting a single recipe before opening their own shop. The opening of a new highly-anticipated ramen shop can draw queues of hundreds. Instant ramen, invented by Momofuku Ando in 1958, is considered one of Japan's greatest inventions and has its own museum in Yokohama (Cup Noodles Museum) where visitors can create custom instant ramen. The culture around ramen is also deeply egalitarian — CEOs and construction workers line up at the same tiny counters, united by their love of a perfect bowl.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Shin-Yokohama Ramen Museum",
+    "George Solt, 'The Untold History of Ramen' (University of California Press, 2014)",
+    "Lonely Planet Japan Food Guide"
+  ]
+}

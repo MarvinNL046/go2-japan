@@ -1,0 +1,103 @@
+{
+  "slug": "okonomiyaki",
+  "name": {
+    "en": "Okonomiyaki",
+    "nl": "Okonomiyaki"
+  },
+  "japaneseName": "お好み焼き (おこのみやき)",
+  "image": "/images/food/okonomiyaki.webp",
+  "category": "Griddle",
+  "description": {
+    "en": "A savory Japanese pancake loaded with shredded cabbage and your choice of fillings — pork, seafood, cheese, mochi — griddled until golden and topped with a sweet-tangy sauce, mayonnaise, bonito flakes, and seaweed powder.",
+    "nl": "Een hartige Japanse pannenkoek vol met geraspte kool en vulling naar keuze — varkensvlees, zeevruchten, kaas, mochi — gebakken tot goudbruin en afgewerkt met een zoetzure saus, mayonaise, bonitovlokken en zeewierpoeder."
+  },
+  "overview": "Okonomiyaki literally translates to 'grilled as you like it,' and that spirit of customization is what makes this dish so beloved across Japan. At its simplest, it is a thick savory pancake made from a batter of flour, eggs, dashi stock, and shredded cabbage, mixed with whatever fillings the diner desires and cooked on a flat iron griddle (teppan). The two major styles — Osaka and Hiroshima — inspire fierce regional loyalty and friendly rivalry. In Osaka, all ingredients are mixed together into a thick batter and griddled. In Hiroshima, the components are layered: a thin crepe, mountains of cabbage, pork, yakisoba noodles, and a fried egg are stacked and pressed together. Both styles are finished with a glossy coating of otafuku sauce (a Worcestershire-like sweet fruit sauce), a zigzag of Japanese mayonnaise, a shower of katsuobushi (dancing bonito flakes), and a dusting of aonori (green seaweed powder). In Osaka especially, okonomiyaki restaurants are social hubs where friends gather around a shared griddle, drinking beer and cooking together.",
+  "origin": {
+    "region": "Osaka and Hiroshima",
+    "history": "Okonomiyaki's roots trace to the Edo period dish 'funoyaki,' a thin crepe served at Buddhist ceremonies. In the 1930s, a simpler version called 'issen yoshoku' (one-penny Western food) became popular street food. After World War II, when rice was scarce but flour was available through American aid, the modern cabbage-heavy okonomiyaki emerged as an affordable, filling meal. Osaka and Hiroshima each developed their own distinct styles. The dish grew from post-war necessity food into one of Japan's most beloved comfort foods, and both cities now celebrate it as a cornerstone of their culinary identity."
+  },
+  "ingredients": {
+    "main": [
+      "Flour, eggs, dashi stock, and grated nagaimo yam (batter)",
+      "Shredded cabbage (the backbone of the dish)",
+      "Thinly sliced pork belly (buta)",
+      "Tenkasu (tempura scraps for crunch)"
+    ],
+    "optional_fillings": [
+      "Seafood (shrimp, squid, octopus)",
+      "Mochi (rice cake pieces)",
+      "Cheese",
+      "Kimchi",
+      "Green onion (negi)",
+      "Yakisoba noodles (for modanyaki/Hiroshima-style)"
+    ],
+    "toppings": [
+      "Otafuku sauce (sweet brown okonomiyaki sauce)",
+      "Japanese mayonnaise (Kewpie)",
+      "Katsuobushi (bonito flakes)",
+      "Aonori (green seaweed powder)",
+      "Beni shoga (pickled red ginger)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Osaka-style (Kansai-style)",
+      "description": "All ingredients are mixed together in a bowl, poured onto the griddle, and shaped into a thick round pancake. The batter often includes grated nagaimo yam for a lighter, fluffier texture. Diners at many restaurants cook it themselves on a tabletop teppan."
+    },
+    {
+      "name": "Hiroshima-style",
+      "description": "A layered construction: a thin crepe is topped with a massive pile of cabbage, pork, bean sprouts, yakisoba noodles, and a fried egg, all pressed together. The result is much thicker and heartier than Osaka-style. The noodle layer is distinctive."
+    },
+    {
+      "name": "Modanyaki",
+      "description": "An Osaka variation that adds a layer of yakisoba or udon noodles to the standard Osaka-style pancake, bridging the gap between Osaka and Hiroshima styles. Extremely filling."
+    },
+    {
+      "name": "Negiyaki",
+      "description": "An Osaka variation using a thinner batter loaded with chopped green onions instead of cabbage, resulting in a crispier, lighter pancake often compared to a savory crepe."
+    }
+  ],
+  "howToOrder": "At most okonomiyaki restaurants, you choose a base style and add toppings. 'Buta-tama' (pork and egg) is the standard starting point. 'Mix' or 'deluxe' sets add seafood. At self-cook restaurants (common in Osaka), the staff will bring ingredients mixed in a bowl with spatulas — you cook it on the tabletop teppan. Flip when the bottom is golden (about 4-5 minutes per side). At staff-cooked restaurants (standard in Hiroshima), just order and wait. Say 'okonomiyaki hitotsu' for one pancake.",
+  "whereToEat": [
+    {
+      "name": "Mizuno",
+      "location": "Dotonbori, Osaka",
+      "note": "One of Osaka's most famous okonomiyaki restaurants, operating since 1945. Known for their 'yamaimoyaki' using generous amounts of mountain yam for an incredibly fluffy texture. Often has a queue."
+    },
+    {
+      "name": "Nagata-ya",
+      "location": "Hiroshima",
+      "note": "Widely considered one of the best Hiroshima-style okonomiyaki restaurants. Located near the Peace Memorial Park. Their signature pancake with extra noodles and egg is a masterclass in layered construction."
+    },
+    {
+      "name": "Okonomimura",
+      "location": "Hiroshima",
+      "note": "A multi-story building containing over 20 individual okonomiyaki stalls on floors 2-4. Pick any stall, sit at the counter, and watch the chef build your Hiroshima-style okonomiyaki on the griddle before you."
+    },
+    {
+      "name": "Kiji",
+      "location": "Umeda, Osaka (Shin-Umeda Food Court)",
+      "note": "Tiny but legendary shop in the underground food court beneath Umeda Sky Building. Famous for their modanyaki with yakisoba noodles. Expect a 30-minute wait."
+    }
+  ],
+  "priceRange": {
+    "street": "600 - 900 JPY ($4 - $6) for a basic okonomiyaki",
+    "restaurant": "900 - 1,800 JPY ($6 - $12) for premium toppings or mix sets",
+    "upscale": "2,000 - 3,500 JPY ($14 - $24) at high-end teppanyaki-style restaurants"
+  },
+  "tips": [
+    "In Osaka, many restaurants let you cook it yourself — do not press down on the pancake with the spatula or you will squeeze out moisture and make it dense",
+    "Use the small metal spatula (kote/hera) to cut and eat directly off the griddle — this keeps the okonomiyaki hot",
+    "Apply sauce generously — the sweet-tangy sauce is essential to the flavor profile",
+    "Watch the bonito flakes dance on top from the heat — this is a signature visual moment and means the okonomiyaki is still piping hot",
+    "In Hiroshima, do not attempt to flip it yourself at staff-cooked restaurants — the layered construction requires expert technique",
+    "Pair okonomiyaki with a cold Japanese beer — it is one of Japan's great food-and-drink combinations"
+  ],
+  "culturalNotes": "Okonomiyaki is deeply tied to the post-war recovery story of both Osaka and Hiroshima. In Hiroshima, the dish holds particular significance: after the atomic bombing in 1945, okonomiyaki stalls were among the first businesses to reopen, providing affordable, filling meals from simple ingredients to a devastated population. The dish became a symbol of resilience and community rebuilding. Today, Hiroshima has over 2,000 okonomiyaki restaurants for a city of 1.2 million people. In Osaka, the dish reflects the city's 'kuidaore' (eat until you drop) food culture and its egalitarian spirit — okonomiyaki restaurants are places where all social classes mix freely. The Osaka vs. Hiroshima rivalry over whose style is superior is one of Japan's most passionate (and friendly) food debates.",
+  "sources": [
+    "Japan National Tourism Organization (JNTO)",
+    "Osaka Convention & Tourism Bureau",
+    "Hiroshima Prefecture Tourism Guide",
+    "Lonely Planet Japan Food Guide"
+  ]
+}
