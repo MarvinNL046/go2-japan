@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "vpn-japan",
+    "name": { "en": "VPN in Japan" },
+    "icon": "\ud83d\udd12",
+    "category": "connectivity",
+    "description": { "en": "Do you need a VPN in Japan? Internet freedom, public WiFi security, and streaming access explained." }
+  }
+]
