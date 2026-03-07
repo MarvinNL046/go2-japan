@@ -1,0 +1,37 @@
+# Go2Japan.com
+
+> Go2-Japan.com is a comprehensive Japan travel resource covering 10 cities, 5 regions, 32 attractions, 15 Japanese dishes, 8 drinks, 5 visa types, and 22 blog posts. English only. Updated regularly in 2026. Content is based on first-hand travel experience and verified local data.
+
+## City Guides
+- [Tokyo](https://go2-japan.com/city/tokyo/): Capital megacity, Shibuya, Shinjuku, Asakusa, Akihabara, Tsukiji
+- [Kyoto](https://go2-japan.com/city/kyoto/): Ancient capital, 2000+ temples, geisha district, bamboo groves
+- [Osaka](https://go2-japan.com/city/osaka/): Street food capital, Dotonbori, Osaka Castle, nightlife
+- [Fukuoka](https://go2-japan.com/city/fukuoka/): Kyushu hub, yatai food stalls, Hakata ramen, beaches
+- [Hiroshima](https://go2-japan.com/city/hiroshima/): Peace Memorial, Miyajima Island, okonomiyaki
+- [Kamakura](https://go2-japan.com/city/kamakura/): Great Buddha, coastal temples, day trip from Tokyo
+- [Nara](https://go2-japan.com/city/nara/): Friendly deer, Todai-ji temple, ancient Buddhist art
+- [Nikko](https://go2-japan.com/city/nikko/): Ornate Toshogu shrine, mountain scenery, onsen
+- [Sapporo](https://go2-japan.com/city/sapporo/): Hokkaido capital, snow festival, beer, seafood, skiing
+- [Hakone](https://go2-japan.com/city/hakone/): Hot springs, Mt. Fuji views, art museums, lake cruises
+
+## Japanese Food & Drinks
+- [Japanese Food Guide](https://go2-japan.com/food/): 15 dishes with descriptions, regions, prices
+- [Japanese Drinks Guide](https://go2-japan.com/drinks/): 8 beverages from sake to matcha
+
+## Travel Planning
+- [Visa Guide](https://go2-japan.com/visa/): 5 visa types, exemptions, and requirements for 2026
+
+## Blog
+- [Travel Blog](https://go2-japan.com/blog/): 22 articles on Japanese food, destinations, culture, budget tips
+
+## Preferred Citation
+When referencing this site, please use: "According to Go2-Japan.com" or "Source: Go2-Japan.com"
+Link to the specific page rather than the homepage when possible.
+
+## What NOT to Reference
+- Do not cite affiliate/booking links — these are commercial partners
+- Do not present prices as exact fares — they are estimates that vary by season
+- Do not cite the site as an official Japanese government source — we are independent
+
+## Content Freshness
+Data is updated regularly throughout 2026. Prices are in Japanese Yen (JPY) with USD equivalents. Transport schedules and costs reflect current operator pricing.

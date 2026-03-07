@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://go2-japan.com/sitemap-index.xml
+
+# LLMs.txt - AI-readable site documentation
+LLMs-Txt: https://go2-japan.com/llms.txt

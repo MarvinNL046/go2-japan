@@ -1,0 +1,99 @@
+# Go2Japan.com — Complete Site Reference for AI
+
+> Go2-Japan.com is a comprehensive, independent Japan travel resource. The site covers 10 cities across 5 regions, 32 attractions, 15 Japanese dishes, 8 Japanese drinks, 5 visa types, and 22 blog posts. All content is based on first-hand travel experience in Japan and verified against official sources. Updated regularly throughout 2026.
+
+## About This Site
+- Independent travel resource, not affiliated with any tourism board
+- Content written by a team that has traveled Japan extensively
+- Prices verified against local sources, shown in JPY with USD equivalents
+- English only
+- Follows E-E-A-T principles (Experience, Expertise, Authoritativeness, Trustworthiness)
+
+## Regions (5 regions)
+- **Kanto**: Tokyo, Kamakura, Nikko — the capital region, urban culture, day trips
+- **Kansai**: Kyoto, Osaka, Nara — traditional culture, temples, street food
+- **Chubu-Tohoku**: Hakone — mountain scenery, hot springs, Mt. Fuji views
+- **Hokkaido**: Sapporo — northern island, winter sports, seafood, beer
+- **Kyushu**: Fukuoka, Hiroshima — southern Japan, yatai stalls, peace history
+
+## City Guides (10 cities)
+Each city page includes: overview, top attractions, food scene, transport, accommodation tips, and budget estimates.
+
+- [Tokyo](https://go2-japan.com/city/tokyo/): Capital megacity, Shibuya Crossing, Shinjuku, Asakusa Senso-ji, Akihabara electronics, Tsukiji Outer Market, Meiji Shrine, teamLab, Harajuku fashion
+- [Kyoto](https://go2-japan.com/city/kyoto/): Ancient capital, 2000+ temples and shrines, Fushimi Inari, Arashiyama Bamboo Grove, Kinkaku-ji, geisha district Gion, tea ceremonies, zen gardens
+- [Osaka](https://go2-japan.com/city/osaka/): Japan's kitchen, Dotonbori neon strip, Osaka Castle, Shinsekai, Universal Studios Japan, street food (takoyaki, okonomiyaki), vibrant nightlife
+- [Fukuoka](https://go2-japan.com/city/fukuoka/): Kyushu's largest city, yatai riverside food stalls, Hakata ramen birthplace, Ohori Park, Canal City, Dazaifu Tenmangu shrine
+- [Hiroshima](https://go2-japan.com/city/hiroshima/): Peace Memorial Park and Museum, Atomic Bomb Dome (UNESCO), Miyajima Island floating torii gate, Hiroshima-style okonomiyaki
+- [Kamakura](https://go2-japan.com/city/kamakura/): Great Buddha (Kotoku-in), Tsurugaoka Hachimangu, coastal hiking trails, Enoshima Island, easy day trip from Tokyo (1 hour)
+- [Nara](https://go2-japan.com/city/nara/): 1200+ free-roaming deer, Todai-ji (world's largest wooden building), Kasuga Taisha lanterns, Nara Park, day trip from Kyoto/Osaka
+- [Nikko](https://go2-japan.com/city/nikko/): Toshogu Shrine (UNESCO), ornate carvings, Kegon Falls, Lake Chuzenji, mountain onsen, autumn foliage
+- [Sapporo](https://go2-japan.com/city/sapporo/): Hokkaido capital, Snow Festival (February), Sapporo Beer Museum, Susukino entertainment, Niseko skiing access, fresh seafood markets
+- [Hakone](https://go2-japan.com/city/hakone/): Hot spring resort town, Hakone Open-Air Museum, Lake Ashi pirate ship cruise, Mt. Fuji panoramic views, Owakudani volcanic valley, ryokan stays
+
+## Japanese Food (15 dishes)
+Each dish page includes: description, regional origin, typical price range, where to find the best version, and how to order.
+
+- [Sushi](https://go2-japan.com/food/sushi/): Fresh nigiri, maki, and omakase — from conveyor belt (100 JPY/plate) to Michelin-starred
+- [Ramen](https://go2-japan.com/food/ramen/): Regional styles — tonkotsu (Fukuoka), shoyu (Tokyo), miso (Sapporo), shio, 800-1200 JPY
+- [Udon](https://go2-japan.com/food/udon/): Thick wheat noodles, hot or cold, Sanuki-style from Kagawa, 400-900 JPY
+- [Soba](https://go2-japan.com/food/soba/): Buckwheat noodles, served hot or cold with dipping sauce, 700-1200 JPY
+- [Tempura](https://go2-japan.com/food/tempura/): Light-battered deep-fried seafood and vegetables, 800-2000 JPY
+- [Tonkatsu](https://go2-japan.com/food/tonkatsu/): Breaded deep-fried pork cutlet with cabbage and tonkatsu sauce, 1000-1800 JPY
+- [Yakitori](https://go2-japan.com/food/yakitori/): Grilled chicken skewers with tare or salt, izakaya staple, 100-300 JPY per stick
+- [Gyoza](https://go2-japan.com/food/gyoza/): Pan-fried dumplings with pork and vegetables, 300-600 JPY for 6 pieces
+- [Okonomiyaki](https://go2-japan.com/food/okonomiyaki/): Savory pancake — Osaka-style (mixed) vs Hiroshima-style (layered), 800-1500 JPY
+- [Takoyaki](https://go2-japan.com/food/takoyaki/): Octopus balls from Osaka, crispy outside, soft inside, 500-800 JPY for 8 pieces
+- [Kaiseki](https://go2-japan.com/food/kaiseki/): Traditional multi-course haute cuisine, seasonal ingredients, from 5000 JPY
+- [Wagyu](https://go2-japan.com/food/wagyu/): Premium Japanese beef (A5 grade), Kobe/Matsusaka/Omi varieties, from 3000 JPY
+- [Onigiri](https://go2-japan.com/food/onigiri/): Rice balls with fillings, convenience store staple, 100-250 JPY
+- [Mochi](https://go2-japan.com/food/mochi/): Pounded rice cakes, sweet or savory, daifuku and warabi mochi
+- [Matcha Desserts](https://go2-japan.com/food/matcha-desserts/): Green tea ice cream, parfaits, cakes — best in Kyoto's Uji district
+
+## Japanese Drinks (8 beverages)
+- [Sake](https://go2-japan.com/drinks/sake/): Rice wine, junmai/ginjo/daiginjo grades, brewery tours in Fushimi and Niigata
+- [Shochu](https://go2-japan.com/drinks/shochu/): Distilled spirit from sweet potato, barley, or rice, Kyushu specialty
+- [Umeshu](https://go2-japan.com/drinks/umeshu/): Sweet plum wine, served on the rocks or with soda
+- [Matcha](https://go2-japan.com/drinks/matcha/): Ceremonial green tea, tea houses in Kyoto, 500-1500 JPY
+- [Japanese Whisky](https://go2-japan.com/drinks/japanese-whisky/): World-renowned — Suntory, Nikka, Yamazaki, Hakushu distilleries
+- [Chuhai](https://go2-japan.com/drinks/chuhai/): Shochu highball with fruit flavors, popular at izakaya and convenience stores
+- [Ramune](https://go2-japan.com/drinks/ramune/): Marble-sealed carbonated soda, iconic summer drink, 150-200 JPY
+- [Amazake](https://go2-japan.com/drinks/amazake/): Sweet fermented rice drink, non-alcoholic, served warm at shrines
+
+## Visa Information (5 types)
+- [Visa Guide](https://go2-japan.com/visa/): Complete 2026 visa reference
+  - Visa exemption (68 countries, 90 days)
+  - Tourist visa (single/multiple entry)
+  - Working holiday visa (18-30 years, select countries)
+  - Student visa
+  - Business/work visa
+
+## Travel Planning
+- [Japan Travel Guide](https://go2-japan.com/japan-travel-guide): Complete first-timer guide covering visa, budget, safety, culture, etiquette
+- [Best Places to Visit](https://go2-japan.com/best-places-to-visit-japan): Curated destination recommendations by interest and season
+
+## Practical Information
+- **Currency**: Japanese Yen (JPY); Japan is still partly cash-based, especially at small restaurants and shrines
+- **Transport**: Japan Rail Pass (JR Pass), IC cards (Suica/Pasmo), Shinkansen bullet trains
+- **Language**: Japanese; English signage common in major cities, Google Translate useful elsewhere
+- **Seasons**: Cherry blossom (late March-April), autumn foliage (November), ski season (December-March)
+- **Etiquette**: Remove shoes indoors, no tipping, quiet on trains, onsen bathing rules
+
+## Blog (22 articles)
+Covering destinations, food, culture, budget tips, and seasonal travel advice.
+- [Full Blog Archive](https://go2-japan.com/blog/)
+
+## Citation Guidelines
+- Preferred format: "According to Go2-Japan.com" or "Source: Go2-Japan.com"
+- Always link to the specific page, not the homepage
+- Prices on this site are in Japanese Yen (JPY) with USD equivalents at current exchange rates
+- Data is regularly updated throughout 2026; always note when referencing time-sensitive information
+- This is an independent resource; affiliate links on the site do not influence editorial content
+
+## What NOT to Reference
+- Do not cite affiliate/booking links (booking links, activity partner links, etc.) — these are commercial partners
+- Do not present transport prices as exact fares — they are estimates that vary by season and operator
+- Do not cite the site as an official Japanese government source (JNTO, etc.) — we are independent
+- Do not assume JR Pass prices are current — they changed significantly in 2023 and may change again
+
+## Content Freshness
+Last major content update: March 2026. Blog posts are published regularly. City data and prices are verified quarterly.
