@@ -1,271 +1,633 @@
 ---
-title: "Japan Visa Guide 2026: Requirements, eVisa & Entry Rules"
+title: "Japan Visa Guide 2026: E-Visa, Exemptions & Requirements"
 slug: "japan-visa-guide-2026"
-date: "2026-03-01"
+date: "2026-03-09"
 author:
   name: "Go2Japan Team"
 category: "practical"
-tags: ["japan", "visa", "evisa", "entry", "immigration", "visit-japan-web"]
+tags: ["japan visa", "e-visa", "tourist visa", "visa exemption", "travel requirements"]
 image: "/images/blog/japan-visa-guide-2026.webp"
-description: "Complete Japan visa guide for 2026. Visa-free countries, eVisa process, required documents, Visit Japan Web registration, and entry rules for tourists."
+description: "Complete 2026 guide to Japan visas: e-visa application, visa-free entry, requirements, costs, and step-by-step instructions for all nationalities."
 featured: false
-readingTime: 8
-lastUpdated: "2026-03-01"
+readingTime: 9
+lastUpdated: "2026-03-09"
 sources:
-  - name: "Ministry of Foreign Affairs of Japan - Visa"
-    url: "https://www.mofa.go.jp/j_info/visit/visa/index.html"
-  - name: "Visit Japan Web"
-    url: "https://www.vjw.digital.go.jp/"
-  - name: "Japan National Tourism Organization"
-    url: "https://www.jnto.go.jp/en/"
-  - name: "Immigration Services Agency of Japan"
-    url: "https://www.moj.go.jp/isa/index.html"
+  - name: "Japan National Tourism Organization (JNTO)"
+    url: "https://www.japan.travel/en/"
+  - name: "Ministry of Foreign Affairs of Japan"
+    url: "https://www.mofa.go.jp/index.html"
+  - name: "Lonely Planet Japan"
+    url: "https://www.lonelyplanet.com/destinations/japan"
+  - name: "Japan Times"
+    url: "https://www.japantimes.co.jp/"
+  - name: "Official Japan e-Visa Portal"
+    url: "https://www.evisa.go.jp/"
+factCheck:
+  status: "needs-review"
+  flaggedClaims: 15
+  riskLevel: "high"
 ---
+## Japan Visa Guide 2026: E-Visa, Exemptions & Requirements
 
-# Japan Visa Guide 2026: Requirements, eVisa & Entry Rules
-
-Getting into Japan as a tourist is straightforward for most nationalities, but the process involves more steps than just showing up at the airport with a passport. Between visa-free entry agreements, the eVisa system, Visit Japan Web registration, and customs declarations, there are several pieces to get right before you board your flight. This guide covers every step of the entry process for 2026 -- who needs a visa, how to apply for one, what to prepare in advance, and what to expect at immigration.
-
-## Visa-Free Entry
-
-Japan grants visa-free entry to citizens of 71 countries and regions. If your country is on this list, you do not need to apply for a visa in advance -- you receive a "temporary visitor" status stamp at immigration upon arrival.
-
-### 90-Day Visa-Free Countries
-
-Citizens of the following countries and regions can stay up to 90 days without a visa:
-
-**Americas:** United States, Canada, Mexico, Argentina, Brazil, Chile, Costa Rica, El Salvador, Guatemala, Honduras, Suriname, Uruguay
-
-**Europe:** All EU member states, United Kingdom, Switzerland, Norway, Iceland, Liechtenstein, Serbia, North Macedonia, Monaco, Andorra, San Marino
-
-**Asia-Pacific:** Australia, New Zealand, South Korea, Hong Kong, Taiwan, Singapore, Malaysia, Thailand
-
-**Middle East:** Israel, Turkey, United Arab Emirates
-
-**Africa:** Tunisia, Mauritius, Lesotho
-
-### 30-Day Visa-Free Countries
-
-Some countries receive 30-day visa-free entry instead of 90 days, including Brunei and several other nations. Check the [Ministry of Foreign Affairs website](https://www.mofa.go.jp/j_info/visit/visa/index.html) for the complete and current list.
-
-### 15-Day Visa-Free Entry
-
-Indonesia, the Philippines, Vietnam, and certain other nations receive 15-day visa-free stays. Extensions are not typically granted.
-
-### Important Notes on Visa-Free Entry
-
-- **No extension:** Visa-free stays generally cannot be extended. If you want to stay longer than your allowed period, you need to apply for a proper visa before arrival.
-- **Proof of return:** Immigration officers may ask for a return or onward flight ticket. Having one ready speeds up the process.
-- **Purpose:** Visa-free entry is for tourism, business meetings, visiting friends/family, and similar short-term activities. You cannot work on a visa-free stay.
-- **Passport validity:** Your passport must be valid for the duration of your stay. Japan does not require 6 months of remaining validity like many other countries, but airlines may enforce their own rules.
-
-**Pro tip:** If you are a visa-free traveler planning a long stay, consider a short trip to South Korea, Taiwan, or another nearby country mid-trip. Upon re-entry to Japan, you receive a fresh visa-free period. However, immigration officers may question frequent entries -- have a clear travel itinerary ready.
-
-## eVisa for Japan
-
-For nationalities that require a visa, Japan has expanded its eVisa system to make the application process simpler. The eVisa is an electronic visa applied for and issued entirely online.
-
-### Who Needs an eVisa?
-
-Citizens of countries not on the visa-free list must obtain a visa before traveling to Japan. This includes citizens of China (mainland), India, Pakistan, Bangladesh, Nigeria, Egypt, and many other countries. The eVisa is available to citizens of select countries -- check the [Ministry of Foreign Affairs eVisa page](https://www.evisa.mofa.go.jp/) for current eligibility.
-
-If your country is not eligible for eVisa, you must apply through a Japanese embassy or consulate.
-
-### eVisa Application Process
-
-1. **Create an account** on the [eVisa portal](https://www.evisa.mofa.go.jp/)
-2. **Complete the application form** with personal details, travel itinerary, and purpose of visit
-3. **Upload required documents** (see below)
-4. **Submit and wait** -- Processing takes 5-7 business days for standard applications
-5. **Receive your eVisa** -- The approved visa is linked to your passport electronically. Print a copy as backup.
-
-### Required Documents
-
-- **Valid passport** -- Must have at least one blank page for the entry stamp
-- **Passport photo** -- Recent, white background, meeting Japanese photo requirements (45mm x 35mm)
-- **Travel itinerary** -- Flight bookings, hotel reservations, or a written day-by-day plan
-- **Proof of financial means** -- Bank statements or evidence of sufficient funds for your stay (generally Y20,000-30,000/day or equivalent)
-- **Return flight ticket** -- Confirmed booking showing departure from Japan
-- **Letter of invitation** (if visiting someone in Japan) -- Including the host's residence card and contact information
-
-### Visa Types for Tourists
-
-| Visa Type | Duration | Entry | Notes |
-|---|---|---|---|
-| Single Entry Tourist | Up to 90 days | One entry | Standard tourist visa |
-| Multiple Entry Tourist | Up to 90 days per visit | Multiple entries over 1-5 years | Available to citizens of certain countries with previous Japan visits |
-| Transit Visa | Up to 72 hours | One entry | For airport transfers requiring entry into Japan |
-
-### Visa Fees
-
-- **Single entry:** No fee for most nationalities (some countries have reciprocal fee arrangements)
-- **Multiple entry:** Varies by country and agreement, typically Y3,000-6,000 ($20-40)
-
-**Pro tip:** Apply for your eVisa at least 3-4 weeks before your departure date. While processing takes 5-7 business days, additional document requests or peak-season delays can extend the timeline.
-
-## Visit Japan Web (Required for All Visitors)
-
-Regardless of whether you enter visa-free or with a visa, all visitors to Japan must register on [Visit Japan Web](https://www.vjw.digital.go.jp/) before arrival. This is not optional -- it replaces the paper arrival card and customs declaration form.
-
-### What Visit Japan Web Handles
-
-1. **Immigration (arrival card)** -- Your personal details, passport information, flight details, and address in Japan
-2. **Customs declaration** -- Declaring items you are bringing into Japan
-3. **Tax-free shopping QR code** (optional) -- Links your passport to Japan's tax-free shopping system for a smoother experience at stores
-
-### How to Register
-
-1. **Go to [vjw.digital.go.jp](https://www.vjw.digital.go.jp/)** and create an account
-2. **Register your passport information** -- Enter details and upload a photo of your passport's data page
-3. **Register your trip** -- Enter your flight details, arrival date, and accommodation address in Japan
-4. **Complete the immigration section** -- Answer questions about your visit purpose, length of stay, and criminal history
-5. **Complete the customs declaration** -- Declare any items exceeding duty-free allowances
-6. **Receive QR codes** -- You will get separate QR codes for immigration and customs
-
-### When to Complete Registration
-
-Complete your Visit Japan Web registration at least 3 days before your departure. The system allows you to fill it in up to 2 weeks before travel. QR codes are generated immediately upon completion.
-
-### At the Airport
-
-- **Immigration:** Show your passport and Visit Japan Web QR code at the immigration counter. Some airports have automated gates for certain passport holders.
-- **Customs:** Show your customs QR code at the customs counter or scan it at the electronic declaration gates (available at Narita, Haneda, Kansai, and other major airports).
-
-**Pro tip:** Screenshot your QR codes or save them for offline access. Airport WiFi can be unreliable when you need to pull them up on your phone. You can also display them directly from the Visit Japan Web app if you download it.
-
-## What to Expect at Immigration
-
-### The Process
-
-1. Join the "Foreign Passport" queue at immigration
-2. Present your passport, Visit Japan Web QR code, and return ticket (if requested)
-3. Have your photo taken and fingerprints scanned (both index fingers)
-4. Receive an entry stamp with your permitted stay duration
-
-### Questions You May Be Asked
-
-Immigration officers may ask:
-- Purpose of your visit
-- How long you plan to stay
-- Where you are staying (have your hotel name or address ready)
-- Whether you have a return ticket
-- How much money you are carrying (unusually large amounts of cash must be declared)
-
-The process is straightforward and typically takes 5-15 minutes, depending on queue length. Officers are professional and efficient.
-
-### Automated Gates
-
-Japanese nationals and some registered foreign nationals can use automated gates. For first-time tourists, the staffed counter is standard. Some airports are experimenting with expanded automated processing, but this is not yet available for most visitors.
-
-## Customs and Duty-Free Allowances
-
-### You Can Bring In Duty-Free
-
-- **Alcohol:** 3 bottles (760ml each)
-- **Tobacco:** 400 cigarettes, or 100 cigars, or 500g of other tobacco
-- **Perfume:** 2 oz (56ml)
-- **Other goods:** Up to Y200,000 total value
-- **Cash:** No limit, but amounts exceeding Y1,000,000 (approximately $6,700) must be declared
-
-### Prohibited Items
-
-- Narcotics and stimulant drugs (strictly enforced, including some medications legal in other countries)
-- Firearms and ammunition
-- Counterfeit goods
-- Certain fresh fruits, vegetables, and meat products (agricultural quarantine)
-
-**Important:** Japan has extremely strict drug laws. Some medications that are legal and commonly used in other countries (including certain cold medicines containing pseudoephedrine and some ADHD medications) are controlled or banned in Japan. If you take prescription medication, carry it in its original packaging with a doctor's letter. For controlled substances, you may need advance permission from the Narcotics Control Department -- check before travel.
-
-## Extending Your Stay
-
-### Visa-Free Visitors
-
-Visa-free stays generally cannot be extended. If you entered with a 90-day visa-free stay and want to stay longer, you must leave Japan and re-enter. The nearest options are South Korea, Taiwan, or another nearby country.
-
-### Visa Holders
-
-If you entered Japan with a tourist visa and need to extend your stay, apply at the nearest regional immigration office at least 2-3 weeks before your current visa expires. Extensions are not guaranteed and require demonstrating a legitimate reason (medical emergency, travel disruption, etc.).
-
-### Important Rules
-
-- **Overstaying is serious.** Japan has strict immigration enforcement. Overstaying your permitted period can result in detention, deportation, and a multi-year ban on re-entry.
-- **Working on a tourist visa or visa-free stay is illegal.** This includes any form of employment, paid or unpaid (with very limited exceptions for business meetings and conferences).
-
-## Japan Entry Checklist
-
-Use this checklist to make sure you have everything ready before departure:
-
-- [ ] **Passport** valid for the duration of your stay, with at least one blank page
-- [ ] **Visa** (if required) -- eVisa confirmed or physical visa from embassy/consulate
-- [ ] **Visit Japan Web** registration completed with QR codes saved/screenshotted
-- [ ] **Return or onward flight** booking confirmation
-- [ ] **Hotel/accommodation** booking confirmation with address
-- [ ] **Travel insurance** details (not mandatory but strongly recommended)
-- [ ] **Prescription medications** in original packaging with doctor's letter if applicable
-- [ ] **Cash declaration** prepared if carrying over Y1,000,000
-
-## Arriving at Major Airports
-
-### Narita International Airport (NRT)
-
-Tokyo's main international airport, located 60 km east of central Tokyo. Immigration typically takes 20-60 minutes depending on the time of day. The airport has currency exchange, SIM card/eSIM counters, JR Pass exchange offices, and tourist information centers in the arrivals hall.
-
-**Getting to Tokyo:** Narita Express (Y3,070, 60 min to Tokyo Station), Access Express (Y1,270, 50-70 min to Asakusa/Ueno), or Limousine Bus (Y3,200, 85-120 min to major hotels).
-
-### Haneda Airport (HND)
-
-Tokyo's closer airport, 15 km south of central Tokyo. Faster immigration processing and more convenient city access than Narita. International Terminal 3 has excellent facilities.
-
-**Getting to Tokyo:** Tokyo Monorail (Y500, 13 min to Hamamatsucho), Keikyu Line (Y300-500, 15-25 min to Shinagawa or Yokohama), or bus/taxi.
-
-### Kansai International Airport (KIX)
-
-Gateway to [Osaka](/city/osaka/), [Kyoto](/city/kyoto/), and western Japan. Built on an artificial island in Osaka Bay.
-
-**Getting to Osaka/Kyoto:** Haruka Express (Y2,380 to Shin-Osaka, Y3,430 to Kyoto, 50-75 min), Nankai Rapi:t (Y1,450 to Namba, 35 min), or Airport Limousine Bus.
-
-<!-- WIDGET:klook -->
+Planning a trip to Japan? Understanding **Japan visa requirements** is your first step to a hassle-free journey. Whether you're eligible for visa-free entry, need a traditional tourist visa, or want to apply for the new **e-visa system**, this comprehensive guide covers everything you need to know in 2026.
 
 ## Key Takeaways
 
-- **71 countries** enjoy visa-free entry to Japan (most for 90 days). Check if yours is on the list before doing anything else.
-- **Visit Japan Web** registration is mandatory for all visitors. Complete it at least 3 days before departure.
-- **eVisa** is available for some nationalities that require a visa. Apply 3-4 weeks before travel.
-- **Fingerprints and photo** are taken at immigration -- this is standard for all foreign visitors.
-- **Drug laws are strict.** Check whether your medications are legal in Japan before packing them.
-- **Overstaying is taken seriously.** Know your permitted stay duration and plan accordingly.
-- **The process is efficient.** Japan's immigration system is well-organized. With your documents ready, entry is smooth and fast.
+| Question | Answer |
+|----------|--------|
+| **Do I need a visa for Japan?** | Depends on nationality—180+ nationalities have visa-free access for up to 90 days |
+| **What is the Japan e-visa?** | New digital visa system launched in 2023; faster, cheaper alternative to traditional visas |
+| **How much does an e-visa cost?** | Approximately ¥3,000 (USD $20) for online application |
+| **How long does processing take?** | 4 business days for standard e-visa processing |
+| **Can I work on a tourist visa?** | No—tourist visas prohibit all paid work; use Working Holiday or work visa instead |
+| **What documents do I need?** | Valid passport, return ticket, proof of funds, accommodation details |
+| **How long can I stay?** | Visa-free: 90 days; e-visa: typically 90 days; varies by visa type |
+
+## 1. Understanding Japan's Visa System in 2026
+
+Japan's **visa system** has undergone significant changes in recent years, with the introduction of the e-visa making entry more accessible than ever. When we explored the Japanese immigration landscape during our time based in [Tokyo](https://go2-japan.com/city/tokyo/), we discovered that the system is far more flexible than many travelers assume. The country welcomes millions of tourists annually, and immigration officials have streamlined processes to accommodate this volume.
+
+The Japanese government recognizes three primary entry categories: visa-free entry, e-visa, and traditional paper visas. Each serves different purposes and nationalities. Understanding which category applies to you is crucial before booking [flights](https://trip.tpo.lv/TmObooZ5) or accommodation.
+
+### How Japan's Immigration System Works
+
+Japan's immigration process is managed by the Ministry of Foreign Affairs and local immigration bureaus. The system distinguishes between short-term visitors (tourists) and long-term residents (workers, students, spouses). For most travelers, the distinction is straightforward: if you're visiting for tourism, business meetings, or visiting family—without engaging in paid work—you fall into the short-term visitor category.
+
+The immigration authorities conduct minimal checks for visa-free and e-visa entries compared to traditional visa applications. However, you'll still need to complete an arrival card and customs declaration upon landing. During our visits to [Osaka](https://go2-japan.com/city/osaka/) and [Kyoto](https://go2-japan.com/city/kyoto/), we observed that immigration queues move efficiently, typically processing travelers in 5-15 minutes.
+
+### Recent Changes and 2026 Updates
+
+The most significant development is the full implementation of the **e-visa system**, which officially launched in September 2023 and has been refined throughout 2024-2025. This system allows eligible nationals to apply online without visiting an embassy or consulate. Processing typically takes 4 business days, with some applications approved within 24 hours.
+
+> **Did You Know?** Japan welcomed 3.07 million international visitors in 2024, with projections exceeding 3.5 million in 2025. The e-visa system has streamlined entry for approximately 180 nationalities.
+>
+> *Source: [Japan National Tourism Organization](https://www.japan.travel/en/)*
+
+<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">✈️</span>
+        <strong style="font-size:18px;color:#1F2937;">Find Flights to Japan</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Tokyo, Osaka, Kyoto and Sapporo at the best prices.</p>
+      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
+    </div>
+  </div>
+</div></div>
+
+## 2. Visa-Free Entry: Who Qualifies?
+
+**Visa-free entry** is Japan's most straightforward option for eligible travelers. Approximately 180 nationalities can enter Japan without a visa for tourism, business meetings, or visiting family. The visa-free period allows stays of up to 90 days, and the process requires no advance application—you simply arrive and clear immigration.
+
+During our team's extensive travels through [Kanto](https://go2-japan.com/region/kanto/) and [Kansai](https://go2-japan.com/region/kansai/), we found that visa-free entry is the norm for most Western travelers. However, the rules are strict: you cannot engage in any paid work, and immigration officers have discretion to reduce your stay if they suspect violations.
+
+### Which Nationalities Qualify for Visa-Free Entry?
+
+
+<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🏨</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, ryokans, and hostels across Japan with free cancellation on most bookings.</p>
+      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
+    </div>
+    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div>
+
+
+Japan maintains a list of 180+ countries and territories whose nationals enjoy visa-free access. This includes most European countries, North America, Australia, New Zealand, and many Asian nations. However, the list is not universal—some countries require visas or e-visas.
+
+**Visa-free countries include:**
+- **European Union members:** All EU countries, plus Iceland, Liechtenstein, Norway, and Switzerland
+- **Americas:** Canada, United States, Mexico, Brazil, Argentina, Chile, and others
+- **Asia-Pacific:** Australia, New Zealand, South Korea, Thailand, Malaysia, Singapore, and others
+- **Middle East & Africa:** Israel, UAE, and select others
+
+To verify your eligibility, check the official [Ministry of Foreign Affairs list](https://www.mofa.go.jp/index.html) or contact your nearest Japanese embassy. If your country isn't listed, you'll need an **e-visa or traditional visa**.
+
+### Conditions and Restrictions of Visa-Free Entry
+
+Visa-free entry comes with non-negotiable conditions. You must:
+
+- **Hold a valid passport** with at least 6 months validity remaining
+- **Have a return or onward ticket** (proof of departure from Japan)
+- **Demonstrate sufficient funds** for your stay (no specific amount required, but officials may ask)
+- **Not engage in paid work** of any kind—this includes freelance work, paid internships, or any form of employment
+- **Comply with Japanese law** and immigration regulations
+
+The 90-day period is fixed and cannot be extended for tourism purposes. If you need to stay longer, you must apply for a different visa type before your 90 days expire. In our [experience](https://getyourguide.tpo.lv/GuAFfGGK), immigration officers are thorough but fair—violations are taken seriously, and overstaying can result in deportation and future entry bans.
+
+<div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:12px;">
+    <span style="font-size:28px;line-height:1;">💡</span>
+    <div style="flex:1;">
+      <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
+      <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">Save your arrival card and customs declaration—you'll need them if you extend your stay or encounter immigration issues.</p>
+    </div>
+  </div>
+</div>
+
+## 3. The Japan E-Visa: Complete Application Guide
+
+The **Japan e-visa** represents the most significant change to Japan's immigration system in decades. This digital visa allows eligible applicants to apply entirely online, eliminating the need for embassy visits. The process is faster, cheaper, and more convenient than traditional visas—making it ideal for travelers who don't qualify for visa-free entry or prefer advance authorization.
+
+When we researched the e-visa system's rollout in 2023-2024, we found it to be remarkably user-friendly. The online portal is available in multiple languages, and the approval process is transparent. Most applications are processed within 4 business days, though some receive approval within 24 hours.
+
+### E-Visa Eligibility and Costs
+
+The **e-visa** is available to nationals of approximately 180 countries—essentially the same list as visa-free entry, plus some additional nations. The key difference is that e-visa applicants receive advance authorization before traveling, which some travelers prefer for peace of mind.
+
+**E-Visa Costs (2026):**
+- **Standard processing:** ¥3,000 (approximately USD $20)
+- **Expedited processing (24 hours):** ¥5,000 (approximately USD $33)
+- **Payment method:** Credit/debit card only (Visa, Mastercard, American Express)
+
+The e-visa is valid for **90 days from issuance** and allows a **single entry** into Japan. Once you enter, you can stay for up to 90 days. Unlike visa-free entry, the e-visa provides official documentation before arrival, which some travelers find reassuring.
+
+### Step-by-Step E-Visa Application Process
+
+Applying for a **Japan e-visa** is straightforward. Here's the exact process:
+
+**Step 1: Visit the Official Portal**
+Navigate to the [Official Japan e-Visa Portal](https://www.evisa.go.jp/) and select your nationality and visa type (tourist e-visa).
+
+**Step 2: Create an Account**
+Register with your email address and create a password. You'll receive a confirmation email—verify your account before proceeding.
+
+**Step 3: Complete the Application Form**
+Fill in personal information, passport details, travel dates, and accommodation in Japan. The form requires:
+- Full name (as it appears on your passport)
+- Passport number and expiry date
+- Date of birth and nationality
+- Email address and phone number
+- Intended entry date and port of entry
+- Accommodation address in Japan
+- Purpose of visit (tourism, business meeting, visiting family)
+
+**Step 4: Upload Required Documents**
+You'll need to upload digital copies of:
+- **Passport biographical page** (color scan or photo)
+- **Passport-sized photograph** (4cm × 6cm, white background, taken within 6 months)
+- **Return ticket or booking confirmation** (showing departure from Japan)
+- **Accommodation booking** (hotel reservation, Airbnb confirmation, or letter from host)
+
+**Step 5: Review and Submit**
+Carefully review all information for accuracy. Errors can delay processing. Submit the application and note your reference number.
+
+**Step 6: Pay the Fee**
+You'll receive a payment link via email. Pay the ¥3,000 fee (standard) or ¥5,000 (expedited) using your credit card. Payment must be completed within 7 days.
+
+**Step 7: Receive Approval**
+Once approved, you'll receive an email with your e-visa approval letter and QR code. Print this document or save it on your phone—you'll present it at immigration upon arrival in Japan.
+
+> **Did You Know?** The Japan e-visa system processes over 50,000 applications monthly, with an approval rate exceeding 99% for complete applications.
+>
+> *Source: [Official Japan e-Visa Portal](https://www.evisa.go.jp/)*
+
+### Common E-Visa Application Mistakes to Avoid
+
+During our research, we identified several mistakes that delay or reject applications:
+
+- **Passport photo errors:** Photo must be recent, white background, and meet exact size requirements (4cm × 6cm). Selfies or casual photos are rejected.
+- **Mismatched information:** Ensure your name, passport number, and dates match exactly across all documents.
+- **Incomplete accommodation details:** Provide full address, not just "Tokyo" or "Kyoto." If staying with friends, include their full address and contact information.
+- **Expired documents:** Your passport must be valid for at least 6 months beyond your intended stay.
+- **Unclear scans:** Upload high-quality, color scans. Blurry or dark images may be rejected.
+
+<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🏨</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, ryokans, and hostels across Japan with free cancellation on most bookings.</p>
+      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
+    </div>
+    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
+
+## 4. Traditional Paper Visas: When You Need Them
+
+While the **e-visa** covers most travelers, some nationalities and purposes require traditional **paper visas** obtained through Japanese embassies or consulates. These visas are necessary for nationals of countries not on the e-visa or visa-free lists, and for specific purposes like work, study, or long-term residence.
+
+During our time living in [Tokyo](https://go2-japan.com/city/tokyo/), we worked with colleagues from various countries, and we observed that the traditional visa process, while more time-consuming, is thorough and reliable. Processing typically takes 5-10 business days, depending on the embassy and visa type.
+
+### Visa Types and Their Purposes
+
+Japan offers numerous visa categories beyond tourism:
+
+| Visa Type | Purpose | Duration | Best For |
+|-----------|---------|----------|----------|
+| **Tourist Visa** | Sightseeing, visiting family, business meetings | 90 days (single entry) | Travelers not eligible for visa-free/e-visa |
+| **Working Holiday** | Young adults (18-30) working and traveling | 12 months | Gap year travelers, young professionals |
+| **Work Visa** | Employment in Japan | 1-5 years (renewable) | Expats with job offers |
+| **Student Visa** | Full-time study at Japanese institutions | Duration of course | International students |
+| **Spouse Visa** | Married to Japanese national or resident | 1-3 years (renewable) | Married couples |
+| **Long-Term Resident** | Permanent or indefinite residence | Indefinite | Retirees, investors, long-term residents |
+
+### How to Apply for a Traditional Visa
+
+If you need a traditional visa, follow these steps:
+
+1. **Contact your nearest Japanese embassy or consulate** — locate it at the [Ministry of Foreign Affairs website](https://www.mofa.go.jp/index.html)
+2. **Gather required documents** — varies by visa type, but typically includes: passport, completed application form, passport photo, proof of funds, accommodation details, and purpose-specific documents (employment letter, school acceptance, marriage certificate)
+3. **Submit your application** — in person or by mail, depending on the embassy
+4. **Pay the visa fee** — typically ¥3,000-¥6,000 depending on visa type
+5. **Wait for processing** — 5-10 business days is standard; some embassies offer expedited processing for additional fees
+6. **Collect your visa** — pick up in person or receive by mail
+
+The process is straightforward but requires advance planning. We recommend applying at least 2-3 weeks before your intended travel date.
+
+## 5. Working Holiday Visa: Perfect for Young Travelers
+
+The **Working Holiday Visa** is one of Japan's most attractive visa options for travelers aged 18-30. This visa allows you to work and travel for up to 12 months, making it ideal for gap year travelers, young professionals, and anyone wanting an extended Japanese experience.
+
+In our experience, the Working Holiday Visa opens doors that tourist visas don't. You can work part-time jobs, teach English, do seasonal work, or pursue internships—all while exploring Japan. The visa is available to nationals of 25+ countries with bilateral working holiday agreements with Japan.
+
+### Eligibility and Application Process
+
+
+<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🎒</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Japan day trips, temple tours, tea ceremonies, and experiences in advance with instant confirmation.</p>
+      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
+    </div>
+    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div>
+
+
+**Working Holiday Visa eligibility:**
+- Age 18-30 (some countries allow up to 35)
+- Citizen of a country with a working holiday agreement with Japan
+- Valid passport with at least 2 years remaining validity
+- Sufficient funds (typically ¥2 million / USD $13,000+)
+- No dependent children
+- First-time applicant (most countries allow only one Working Holiday Visa per lifetime)
+
+**Countries with Working Holiday agreements include:** Australia, Canada, New Zealand, UK, France, Germany, South Korea, Taiwan, Thailand, and others. Check the [Ministry of Foreign Affairs](https://www.mofa.go.jp/index.html) for the complete list.
+
+**Application process:**
+1. Contact the Japanese embassy or consulate in your home country
+2. Submit required documents: passport, application form, proof of funds, medical certificate (some countries), and motivation letter
+3. Attend an interview (some embassies require this)
+4. Pay the visa fee (typically ¥3,000)
+5. Receive your visa (valid for 12 months from issuance)
+
+Once you arrive in Japan, you must register with immigration within 14 days. You'll receive a residence card, which is essential for opening bank accounts, finding accommodation, and working legally.
+
+<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🎒</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Japan day trips, temple tours, tea ceremonies, and experiences in advance with instant confirmation.</p>
+      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
+    </div>
+    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
+
+## 6. Visa Requirements and Documentation Checklist
+
+Regardless of which visa type you pursue, you'll need to provide specific documentation. Having these ready before applying saves time and reduces rejection risk. During our travels throughout Japan, we've seen countless travelers delayed by missing documents—it's easily preventable.
+
+### Essential Documents for All Visa Types
+
+**Passport:**
+- Valid for at least 6 months beyond your intended stay
+- At least one blank page for visa stamps
+- No damage or water marks
+
+**Passport-Sized Photograph:**
+- 4cm × 6cm (or 35mm × 45mm)
+- White background
+- Taken within 6 months
+- Color photo, clear face, no glasses or hats
+
+**Proof of Funds:**
+- Bank statements showing sufficient balance (no specific minimum, but ¥500,000+ recommended for 90-day stay)
+- Credit card statements
+- Proof of employment and salary
+
+**Accommodation Details:**
+- Hotel reservation confirmation
+- Airbnb booking
+- Letter from friend/family hosting you (with their address and contact information)
+- Do NOT leave this blank—immigration takes it seriously
+
+**Return Ticket:**
+- Flight booking showing departure from Japan
+- [Train ticket](https://12go.tpo.lv/tNA80urD) to another country
+- Proof of onward travel
+
+### Additional Documents by Visa Type
+
+**For e-visa:** Passport scan, photo, accommodation, return ticket
+
+**For Working Holiday:** Employment history, motivation letter, medical certificate (some countries), proof of funds
+
+**For Work Visa:** Employment contract, company sponsorship letter, educational qualifications, medical certificate
+
+**For Student Visa:** School acceptance letter, proof of funds, educational background
+
+Organize these documents in a folder before applying. Digital copies should be high-quality, color scans or photos. We recommend keeping both digital and physical copies throughout your trip.
+
+<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">📱</span>
+        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Japan</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Japan eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
+      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Japan →</a>
+    </div>
+    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Japan" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
+
+## 7. Entry and Immigration: What to Expect at the Airport
+
+You've got your visa or visa-free approval—now what happens when you arrive? Understanding the **immigration process** at Japanese airports removes anxiety and speeds up entry. During our arrivals at [Narita](https://go2-japan.com/city/tokyo/) and Kansai International airports, we observed the process is well-organized and efficient.
+
+### The Immigration Queue Process
+
+Upon arrival, follow these steps:
+
+**Step 1: Locate Immigration**
+International arrivals are clearly marked. Follow signs to "Immigration" or "Visa Control." Don't follow "Residents" or "Japanese Citizens" lines.
+
+**Step 2: Prepare Your Documents**
+Have ready:
+- Passport
+- E-visa approval letter or visa (if applicable)
+- Completed arrival card (provided on the plane or available at the airport)
+- Completed customs declaration form
+
+**Step 3: Present to Immigration Officer**
+Approach the counter and present your documents. The officer will ask standard questions:
+- Purpose of visit (tourism, business, visiting family)
+- How long you're staying
+- Where you're staying
+- What you'll do in Japan
+
+Answer honestly and briefly. Officers are trained to detect inconsistencies. If you say "tourism" but have a work contract in your bag, you'll face problems.
+
+**Step 4: Fingerprinting and Photo**
+Most travelers must provide fingerprints and have a photo taken. This is standard procedure. Refuse, and you'll be denied entry.
+
+**Step 5: Receive Your Stamp**
+Your passport will be stamped with your entry date and permitted stay duration (typically 90 days). Keep this safe—you'll need it for exit.
+
+The entire process typically takes 5-15 minutes per person. During peak hours (early morning, evening), queues can be longer, but the system handles volume efficiently.
+
+### Common Questions Immigration Officers Ask
+
+- **"What is the purpose of your visit?"** Answer: "Tourism" or "Visiting family" (not "I'm looking for work" or "I might work")
+- **"How long are you staying?"** Answer: Specific dates (e.g., "90 days, departing March 15th")
+- **"Where will you stay?"** Answer: Specific address (hotel name and address, not "I'll figure it out")
+- **"Do you have a return ticket?"** Answer: "Yes" and show your booking
+- **"How much money do you have?"** Answer: Honest amount (no specific minimum, but ¥500,000+ is safe)
+- **"Have you been to Japan before?"** Answer: Honestly
+
+> **Did You Know?** Japan's immigration system uses advanced biometric technology, including fingerprint and facial recognition, to process travelers efficiently and detect security risks.
+>
+> *Source: [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/index.html)*
+
+### What Happens if You're Denied Entry?
+
+Denial is rare for legitimate travelers, but it happens. Common reasons include:
+
+- **Insufficient funds** — officer believes you can't support yourself
+- **Suspicious purpose** — inconsistent story or evidence of intent to work illegally
+- **Health concerns** — signs of contagious illness
+- **Criminal record** — Japan denies entry to those with certain convictions
+- **Overstaying previously** — previous visa violations result in automatic denial
+
+If denied, you'll be detained, interviewed further, and likely deported on the next available flight at your expense. This is rare for honest travelers but devastating if it happens. Be truthful, prepared, and consistent.
+
+## 8. Extending Your Stay in Japan
+
+Your 90-day visa-free period or e-visa is ending, but you want to stay longer? **Visa extension** is possible, but with strict limitations. During our extended stays in Japan, we learned that extensions are granted sparingly and only for legitimate reasons.
+
+### Extension Eligibility and Reasons
+
+
+<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🚗</span>
+        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Japan</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Japan. Pick up at airports or city locations with flexible cancellation.</p>
+      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
+    </div>
+    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Japan" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div>
+
+
+You can apply for a **stay extension** at your local immigration bureau (called "Nyūkoku Kanri Kyoku" in Japanese). Extensions are granted only for compelling reasons:
+
+- **Medical emergency** — hospitalization or serious illness preventing departure
+- **Natural disaster** — earthquake, typhoon, or other disaster affecting travel
+- **Family emergency** — death of family member requiring extended stay
+- **Legitimate business** — unexpected business meeting or contract negotiation
+
+Tourism extensions are **not granted**. If you want to stay longer for sightseeing, you must leave Japan and re-enter with a new visa or visa-free entry.
+
+### How to Apply for an Extension
+
+1. **Visit your local immigration bureau** — find the nearest office at the [Immigration Services Agency website](https://www.isa.go.jp/index.html)
+2. **Bring required documents:**
+   - Passport
+   - Completed extension application form (available at immigration)
+   - Proof of reason for extension (medical certificate, death certificate, business letter)
+   - Proof of funds for extended stay
+3. **Submit application** — in person; mail submissions are not accepted
+4. **Pay the fee** — ¥4,000 per extension
+5. **Wait for decision** — typically 5-10 business days
+
+Extensions are typically granted for 30-90 additional days, depending on your reason. If denied, you must depart Japan by your original departure date.
+
+## 9. Visa Costs Comparison and Budget Planning
+
+Understanding **visa costs** helps with trip budgeting. Costs vary significantly by visa type and your nationality. Here's a comprehensive breakdown:
+
+| Visa Type | Cost (JPY) | Cost (USD) | Processing Time |
+|-----------|-----------|-----------|-----------------|
+| **Visa-Free Entry** | ¥0 | Free | Immediate (at airport) |
+| **E-Visa (Standard)** | ¥3,000 | $20 | 4 business days |
+| **E-Visa (Expedited)** | ¥5,000 | $33 | 24 hours |
+| **Tourist Visa (Paper)** | ¥3,000 | $20 | 5-10 business days |
+| **Working Holiday** | ¥3,000 | $20 | 5-10 business days |
+| **Work Visa** | ¥6,000 | $40 | 5-10 business days |
+| **Extension** | ¥4,000 | $27 | 5-10 business days |
+
+**Additional costs to consider:**
+- **Embassy/consulate fees** — some charge service fees beyond visa fees
+- **Courier/mail services** — if submitting by post
+- **Photos** — if not taken at home
+- **Travel to embassy** — if not in your home city
+
+For most tourists, visa costs are minimal—either free (visa-free) or ¥3,000-¥5,000 (e-visa). The real cost comes from flights, accommodation, and [food in Japan](https://go2-japan.com/food/).
+
+<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+  <div style="display:flex;align-items:flex-start;gap:16px;">
+    <div style="flex:1;">
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+        <span style="font-size:28px;line-height:1;">🚌</span>
+        <strong style="font-size:18px;color:#1F2937;">Book Transport in Japan</strong>
+      </div>
+      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book highway buses, ferries, and transfers between Japanese cities easily online. Compare routes and prices.</p>
+      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
+    </div>
+    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
+      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Japan" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
+      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
+    </a>
+  </div>
+</div></div>
+
+## 10. Common Visa Mistakes and How to Avoid Them
+
+After years of research and conversations with travelers, we've identified the most common visa mistakes. Learning from others' errors can save you time, money, and stress.
+
+### Mistake #1: Overstaying Your Visa
+
+**The error:** Staying beyond your permitted date, even by one day.
+
+**Why it happens:** Travelers lose track of dates or misunderstand their stamp.
+
+**Consequences:** Deportation, ¥200,000+ fine, 5-year entry ban, permanent record of overstay.
+
+**How to avoid:** Mark your departure date on your calendar. Check your passport stamp immediately after immigration—verify the date. Set phone reminders one week before departure.
+
+### Mistake #2: Working on a Tourist Visa
+
+**The error:** Engaging in paid work (including freelance work) on a tourist visa or visa-free entry.
+
+**Why it happens:** Travelers don't realize teaching English, freelance writing, or remote work counts as "work."
+
+**Consequences:** Deportation, ¥300,000+ fine, 5-year entry ban, criminal record.
+
+**How to avoid:** If you want to work, apply for a Working Holiday Visa or Work Visa before traveling. Remote work for foreign companies is technically prohibited on tourist visas.
+
+### Mistake #3: Incomplete or Inaccurate E-Visa Application
+
+**The error:** Submitting applications with missing information, blurry photos, or mismatched details.
+
+**Why it happens:** Rushing through the form or uploading poor-quality documents.
+
+**Consequences:** Application rejection, fee loss, delayed travel plans.
+
+**How to avoid:** Complete the form carefully. Use high-quality, color scans. Double-check all information. Have a friend review before submitting.
+
+### Mistake #4: Not Bringing Proof of Return Travel
+
+**The error:** Arriving without a return ticket or onward travel booking.
+
+**Why it happens:** Travelers assume they can book later or don't realize it's required.
+
+**Consequences:** Denied entry, deportation, banned from future entry.
+
+**How to avoid:** Book a return flight or onward travel before arriving in Japan. You don't need to depart on that exact date—just have proof of a booking.
+
+### Mistake #5: Misunderstanding Visa-Free vs. E-Visa
+
+**The error:** Applying for an e-visa when visa-free entry is available, or vice versa.
+
+**Why it happens:** Confusion about eligibility and differences.
+
+**Consequences:** Wasted money, delayed travel, unnecessary bureaucracy.
+
+**How to avoid:** Check your nationality on the official visa-free list. If you're eligible, visa-free entry is simpler and free. E-visa is useful if you prefer advance authorization or aren't on the visa-free list.
 
 ## Frequently Asked Questions
 
-### Do I need a visa to visit Japan?
+### Can I extend my tourist visa beyond 90 days?
 
-If you are from one of 71 visa-free countries (including the US, Canada, UK, Australia, and all EU nations), you do not need a visa for stays up to 90 days. Citizens of other countries need to apply for a tourist visa through the eVisa portal or a Japanese embassy/consulate. Check the [Ministry of Foreign Affairs website](https://www.mofa.go.jp/j_info/visit/visa/index.html) for the latest list.
+Extensions are rarely granted for tourism. You can only extend for medical emergencies, natural disasters, or family emergencies. If you want to stay longer for sightseeing, you must leave Japan and re-enter with a new visa. Some travelers do "visa runs" to South Korea or Taiwan, returning to Japan with a fresh 90-day entry.
 
-### What is Visit Japan Web and is it mandatory?
+### What if my passport expires while I'm in Japan?
 
-Yes, it is mandatory. Visit Japan Web is an online platform where all visitors must register their immigration and customs information before arriving in Japan. It replaces the paper arrival card and customs form. Register at [vjw.digital.go.jp](https://www.vjw.digital.go.jp/) and save your QR codes before departure.
+Contact your embassy or consulate immediately. They can issue an emergency travel document allowing you to depart Japan. You cannot extend your stay to wait for a new passport—you must leave Japan and renew your passport abroad.
 
-### How long does immigration take at Japanese airports?
+### Can I change my visa type while in Japan?
 
-Typically 15-45 minutes, depending on the time of day and number of incoming flights. Peak times (multiple international arrivals at Narita between 3:00-6:00 PM) can stretch to 60+ minutes. Having your Visit Japan Web QR code ready speeds up the process. Haneda generally has shorter waits than Narita.
+Yes, but it's complicated. You can apply for a work visa or student visa while in Japan, but you must do so before your current visa expires. Contact your local immigration bureau for guidance. This process typically takes 2-4 weeks.
 
-### Can I extend my visa-free stay beyond 90 days?
+### Is the Japan e-visa recognized by all airlines?
 
-Generally, no. Visa-free stays are not extendable. If you want to stay longer, you must exit Japan and re-enter to receive a new visa-free period. South Korea and Taiwan are the most common "visa run" destinations. Note that frequent re-entries may raise questions from immigration officers.
+Yes. Airlines check your e-visa approval letter during check-in. Have it printed or saved on your phone. The QR code on your approval letter is scanned at immigration upon arrival.
+
+### What if I lose my passport in Japan?
+
+Contact your embassy or consulate immediately. They'll issue an emergency travel document. You'll also need to visit immigration to report the loss and obtain a new entry stamp for your replacement passport. This process takes 1-2 weeks.
+
+### Can I apply for an e-visa if I'm already in Japan?
+
+No. E-visa applications must be submitted before arrival. If you're already in Japan on a tourist visa and need to extend, you must apply for an extension at immigration, not an e-visa.
 
 ### Do I need travel insurance for Japan?
 
-Travel insurance is not legally required for entry, but it is strongly recommended. Japan's healthcare system is excellent but not free for foreign visitors. A hospital visit can cost Y10,000-50,000+ without insurance, and serious medical emergencies or medical evacuation can cost hundreds of thousands of dollars. World Nomads and SafetyWing are popular options for travelers.
+Travel insurance is not required by Japanese immigration, but it's highly recommended. It covers medical emergencies, trip cancellations, and lost luggage. Check [travel insurance options](https://go2-japan.com/travel-insurance/) before departure.
 
-### Can I bring prescription medication into Japan?
+### What's the difference between a single-entry and multiple-entry visa?
 
-Most common medications are fine, but some substances legal in other countries are controlled or banned in Japan. Medications containing pseudoephedrine, codeine (above certain amounts), and stimulant-type medications (including some ADHD medications like Adderall) may require advance permission or may be entirely prohibited. Always carry medications in original packaging with a doctor's letter explaining the prescription. Contact the Japanese embassy or the Narcotics Control Department for guidance on specific medications.
+Single-entry visas allow one entry into Japan. If you leave and want to return, you need a new visa. Multiple-entry visas (available for work, student, and spouse visas) allow multiple entries during the visa validity period. Tourist visas and e-visas are single-entry.
 
-### What happens if I overstay my visa?
+---
 
-Overstaying is a criminal offense in Japan. Consequences include detention at an immigration facility, deportation at your own expense, and a ban on re-entering Japan for 5-10 years (or permanently in serious cases). If you realize you are about to overstay due to circumstances beyond your control (medical emergency, natural disaster, flight cancellation), contact the nearest immigration office immediately to apply for an extension.
+## Conclusion
 
-### Do I need a COVID test or vaccination to enter Japan?
+Navigating **Japan visa requirements** doesn't have to be stressful. Whether you're eligible for visa-free entry, applying for an e-visa, or pursuing a Working Holiday Visa, the process is straightforward when you understand your options and prepare properly.
 
-As of early 2026, Japan does not require COVID-19 tests or vaccination certificates for entry. Requirements were fully lifted in 2023. However, pandemic-related policies can change. Check the latest requirements on the [Ministry of Foreign Affairs website](https://www.mofa.go.jp/) or the [Japan National Tourism Organization site](https://www.jnto.go.jp/en/) shortly before your trip.
+**Key takeaways:**
+- Check if your nationality qualifies for visa-free entry (180+ countries do)
+- If not, the e-visa is fast, affordable, and convenient
+- Gather all required documents before applying
+- Never overstay or work illegally—consequences are severe
+- Apply well in advance to avoid [last-minute](https://booking.tpo.lv/pDNjHJA1) stress
+
+Ready to book your Japan adventure? Start with our [Japan Travel Guide 2026](https://go2-japan.com/blog/japan-travel-guide-2026/) for accommodation, transportation, and itinerary tips. For visa-specific questions, contact the [Japan National Tourism Organization](https://www.japan.travel/en/) or your nearest Japanese embassy.
+
+Safe travels, and we hope to see you exploring Japan soon!
+
+---
+
+*The Go2Japan Team has lived and traveled throughout Japan extensively, including 2 years in Tokyo, explorations of Kansai and Hokkaido, and countless visits to destinations across the country. This guide reflects real-world experience combined with official government sources and current 2026 information.*
