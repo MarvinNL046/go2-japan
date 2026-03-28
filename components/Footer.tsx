@@ -68,7 +68,29 @@ const Footer = () => {
           </div>
         </div>
 
+        {/* Go2 Travel Network */}
         <div className="mt-8 pt-8 border-t border-gray-800">
+          <h3 className="text-sm font-semibold text-gray-400 tracking-wider uppercase mb-4 text-center">
+            Go2 Travel Network
+          </h3>
+          <p className="text-gray-600 text-xs text-center mb-4">
+            Explore our destination guides across Asia, Europe, Africa, and the Americas
+          </p>
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 mb-8">
+            <a href="https://go2thailand.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2Thailand</a>
+            <a href="https://go2-bali.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2Bali</a>
+            <a href="https://go2-vietnam.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2Vietnam</a>
+            <a href="https://go2-china.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2China</a>
+            <a href="https://go2-india.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2India</a>
+            <a href="https://go2-spain.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2Spain</a>
+            <a href="https://go2-france.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2France</a>
+            <a href="https://go2-morocco.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2Morocco</a>
+            <a href="https://go2-mexico.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2Mexico</a>
+            <a href="https://go2-usa.com" target="_blank" rel="noopener" className="text-gray-300 hover:text-white text-sm transition-colors">Go2USA</a>
+          </div>
+        </div>
+
+        <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex flex-col md:flex-row items-center gap-4">
               <p className="text-gray-400 text-sm">
