@@ -1,0 +1,116 @@
+{
+  "slug": "tokyo",
+  "cityName": "Tokyo",
+  "introduction": "Tokyo's accommodation scene spans the full range from ¥2,500 hostel dorm beds to ¥100,000-per-night penthouse suites, and standards throughout are high — even budget hotels in Tokyo are clean, efficiently organized, and well-located. The city's 23 special wards each have distinct characters, and choosing the right base significantly shapes your experience. Shinjuku and Shibuya are ideal for first-time visitors: both are major transport hubs on the Yamanote Line with access to every part of the city. Asakusa offers the most traditional atmosphere at slightly lower prices. Ginza suits business travelers and luxury shoppers. Mid-range business hotels (Toyoko Inn, Dormy Inn, APA Hotel) offer excellent value with clean, compact rooms and are found throughout the city. Tokyo's rooms are famously small — even at the luxury end, 'standard' rooms are often 20–25 square meters. Book several weeks to months ahead for cherry blossom (late March to mid-April) and autumn foliage (mid-November) seasons.",
+  "bestAreas": [
+    {
+      "name": "Shinjuku",
+      "description": "Tokyo's most dynamic neighborhood combines the world's busiest train station with the neon-drenched entertainment of Kabukicho, the elevated west-side business district, and the atmospheric Golden Gai bar alleys. Staying in Shinjuku gives you optimal connectivity to every part of the city and excellent access to day trips to Hakone (Odakyu Line) and Mount Fuji.",
+      "bestFor": "First-time visitors, transport connectivity, nightlife, day trips to Hakone/Fuji",
+      "priceRange": "¥6,000–¥50,000 ($40–$335)"
+    },
+    {
+      "name": "Shibuya",
+      "description": "Youth culture epicenter, home to the iconic scramble crossing. Shibuya offers modern hotels, excellent transport connections, and walkable access to the trendy neighborhoods of Daikanyama, Nakameguro, and Harajuku. The Shibuya Sky observation deck is steps from major hotels.",
+      "bestFor": "Young travelers, shopping, culture, Harajuku/Omotesando exploration",
+      "priceRange": "¥8,000–¥60,000 ($55–$400)"
+    },
+    {
+      "name": "Asakusa",
+      "description": "Tokyo's most traditional district, built around the 7th-century Senso-ji Temple. Hotels in Asakusa tend to be more affordable than Shinjuku or Shibuya for comparable quality. The neighborhood has a nostalgic Showa-era atmosphere, rickshaws, craft shops, and excellent access to Skytree. Slightly removed from the main Yamanote Line but well-connected via the Ginza subway line.",
+      "bestFor": "Traditional atmosphere, value for money, cultural sightseeing, authenticity",
+      "priceRange": "¥5,000–¥30,000 ($33–$200)"
+    },
+    {
+      "name": "Ginza",
+      "description": "Tokyo's most sophisticated district, home to international luxury brands, Michelin-starred restaurants, and world-class art galleries. Ginza hotels are premium-priced but positioned in a central, well-connected location with multiple subway lines within walking distance. Best for business travelers and luxury shoppers.",
+      "bestFor": "Luxury travelers, business visitors, fine dining, department stores",
+      "priceRange": "¥15,000–¥100,000+ ($100–$670+)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Khaosan Tokyo Kabuki",
+      "type": "Hostel (dorm and private rooms)",
+      "priceRange": "¥2,500–¥5,000 per person ($17–$33)",
+      "description": "One of Tokyo's most popular backpacker hostels in the heart of Asakusa, steps from Senso-ji Temple. Mix of dorm beds and private capsule rooms, common kitchen, rooftop area. The international atmosphere and ideal location make it the best budget base in Tokyo."
+    },
+    {
+      "name": "Toyoko Inn Asakusa",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,500–¥10,000 ($43–$67)",
+      "description": "Part of Japan's most reliable budget business hotel chain. Clean, compact rooms with everything needed — free breakfast, coin laundry, and consistent WiFi. The Asakusa location is ideal for traditional Tokyo exploration."
+    },
+    {
+      "name": "Manga Cafe/Capsule Hotels (Shinjuku area)",
+      "type": "Capsule hotel",
+      "priceRange": "¥2,000–¥4,500 ($13–$30)",
+      "description": "Capsule hotels like Nine Hours (Shinjuku), Anshin Oyado, and Book and Bed offer clean, efficient pod-style sleeping with shared facilities. Some include access to communal hot baths (furo). A uniquely Japanese accommodation experience and the cheapest way to sleep in Tokyo."
+    },
+    {
+      "name": "APA Hotel (multiple locations)",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,000–¥12,000 ($40–$80)",
+      "description": "APA's dense Tokyo network offers compact but well-maintained rooms across every major neighborhood. The Shinjuku-Kabukicho and Akihabara locations are particularly well-situated. Some APA hotels include on-site onsen facilities — a genuine amenity at budget prices."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Shinjuku Granbell Hotel",
+      "type": "Boutique hotel",
+      "priceRange": "¥15,000–¥25,000 ($100–$167)",
+      "description": "A stylish boutique hotel in Shinjuku's entertainment district with distinctive artistic rooms and a rooftop bar. Rooms are larger than average for Tokyo and the design is genuinely creative. Excellent location between Shinjuku's east and west sides."
+    },
+    {
+      "name": "Dormy Inn Tokyo (multiple locations)",
+      "type": "Business hotel with onsen",
+      "priceRange": "¥10,000–¥18,000 ($67–$120)",
+      "description": "The Dormy Inn chain differentiates itself with on-site communal hot spring baths (onsen or sento style). Clean, modern rooms with decent space by Tokyo standards. The Akihabara and Shinjuku locations are excellent. A nightly ramen service at 11pm is a genuine perk."
+    },
+    {
+      "name": "Hyatt House Tokyo Shibuya",
+      "type": "Extended-stay style hotel",
+      "priceRange": "¥20,000–¥35,000 ($133–$233)",
+      "description": "Opened 2024, Hyatt House offers apartment-style rooms with kitchenettes in the heart of Shibuya. Particularly good for families or longer stays. Modern, spacious rooms by Tokyo standards with excellent Shibuya connectivity."
+    },
+    {
+      "name": "The Gate Hotel Kaminarimon",
+      "type": "Boutique hotel",
+      "priceRange": "¥18,000–¥30,000 ($120–$200)",
+      "description": "A superb mid-range boutique hotel in Asakusa, 2 minutes from the subway station with stunning rooftop views of Tokyo Skytree. Rooms are larger than average, service is thoughtful, and the location in traditional Asakusa is hard to beat."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "Park Hyatt Tokyo",
+      "type": "Luxury sky hotel",
+      "priceRange": "¥55,000–¥150,000+ ($370–$1,000+)",
+      "description": "Occupying floors 39–52 of the Shinjuku Park Tower (immortalized in the film Lost in Translation), the Park Hyatt offers the most cinematic Tokyo experience. The New York Bar and Grill has become the city's most iconic hotel venue. Rooms are enormous by Tokyo standards with panoramic city views."
+    },
+    {
+      "name": "Aman Tokyo",
+      "type": "Ultra-luxury hotel",
+      "priceRange": "¥100,000–¥300,000+ ($670–$2,000+)",
+      "description": "Occupying the top six floors of the Otemachi Tower, Aman Tokyo brings the brand's signature serenity to the heart of Tokyo's financial district. Rooms average 68 square meters — extraordinary for Tokyo — with Japanese minimalist design. The onsen-inspired spa is world-class."
+    },
+    {
+      "name": "The Peninsula Tokyo",
+      "type": "Luxury heritage hotel",
+      "priceRange": "¥70,000–¥200,000+ ($470–$1,330+)",
+      "description": "Located at the corner of Hibiya Park and the Imperial Palace grounds, The Peninsula's Romanesque building is one of Tokyo's grandest. Service is legendary even by Tokyo luxury standards, and the rooms overlooking the palace grounds or the Imperial Hotel garden are among the best views in Japan."
+    }
+  ],
+  "bookingTips": [
+    "Book 2–4 months ahead for cherry blossom season (late March to mid-April) and autumn foliage (mid-November). These peak periods see rates double or triple and availability disappear rapidly.",
+    "Tokyo's 'standard' hotel rooms average 18–25 square meters — this is normal. If space is a priority, specifically search for 'superior' or 'deluxe' room categories and filter by square footage.",
+    "Business hotel chains (Toyoko Inn, APA, Dormy Inn, Super Hotel) offer exceptional value with breakfast often included. For solo or two-person trips, these are the best value in the city.",
+    "The Yamanote Line circle connects all major neighborhoods. Any hotel within 10 minutes walk of a Yamanote Line station is well-positioned for Tokyo exploration.",
+    "Capsule hotels are legitimate accommodation experiences and often include access to large shared bath facilities. Nine Hours, Book and Bed Tokyo, and Koyasan are particularly well-designed.",
+    "Most Tokyo hotels accept cancellation up to 24–48 hours before arrival. Book refundable rates during peak season — prices often drop as the date approaches, especially for mid-range hotels."
+  ],
+  "sources": [
+    { "name": "Truly Tokyo — Where to Stay", "url": "https://trulytokyo.com/where-to-stay-in-tokyo/" },
+    { "name": "Miss Tourist — Tokyo Areas", "url": "https://misstourist.com/where-to-stay-in-tokyo-japan/" },
+    { "name": "The Invisible Tourist — Tokyo Accommodation", "url": "https://www.theinvisibletourist.com/where-to-stay-in-tokyo/" }
+  ]
+}

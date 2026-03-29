@@ -1,0 +1,110 @@
+{
+  "slug": "osaka",
+  "cityName": "Osaka",
+  "introduction": "Osaka is consistently the most affordable major Japanese city for accommodation, making it a popular base for exploring the Kansai region. Hotels in Osaka offer better value than equivalent options in Kyoto, and the city's excellent rail connections (15 minutes to Kyoto, 25 minutes to Nara, 30 minutes to Kobe) make it ideal as a Kansai hub. The two main accommodation zones correspond to Osaka's dual city structure: Kita (north, around Umeda/Osaka Station) is the business and luxury hotel hub; Minami (south, around Namba) is the entertainment and street food center. For first-time visitors, Namba offers the most atmospheric experience — you can walk to Dotonbori, Kuromon Market, and Shinsekai. Umeda suits business travelers and those prioritizing transport connections. The capsule hotel culture is especially well-developed in Osaka, with several design-forward capsule options near Namba that provide a genuinely comfortable experience.",
+  "bestAreas": [
+    {
+      "name": "Namba/Minami",
+      "description": "Osaka's entertainment hub and the single best base for food and nightlife. Namba Station connects multiple rail lines, and Dotonbori, Kuromon Market, Shinsaibashi shopping, and Shinsekai are all within easy walking distance. The most atmospheric area to stay for first-time visitors to Osaka.",
+      "bestFor": "Food tourism, nightlife, street food, first-time visitors, atmosphere",
+      "priceRange": "¥4,000–¥50,000 ($27–$333)"
+    },
+    {
+      "name": "Umeda/Kita",
+      "description": "Osaka's northern business and transport hub, centered on the massive Osaka/Umeda Station complex with direct access to Kyoto (15 min), Kobe (20 min), and Shin-Osaka Shinkansen station (5 min). The most international luxury hotels are concentrated here, alongside extensive underground shopping and the famous Hep Five Ferris Wheel.",
+      "bestFor": "Business travelers, transit hub, luxury hotels, Kansai day trips",
+      "priceRange": "¥6,000–¥80,000 ($40–$533)"
+    },
+    {
+      "name": "Honmachi/Central",
+      "description": "Between Umeda and Namba, this quieter business district offers a practical middle ground — good transport access, more affordable prices than the two major hubs, and a more local atmosphere. Particularly suited to travelers planning a mix of tourism and business.",
+      "bestFor": "Balance of price and location, quieter nights, business visitors, repeat visitors",
+      "priceRange": "¥5,000–¥30,000 ($33–$200)"
+    },
+    {
+      "name": "Tennoji/Shinsekai",
+      "description": "The southern district anchored by Tennoji Zoo, Shitenno-ji Temple, and the retro Shinsekai entertainment area. Hotels here are significantly cheaper than Namba or Umeda while offering a more authentic local atmosphere. The Abeno Harukas observation tower is the tallest building in Japan at 300 meters.",
+      "bestFor": "Budget travelers, local atmosphere, retro Osaka character, south Osaka exploration",
+      "priceRange": "¥3,500–¥20,000 ($23–$133)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Capsule Hotel Asahi Plaza",
+      "type": "Capsule hotel",
+      "priceRange": "¥2,500–¥4,000 ($17–$27)",
+      "description": "One of Osaka's most established and well-reviewed capsule hotels, with separate male/female sections, large communal bath facilities, and a convenient Namba location. A genuine capsule hotel experience at the budget end, clean and efficiently managed."
+    },
+    {
+      "name": "Toyoko Inn Osaka Namba",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,000–¥10,000 ($40–$67)",
+      "description": "The most reliable budget chain in Japan, with a prime Namba location. Free breakfast, clean compact rooms, and all the basics for a comfortable stay. Book early — the Namba location sells out quickly."
+    },
+    {
+      "name": "Guesthouse ITSUKI",
+      "type": "Guesthouse/hostel",
+      "priceRange": "¥2,800–¥5,500 ($19–$37)",
+      "description": "A well-regarded small guesthouse with both dorms and private tatami rooms in a renovated traditional building near Dotonbori. The communal spaces encourage meeting fellow travelers, and the location puts you at the center of Osaka's food culture."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Cross Hotel Osaka",
+      "type": "Boutique hotel",
+      "priceRange": "¥10,000–¥20,000 ($67–$133)",
+      "description": "A stylish mid-range hotel in the heart of Minami with a rooftop bar, communal bath, and individually decorated rooms. One of Osaka's most respected design hotels at a reasonable price. Extremely walkable to Dotonbori and Namba Station."
+    },
+    {
+      "name": "Candeo Hotels Osaka Namba",
+      "type": "Mid-range hotel with rooftop onsen",
+      "priceRange": "¥10,000–¥22,000 ($67–$147)",
+      "description": "Part of a Japanese chain known for excellent rooftop onsen facilities, the Namba location is ideally situated for food exploration. The rooftop open-air bath with Osaka city views is a significant amenity upgrade at a mid-range price."
+    },
+    {
+      "name": "Hotel New Otani Osaka",
+      "type": "Large hotel",
+      "priceRange": "¥15,000–¥35,000 ($100–$233)",
+      "description": "A well-established large hotel between Osaka Castle and Umeda, with beautiful garden views and multiple dining options. The spacious rooms and garden setting make it one of Osaka's best mid-range options with more space than typical business hotels."
+    },
+    {
+      "name": "Dormy Inn Osaka Shinsaibashi",
+      "type": "Business hotel with onsen",
+      "priceRange": "¥8,000–¥16,000 ($53–$107)",
+      "description": "Excellent location in Shinsaibashi's shopping district, walking distance to both Namba and Dotonbori. The signature Dormy Inn communal hot spring bath and late-night ramen service make this an exceptional mid-range value."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "The St. Regis Osaka",
+      "type": "Ultra-luxury hotel",
+      "priceRange": "¥50,000–¥150,000+ ($333–$1,000+)",
+      "description": "Considered the finest luxury hotel in Osaka, occupying floors 24–36 of the Osaka Business Park tower. The signature butler service, city-view rooms, and Il Miele Italian restaurant with its extraordinary wine cellar make this the benchmark Osaka luxury experience."
+    },
+    {
+      "name": "The Ritz-Carlton Osaka",
+      "type": "Luxury hotel",
+      "priceRange": "¥45,000–¥120,000+ ($300–$800+)",
+      "description": "Located in the Umeda district, the Ritz-Carlton Osaka is housed in a European neo-classical building and offers the brand's legendary service standard. The Fleur de Lys French restaurant and the Lobby Lounge afternoon tea are Osaka institutions."
+    },
+    {
+      "name": "Conrad Osaka",
+      "type": "Luxury hotel",
+      "priceRange": "¥40,000–¥100,000+ ($267–$667+)",
+      "description": "Occupying floors 33–40 of the Nakanoshima Festival Tower West, the Conrad offers some of Osaka's most spectacular views across the city. The infinity pool on the 40th floor and the Sawa restaurant's modern Japanese cuisine are highlights."
+    }
+  ],
+  "bookingTips": [
+    "Osaka is significantly more affordable than Kyoto for equivalent accommodation quality — if your priority is seeing the Kansai region, staying in Osaka and day-tripping to Kyoto (15 min by JR Limited Express or 30 min by Shinkansen) is excellent value.",
+    "The Namba and Umeda areas have different characters but equal convenience — choose Namba for street food and nightlife, Umeda for business and luxury hotel density.",
+    "Osaka's capsule hotels are among Japan's most innovative — look for design-forward capsule options like First Cabin (airline cabin-style, significantly more spacious than traditional capsules) in the Namba area.",
+    "Universal Studios Japan visitors should consider staying near Osaka Station/Umeda for the direct JR train access to USJ (8 minutes on the JR Yumesaki Line).",
+    "Booking flexible/cancellable rates in Osaka is especially valuable during cherry blossom season (late March), when accommodation in Kyoto becomes unavailable and visitors pivot to Osaka unexpectedly.",
+    "The Osaka Amazing Pass (1 or 2 days) covers unlimited subway rides and entrance to many attractions — staying near a subway station is more important than specific neighborhood choice."
+  ],
+  "sources": [
+    { "name": "Inside Osaka — Where to Stay", "url": "https://insideosaka.com/where-to-stay-in-osaka/" },
+    { "name": "Bon Traveler — Osaka Areas", "url": "https://www.bontraveler.com/where-to-stay-in-osaka-japan/" },
+    { "name": "Greta's Travels — Osaka Hotels", "url": "https://gretastravels.com/where-to-stay-in-osaka/" }
+  ]
+}

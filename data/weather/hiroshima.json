@@ -1,0 +1,141 @@
+{
+  "slug": "hiroshima",
+  "city": "Hiroshima",
+  "climate_overview": "Hiroshima has a mild temperate climate thanks to its location on the sheltered Seto Inland Sea coast in western Honshu. Winters are among the mildest in mainland Japan, with snow rare and temperatures rarely dropping below freezing. Spring brings one of Japan's finest cherry blossom seasons, framed by the Peace Memorial Park and the Motoyasu River. Summers are hot and humid but tempered by coastal breezes. Autumn foliage is excellent at Shukkeien Garden and nearby Miyajima. Annual rainfall averages 1,570mm. The city is one of Japan's most rewarding year-round destinations.",
+  "best_months": ["March", "April", "October", "November"],
+  "avoid_months": ["July", "August"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 9,
+      "temp_low": 2,
+      "rainfall_mm": 44,
+      "humidity": 68,
+      "description": "January is Hiroshima's coldest month, though remarkably mild compared to most of Japan. Snow is possible but uncommon in the city. The Peace Memorial Park and Hiroshima Castle are serene and nearly tourist-free, offering a reflective atmosphere that suits the site's solemnity. Miyajima Island is beautiful in winter, with cedar forests quiet and the famous torii gate reflected in still water. New Year festivities at Hiroshima Gokoku Shrine draw local crowds through the first week.",
+      "activities": ["Peace Memorial Park reflection", "Miyajima winter visit", "Hiroshima Castle walk", "Oyster season dining"],
+      "events": ["New Year at Gokoku Shrine", "Winter oyster festivals", "Hatsumode visits"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 10,
+      "temp_low": 2,
+      "rainfall_mm": 65,
+      "humidity": 65,
+      "description": "February remains cool and dry with occasional cold snaps. Hiroshima's famous oyster season — the city is Japan's leading oyster producer — is at its peak this month, with fresh oysters grilled, fried, and served raw at countless restaurants. Plum blossoms appear at Shukkeien Garden and Hijiyama Park. The Setsubun ceremony at major temples adds cultural colour. Tourist numbers are minimal, creating an ideal environment for thoughtful, crowd-free visits to the Peace Memorial Museum.",
+      "activities": ["Oyster dining season", "Plum blossom viewing", "Peace Museum in-depth visit", "Shukkeien Garden walk"],
+      "events": ["Setsubun (February 3)", "Plum blossom viewings", "Oyster festivals continue"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 14,
+      "temp_low": 6,
+      "rainfall_mm": 121,
+      "humidity": 65,
+      "description": "March brings warming temperatures and the exciting approach of cherry blossom season, which arrives in Hiroshima slightly earlier than Tokyo due to the warmer climate. Blooms typically open in late March along the Motoyasu River adjacent to the Atomic Bomb Dome — a juxtaposition of beauty and remembrance that is uniquely moving. Miyajima's cherry blossoms frame the floating torii gate spectacularly. Spring rains return, so pack a light rain jacket. Crowds begin building noticeably toward month's end.",
+      "activities": ["Early cherry blossom walks", "Miyajima spring visit", "Cycling along the Motoyasu River", "Hiroshima-style okonomiyaki tasting"],
+      "events": ["Early sakura openings", "Peace Memorial Anniversary preparations", "Spring garden openings"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 20,
+      "temp_low": 11,
+      "rainfall_mm": 152,
+      "humidity": 64,
+      "description": "April is Hiroshima's most beautiful month. Cherry blossoms frame the Atomic Bomb Dome in one of Japan's most poignant and powerful visual experiences. Miyajima reaches extraordinary beauty with sakura petals floating past the torii gate at high tide. The city handles hanami crowds well and feels less overwhelmed than Kyoto or Tokyo. Hotel prices rise but not as dramatically as Japan's other major tourist cities. The Hiroshima Flower Festival in late April/early May celebrates spring across the Peace Boulevard.",
+      "activities": ["Atomic Bomb Dome sakura viewing", "Miyajima cherry blossom ferry trip", "Flower Festival preparations", "Hiroshima Bay cycling"],
+      "events": ["Cherry blossom peak bloom", "Hiroshima Flower Festival (Golden Week)", "Miyajima spring festival"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "may": {
+      "temp_high": 25,
+      "temp_low": 16,
+      "rainfall_mm": 166,
+      "humidity": 67,
+      "description": "May brings warm, pleasant weather and the three-day Hiroshima Flower Festival, one of western Japan's largest events, held over Golden Week with music, food, and cultural performances along Peace Boulevard. After Golden Week ends, mid-to-late May is excellent for visiting — comfortable warmth, fresh greenery, and significantly thinner crowds than peak spring. Miyajima's uninhabited deer wander through new green growth. Day trips to the Onomichi cycling route and the Seto Inland Sea islands are at their seasonal best.",
+      "activities": ["Hiroshima Flower Festival", "Miyajima nature walks", "Onomichi cycling day trip", "Seto Inland Sea ferry"],
+      "events": ["Hiroshima Flower Festival (Golden Week)", "Golden Week (April 29–May 5)", "Shrine festivals on Miyajima"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "june": {
+      "temp_high": 28,
+      "temp_low": 20,
+      "rainfall_mm": 240,
+      "humidity": 76,
+      "description": "June is Hiroshima's wettest month as the rainy season arrives. The Peace Memorial Park and its open-air structures are less pleasant in heavy rain, but the museum itself is fully indoor and fascinatingly detailed. Hydrangeas bloom along Miyajima's trails and at Shukkeien Garden. The misty mountains of western Honshu create atmospheric backdrops for photography. Travel costs drop noticeably with the rainy season, making June excellent value. Evenings remain warm and the city's izakayas are lively.",
+      "activities": ["Indoor Peace Museum visits", "Rainy day Miyajima", "Hydrangea photography", "Okonomiyaki cooking classes"],
+      "events": ["Rainy season (mid-June)", "Hydrangea festivals", "Hiroshima Toukasan Yukata Festival (early June)"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "july": {
+      "temp_high": 32,
+      "temp_low": 24,
+      "rainfall_mm": 224,
+      "humidity": 78,
+      "description": "July is hot, humid, and emotionally significant in Hiroshima. August 6 — the anniversary of the atomic bombing — falls in the season's context, with the city increasingly focused on peace events. The Peace Memorial Ceremony on August 6 is one of the most moving events in the world. July itself sees summer festivals and fireworks. The heat is intense and outdoor exploration should be limited to early morning. Hiroshima Bay breezes provide some relief compared to inland cities like Kyoto.",
+      "activities": ["Summer festivals", "Miyajima early morning visits", "Peace ceremony preparations", "Evening yakitori stalls"],
+      "events": ["Hiroshima Summer Festival", "Fireworks over Hiroshima Bay", "Pre-August 6 peace events"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "august": {
+      "temp_high": 33,
+      "temp_low": 25,
+      "rainfall_mm": 109,
+      "humidity": 76,
+      "description": "August 6 is the most significant date in Hiroshima's calendar — the Peace Memorial Ceremony marks the anniversary of the atomic bombing, with tens of thousands gathering at dawn for the official ceremony, followed by a day of remembrance events, concerts, and 50,000 paper lanterns floating on the Motoyasu River at dusk on August 6. This is a profound and deeply moving experience. The city is more crowded than usual around August 6. The rest of August is hot and humid but manageable with coastal breezes.",
+      "activities": ["Peace Memorial Ceremony (August 6)", "Lantern floating ceremony (August 6)", "Obon festivals", "Miyajima Kangen-sai festival"],
+      "events": ["Peace Memorial Ceremony (August 6)", "Toro Nagashi lantern floating (August 6)", "Miyajima Kangen-sai (mid-August)", "Obon"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "september": {
+      "temp_high": 28,
+      "temp_low": 20,
+      "rainfall_mm": 160,
+      "humidity": 74,
+      "description": "September remains warm and can bring typhoons, though Hiroshima's sheltered position on the Seto Inland Sea provides some protection. Crowds drop significantly after August, and hotel prices fall. The gradual temperature decrease toward October makes this a transition month — comfortable for sightseeing by the final week. The Onomichi–Imabari cycling route (Shimanami Kaido) begins its shoulder season, perfect for cooler riding conditions. Early autumn colour change appears in mountain areas north of the city.",
+      "activities": ["Shimanami Kaido cycling", "Post-summer peace museum", "Inland Sea island hopping", "Shukkeien Garden walks"],
+      "events": ["Autumnal Equinox Day", "Hiroshima Carp baseball season climax", "Sake new season begins"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "october": {
+      "temp_high": 22,
+      "temp_low": 13,
+      "rainfall_mm": 92,
+      "humidity": 68,
+      "description": "October brings Hiroshima's best weather of the year for sightseeing. Temperatures are perfectly comfortable and crowds are very manageable. Autumn colour begins appearing at Shukkeien Garden and Miyajima's maple-covered hills. The torii gate at high tide in autumn evening light is one of Japan's most iconic images. October is the ideal month for the Shimanami Kaido cycling route — sea breezes, autumn colours, and nearly ideal temperatures. Book Miyajima ryokan for the full sunset and moonrise experience.",
+      "activities": ["Miyajima autumn visit", "Shukkeien Garden foliage", "Shimanami Kaido cycling", "Peace Park photography"],
+      "events": ["Autumn foliage begins", "Ebisu Festival at Hiroshima Ebisu Shrine", "Oyster season opens"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "november": {
+      "temp_high": 17,
+      "temp_low": 7,
+      "rainfall_mm": 72,
+      "humidity": 67,
+      "description": "November brings peak autumn foliage to Hiroshima, with Miyajima's Momijidani (Maple Valley) park arguably the most beautiful autumn scene in western Japan. Brilliant reds and oranges frame the pagoda and torii gate. Crowds at Miyajima increase significantly — the cable car can have long waits. Shukkeien Garden is gorgeous and less crowded. The Peace Park is serene and contemplative in autumn. The Hiroshima Food Festival takes advantage of the season's fresh produce and the approaching oyster season.",
+      "activities": ["Miyajima Momijidani autumn foliage", "Shukkeien Garden maple viewing", "Cable car to Mt. Misen", "Oyster season dining opens"],
+      "events": ["Peak autumn foliage", "Miyajima Maple Festival", "Hiroshima Food Festival"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "december": {
+      "temp_high": 11,
+      "temp_low": 3,
+      "rainfall_mm": 42,
+      "humidity": 69,
+      "description": "December is cool and quiet in Hiroshima. Late autumn foliage lingers into early December at Shukkeien Garden. Christmas and winter illuminations appear along Peace Boulevard and in the city centre. The Peace Memorial Park at night during winter is particularly powerful — the Flame of Peace burns eternally in the cold dark. Winter is the best time for deep, unhurried engagement with the museum. Fresh oysters are at peak season through December and should be savoured at Miyajima and in the city's markets.",
+      "activities": ["Winter oyster dining", "Late foliage at Shukkeien", "Peace Park night visit", "Winter illuminations"],
+      "events": ["Winter illuminations", "New Year preparations", "Oyster festivals throughout month"],
+      "crowd_level": "low",
+      "price_level": "low"
+    }
+  }
+}

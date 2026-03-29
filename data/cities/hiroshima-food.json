@@ -1,0 +1,111 @@
+{
+  "slug": "hiroshima",
+  "cityName": "Hiroshima",
+  "introduction": "Hiroshima's food culture is defined by two extraordinary local products: the Hiroshima-style okonomiyaki and the city's legendary oysters. Hiroshima Prefecture produces approximately 60–70% of Japan's entire oyster supply, and the bivalves are eaten raw, fried, grilled, steamed, and cooked into rice throughout the year. The city's okonomiyaki differs fundamentally from Osaka's: rather than mixing ingredients into the batter, Hiroshima chefs build the pancake in distinct layers — thin batter, a mountain of cabbage, pork, and a full portion of yakisoba noodles — before flipping the entire structure. The taste and texture are completely different from the Osaka version. Beyond these two stars, Hiroshima also claims anago (saltwater eel) rice from Miyajima Island, the rich Onomichi ramen of nearby Onomichi, and Japan's largest lemon production from the Setouchi coast. Visitors with just one day should eat okonomiyaki at Okonomimura and oysters fresh from the Seto Inland Sea.",
+  "signatureDishes": [
+    {
+      "name": "Hiroshima-style Okonomiyaki",
+      "japaneseName": "広島焼き",
+      "description": "The layered okonomiyaki that defines Hiroshima. Unlike Osaka's mixed style, the Hiroshima chef builds components in sequence on the griddle: thin crepe-like batter, a tall dome of shredded cabbage and bean sprouts, pork belly, and a full serving of yakisoba noodles beneath. Everything is pressed together, flipped, and topped with a fried egg. The result is a denser, more complex pancake with crispy noodle texture inside.",
+      "priceRange": "¥800–¥1,500",
+      "whereToTry": "Okonomimura (multi-floor okonomiyaki village with 25 stalls, Naka ward), Micchan (since 1950, inventor of Hiroshima-style), Hassho (Ekimae)",
+      "tip": "Each stall at Okonomimura has its own recipe — the place is designed to let you try multiple interpretations. Go on an empty stomach."
+    },
+    {
+      "name": "Hiroshima Oysters (Kaki)",
+      "japaneseName": "広島牡蠣",
+      "description": "Hiroshima's oysters, farmed in the mineral-rich waters of the Seto Inland Sea, are plumper and sweeter than those from most regions. Available October through April for fresh eating, though the city has developed year-round preparations using frozen or processed oysters. Eaten raw with ponzu, deep-fried as kaki furai, baked with cheese, or simmered in a hot pot.",
+      "priceRange": "¥300–¥2,000 depending on preparation",
+      "whereToTry": "Kakiya (Miyajima Island), Oyster stalls on Miyajima's main shopping street, Toshogu Honten (Hiroshima city), Nagarekawa district oyster bars",
+      "tip": "Fresh raw oysters are available October to April. Outside this season, grilled and fried preparations are still excellent using frozen Hiroshima oysters."
+    },
+    {
+      "name": "Anago Meshi",
+      "japaneseName": "穴子めし",
+      "description": "Saltwater conger eel (anago) grilled and served over seasoned rice, with a sweet soy-based tare glaze. Unlike the freshwater unagi (eel) found elsewhere in Japan, anago has a lighter, more delicate flavor and slightly crispier texture. The definitive Miyajima Island specialty, particularly associated with the historic restaurant Ueno.",
+      "priceRange": "¥1,500–¥3,000",
+      "whereToTry": "Ueno (Miyajima, serving since 1901), Anago-no-Nishimura (near Miyajima ferry terminal), Fujitaya (Miyajima shopping street)",
+      "tip": "Ueno on Miyajima has served wild anago since 1901 — the family recipe is unchanged. The boxed anago meshi bento is iconic to take on the ferry."
+    },
+    {
+      "name": "Onomichi Ramen",
+      "japaneseName": "尾道ラーメン",
+      "description": "Named after the port city of Onomichi, 80km east of Hiroshima, this rich shoyu-based broth combines pork fat (shu abura) and small dried local fish (saba bushi — mackerel) for a layered umami taste. Thin, flat noodles. A floating sheet of pork back fat is the visual signature. Available throughout Hiroshima city.",
+      "priceRange": "¥700–¥1,200",
+      "whereToTry": "Tonchinkan (Hiroshima city), restaurant row near Hiroshima Station. For the authentic Onomichi version: Shukaen or Ichibankan in Onomichi city itself.",
+      "tip": "If you have time for a half-day excursion, Onomichi is beautiful — the hillside town with its cat path and endless ramen shops is worth the journey."
+    },
+    {
+      "name": "Setouchi Lemon Products",
+      "japaneseName": "瀬戸内レモン",
+      "description": "Hiroshima Prefecture is Japan's largest lemon producer, and the Setouchi lemon has become a regional food identity. Found in everything from lemon ramen and lemon sake to lemon cakes, lemon soft serve, and lemon ponzu dressings. Many restaurants in the city use Setouchi lemon as a signature accent.",
+      "priceRange": "¥200–¥800",
+      "whereToTry": "Hiroshima Station shops, souvenir stores throughout the city, specialty lemon products at Onomichi",
+      "tip": "Lemon cake (remon keiki) makes an excellent and distinctive Hiroshima souvenir — buy from the station or Hondori Shopping Arcade stores."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Okonomimura",
+      "address": "5-13 Shintenchi, Naka, Hiroshima",
+      "cuisine": "Hiroshima-style okonomiyaki",
+      "priceRange": "¥800–¥1,500",
+      "description": "A multi-floor building housing 25 individual okonomiyaki stalls, each with its own recipe and personality. Widely considered the single most important food destination in Hiroshima. The competitive atmosphere between stalls has driven quality extremely high. Many stalls have been operating here for decades.",
+      "highlight": "25 competing stalls under one roof — the definitive Hiroshima food experience"
+    },
+    {
+      "name": "Ueno (Miyajima)",
+      "address": "539-2 Miyajimacho, Hatsukaichi (Miyajima Island)",
+      "cuisine": "Anago meshi (saltwater eel rice)",
+      "priceRange": "¥1,800–¥3,000",
+      "description": "Serving wild conger eel in the same style since 1901, Ueno is a Miyajima institution. The anago meshi bento — eel over rice in a lacquer box — is the original and definitive version. The restaurant sits a short walk from the ferry pier. Advance reservations recommended for sit-down meals.",
+      "highlight": "Serving the same anago meshi recipe since 1901 — a Miyajima Island landmark"
+    },
+    {
+      "name": "Kakiya",
+      "address": "539-2 Miyajimacho, Hatsukaichi (Miyajima Island)",
+      "cuisine": "Hiroshima oysters",
+      "priceRange": "¥1,000–¥3,000",
+      "description": "The best oyster restaurant on Miyajima Island, specializing in the plump, sweet Hiroshima oysters from the Seto Inland Sea. Dishes range from raw oysters with ponzu to baked oysters with cheese and cream, oyster hot pot, and kaki furai (deep-fried). The open-air setting with sea views enhances the experience.",
+      "highlight": "Best oysters on Miyajima — try them grilled over charcoal with a squeeze of Setouchi lemon"
+    },
+    {
+      "name": "Micchan",
+      "address": "6-7 Kyobashicho, Minami, Hiroshima (Ekimae branch)",
+      "cuisine": "Hiroshima okonomiyaki (inventor)",
+      "priceRange": "¥900–¥1,500",
+      "description": "Founded in 1950, Micchan is credited as the inventor of Hiroshima-style layered okonomiyaki. The original founder, Noboru Michikawa, developed the yakisoba-layer technique that distinguishes the Hiroshima style. The Ekimae branch near Hiroshima Station is convenient for train-connected visitors.",
+      "highlight": "The original inventor of Hiroshima-style layered okonomiyaki since 1950"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Hondori Shopping Arcade",
+      "description": "Hiroshima's main covered shopping street, running through the center of downtown. Food vendors sell oyster skewers, lemon cakes, momiji manju (maple-leaf shaped cakes filled with sweet red bean or cheese), and soft serve. The most accessible area for casual eating.",
+      "bestFor": "Momiji manju, oyster skewers, lemon soft serve, souvenir food shopping"
+    },
+    {
+      "name": "Miyajima Shopping Street",
+      "description": "The main approach from the Miyajima ferry pier to Itsukushima Shrine is lined with stalls selling freshly grilled oysters, giant anago (eel) skewers, momiji manju baked fresh, and seasonal grilled scallops. One of Japan's best food streets in terms of scenery.",
+      "bestFor": "Grilled oysters, anago skewers, momiji manju fresh from the oven"
+    },
+    {
+      "name": "Nagarekawa Entertainment District",
+      "description": "Hiroshima's nightlife district, a few blocks east of the Peace Memorial Park. The area comes alive after dark with izakaya bars, oyster restaurants, okonomiyaki stalls, and ramen shops. A more local alternative to the tourist-focused Hondori arcade.",
+      "bestFor": "Oyster bars, izakaya, local ramen, late-night okonomiyaki, craft beer"
+    }
+  ],
+  "foodTips": [
+    "Hiroshima okonomiyaki and Osaka okonomiyaki are completely different dishes — one mixes ingredients in the batter (Osaka), one layers them sequentially (Hiroshima). Try both styles during your Japan trip.",
+    "Oyster season in Hiroshima runs October to April for fresh raw eating. Outside this window, grilled and fried preparations are still excellent.",
+    "Momiji manju (maple-leaf cakes) are Hiroshima's most iconic souvenir food — try the freshly baked version from a street vendor rather than pre-packaged versions.",
+    "Miyajima Island has its own food identity separate from the city. Try to eat both anago meshi (saltwater eel) and grilled oysters while on the island.",
+    "Hiroshima's food scene is significantly more affordable than Kyoto or Tokyo — an excellent lunch at a top okonomiyaki restaurant costs ¥1,000–¥1,500.",
+    "Onomichi ramen uses both pork fat and dried fish in its broth — the combination is uniquely rich. Even if you have limited time, try a bowl at a Hiroshima restaurant serving the Onomichi style."
+  ],
+  "sources": [
+    { "name": "Japan Guide — Hiroshima Food", "url": "https://www.japan-guide.com/e/e3408.html" },
+    { "name": "Will Fly for Food — Hiroshima", "url": "https://www.willflyforfood.net/hiroshima-food-guide/" },
+    { "name": "ByFood — What to Eat in Hiroshima", "url": "https://www.byfood.com/blog/hiroshima/what-to-eat-in-hiroshima" }
+  ]
+}

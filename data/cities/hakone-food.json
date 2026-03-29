@@ -1,0 +1,110 @@
+{
+  "slug": "hakone",
+  "cityName": "Hakone",
+  "introduction": "Hakone's food identity is shaped by its nature as a mountain hot spring resort area on the slopes of Mount Fuji, drawing from two distinct food traditions: the refined kaiseki ryori of high-end ryokan, where multi-course meals are part of the accommodation experience, and the casual street food of the resort towns. Hakone's water — volcanic and exceptionally mineral-rich — produces the famous kuro-tamago (black eggs hard-boiled in sulfurous springs at Owakudani), a signature local experience despite being mostly a novelty. More substantially, the area is known for yuba (tofu skin), produced with the same soft mountain water that creates Nikko and Kyoto's finest tofu. Local soba noodles use Hakone mountain water and are served in simple mountain restaurants throughout the area. Hakone is primarily a place where the food experience is inseparable from the environment — kaiseki meals eaten in a traditional ryokan room overlooking a Japanese garden, or a bowl of miso soup and rice at a mountain hut café above the clouds.",
+  "signatureDishes": [
+    {
+      "name": "Kuro-tamago (Black Eggs)",
+      "japaneseName": "黒たまご",
+      "description": "Hard-boiled eggs cooked in the sulfurous hot springs at Owakudani volcanic valley. The hydrogen sulfide in the spring water reacts with iron in the eggshell, turning it permanently black. The egg inside is entirely normal — yet the legend persists that eating one extends your life by seven years. Sold only at Owakudani in bags of five.",
+      "priceRange": "¥500 for 5 eggs",
+      "whereToTry": "Owakudani (only available here — eggs cannot be transported as they must be eaten fresh)",
+      "tip": "Kuro-tamago are only sold and meant to be eaten at Owakudani. On bad weather days or when volcanic activity is high, the area closes and eggs are unavailable."
+    },
+    {
+      "name": "Yuba Don (Tofu Skin Rice Bowl)",
+      "japaneseName": "湯葉丼",
+      "description": "Yuba — the delicate skin that forms on the surface of heated soymilk — is a Hakone-Nikko specialty. The soft, silken sheets are served warm over rice with a light dashi sauce. Hakone's pure mountain water produces exceptionally delicate yuba with a clean, sweet tofu flavor. Available at specialist restaurants near the hot spring towns.",
+      "priceRange": "¥1,000–¥1,800",
+      "whereToTry": "Yubadon Naokichi (5 minutes from Hakone-Yumoto Station), several restaurants in Hakone-Yumoto",
+      "tip": "Order fresh yuba rather than dried — the difference in texture is enormous. The creamy, just-formed sheets over warm rice is one of Hakone's most underrated food experiences."
+    },
+    {
+      "name": "Mountain Soba",
+      "japaneseName": "山そば",
+      "description": "The Hakone mountain region's fresh spring water and crisp mountain air are ideal for soba (buckwheat noodle) making. Several small soba restaurants in Yumoto and Gora serve handmade zaru soba (cold, with dipping sauce) and kake soba (hot broth), often alongside seasonal mountain vegetable tempura.",
+      "priceRange": "¥800–¥1,500",
+      "whereToTry": "Hakone Yumoto soba restaurants near the station, small mountain restaurants in Gora",
+      "tip": "After finishing your cold soba, ask for sobayu — the warm, cloudy water the soba was boiled in. Pour it into your remaining dipping sauce and drink it as a light soup."
+    },
+    {
+      "name": "Kaiseki at Ryokan",
+      "japaneseName": "懐石料理",
+      "description": "Hakone's luxury ryokan are renowned for their multi-course kaiseki dinners served in-room or in private dining rooms. The meals use seasonal ingredients from the Kanagawa region, local mountain vegetables, and premium seafood from nearby Sagami Bay. Dishes change with the seasons and are presented in traditional lacquerware and ceramics.",
+      "priceRange": "¥15,000–¥50,000 (usually included in ryokan room rate)",
+      "whereToTry": "Gora Kadan, Fujiya Hotel (historic Western-style hotel with Japanese-influenced menu), mid-range ryokan in Hakone-Yumoto",
+      "tip": "Ryokan room rates typically include dinner and breakfast — the kaiseki dinner is often the best meal of the Hakone stay. Confirm what is included when booking."
+    },
+    {
+      "name": "Hakone Sanroku Pork",
+      "japaneseName": "箱根山麓豚",
+      "description": "Locally raised Hakone foothills pork, fed on Hakone mountain spring water and natural feed. Particularly notable for its clean flavor and lower fat content than industrial pork. Available as tonkatsu, yakibuta, and grilled pork dishes at several restaurants in Yumoto and Gora.",
+      "priceRange": "¥1,200–¥2,500",
+      "whereToTry": "Deli & Cafe Mitsuki (Yumoto), local tonkatsu and yoshoku restaurants in Hakone-Yumoto",
+      "tip": "The Hakone Sanroku Pork Menchi Katsu burger is a genuine local specialty — a deep-fried pork patty in a soft bun, sold from the Deli & Cafe Mitsuki near Yumoto station."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Yubadon Naokichi",
+      "address": "Near Hakone-Yumoto Station, Yumoto, Hakone",
+      "cuisine": "Yuba (tofu skin) rice bowls",
+      "priceRange": "¥1,000–¥1,800",
+      "description": "The most respected specialist for yuba cuisine in Hakone, using the area's pure spring water to produce silken tofu skin. The signature yubadon — warm yuba sheets over rice with dashi sauce — is remarkably delicate and satisfying. A 5-minute walk from Hakone-Yumoto Station.",
+      "highlight": "The definitive Hakone yuba experience — a 5-minute walk from the main station"
+    },
+    {
+      "name": "Gora Kadan",
+      "address": "1300 Gora, Hakone-machi, Ashigarashimo, Kanagawa",
+      "cuisine": "Kaiseki at luxury ryokan",
+      "priceRange": "¥45,000–¥100,000+ (room with meals)",
+      "description": "The former summer retreat of the Imperial family, now one of Hakone's most celebrated luxury ryokan. The kaiseki dinners are considered among the finest in the Kanto region, using seasonal Kanagawa ingredients in traditional preparations. Guests eat in private rooms with mountain views.",
+      "highlight": "Formerly the Imperial family's summer villa — the kaiseki here is among Kanto's best"
+    },
+    {
+      "name": "Fujiya Hotel",
+      "address": "359 Miyanoshita, Hakone-machi, Kanagawa",
+      "cuisine": "Yoshoku (Western-Japanese) and traditional Japanese",
+      "priceRange": "¥3,000–¥8,000",
+      "description": "Hakone's historic hotel, open since 1878, serving a unique menu that blends Meiji-era Western-influenced yoshoku dishes with Japanese kaiseki traditions. The dining rooms retain original 1930s décor. The beef stew (nikomi) and consommé soup are house classics served since the hotel's founding.",
+      "highlight": "A piece of Japanese culinary history — dining here since 1878 in original Meiji-era interiors"
+    },
+    {
+      "name": "Owakudani Kuro-tamago Stall",
+      "address": "Owakudani, Hakone-machi, Kanagawa (cable car stop)",
+      "cuisine": "Kuro-tamago (black eggs)",
+      "priceRange": "¥500 for 5 eggs",
+      "description": "The only place in the world to buy kuro-tamago — black eggs boiled in Owakudani's sulfuric hot springs. The novelty is immense: a completely black egg that tastes entirely normal. Eat them hot with the included salt while watching steam rise from the volcanic ground.",
+      "highlight": "The most unique eating experience in Japan — black eggs cooked in volcanic springs"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Hakone-Yumoto Station Area",
+      "description": "The main arrival point for most Hakone visitors has a lively collection of souvenir shops, sweet stalls, and casual restaurants along the shopping street running from the station toward the Yumoto river bridge. The most accessible street food area in Hakone.",
+      "bestFor": "Yuba soft serve, local mochi, Hakone-branded snacks, soba restaurants, katsu sandwiches"
+    },
+    {
+      "name": "Owakudani Volcanic Valley",
+      "description": "The volcanic landscape of Owakudani is unique — steam vents, sulfur pools, and the famous black egg stalls. The observation area has a cluster of food stalls selling kuro-tamago and Hakone specialty snacks. The scenery is as memorable as the food.",
+      "bestFor": "Kuro-tamago (black eggs), Owakudani onsen manju, hot drinks to stay warm"
+    },
+    {
+      "name": "Hakone-en Area (Lake Ashi)",
+      "description": "The lakeside area near Hakone-en on the shores of Lake Ashi has restaurants and food stalls with views of Mount Fuji on clear days. Grilled fish, hot amazake, and pirate-ship-themed snacks cater to the tourist crowd arriving by the lake's famous pleasure boats.",
+      "bestFor": "Lake views while eating, grilled fish, amazake (sweet rice drink), seasonal soft serve"
+    }
+  ],
+  "foodTips": [
+    "If you stay at a ryokan, the kaiseki dinner and traditional Japanese breakfast are usually the best meals of the trip — do not skip them or eat elsewhere on dinner nights.",
+    "Kuro-tamago from Owakudani must be eaten immediately — they cannot be transported and do not taste special once cold. Eat them hot at Owakudani with the salt provided.",
+    "Hakone is one of Japan's most expensive areas for accommodation. However, casual food in Yumoto is reasonably priced — budget ¥1,000–¥1,500 for lunch.",
+    "The best time to eat in Hakone is summer evenings — ryokan kaiseki experiences outdoors near hot spring baths, with firefly sightings in the river valley.",
+    "Mountain soba restaurants in Gora are generally excellent and less touristy than Yumoto — walk 10 minutes uphill from the Gora station area.",
+    "Hakone miso soup is made with local mountain spring water and tends to be lighter and purer than city miso — appreciate the difference."
+  ],
+  "sources": [
+    { "name": "Live Japan — Dining in Hakone", "url": "https://livejapan.com/en/in-tokyo/in-pref-kanagawa/in-hakone_odawara/article-a0005610/" },
+    { "name": "Japan Guide — Hakone", "url": "https://www.japan-guide.com/e/e5200.html" }
+  ]
+}

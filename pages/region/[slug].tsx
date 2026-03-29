@@ -447,6 +447,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   return {
     props: { region, linkedCities },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

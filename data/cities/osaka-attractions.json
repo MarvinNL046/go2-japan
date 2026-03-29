@@ -1,0 +1,140 @@
+{
+  "slug": "osaka",
+  "city": "Osaka",
+  "introduction": "Japan's unofficial capital of food and fun, Osaka operates on a different frequency from Tokyo or Kyoto. The city's defining motto is kuidaore — 'eat until you drop' — and its people (Osakans) are famously louder, friendlier, and funnier than their counterparts elsewhere in Japan. Built around Osaka Castle and the Yodo River, the city developed as Japan's merchant capital during the Edo period, creating a culture that prizes practicality, pleasure, and value over ceremony and aesthetics. The Dotonbori entertainment district, with its giant neon signs, mechanical crabs, and round-the-clock street food, epitomises the Osaka spirit. Yet beneath the boisterous surface lies a city of serious craft traditions, excellent museums, and extraordinary architectural contrasts.",
+  "topAttractions": [
+    {
+      "name": "Dotonbori",
+      "japaneseName": "道頓堀",
+      "description": "The 580-metre entertainment canal at the heart of Namba is Osaka's most iconic street — a dazzling wall of oversized neon signs, mechanical moving displays (giant crabs, running sushi chefs), and wall-to-wall restaurants, takoyaki stalls, and izakayas that operate continuously from noon until 4am. The Glico Running Man illuminated billboard has been a landmark since 1935. The canal itself is lined with restaurants on one level and a covered promenade above; evening boat tours offer the best vantage point for photographs. The surrounding Namba area is Osaka's entertainment epicentre with enormous karaoke complexes, game centres, and bars.",
+      "address": "Dotonbori, Chuo-ku, Osaka",
+      "openingHours": "Streets open 24/7; individual restaurants and stalls 11:00–late",
+      "admission": "Free to walk",
+      "duration": "2–3 hours (evenings are best)",
+      "tips": "The Ebisu Bridge viewpoint (Ebisubashi) directly below the Glico sign gives the classic Dotonbori photograph. Takoyaki (octopus balls) are the must-eat here — Aizuya and Kukuru are considered the best. The back streets off Dotonbori (Hozenji Yokocho and Soemon-cho) are for serious izakaya dining."
+    },
+    {
+      "name": "Osaka Castle",
+      "japaneseName": "大阪城",
+      "description": "The most powerful symbol of Osaka, the castle complex was originally built by Toyotomi Hideyoshi in 1583 as a demonstration of Japan's unification under his authority. The current main tower is a 1931 concrete reconstruction housing a fascinating eight-floor museum of Osaka history and Hideyoshi's life, with panoramic city views from the top floor. The surrounding 105-hectare castle park contains the Nishinomaru Garden (600 cherry trees — Osaka's finest hanami spot), the Osaka Museum of History, and various historical artefacts including stone walls built from enormous recycled Buddhist temple stones.",
+      "address": "1-1 Osakajo, Chuo-ku, Osaka",
+      "openingHours": "9:00–17:00 (last entry 16:30; extended hours in summer and cherry blossom season)",
+      "admission": "¥600 adults, free for high school students and under (Osaka residents); ¥600 for all non-residents",
+      "duration": "2 hours for castle and park",
+      "tips": "The museum floors are well worth the admission — Hideyoshi's life is told with excellent English explanations and hands-on exhibits. The 8th floor observation deck has excellent 360° views. The Nishinomaru Garden (¥200 extra) is essential during cherry blossom season (late March–April)."
+    },
+    {
+      "name": "Universal Studios Japan",
+      "japaneseName": "ユニバーサル・スタジオ・ジャパン",
+      "description": "Japan's largest theme park opened in 2001 and has evolved into one of Asia's premier entertainment destinations through continuous expansion. The Super Nintendo World — a physically interactive, game-infused area themed around Mario's mushroom kingdom — opened in 2021 to global acclaim. The Wizarding World of Harry Potter Hogsmeade village, Minion Park, and a full Jurassic World area complement the main park. The combination of world-class attractions, meticulous theming, high-quality Japanese food options, and live entertainment creates a substantially different experience from American counterparts.",
+      "address": "2-1-33 Sakurajima, Konohana-ku, Osaka",
+      "openingHours": "Typically 9:00–19:00 (varies by season and day; check official site)",
+      "admission": "¥8,600–10,400 adults (varies by date), ¥5,600–7,000 children 4–11 (advance purchase required since May 2025)",
+      "duration": "Full day (8+ hours)",
+      "tips": "Advance purchase is mandatory — tickets no longer sold at the park. Express Pass for 5–7 major attractions (¥7,000–20,000 extra) eliminates long queues. Super Nintendo World requires a separate area reservation within the park. Visit on Tuesday or Wednesday for shortest queues."
+    },
+    {
+      "name": "Shinsekai & Tsutenkaku Tower",
+      "japaneseName": "新世界・通天閣",
+      "description": "Built in 1912 as Osaka's 'New World' entertainment district modelled on Paris and New York, Shinsekai still retains its early 20th-century atmosphere with streets of kushikatsu (deep-fried skewers) restaurants, pachinko parlours, retro game arcades, and the 108-metre Tsutenkaku Tower. The tower was rebuilt in 1956 after being dismantled for metal during World War II, and the observation deck's Billiken (god of things as they ought to be) statue is Osaka's unofficial mascot. The surrounding streets feel like a time capsule of Showa-era (1926–1989) urban Japan.",
+      "address": "Shinsekai, Naniwa-ku, Osaka (Tsutenkaku: 1-18-6 Ebisuhigashi, Naniwa-ku)",
+      "openingHours": "Tsutenkaku: 10:00–20:00 (last entry 19:30)",
+      "admission": "Tsutenkaku main deck: ¥900 adults, ¥400 children; top deck: ¥500 additional",
+      "duration": "1.5 hours",
+      "tips": "Kushikatsu etiquette is absolute: never double-dip in the communal tonkatsu sauce — use the cabbage to scoop extra sauce instead. Daruma is the most famous kushikatsu chain here. Come after dark when the retro neon signs are at their most atmospheric."
+    },
+    {
+      "name": "Kuromon Ichiba Market",
+      "japaneseName": "黒門市場",
+      "description": "A 580-metre covered market street with 170+ stalls and shops known as 'Osaka's Kitchen,' supplying the city's restaurants for over 190 years. The market specialises in fresh seafood, Wagyu beef, seasonal produce, and Japanese kitchen supplies. Street-food style tastings while wandering — fresh oysters, grilled tuna belly (otoro), Kobe beef skewers, fresh sea urchin — have made Kuromon a major tourist destination while retaining its working market character. The gap between restaurant-wholesale prices and retail tourist prices is significant but the quality justifies the premium.",
+      "address": "2-4-1 Nipponbashi, Chuo-ku, Osaka",
+      "openingHours": "9:00–18:00 (most stalls; some from 7:00, closed Sundays for many shops)",
+      "admission": "Free",
+      "duration": "1 hour",
+      "tips": "Morning visits (9–11am) offer the freshest selection and most working-market atmosphere. Fresh tuna sashimi sets (¥1,000–2,000) are exceptional value. The knife and cookware shops offer professional-grade equipment at fair prices — excellent gifts for serious home cooks."
+    },
+    {
+      "name": "Osaka Aquarium Kaiyukan",
+      "japaneseName": "海遊館",
+      "description": "One of the world's great aquariums, built around a massive 5,400-tonne Pacific Ocean tank that visitors spiral down around over eight floors, encountering whale sharks, manta rays, hammerhead sharks, and enormous schools of fish as the tank's simulated Pacific ecology unfolds. Opened in 1990, the aquarium was a pioneer of the walk-around-the-tank design. The facility also houses extraordinary jellyfish displays, sea otters, penguins, and a seasonal whale shark exhibit.",
+      "address": "1-1-10 Kaigandori, Minato-ku, Osaka",
+      "openingHours": "10:00–20:00 (last entry 19:00; varies seasonally)",
+      "admission": "¥2,700 adults, ¥1,400 children 7–15, ¥700 children 4–6",
+      "duration": "2 hours",
+      "tips": "The whale shark is housed in the Pacific Ocean tank — the central exhibit that the entire design is built around. Buy tickets online to avoid queues. The Tempozan Marketplace shopping complex and Legoland Discovery Center are adjacent, making this a full-day family area."
+    },
+    {
+      "name": "Namba Yasaka Shrine",
+      "japaneseName": "難波八阪神社",
+      "description": "An extraordinary 1970s shrine architecture statement: the main building is designed as an enormous lion's face — 12 metres tall — with the open mouth serving as the main stage for performances and ceremonies. The eyes glow red at night. Built to house the deities with a 'thousand-year lion spirit,' this Shinto shrine is surrounded by the urban density of Namba, making the contrast between the ancient lion deity and the surrounding cityscape particularly surreal and memorable.",
+      "address": "2-9-19 Motomachi, Naniwa-ku, Osaka",
+      "openingHours": "24/7 (shrine office 9:00–17:00)",
+      "admission": "Free",
+      "duration": "20 minutes",
+      "tips": "The lion stage glows dramatically at night — perfect for a short detour from Dotonbori evening dining. Otaue (rice planting ceremony) in June and the lion head decorations during the New Year period are particularly visual."
+    },
+    {
+      "name": "Umeda Sky Building",
+      "japaneseName": "梅田スカイビル",
+      "description": "A twin-tower structure connected at the top by a Floating Garden Observatory, the Umeda Sky Building was completed in 1993 and remains one of Japan's most architecturally striking buildings. The 170-metre outdoor observation deck offers 360° views of Osaka and on clear days to the Rokko Mountains behind Kobe. The transparent escalator connecting the two towers at the 35th floor is distinctly vertiginous. The basement underground street (Takimi-Koji) recreates a 1920s Showa-era alley with period-appropriate restaurants.",
+      "address": "1-1-88 Oyodonaka, Kita-ku, Osaka",
+      "openingHours": "10:00–22:30 (last entry 22:00)",
+      "admission": "¥1,500 adults, ¥700 children (elementary school)",
+      "duration": "1 hour",
+      "tips": "The sunset from the outdoor deck — watching Osaka's lights come on across the vast metropolitan area — is one of the city's finest free experiences (once inside). The heart-shaped lock display on the observation deck is a popular couples' destination."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Nakazakicho Vintage Quarter",
+      "description": "A pocket of preserved Taisho-era (1912–1926) wooden townhouses near Umeda that have been converted into vintage clothing shops, coffee roasters, and independent studios.",
+      "whyVisit": "Osaka's most characterful neighbourhood — a quiet creative enclave surrounded by urban density, with excellent specialty coffee and genuine vintage goods rather than tourist craft items."
+    },
+    {
+      "name": "Hozenji Yokocho Alley",
+      "description": "A narrow stone-paved alley behind Dotonbori, centred on a small stone Fudo Myoo statue so perpetually doused with ladle water by worshippers that it is completely covered in thick green moss.",
+      "whyVisit": "The complete opposite of Dotonbori's brashness — a meditative alley of traditional restaurants and the moss-covered deity, where generations of performers, chefs, and gamblers have sought blessings."
+    },
+    {
+      "name": "Sumiyoshi Taisha Shrine",
+      "description": "One of Japan's oldest and most important Shinto shrines, founded according to legend in 211 AD, featuring unique sumiyoshi-zukuri architectural style found only at this shrine.",
+      "whyVisit": "A major shrine that most tourists completely overlook — the distinctive unpainted architectural style pre-dates Chinese Buddhist influence and offers a glimpse of ancient Japanese spiritual aesthetics."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Kyoto",
+      "description": "Japan's ancient capital with 17 UNESCO World Heritage sites, just 15 minutes by Shinkansen from Osaka — effectively walkable from the bullet train station.",
+      "distance": "70km northeast",
+      "duration": "Full day",
+      "transport": "JR Shinkansen (15 min) or Hankyu/Keihan (40–50 min)"
+    },
+    {
+      "name": "Nara",
+      "description": "Ancient capital with free-roaming deer and the Great Buddha, one of Japan's most rewarding half-day trips.",
+      "distance": "40km east",
+      "duration": "Half or full day",
+      "transport": "Kintetsu Nara Line direct from Osaka Namba (40 minutes)"
+    },
+    {
+      "name": "Kobe",
+      "description": "Cosmopolitan port city famous for Kobe beef, excellent wine bars, the Ikuta Shrine, and views from the Rokko Mountains over the Kobe-Osaka-Kyoto conurbation.",
+      "distance": "30km west",
+      "duration": "Full day",
+      "transport": "JR Kobe Line from Osaka (20 minutes)"
+    },
+    {
+      "name": "Himeji Castle",
+      "description": "Japan's finest and best-preserved original castle — a UNESCO World Heritage white-walled complex that survived both World War II bombing and the 1995 earthquake intact.",
+      "distance": "90km west",
+      "duration": "Full day",
+      "transport": "JR Shinkansen to Himeji (35 minutes)"
+    }
+  ],
+  "sources": [
+    { "name": "Osaka Convention & Tourism Bureau", "url": "https://www.osaka-info.jp/en/" },
+    { "name": "Universal Studios Japan Official", "url": "https://www.usj.co.jp/web/en/us" },
+    { "name": "Osaka Castle Official", "url": "https://www.osakacastle.net/english/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" }
+  ]
+}

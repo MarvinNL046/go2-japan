@@ -169,6 +169,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   }
   return {
     props: { drink },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

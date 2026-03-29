@@ -1,0 +1,98 @@
+{
+  "slug": "fukuoka",
+  "cityName": "Fukuoka",
+  "introduction": "Fukuoka is one of Japan's most underrated cities for accommodation — modern, affordable, and well-organized, with two distinct districts that suit different travel styles. Hakata (the old eastern city, now the train station area) has the highest density of hotels and the best transport connections, making it the practical choice for transit-focused travelers. Tenjin (the western commercial and entertainment center) is livelier, with the best shopping, nightlife, and yatai stall access, and is generally the better base for food tourism. The two areas are connected by the Fukuoka City Subway and are just 10 minutes apart on foot through the Nakasu entertainment district. Fukuoka's hotel prices are notably lower than Tokyo, Osaka, or Kyoto for equivalent quality — a mid-range business hotel that would cost ¥20,000 in Tokyo typically runs ¥9,000–¥12,000 in Fukuoka. Capsule hotels in the Hakata and Tenjin areas are particularly well-developed, several with excellent communal onsen facilities.",
+  "bestAreas": [
+    {
+      "name": "Hakata Station Area",
+      "description": "Fukuoka's transport hub — Hakata Station handles Shinkansen arrivals from Tokyo (5 hours), Osaka (1 hour 10 min), and Hiroshima (50 min), as well as the airport subway line (5 minutes from the international terminal). The highest concentration of business hotels surrounds the station, with excellent budget capsule options.",
+      "bestFor": "Transit travelers, Shinkansen connections, budget business hotels, capsule hotels",
+      "priceRange": "¥3,000–¥40,000 ($20–$267)"
+    },
+    {
+      "name": "Tenjin",
+      "description": "Fukuoka's commercial and entertainment heart, home to the best yatai food stall access, nightlife, department stores, and Fukuoka's most vibrant street culture. The subway and bus connections are excellent. Best for visitors prioritizing food culture and evening atmosphere over transit convenience.",
+      "bestFor": "Yatai culture, food tourism, nightlife, shopping, first-time visitors",
+      "priceRange": "¥5,000–¥50,000 ($33–$333)"
+    },
+    {
+      "name": "Nakasu",
+      "description": "The narrow island between the Hakata and Naka rivers, famous for its yatai street food stalls, canal bars, and entertainment culture. Hotels in Nakasu place you at the center of Fukuoka's most atmospheric evening area, steps from the most celebrated outdoor food stalls.",
+      "bestFor": "Yatai access, nightlife, Fukuoka's famous outdoor dining scene",
+      "priceRange": "¥6,000–¥35,000 ($40–$233)"
+    },
+    {
+      "name": "Daimyo",
+      "description": "A trendy neighborhood adjacent to Tenjin with boutique shops, independent cafes, and a younger crowd. Hotels here are often slightly more expensive boutique options. Excellent for exploring Fukuoka's local scene beyond the main tourist areas.",
+      "bestFor": "Boutique hotels, independent food scene, young travelers, local atmosphere",
+      "priceRange": "¥8,000–¥30,000 ($53–$200)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Khaosan Fukuoka Guesthouse",
+      "type": "Hostel",
+      "priceRange": "¥2,500–¥4,500 ($17–$30)",
+      "description": "One of Fukuoka's most popular budget hostels, part of the respected Khaosan chain. Mix of dorms and private rooms near the Tenjin area. The communal atmosphere and social events help solo travelers connect. Free breakfast on most nights."
+    },
+    {
+      "name": "Toyoko Inn Fukuoka Tenjin",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,000–¥9,500 ($40–$63)",
+      "description": "The chain's Tenjin location puts you in the heart of Fukuoka's best food and entertainment area at budget prices. Free breakfast is included — a genuine value-add. One of the best positioned budget options in the city."
+    },
+    {
+      "name": "Hakata Capsule Hotel (The b Hakata/First Cabin variants)",
+      "type": "Capsule hotel",
+      "priceRange": "¥2,800–¥5,500 ($19–$37)",
+      "description": "Fukuoka's capsule hotel culture is well-developed, with several design-forward options near Hakata Station. First Cabin offers airline business-class style capsules significantly more spacious than traditional pod options, at prices still well below standard hotel rates."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Candeo Hotels Fukuoka Tenjin",
+      "type": "Mid-range hotel with rooftop onsen",
+      "priceRange": "¥9,000–¥18,000 ($60–$120)",
+      "description": "Located in the heart of Tenjin, Candeo Hotels is known for its high-floor open-air onsen facility with panoramic city views. Modern, clean rooms with efficient Japanese design. The rooftop bath significantly elevates the mid-range experience."
+    },
+    {
+      "name": "Hotel MyStays Fukuoka Tenjin",
+      "type": "Business hotel",
+      "priceRange": "¥8,000–¥15,000 ($53–$100)",
+      "description": "A well-regarded mid-range option in central Tenjin with comfortable rooms and easy yatai access in the evenings. Clean, modern rooms with reliable WiFi and a good breakfast option."
+    },
+    {
+      "name": "Nishitetsu Grand Hotel",
+      "type": "Large city hotel",
+      "priceRange": "¥12,000–¥25,000 ($80–$167)",
+      "description": "A respected Fukuoka institution near Tenjin, operated by the local Nishitetsu railway company. Comfortable rooms, multiple restaurants, and a convenient location in central Tenjin make this one of Fukuoka's most established mid-range options."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "The Ritz-Carlton Fukuoka",
+      "type": "Ultra-luxury hotel",
+      "priceRange": "¥45,000–¥120,000+ ($300–$800+)",
+      "description": "Opened in 2023 in the new Fukuoka complex adjacent to Fukuoka Castle ruins, the Ritz-Carlton brings the brand's signature standards to Fukuoka for the first time. The city views, spa, and La Mer restaurant with Hakata Bay views make it the finest hotel in Kyushu."
+    },
+    {
+      "name": "The Thousand Kyoto (Hakata equivalent: Hilton Fukuoka Sea Hawk)",
+      "type": "Luxury hotel",
+      "priceRange": "¥20,000–¥60,000 ($133–$400)",
+      "description": "The Hilton Fukuoka Sea Hawk, located on Hakata Bay adjacent to PayPay Dome stadium, offers 1,053 rooms and some of the finest bay views in Fukuoka. The hotel's scale means consistently available rooms even during peak periods. Multiple restaurants and a large pool."
+    }
+  ],
+  "bookingTips": [
+    "Fukuoka's accommodation prices are 20–30% lower than equivalent Tokyo hotels. If budget is a consideration for your Japan trip, positioning Fukuoka as a multi-night base (with day trips to Beppu, Nagasaki, and Hiroshima) is excellent value.",
+    "Hakata Station area vs. Tenjin is the key choice: choose Hakata for Shinkansen arrival/departure convenience; choose Tenjin for food culture and the yatai evening experience.",
+    "The yatai stalls operate 6pm to 1am — staying in the Tenjin or Nakasu area within walking distance of the stall districts is a significant convenience advantage over staying near the station.",
+    "Fukuoka International Airport is just 5 minutes from Hakata Station by subway (¥260) — one of the most convenient airport-to-city connections in Japan. No need to account for travel time from the airport.",
+    "Hakata's capsule hotels are among Japan's best designed — First Cabin's semi-private business-class-style capsules near Hakata Station are genuinely comfortable for multi-night stays.",
+    "PayPay Dome (baseball stadium) and Fukuoka events can fill the city's accommodation completely on match/event nights. Check the schedule and book ahead if your dates coincide."
+  ],
+  "sources": [
+    { "name": "Hakata Station — Where to Stay Guide", "url": "https://www.hakatastation.com/where-to-stay-in-fukuoka-guide-to-the-best-locations/" },
+    { "name": "The Navigatio — Fukuoka Hotels", "url": "https://thenavigatio.com/where-to-stay-in-fukuoka/" },
+    { "name": "Kelly Today — Fukuoka Areas", "url": "https://kellytoday.com/where-to-stay-in-fukuoka/" }
+  ]
+}

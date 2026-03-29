@@ -1,0 +1,130 @@
+{
+  "slug": "fukuoka",
+  "city": "Fukuoka",
+  "introduction": "Japan's gateway to Asia and the capital of Kyushu, Fukuoka is one of Japan's most underrated major cities — vibrant, food-obsessed, historically rich, and genuinely welcoming to visitors. The city was the site of the attempted Mongol invasions of 1274 and 1281, repelled by the famous 'divine winds' (kamikaze) typhoons. The Hakata district (the commercial and religious heart) and the modern Tenjin area (the shopping and entertainment centre) together form a city of two contrasting characters. Fukuoka is the birthplace of Hakata ramen (the rich tonkotsu pork bone soup that conquered Japan and then the world), the home of the famous Hakata Gion Yamakasa festival, and the closest major Japanese city to Seoul and Shanghai.",
+  "topAttractions": [
+    {
+      "name": "Dazaifu Tenmangu Shrine",
+      "japaneseName": "太宰府天満宮",
+      "description": "One of the most important Shinto shrines in Japan, Dazaifu Tenmangu is the head shrine of the 12,000 Tenmangu shrines nationwide, all dedicated to Michizane Sugawara — the 9th-century scholar, poet, and statesman who was deified as Tenjin, the god of scholarship, after dying in political exile at Dazaifu. The shrine's deity is revered by students nationwide who come to pray for academic success. The dramatic arched bridges over the pond, the ancient camphor trees (one said to be over 1,500 years old), the spectacular plum blossom season (February), and the newly redesigned temporary sanctuary cover (2022–2027) by Shigeru Ban are extraordinary.",
+      "address": "4-7-1 Saifu, Dazaifu, Fukuoka",
+      "openingHours": "6:30–19:00 (seasonal variation; open until 20:00 in summer)",
+      "admission": "Free",
+      "duration": "1–1.5 hours",
+      "tips": "The umegae mochi rice cakes with plum crest are Dazaifu's famous specialty, sold on the 250-metre approach street from the station. February's plum blossom festival is extraordinary — 6,000 plum trees in bloom. The adjacent Kyushu National Museum (15-minute walk) is one of Japan's finest — the four permanent galleries cover Asian influence on Japanese culture."
+    },
+    {
+      "name": "Ohori Park",
+      "japaneseName": "大濠公園",
+      "description": "Fukuoka's most beloved urban park is built around a large artificial lake (Ohori means 'great moat') that was the outer moat of Fukuoka Castle in the Edo period. A 2km jogging and walking path encircles the lake, passing three island parks connected by graceful footbridges. The Japanese Garden in the northwest corner (¥250 admission) is one of Japan's finest urban garden designs. The park hosts festivals year-round — hanami in spring, beer gardens in summer, lantern festivals in autumn — and is the city's primary gathering space for residents.",
+      "address": "1-2 Ohorikoen, Chuo-ku, Fukuoka",
+      "openingHours": "Park: always open. Japanese Garden: 9:00–17:00 (closed Monday)",
+      "admission": "Park free; Japanese Garden ¥250 adults, ¥120 children",
+      "duration": "1.5 hours",
+      "tips": "The Japanese Garden within Ohori Park is a hidden gem — extremely well designed and undervisited relative to the park's popularity. Pedal boats on the lake are available for ¥600/30 min. The rose garden near the main entrance blooms May and October."
+    },
+    {
+      "name": "Fukuoka Castle Ruins & Maizuru Park",
+      "japaneseName": "福岡城跡・舞鶴公園",
+      "description": "The extensive ruins of Fukuoka Castle (also known as Maizuru Castle), built in 1607 by the Kuroda clan on a hill overlooking Hakata Bay, are preserved within Maizuru Park's 100 hectares. Although only stone walls, turrets, and watchtowers remain (the main castle keep was never rebuilt after the Meiji dissolution of feudal domains), the scale is impressive and the views from the main tower base are excellent. The park contains 1,000 cherry trees making it Fukuoka's finest hanami destination, and the sakura festival in late March–early April draws enormous crowds.",
+      "address": "Jonai, Chuo-ku, Fukuoka (Maizuru Park entrance)",
+      "openingHours": "Park: 9:00–21:00. Turret viewing: 9:00–17:00",
+      "admission": "Park free; Shichi-ko-mon turret: ¥200",
+      "duration": "1 hour",
+      "tips": "The second week of April, when the 1,000 cherry trees around the castle walls are in full bloom, is Fukuoka's most beautiful seasonal event. The evening illumination of cherry trees under castle stone walls is spectacular — arrive at dusk for the best light."
+    },
+    {
+      "name": "Canal City Hakata",
+      "japaneseName": "キャナルシティ博多",
+      "description": "A striking urban entertainment complex designed by American architect Jon Jerde (also responsible for Universal CityWalk) opened in 1996, built around a 180-metre artificial canal through its centre. The canal features hourly fountain shows with music, light, and water effects that draw crowds at every performance. The five zones (Cinema, Business, Grand Hyatt Hotel, East/West buildings) house 250 shops, 50 restaurants, a Ramen Stadium (nine ramen restaurants from across Japan), and a theatre. The design — a ship emerging from the earth — is genuinely innovative and more visually interesting than most Japanese shopping centres.",
+      "address": "1-2 Sumiyoshi, Hakata-ku, Fukuoka",
+      "openingHours": "Shops 10:00–21:00; restaurants until 23:00; fountain show every hour",
+      "admission": "Free to enter",
+      "duration": "2 hours",
+      "tips": "The Ramen Stadium on the 5th floor lets you taste ramen styles from across Kyushu — each restaurant represents a different regional tradition. The canal fountain shows at 8pm and 9pm have the best dramatic night lighting. The Grand Hyatt lobby is architecturally beautiful and open to the public."
+    },
+    {
+      "name": "Nakasu Yatai Food Stalls",
+      "japaneseName": "中洲屋台",
+      "description": "Fukuoka's most atmospheric dining institution: temporary stalls (yatai) erected each evening along the Nakasu riverside and in Tenjin, with canvas curtains enclosing intimate 8–12 seat counters where chefs serve ramen, yakitori, gyoza, and oden to a mix of salarymen, tourists, and locals who crowd in shoulder-to-shoulder. The yatai tradition nearly disappeared due to health regulations but was preserved as a registered cultural tradition. The combination of river atmosphere, counter intimacy, great food, and cold beer creates one of Japan's most convivial dining experiences.",
+      "address": "Nakasu and Tenjin districts, Fukuoka (appear from approximately 18:00)",
+      "openingHours": "Typically 18:00–1:00 (closed rainy days, some closed Monday)",
+      "admission": "Free to enter; ramen from ¥900, yakitori sets ¥1,500+",
+      "duration": "1.5–2 hours",
+      "tips": "Sit at the counter rather than trying to have a full meal experience — multiple stall visits is the Fukuoka style. The Tenjin area yatai are slightly more tourist-friendly; Nakasu is more atmospheric. Payment is cash only at most stalls. A small noren curtain means 'open.'"
+    },
+    {
+      "name": "Kushida Shrine",
+      "japaneseName": "櫛田神社",
+      "description": "Hakata's most important shrine, founded over 1,200 years ago, is the guardian shrine of the entire city and the home base of the Hakata Gion Yamakasa festival — one of Japan's three greatest festivals. The shrine grounds contain a permanent display of one of the enormous Yamakasa floats (kazariyama), allowing year-round viewing of these extraordinary constructions that can reach 15 metres high and weigh over a tonne. The shrine's morning vegetable market (operating since the Edo period) and the traditional fan-shaped plaque of zodiac animals make it a lively neighbourhood hub.",
+      "address": "1-41 Kamikawabatamachi, Hakata-ku, Fukuoka",
+      "openingHours": "Always open (office 9:00–17:00)",
+      "admission": "Free",
+      "duration": "30–45 minutes",
+      "tips": "The Yamakasa display float is changed multiple times per year — checking ahead ensures you see the current design. The shrine's famous mountain gate fountain allows visitors to wash their hands in mountain-symbol shaped water channels. The Hakata Gion Yamakasa Oiyama float race on July 15 starts from this shrine at 4:59 AM."
+    },
+    {
+      "name": "Fukuoka Tower",
+      "japaneseName": "福岡タワー",
+      "description": "Japan's tallest seaside tower at 234 metres, Fukuoka Tower stands at the edge of Hakata Bay with glass elevators ascending to an observation floor at 123 metres providing 360° views of the Fukuoka metropolitan area, Hakata Bay, and on clear days across the strait toward Korea. The tower's mirrored surface — 8,000 half-mirror glass panels — creates a distinctive appearance that changes with light and sky throughout the day. The tower is the centrepiece of the Momochi Seaside Park district, which includes the Hawks Town Mall, the Fukuoka City Museum, and beach access.",
+      "address": "2-3-26 Momochihama, Sawara-ku, Fukuoka",
+      "openingHours": "9:30–22:00 (last entry 21:30)",
+      "admission": "¥900 adults, ¥450 children, ¥500 middle/high school",
+      "duration": "1 hour",
+      "tips": "The Valentine's Day and Christmas illumination events (with the tower exterior lit in heart patterns) are popular with couples. The sunset observation from 123m looking over Hakata Bay is one of Fukuoka's finest views. Combine with the adjacent Fukuoka City Museum (Japanese history collection) for a half-day."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Hakata Old Town Gion Quarter",
+      "description": "The neighbourhood surrounding Kushida Shrine retains its Edo-period merchant town character in narrow lanes of traditional machiya townhouses, craft workshops making Hakata silk fabric and the famous Hakata doll, and independent restaurants serving authentic Hakata cuisine.",
+      "whyVisit": "The most authentic remaining piece of historic Hakata — the weaving workshops are among Japan's finest craft tradition demonstrations, and the neighbourhood feels genuinely unhurried by tourism."
+    },
+    {
+      "name": "Shofuku-ji Temple",
+      "description": "Japan's first Zen Buddhist temple, founded in 1195 by Eisai who brought Zen Buddhism back from China, nestled in a surprisingly quiet precinct just minutes from Canal City.",
+      "whyVisit": "The birthplace of Japanese Zen — an historically monumental site that receives a fraction of the attention it deserves, with a beautiful moss garden and original Song-dynasty architectural influences."
+    },
+    {
+      "name": "Nokonoshima Island",
+      "description": "A small forested island in Hakata Bay accessible by 10-minute ferry from Meinohama, famous for cosmos flower fields in October and wildflower parks covering hillsides.",
+      "whyVisit": "A genuine rural island escape 20 minutes from central Fukuoka — the cosmos fields in early October create extraordinary flower landscape photographs completely unknown to most international visitors."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Dazaifu",
+      "description": "Ancient administrative capital of Kyushu with the famous Tenmangu shrine, Kyushu National Museum, and the ruins of Dazaifu Government Office.",
+      "distance": "15km south",
+      "duration": "Half day",
+      "transport": "Nishitetsu Tenjin Line to Dazaifu (35 min)"
+    },
+    {
+      "name": "Nagasaki",
+      "description": "Japan's most cosmopolitan city with its atomic bomb history, Dutch trading post (Dejima), Chinatown, and extraordinary views from the surrounding hills.",
+      "distance": "150km south",
+      "duration": "Full day",
+      "transport": "Shinkansen to Nagasaki (1.5 hours from 2022)"
+    },
+    {
+      "name": "Yanagawa Canal Town",
+      "description": "A historic castle town 30km south preserved in its Edo-period canal network, best explored by flat-bottomed boat (donko-bune) through weeping willow-lined waterways.",
+      "distance": "30km south",
+      "duration": "Full day",
+      "transport": "Nishitetsu Tenjin Line to Yanagawa (55 min)"
+    },
+    {
+      "name": "Yufuin & Beppu Onsen",
+      "description": "Oita Prefecture's famous hot spring towns — Yufuin's stylish resort ryokan and Beppu's dramatic steam vents and 'hell' geothermal pools — are Japan's most concentrated onsen destination.",
+      "distance": "130km east",
+      "duration": "Full day or overnight",
+      "transport": "JR Sonic Express to Beppu (2 hours)"
+    }
+  ],
+  "sources": [
+    { "name": "Fukuoka Tourism Official", "url": "https://www.fukuoka.travel/en/" },
+    { "name": "Dazaifu Tenmangu Official", "url": "https://www.dazaifutenmangu.or.jp/en/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" },
+    { "name": "Fukuoka City Museum", "url": "https://museum.city.fukuoka.jp/english/" }
+  ]
+}

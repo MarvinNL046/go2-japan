@@ -1,0 +1,104 @@
+{
+  "slug": "hiroshima",
+  "cityName": "Hiroshima",
+  "introduction": "Hiroshima offers some of Japan's best accommodation value — the city is significantly more affordable than Kyoto or Tokyo for comparable quality, making it possible to splurge on a better room than your budget would normally allow. Most visitors stay in the downtown area around the Peace Memorial Park or near Hiroshima Station, both of which give easy access to the city's main sights. The streetcar network (covering all downtown areas for ¥220 per ride) removes the need for a central location — staying near Hiroshima Station is practical for JR/Shinkansen connections while remaining close to the attractions. Miyajima Island (Itsukushima) deserves an overnight stay if your itinerary allows: the island is magical after the day-tripper crowds leave, and the floating torii gate at sunrise with mist rising from the sea is one of Japan's most extraordinary images. Hiroshima does not have a traditional ryokan culture equal to Kyoto, but the city's Western-style hotels are often excellent.",
+  "bestAreas": [
+    {
+      "name": "Downtown/Peace Memorial Park Area",
+      "description": "The heart of Hiroshima, walking distance to the Peace Memorial Park, Atomic Bomb Dome, Hiroshima Castle, and the Hondori Shopping Arcade. Hotels here are within easy walking distance of all major sights and the best food areas (Nagarekawa nightlife, Okonomimura). The most convenient base for first-time visitors.",
+      "bestFor": "First-time visitors, sightseeing access, walkability, Peace Memorial Park",
+      "priceRange": "¥6,000–¥40,000 ($40–$267)"
+    },
+    {
+      "name": "Hiroshima Station Area (Ekinishi)",
+      "description": "The area immediately around Hiroshima Station has the highest concentration of hotels at competitive prices. Direct Shinkansen connections to Tokyo, Osaka, and Kyoto make this the best choice for transit-focused travelers. The station's redevelopment has improved the surrounding area significantly.",
+      "bestFor": "Transit travelers, Shinkansen connections, budget options, short stays",
+      "priceRange": "¥5,000–¥30,000 ($33–$200)"
+    },
+    {
+      "name": "Miyajima Island",
+      "description": "Staying overnight on Miyajima Island offers an experience unavailable to day-trippers — the torii gate and deer-populated streets after the ferry crowds leave are extraordinarily peaceful. Accommodation is limited to a handful of ryokan and traditional hotels; prices reflect the exclusive setting.",
+      "bestFor": "Romantic getaway, torii gate at sunrise, authentic island experience, deer watching at night",
+      "priceRange": "¥15,000–¥60,000+ ($100–$400+) per person including meals"
+    },
+    {
+      "name": "Nagarekawa",
+      "description": "Hiroshima's restaurant and nightlife district east of the Peace Memorial Park. Hotels here put you steps from the city's best izakaya, oyster bars, and okonomiyaki restaurants. A slightly more local, less tourist-focused atmosphere than the immediate park area.",
+      "bestFor": "Food lovers, nightlife, izakaya culture, local atmosphere",
+      "priceRange": "¥6,000–¥25,000 ($40–$167)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Aster Plaza Youth Hostel",
+      "type": "Youth hostel",
+      "priceRange": "¥2,500–¥4,000 ($17–$27)",
+      "description": "Part of the Aster Plaza cultural complex near the Peace Memorial Park, the hostel offers clean, basic dormitory accommodation at the lowest prices in central Hiroshima. The peace-related cultural setting adds a unique dimension to the budget experience."
+    },
+    {
+      "name": "Comfort Hotel Hiroshima Peace Boulevard",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,000–¥11,000 ($40–$73)",
+      "description": "One of Hiroshima's most consistently praised budget hotels, on the Peace Boulevard streetcar route with easy access to all major sights. Clean rooms, free breakfast, and a central location. Consistently well-reviewed for value."
+    },
+    {
+      "name": "Toyoko Inn Hiroshima-Eki Shinkansen-Guchi",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,500–¥10,000 ($43–$67)",
+      "description": "The reliable Toyoko Inn chain with a prime Hiroshima Station location directly accessible from the Shinkansen exit. Free breakfast, clean rooms, and efficient service. The best value option for Shinkansen travelers."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Hotel Granvia Hiroshima",
+      "type": "Large business hotel",
+      "priceRange": "¥12,000–¥28,000 ($80–$187)",
+      "description": "Directly connected to Hiroshima Station's Shinkansen concourse, the Granvia is the most convenient upper mid-range option for those arriving by bullet train. Panoramic city views from upper floors and multiple restaurants on site."
+    },
+    {
+      "name": "EN Hotel Hiroshima",
+      "type": "Boutique hotel",
+      "priceRange": "¥9,000–¥20,000 ($60–$133)",
+      "description": "A well-reviewed boutique hotel by the Kyobashi River, within walking distance of both Hiroshima Station and the Peace Memorial Park. Thoughtfully designed rooms, excellent breakfast, and a charming riverside location. One of the best mid-range choices in the city."
+    },
+    {
+      "name": "Kanawa (Floating restaurant and traditional inn)",
+      "type": "Unique floating inn",
+      "priceRange": "¥18,000–¥35,000 ($120–$233) per person with meals",
+      "description": "A unique Hiroshima experience: a traditional restaurant and inn housed on a wooden vessel moored in the Motoyasugawa River. The kaiseki meals feature Hiroshima oysters and local seafood prepared in a tatami room above the water."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "ANA Crowne Plaza Hotel Hiroshima",
+      "type": "Luxury hotel",
+      "priceRange": "¥18,000–¥50,000 ($120–$333)",
+      "description": "The city's leading luxury hotel in the heart of downtown Hiroshima, with spacious rooms, panoramic views of the Seto Inland Sea and mountains from upper floors, and excellent Japanese and international restaurants. Consistently rated as Hiroshima's best hotel experience."
+    },
+    {
+      "name": "Grand Prince Hotel Hiroshima",
+      "type": "Luxury resort hotel",
+      "priceRange": "¥20,000–¥60,000 ($133–$400)",
+      "description": "Located on a peninsula overlooking the Seto Inland Sea, the Grand Prince offers a resort experience removed from the city center but accessible by water taxi. Outstanding sea views, tennis courts, and direct access to the Nagarekawa ferry route."
+    },
+    {
+      "name": "Iwaso Ryokan (Miyajima)",
+      "type": "Luxury ryokan on Miyajima Island",
+      "priceRange": "¥35,000–¥80,000 ($233–$533) per person with meals",
+      "description": "The most celebrated ryokan on Miyajima Island, set in a forested gorge with a mountain stream running through the property. Operating since 1854, Iwaso offers kaiseki dinners featuring Hiroshima oysters, maple leaf dishes, and seasonal specialties. Staying here is one of the most complete ryokan experiences in western Japan."
+    }
+  ],
+  "bookingTips": [
+    "Hiroshima's accommodation is excellent value compared to Kyoto — a hotel that would cost ¥25,000 in Kyoto typically costs ¥12,000–¥18,000 in Hiroshima. Upgrade your accommodation category here.",
+    "If your budget allows, spend one night on Miyajima Island at a ryokan — the island after the day crowds leave (after 5pm) is one of Japan's most memorable experiences, and ryokan meals feature exceptional fresh oysters.",
+    "The streetcar system covers all downtown Hiroshima for ¥220 per ride — a central location is helpful but not essential. Hiroshima Station is perfectly usable as a base.",
+    "Golden Week (late April–early May), cherry blossom season (late March–early April), and the Peace Memorial Ceremony (August 6) all create accommodation pressure. Book 2–3 months ahead for these dates.",
+    "Miyajima Island ryokan book out many months ahead for spring and autumn weekends. If this experience appeals to you, it must be the first booking you make for a Japan trip.",
+    "JR Pass holders get free ferry service to Miyajima Island on the JR Miyajima Ferry route — a significant saving of ¥360 each way per person."
+  ],
+  "sources": [
+    { "name": "Nerd Nomads — Hiroshima Hotels", "url": "https://nerdnomads.com/where-to-stay-in-hiroshima" },
+    { "name": "22 Places — Hiroshima Accommodation", "url": "https://www.22places.com/hiroshima-where-to-stay/" },
+    { "name": "The Japan Travel Blog — Hiroshima Areas", "url": "https://thejapantravelblog.com/best-area-where-to-stay-in-hiroshima-japan/" }
+  ]
+}

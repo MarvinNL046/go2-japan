@@ -238,6 +238,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   return {
     props: { guide },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

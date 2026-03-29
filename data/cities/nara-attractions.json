@@ -1,0 +1,123 @@
+{
+  "slug": "nara",
+  "city": "Nara",
+  "introduction": "Japan's first permanent capital (710–784 AD) before Kyoto, Nara is a treasure of Buddhist art, ancient temples, and an extraordinary natural phenomenon: over 1,200 wild sika deer that roam freely through the park, considered messengers of the gods and designated national treasures. The compact, walkable area of Nara Park contains some of the most important Buddhist architecture in Japan, including the Great Buddha Hall — the world's largest wooden building — and the ancient temple of Horyu-ji, whose 7th-century wooden structures are the oldest surviving timber buildings on earth. Nara receives most visitors as day trips from Kyoto (45 minutes) or Osaka (40 minutes), but an overnight stay reveals a quieter, more contemplative side as crowds depart.",
+  "topAttractions": [
+    {
+      "name": "Todai-ji Temple & Great Buddha",
+      "japaneseName": "東大寺・大仏",
+      "description": "The Daibutsuden (Great Buddha Hall) is the largest wooden building in the world, housing a 15-metre bronze statue of Vairocana Buddha (Rushana Butsu) that has watched over Japan since 752 AD. The statue weighs approximately 500 tonnes and required a quarter of Japan's bronze production at the time. The hall was twice destroyed by fire and rebuilt — the current structure (1709) is actually only two-thirds the size of the original, yet remains the world's largest wooden structure. A hole in one of the interior pillars, the same diameter as the Buddha's nostril, is said to grant enlightenment to those who can crawl through it.",
+      "address": "406-1 Zoshicho, Nara",
+      "openingHours": "April–October: 7:30–17:30; November–March: 8:00–17:00",
+      "admission": "¥800 adults, ¥400 children (Daibutsuden). Combined with museum: ¥1,200/¥600",
+      "duration": "1–1.5 hours",
+      "tips": "The pillar hole is near the back-right of the interior — children love attempting it. The flanking bodhisattva statues (Kokuzou Bosatsu and Nyoirin Kannon) are of extraordinary artisanal quality. The octagonal lantern in front of the main gate is an original 8th-century casting."
+    },
+    {
+      "name": "Nara Park & Sacred Deer",
+      "japaneseName": "奈良公園・鹿",
+      "description": "Home to approximately 1,200 free-roaming sika deer designated as national treasures, Nara Park's 660 hectares encompass Kasuga Taisha, Todai-ji, Kofuku-ji, and Isui-en Garden within a seamless green landscape. The deer are genuinely wild but have lived in proximity to humans for over 1,200 years. Deer crackers (shika senbei, ¥200 per bundle from vendors) can be purchased and fed — the deer have learned to 'bow' for crackers. Fawns are born in late May and early June and roam alongside their mothers through the summer.",
+      "address": "Nara Park, Nara (free-roaming throughout the park)",
+      "openingHours": "Always open (24/7)",
+      "admission": "Free to enter the park",
+      "duration": "2–3 hours for the full park circuit",
+      "tips": "Male deer have antlers cut annually in October for public safety. The deer are genuinely wild and will headbutt to get crackers — hold the bag behind your back and feed one at a time. The deer most active early morning (before tourist crowds) and late afternoon."
+    },
+    {
+      "name": "Kasuga Taisha Grand Shrine",
+      "japaneseName": "春日大社",
+      "description": "One of Japan's most important Shinto shrines, established in 768 AD as the tutelary shrine of the Fujiwara clan and the city of Nara, Kasuga Taisha is famous for its 3,000 lanterns — over 1,800 bronze hanging lanterns in covered galleries and over 1,000 stone lanterns lining the approach path through primeval forest. Deer wander freely among the stone lanterns along the approach. The inner shrine buildings are rebuilt every 20 years in exact replica of the originals, ensuring architectural traditions survive. The primaeval Kasuga-yama forest behind the shrine has been protected for 1,200 years.",
+      "address": "160 Kasuganocho, Nara",
+      "openingHours": "March–October: 6:30–17:30; November–February: 7:00–17:00",
+      "admission": "Outer shrine: free. Inner shrine (Nainaishaden): ¥500",
+      "duration": "1–1.5 hours",
+      "tips": "The Mantoro Lantern Festival (February 3 and August 14–15) lights all 3,000 lanterns simultaneously — one of Japan's most atmospheric events. The cedar-shaded approach from the main road, with deer among stone lanterns, is one of Japan's finest short walks."
+    },
+    {
+      "name": "Horyu-ji Temple",
+      "japaneseName": "法隆寺",
+      "description": "Founded in 607 AD by Prince Shotoku, Horyu-ji's Western Precinct contains the oldest surviving wooden structures in the world — the five-storied pagoda and Golden Hall (Kondo) have stood for over 1,300 years. A UNESCO World Heritage site, the complex preserves over 2,300 important cultural assets from the Asuka and Hakuho periods, including extraordinary bronze statues, flying guardian figures (Gobushu), and painted murals. The complex provides direct sensory contact with Buddhist Japan at its most ancient, created before the cultures of Kyoto or Nara were even established.",
+      "address": "1-1 Horyuji Sannaicho, Ikaruga-cho, Ikoma-gun, Nara",
+      "openingHours": "February 22–November 3: 8:00–17:00; November 4–February 21: 8:00–16:30",
+      "admission": "¥1,500 adults, ¥750 children",
+      "duration": "1.5–2 hours",
+      "tips": "Take the JR Yamatoji Line to Horyuji Station (12 minutes from Nara) — it's 4km from central Nara Park and best visited as a dedicated half-day. The Gallery of Buddhist Objects (Daihozoin) houses the Kudara Kannon — the most beautiful single sculpture in Japanese Buddhist art."
+    },
+    {
+      "name": "Isuien Garden",
+      "japaneseName": "依水園",
+      "description": "Considered by many experts to be one of Japan's three finest landscape gardens, Isuien is a masterpiece of two connected Edo-period (1670) and Meiji-period (1899) Japanese gardens that 'borrow' the scenery of Todai-ji's Nandaimon gate and the wooded hills of Kasugayama as living background elements. The garden's design is exceptional for the seamless way it incorporates distant temple buildings as design features. The adjacent Neiraku Art Museum houses an outstanding collection of Chinese bronzeware and Korean ceramics.",
+      "address": "74 Suimoncho, Nara",
+      "openingHours": "9:30–16:30 (closed Tuesday)",
+      "admission": "¥1,500 adults (includes museum), ¥750 children",
+      "duration": "1 hour",
+      "tips": "The best single viewpoint in the garden is the teahouse terrace, from which Todai-ji's gate roof appears to float above the garden's trees — a stunning example of borrowed scenery. The autumn foliage at this garden is extraordinary and somewhat less crowded than Nara Park."
+    },
+    {
+      "name": "Kofuku-ji Temple & National Treasure Museum",
+      "japaneseName": "興福寺・国宝館",
+      "description": "The former centre of the powerful Fujiwara clan that effectively ruled Japan for 300 years, Kofuku-ji's stunning five-storied pagoda (50 metres) and three-storied pagoda are Nara's most recognisable landmarks and among Japan's finest extant pagodas. The National Treasure Museum houses an extraordinary collection of Buddhist statuary from the 8th century, including the Ashura (three-faced, six-armed demigod) that is considered Japan's most beautiful Buddhist sculpture. The temple grounds are effectively open park space where deer roam.",
+      "address": "48 Noboriojicho, Nara",
+      "openingHours": "Temple grounds: always. National Treasure Museum: 9:00–17:00 (last entry 16:45)",
+      "admission": "National Treasure Museum: ¥700 adults, ¥600 high school, ¥300 middle/elementary",
+      "duration": "1 hour (grounds + museum)",
+      "tips": "The National Treasure Museum's Ashura statue (8th century, designated National Treasure) alone justifies the admission. The pagodas are best photographed from the reflective Sarusawa Pond to the south at golden hour."
+    },
+    {
+      "name": "Yoshikien Garden",
+      "japaneseName": "吉城園",
+      "description": "A small but exquisite trio of linked garden styles — pond garden, moss garden, and tea ceremony garden — set in the wooded hills adjacent to the Nara National Museum. The property was formerly a private residence of the Nara Prefecture official and maintains its intimate, residential character. The moss garden section is particularly fine — a carpet of green extending under filtered light through maple branches, with traditional stone lanterns and stepping stones.",
+      "address": "74 Noboriojicho, Nara",
+      "openingHours": "9:00–17:00 (closed Monday)",
+      "admission": "Free for foreign visitors (domestic: ¥250)",
+      "duration": "45 minutes",
+      "tips": "Free for foreign passport holders — one of Japan's best value garden experiences. The moss garden is particularly beautiful after rain and in the moisture of June. The autumn foliage here is excellent and less crowded than larger Nara Park temples."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Naramachi Old Merchant Quarter",
+      "description": "A preserved network of narrow lanes and traditional machiya merchant townhouses south of Kofuku-ji, with galleries, craft workshops, traditional sweet shops, and restaurants in Edo-period buildings.",
+      "whyVisit": "The most authentic remaining old-town streetscape in Nara — explore independently of tour groups, discover workshops making traditional Nara ink sticks and brushes, and find excellent lunch in converted machiya restaurants."
+    },
+    {
+      "name": "Nigatsudo Hall at Dawn",
+      "description": "A wooden hall on the hillside above Todai-ji, accessible via steep stone stairs through cedar forest, with an elevated wooden verandah offering spectacular sunrise views over the Nara plain.",
+      "whyVisit": "Nara's finest viewpoint at dawn — nearly no tourists at 6am, the deer walk the stone stair approaches, and the Omizutori fire ceremony (March) is performed on this very verandah."
+    },
+    {
+      "name": "Akishino-dera Temple",
+      "description": "A small 8th-century temple in a residential northwest Nara neighbourhood, rarely visited by tourists but housing one of Japan's most beautiful Buddhist heads — the Gigei-ten head of the arts deity, considered a masterpiece of Tempyo-era sculpture.",
+      "whyVisit": "Complete solitude at a genuine 8th-century temple — the kind of experience that Nara's famous sites can no longer provide, with a sculpture of world importance seen without fellow visitors."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Yoshino Mountain",
+      "description": "A UNESCO World Heritage mountain town 50km south, famous for 30,000 cherry trees on mountain slopes — Japan's most famous cherry blossom destination.",
+      "distance": "50km south",
+      "duration": "Full day",
+      "transport": "Kintetsu Line to Yoshino (1.5 hours from Nara)"
+    },
+    {
+      "name": "Kyoto",
+      "description": "Japan's ancient capital just 45 minutes away, making Nara an ideal base for exploring both cities.",
+      "distance": "45km northwest",
+      "duration": "Full day",
+      "transport": "JR Nara Line to Kyoto Station (45 minutes)"
+    },
+    {
+      "name": "Asuka Village",
+      "description": "Japan's first historical capital with burial mounds (kofun), mysterious stone carvings, and early Buddhist temples scattered across rice paddy landscapes.",
+      "distance": "30km south",
+      "duration": "Half day cycling",
+      "transport": "Kintetsu Yoshino Line to Asuka Station (30 min), rental bicycles available"
+    }
+  ],
+  "sources": [
+    { "name": "Nara City Tourism Official", "url": "https://narashikanko.or.jp/en/" },
+    { "name": "Visit Nara Official", "url": "https://www.visitnara.jp/en/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" },
+    { "name": "Todai-ji Official", "url": "https://www.todaiji.or.jp/en/" }
+  ]
+}

@@ -2,1441 +2,511 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://go2-japan.com/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/tokyo/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/kyoto/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/osaka/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/hiroshima/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/nara/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/hakone/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/kamakura/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/nikko/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/fukuoka/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/city/sapporo/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://go2-japan.com/city/sapporo/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/hotels/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/attractions/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://go2-japan.com/food/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/sushi/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/ramen/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/tempura/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/okonomiyaki/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/takoyaki/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/udon/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/soba/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/tonkatsu/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/yakitori/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/mochi/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/wagyu/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/gyoza/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/onigiri/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/kaiseki/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/food/matcha-desserts/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/sake/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/matcha/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/shochu/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/umeshu/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/japanese-whisky/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/ramune/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/amazake/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/drinks/chuhai/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/region/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/region/kanto/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/region/kansai/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/region/hokkaido/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/region/kyushu/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/region/chubu-tohoku/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/visa/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/visa/visa-free/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/visa/tourist-visa/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/visa/evisa/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/visa/working-holiday/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/transport/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/practical-info/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/practical-info/vpn-japan/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/weather/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://go2-japan.com/japan-in/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/japan-in/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/tokyo/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kyoto/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/osaka/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hiroshima/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nara/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/hakone/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/kamakura/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/nikko/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/fukuoka/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/january/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/february/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/march/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/april/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/may/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/june/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/july/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/august/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/september/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/october/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/november/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/city/sapporo/weather/december/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://go2-japan.com/blog/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://go2-japan.com/blog/best-sushi-restaurants-markets-tokyo/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/best-temple-shrine-walks-kyoto/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://go2-japan.com/blog/best-time-to-visit-japan/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/cheapest-way-travel-between-japanese-cities/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/cherry-blossom-season-guide-2026/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/free-things-to-do-in-kyoto/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/free-things-to-do-kyoto/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/getting-around-japan-shinkansen-buses-trains/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/hidden-gems-tokyo/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/japan-50-dollars-per-day-budget-guide/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/japan-budget-vs-luxury-travel/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/japan-december-snow-lights-new-year/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/blog/japan-rail-pass-guide/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/blog/japan-travel-guide-2026/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/blog/japan-visa-guide-2026/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/japanese-etiquette-guide/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/blog/japanese-food-guide/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/blog/kyoto-temples-guide/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/nikko-travel-guide/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/pocket-wifi-vs-esim-japan/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/skiing-snowboarding-japan-niseko-hakuba/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/blog/tokyo-budget-guide/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-japan.com/blog/yakitori-alleys-tokyo-street-food-guide/</loc>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/esim/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/travel-insurance/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://go2-japan.com/practical-info/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/about/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/contact/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/editorial-policy/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/how-we-research/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/affiliate-disclosure/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/privacy/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://go2-japan.com/terms/</loc>
-    <lastmod>2026-03-01T13:24:00.497Z</lastmod>
+    <lastmod>2026-03-29T14:51:40.062Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

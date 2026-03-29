@@ -1,0 +1,111 @@
+{
+  "slug": "nikko",
+  "cityName": "Nikko",
+  "introduction": "Nikko's food culture is shaped by its dual identity as a mountain resort town and a Buddhist/Shinto pilgrimage destination. Nestled in the Tochigi mountains north of Tokyo, the area is blessed with pure mountain water from the Daiya River and abundant forest produce — both of which define the local cuisine. The most famous Nikko specialty is yuba (tofu skin), produced here alongside Kyoto as Japan's two premium yuba regions, owing to the exceptionally soft local water. Fresh yuba is served as a delicate hot dish, dried yuba is used in soups and simmered preparations, and yuba features in the shojin ryori Buddhist meals served near the great temples. The Nikko area also produces excellent soba using mountain water, local wagyu beef from Tochigi Prefecture (Tochigi Wagyuu, a cousin of the famous Kobe beef), and the seasonal mountain vegetables (sansai) that characterize the mountain cooking of the Tohoku border region. Nikko's sakura dango and traditional sweets are sold along the approach to Toshogu Shrine.",
+  "signatureDishes": [
+    {
+      "name": "Yuba Ryori",
+      "japaneseName": "湯葉料理",
+      "description": "Fresh yuba — the delicate skin that forms on the surface of heated soymilk — is Nikko's most celebrated local product. The soft mountain water from the Daiya River produces exceptionally delicate, sweet yuba. Served warm over rice as yubadon, in hot tofu soup, layered in simmered dishes, or as deep-fried yuba rolls. A cornerstone of shojin ryori temple cuisine.",
+      "priceRange": "¥1,000–¥3,000",
+      "whereToTry": "Yama no Restoran, Suzuya (Nikko town), restaurants along Sannai-dori toward Toshogu",
+      "tip": "Fresh yuba must be eaten warm — once cooled it loses its silken texture. Order yubadon or yuba soup as a hot dish rather than as cold sliced yuba."
+    },
+    {
+      "name": "Tochigi Wagyu",
+      "japaneseName": "栃木和牛",
+      "description": "Tochigi Prefecture raises high-grade wagyu cattle, and restaurants in Nikko serve the regional wagyu as sukiyaki, shabu-shabu, and grilled teishoku sets. The Tochigi wagyu has excellent marbling and a mild, clean flavor. Less famous internationally than Kobe beef, but consistently praised by Japanese food critics.",
+      "priceRange": "¥2,500–¥8,000 for a beef course",
+      "whereToTry": "Yama no Restaurant (Nikko, Tochigi wagyu steak and grilled dishes), upscale hotels in Kinugawa Onsen",
+      "tip": "Yama no Restaurant, 15 minutes by bus from Tobu Nikko Station, uses local wagyu beef in its signature grilled sets. Worth the short bus ride."
+    },
+    {
+      "name": "Nikko Soba",
+      "japaneseName": "日光そば",
+      "description": "Handmade buckwheat noodles using the pure Daiya River mountain water. Served cold as zaru soba with dipping sauce, or hot in a light dashi broth. The clean mineral water is central to the noodles' smooth, clean flavor. Several generations-old soba shops operate in central Nikko near the shrine approach.",
+      "priceRange": "¥800–¥1,500",
+      "whereToTry": "Gyoshintei (near Rinno-ji temple, yuba-soba specialties), Aoi (Nikko center), multiple soba shops along Sannai-dori",
+      "tip": "Order the yuba-soba combination if available — slices of fresh yuba float over the soba in a clear dashi broth. A quintessentially Nikko dish."
+    },
+    {
+      "name": "Shojin Ryori",
+      "japaneseName": "精進料理",
+      "description": "Buddhist vegetarian cuisine is integral to Nikko's temple culture. The multi-course meals use fresh yuba, mountain vegetables (sansai), sesame preparations, tofu, and seasonal pickles. No meat or fish. The most authentic shojin ryori in Nikko is served in the immediate temple vicinity.",
+      "priceRange": "¥3,000–¥8,000",
+      "whereToTry": "Gyoshintei (Nikko, highly regarded shojin ryori adjacent to temples), inn restaurants near Toshogu",
+      "tip": "Book shojin ryori meals at least 1–2 days in advance. The portion sizes are smaller than regular meals — order the full course rather than partial selections."
+    },
+    {
+      "name": "Kenchin Jiru",
+      "japaneseName": "けんちん汁",
+      "description": "A hearty vegetable soup from the Kanto mountain region, traditionally associated with Buddhist temple cooking. Root vegetables (daikon, burdock, carrot, taro), tofu, and konnyaku are sautéed in sesame oil and simmered in clear dashi or miso broth. A warming winter dish that reflects the mountain climate.",
+      "priceRange": "¥300–¥600 as part of a set",
+      "whereToTry": "Traditional restaurants and soba shops in Nikko, izakaya in Nikko town",
+      "tip": "Order kenchin jiru as part of a teishoku lunch set in winter — the soup is warming after a cold walk through the Nikko shrines and forests."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Gyoshintei",
+      "address": "2339-1 Sannai, Nikko, Tochigi",
+      "cuisine": "Shojin ryori and yuba cuisine",
+      "priceRange": "¥3,000–¥8,000",
+      "description": "Adjacent to the famous cedar-lined Sannai area near Rinno-ji temple, Gyoshintei is Nikko's most respected restaurant for both shojin ryori and yuba cuisine. The traditional building, garden setting, and seasonal multi-course meals make it the benchmark dining experience in Nikko.",
+      "highlight": "The finest shojin ryori in Nikko — adjacent to the ancient temples; book ahead"
+    },
+    {
+      "name": "Yama no Restaurant",
+      "address": "Near Kinugawa Onsen area, Nikko, Tochigi",
+      "cuisine": "Tochigi wagyu and local grilled dishes",
+      "priceRange": "¥2,000–¥6,000",
+      "description": "A North American-style cafe in the mountain setting above Nikko, known for grilled dishes made with locally sourced Tochigi wagyu beef. The rustic interior and mountain views make it a pleasant departure from temple-area restaurants.",
+      "highlight": "Tochigi wagyu grilled over charcoal in a relaxed mountain atmosphere"
+    },
+    {
+      "name": "Meiji no Yakata",
+      "address": "2339-1 Sannai, Nikko, Tochigi",
+      "cuisine": "Yoshoku (Western-Japanese fusion) in Meiji-era villa",
+      "priceRange": "¥1,500–¥4,000",
+      "description": "A beautifully preserved Meiji-era Western stone villa converted into a restaurant near the Nikko shrine complex. The menu focuses on yoshoku (Meiji-era Western-influenced Japanese cuisine) — beef stew, cream croquettes, and omurice in a uniquely historic setting.",
+      "highlight": "Dining in a genuine Meiji-era stone villa adjacent to Toshogu Shrine"
+    },
+    {
+      "name": "Soba shops along Sannai-dori",
+      "address": "Sannai-dori, Nikko, Tochigi",
+      "cuisine": "Nikko handmade soba noodles",
+      "priceRange": "¥900–¥1,500",
+      "description": "Several family-run soba shops along the cedar-lined approach to the Nikko shrine complex serve handmade buckwheat noodles using Daiya mountain water. Simple, excellent, and perfectly suited for a refreshment break between temple visits.",
+      "highlight": "Simple handmade soba in historic surroundings — the ideal lunch break on a temple day"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Sannai Approach (Toshogu area)",
+      "description": "The cedar-lined approach to Toshogu Shrine is flanked by souvenir stalls and small refreshment stands selling Nikko dango (sweet rice dumplings), yuba snacks, and hot drinks. Less developed than other tourist approaches in Japan, but pleasant.",
+      "bestFor": "Nikko dango, yuba snacks, tea and hot drinks, souvenir food shopping"
+    },
+    {
+      "name": "Nikko Town Center",
+      "description": "The area around Tobu Nikko and JR Nikko stations has a concentration of traditional shops, soba restaurants, and yuba specialty stores. The most convenient area for eating before or after the shrine visits.",
+      "bestFor": "Yuba products, handmade soba, traditional Japanese sweets, craft sake shops"
+    },
+    {
+      "name": "Kinugawa Onsen Strip",
+      "description": "The hot spring resort area 15 minutes east of Nikko has its own food strip with izakaya, soba shops, and hotel dining. More resort-oriented than the temple area — better for evening eating after a hot spring bath.",
+      "bestFor": "Evening izakaya, wagyu beef, hotel kaiseki, sake and craft beer"
+    }
+  ],
+  "foodTips": [
+    "Nikko yuba is considered equal in quality to Kyoto yuba due to the same mineral-soft water source. Try fresh yuba soup or yubadon as a priority.",
+    "Most visitors do Nikko as a day trip from Tokyo, but staying overnight enables the evening hot spring bath + ryokan kaiseki experience — the mountain setting makes this especially worthwhile.",
+    "Tochigi wagyu is the region's premium beef brand. Less famous than Kobe but local chefs argue it is more consistently marbled. Ask for Tochigi wagyu specifically.",
+    "In winter, Nikko's soba and kenchin jiru (vegetable soup) are warming essentials after exploring the snow-covered shrines.",
+    "The cedar forest approach to Toshogu is over 2km — pack snacks from Nikko Station food shops before the walk.",
+    "Sake from the Tochigi region (Niku no Otomo and other local breweries) pairs excellently with local mountain dishes."
+  ],
+  "sources": [
+    { "name": "Live Japan — Where to Eat in Nikko", "url": "https://livejapan.com/en/in-tokyo/in-pref-tochigi/in-nikko/article-a0003346/" },
+    { "name": "Visit Nikko — Foodie Tour", "url": "https://www.visitnikko.jp/en/itineraries/foodie-tour-of-nikko/" },
+    { "name": "Japan Guide — Nikko Hotels", "url": "https://www.japan-guide.com/hotels/nikko.html" }
+  ]
+}

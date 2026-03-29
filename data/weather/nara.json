@@ -1,0 +1,141 @@
+{
+  "slug": "nara",
+  "city": "Nara",
+  "climate_overview": "Nara has a temperate humid climate similar to Kyoto, located just 40 kilometres south in a similar inland basin. Winters are cold with occasional frost and rare snow that dusts the ancient temples beautifully. Spring cherry blossom season at Yoshino and within Nara Park is spectacular, with deer grazing beneath pink petals. Summers are hot and humid in this basin location. Autumn brings glorious foliage at Kasuga Taisha and Nara Park's wooded areas. Annual rainfall totals approximately 1,350mm, with June the wettest month at around 185mm. Most visitors come as day trips from Kyoto or Osaka.",
+  "best_months": ["March", "April", "October", "November"],
+  "avoid_months": ["July", "August"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 9,
+      "temp_low": 1,
+      "rainfall_mm": 38,
+      "humidity": 68,
+      "description": "January is Nara's coldest month, with frosty mornings and cold winds. Snow dusts the deer park and temples on rare occasions, creating magical photographs of deer amid temple rooftops. Crowds are minimal — the deer in Nara Park greet you with unusual calm and the ancient temples feel authentically serene. The On-Matsuri festival with traditional music performances takes place at Kasuga Taisha in January. Wrap up warmly and bring crackers for the deer, which gather closer to humans for warmth in winter.",
+      "activities": ["Nara Park deer walk", "Kasuga Taisha shrine visit", "Todai-ji winter visit", "On-Matsuri festival"],
+      "events": ["On-Matsuri festival at Kasuga Taisha (mid-January)", "New Year shrine visits", "January sumo tournaments (nearby Osaka)"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 10,
+      "temp_low": 1,
+      "rainfall_mm": 62,
+      "humidity": 65,
+      "description": "February brings continued cold with occasional snowfall and the first plum blossoms appearing at Ukimido floating pavilion and around Kasuga Taisha. The Mantoro Lantern Festival at Kasuga Grand Shrine on February 3 transforms the shrine's 3,000 bronze and stone lanterns into a dreamlike scene — one of the most atmospheric events in Japan. Tourist numbers are very low, giving excellent access to all major sites without queuing. A great month for budget-conscious travellers who appreciate solitude at ancient sites.",
+      "activities": ["Mantoro Lantern Festival", "Plum blossom viewing", "Todai-ji Great Buddha visit", "Nishiki Market side trip"],
+      "events": ["Mantoro Lantern Festival at Kasuga Taisha (February 3)", "Setsubun ceremonies", "Plum blossom openings"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 14,
+      "temp_low": 5,
+      "rainfall_mm": 105,
+      "humidity": 64,
+      "description": "March brings warming weather and the famous Omizutori fire ceremony at Nigatsudo Hall in Todai-ji, one of Japan's oldest religious rites, where monks carry burning pine torches along the temple balcony showering sparks. This has been performed every year since 752 AD. Cherry blossoms begin opening at the end of March at Nara Park, creating the iconic image of deer among pink blossoms. Early spring is a wonderful time to visit — increasingly warm, flowers emerging, and moderate crowds.",
+      "activities": ["Omizutori fire ceremony", "Early cherry blossoms with deer", "Isui-en Garden spring walk", "Yoshino day trip (famous for blossoms)"],
+      "events": ["Omizutori ceremony at Nigatsudo Hall (March 1–15)", "Early cherry blossom openings", "Shuni-e Buddhist ceremony"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 20,
+      "temp_low": 9,
+      "rainfall_mm": 115,
+      "humidity": 64,
+      "description": "April brings Nara's cherry blossom peak, with Nara Park's trees creating the unique spectacle of over 1,200 free-roaming deer wandering beneath clouds of pink petals. The experience is genuinely one of Japan's most memorable. Yoshino Mountain (50 minutes south) features 30,000 cherry trees on mountain slopes and is considered Japan's most famous cherry blossom destination, though extremely crowded. Nara itself handles April crowds better than Kyoto. Kasuga Taisha's spring festival brings traditional court music.",
+      "activities": ["Nara Park cherry blossoms with deer", "Yoshino Mountain day trip", "Kasuga Taisha spring festival", "Floating pavilion sakura reflections"],
+      "events": ["Cherry blossom peak", "Kasuga Taisha Spring Grand Festival", "Yamayaki (grass burning) aftermath greenery"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "may": {
+      "temp_high": 25,
+      "temp_low": 15,
+      "rainfall_mm": 130,
+      "humidity": 65,
+      "description": "May brings lovely warm weather to Nara after Golden Week (late April to May 5). The fresh green foliage in Nara Park creates beautiful contrast with the ancient temples. Deer fawns are born in late May and early June — the sight of spotted fawns learning to walk in the ancient park is absolutely charming. The Takigi Noh open-air theatre performances at Kasugano International Forum bring classical Japanese theatre to an outdoor setting against temple backdrops.",
+      "activities": ["Deer fawn watching (late May)", "Takigi Noh performances", "Cycling Nara's cycle paths", "Naramachi old town stroll"],
+      "events": ["Takigi Noh performances (May)", "Golden Week (April 29–May 5)", "Deer fawn season begins (late May)"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "june": {
+      "temp_high": 29,
+      "temp_low": 20,
+      "rainfall_mm": 185,
+      "humidity": 74,
+      "description": "June is the wettest month in Nara as the rainy season arrives. The forests around Nara Park become lush and deeply green, and the deer continue their unperturbed routines regardless of rain. Hydrangeas bloom along forest paths. Tourist numbers drop significantly, making this one of the best months for undistracted engagement with the historical sites. The baby deer (fawns) with their spotted coats are still visible throughout June, providing magical wildlife encounters.",
+      "activities": ["Fawn spotting in the park", "Rainy forest walks", "Kasuga Primeval Forest", "Indoor Nara National Museum"],
+      "events": ["Rainy season begins", "Hydrangea viewings", "Fawn season at Nara Deer Park"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "july": {
+      "temp_high": 33,
+      "temp_low": 24,
+      "rainfall_mm": 185,
+      "humidity": 77,
+      "description": "July is hot and humid in Nara's inland basin, with heat accumulating much as in Kyoto. The deer seem unbothered by the heat, sheltering in shaded groves during the hottest hours. Todai-ji and Kasuga Taisha are best visited early morning. The Nara Tokae lantern festival in mid-August is actually set up and prepared throughout July. Sangatsudo (Third Month Hall) within Todai-ji provides an air-conditioned interior respite filled with extraordinary 8th-century Buddhist sculptures.",
+      "activities": ["Early morning deer park walks", "Todai-ji interior exploration", "Nara National Museum", "Evening illuminations"],
+      "events": ["Summer preparations for Nara Tokae festival", "Tanabata decorations", "Summer festivals"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "august": {
+      "temp_high": 34,
+      "temp_low": 24,
+      "rainfall_mm": 105,
+      "humidity": 74,
+      "description": "August is hot and marks the Nara Tokae lantern festival, held for ten days in mid-August, during which over 7,000 lanterns illuminate the pathways of Nara Park, the temples, and the Ukimido pavilion from dusk. The deer and lanterns together create an utterly unique scene. August 15 is Daimonji at nearby Nara — bonfires lit on mountain slopes as part of the Obon return of ancestors' spirits. The heat is intense; evening festival activities from 6pm onward are the most comfortable.",
+      "activities": ["Nara Tokae lantern festival", "Evening deer park walks", "Obon ceremonies", "Kasuga Taisha lanterns"],
+      "events": ["Nara Tokae festival (mid-August)", "Obon (mid-August)", "Daimonji bonfires on nearby mountains"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "september": {
+      "temp_high": 28,
+      "temp_low": 19,
+      "rainfall_mm": 148,
+      "humidity": 73,
+      "description": "September offers a transition toward autumn comfort. Typhoons can occasionally affect the area but the forest trees and large park offer natural shelter. Tourist numbers are much lower than summer, and the deer are very active in the cooler mornings and evenings. The Uneme Matsuri moon-viewing festival in September — featuring musicians in boats on Sarusawa Pond — is a uniquely elegant autumn event. Autumn colours begin appearing in Kasuga's primeval forest by late month.",
+      "activities": ["Uneme Matsuri festival", "Deer activity viewing at dusk", "Kasuga Primeval Forest walks", "Early autumn photography"],
+      "events": ["Uneme Matsuri moon-viewing festival (September)", "Autumnal Equinox Day", "Early autumn colour begins"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "october": {
+      "temp_high": 22,
+      "temp_low": 13,
+      "rainfall_mm": 86,
+      "humidity": 68,
+      "description": "October is one of Nara's finest months — comfortable temperatures, manageable crowds, and the beginning of autumn colour change. Male deer enter the rutting season, making their behaviour more dramatic and photogenic — they can be heard bugling across the park at dawn. The annual deer antler cutting ceremony (Shika no Tsunokiri) takes place in October. Kasuga Taisha lanterns are lit at dusk on special festival days, creating atmospheric evening scenes.",
+      "activities": ["Deer rut watching", "Shika no Tsunokiri ceremony", "Autumn foliage previews", "Kasuga Taisha lantern festival"],
+      "events": ["Shika no Tsunokiri antler cutting ceremony (October)", "Kasuga Wakamiya On-Matsuri preparations", "Autumn foliage begins"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "november": {
+      "temp_high": 16,
+      "temp_low": 7,
+      "rainfall_mm": 68,
+      "humidity": 68,
+      "description": "November brings spectacular autumn foliage to Nara, with the forests around Kasuga Taisha and Nara Park glowing in reds and golds. The combination of ancient temple architecture, free-roaming deer, and crimson maple leaves is extraordinary. Crowds increase significantly but remain more manageable than Kyoto in peak foliage season. Isuien Garden and Yoshikien Garden offer refined autumn viewing. The Shoso-in Exhibition at Nara National Museum, held only in autumn, displays priceless 8th-century artefacts.",
+      "activities": ["Autumn foliage at Kasuga Taisha", "Shoso-in Exhibition", "Isuien Garden maple viewing", "Deer park morning walks"],
+      "events": ["Peak autumn foliage", "Shoso-in Exhibition at Nara National Museum (October–November)", "Kasuga Wakamiya On-Matsuri (December 17)"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "december": {
+      "temp_high": 11,
+      "temp_low": 2,
+      "rainfall_mm": 40,
+      "humidity": 68,
+      "description": "December is cold and quiet in Nara, with one of the most spectacular events of the calendar: the Yamayaki (grass-burning ceremony) scheduled on the fourth Saturday of January but with December preparations visible. The Kasuga Wakamiya On-Matsuri festival on December 17 has been held without interruption for 900 years, featuring processions in ancient court costumes, traditional music, and ceremonial dances. Winter's minimal tourists mean the deer have the park mostly to themselves, giving visitors exceptional wildlife encounters.",
+      "activities": ["Kasuga Wakamiya On-Matsuri", "Winter deer park", "Todai-ji temple hall", "Quiet Yoshikien Garden"],
+      "events": ["Kasuga Wakamiya On-Matsuri (December 17)", "Winter preparations", "New Year countdown at temples"],
+      "crowd_level": "low",
+      "price_level": "low"
+    }
+  }
+}

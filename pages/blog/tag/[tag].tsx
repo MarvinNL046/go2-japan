@@ -129,6 +129,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   return {
     props: { tag, posts },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

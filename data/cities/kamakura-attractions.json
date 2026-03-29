@@ -1,0 +1,123 @@
+{
+  "slug": "kamakura",
+  "city": "Kamakura",
+  "introduction": "The coastal city of Kamakura served as Japan's de facto capital during the Kamakura Shogunate (1185–1333), when the military government of samurai rulers held power independent of the imperial court in Kyoto. The medieval capital's legacy is extraordinary: 19 Buddhist temples, 5 major Shinto shrines, a 13-metre bronze Great Buddha, and a network of forested hiking trails connecting them all, compressed into a bowl of hills between the Kanto mountains and Sagami Bay. Today Kamakura functions as a beach resort for Tokyoites (50 minutes by express train) while hosting millions of cultural tourists drawn by the Great Buddha, the Zeniarai Benten money-washing cave shrine, June's spectacular hydrangea season, and some of the most beautiful wooded temple grounds in eastern Japan.",
+  "topAttractions": [
+    {
+      "name": "Kotoku-in Great Buddha",
+      "japaneseName": "高徳院 鎌倉大仏",
+      "description": "The 13.35-metre bronze Amitabha Buddha seated in open air is one of Japan's most iconic images and Kamakura's undisputed centrepiece. Cast in 1252 after an earlier wooden figure was destroyed by typhoons, the statue has sat exposed to the elements since its hall was swept away by a tsunami in 1498, giving it a more weathered, elemental presence than indoor Buddha statues. Visitors can enter the hollow interior through small doors in the statue's flanks — inside, the scale of the bronze casting (the Buddha weighs 121 tonnes) and the natural light through the porthole windows is striking. The surrounding grounds have large bronze sandals (waraji) that were donated in the 19th century.",
+      "address": "4-2-28 Hase, Kamakura, Kanagawa",
+      "openingHours": "8:00–17:30 (October–March until 17:00); interior 8:00–16:30",
+      "admission": "¥300 adults, ¥150 elementary/junior high; interior entry additional ¥20",
+      "duration": "45 minutes",
+      "tips": "The Great Buddha is most photogenic in early morning light. Visit before 9am in summer to avoid crowds. The waraji sandals (giant straw sandals) donated in 1951 and measuring 1.8m each are worth examining. Combine with nearby Hasedera Temple (5-minute walk) for an excellent morning."
+    },
+    {
+      "name": "Hasedera Temple",
+      "japaneseName": "長谷寺",
+      "description": "One of Kamakura's most beautiful temple complexes, Hasedera is built on a hillside with panoramic ocean views, a magnificent cave system housing goddess statues, a rotatable sutra library, a coastal observation terrace, and one of Kamakura's finest hydrangea gardens (June). The 9.18-metre gilded wooden statue of Kannon (goddess of mercy) — one of Japan's largest wooden statues — dates to the 8th century according to tradition. The cave system (Benten-kutsu) winds through the hillside containing stone figures of the 16 disciples of Buddha and other deities.",
+      "address": "3-11-2 Hase, Kamakura, Kanagawa",
+      "openingHours": "8:00–17:00 (October–February until 16:30)",
+      "admission": "¥400 adults, ¥200 children",
+      "duration": "1–1.5 hours",
+      "tips": "The sea-view terrace has one of the best Pacific Ocean views in Kamakura — outstanding on clear days to spot the Izu Peninsula. The hydrangea season (June) creates a hillside path of blooms framing ocean views that is extraordinary. Queues form during the hydrangea period — arrive at opening."
+    },
+    {
+      "name": "Tsurugaoka Hachimangu Shrine",
+      "japaneseName": "鶴岡八幡宮",
+      "description": "Kamakura's most important shrine and the spiritual centre of the Kamakura Shogunate, Tsurugaoka Hachimangu sits at the head of the city's axial processional avenue (Wakamiyadoji-dori) and Dankazura cherry tree promenade. Built in 1063 and moved to its current location in 1191, the shrine is dedicated to Hachiman — the deity of war and archery — and was the focus of the shogunal government's religious life. The Renjaku-ike and Heike-ike ponds (respectively symbolising victory and defeat of competing clans) flank the approach. The Grand Festival in September (yabusame horseback archery) is spectacular.",
+      "address": "2-1-31 Yukinoshita, Kamakura, Kanagawa",
+      "openingHours": "5:00–21:00 (October–March 6:00–21:00)",
+      "admission": "Free (Museum: ¥200)",
+      "duration": "1 hour",
+      "tips": "New Year's Eve sees over 2 million hatsumode visitors in the first three days — arrive very early or avoid entirely. The September Tsurugaoka Grand Festival yabusame archery (September 16) is one of Japan's most dramatic traditional archery performances. The lotus blooms in the ponds are beautiful in summer."
+    },
+    {
+      "name": "Engaku-ji Zen Temple",
+      "japaneseName": "円覚寺",
+      "description": "Founded in 1282 by the regent Hojo Tokimune as a memorial to soldiers killed in the Mongol invasion, Engaku-ji is the headquarters of the Rinzai Engaku school of Zen Buddhism and one of Kamakura's five great Zen temples (Gozan). The extensive wooded complex contains several important subtemples, a bell cast in 1301 (designated National Treasure), and the oldest and finest Zen reliquary hall (Shariden) in Japan. The wooded hillside setting, with centuries-old cedar and camphor trees, creates an unusually contemplative atmosphere even among Kamakura's many temples.",
+      "address": "409 Yamanouchi, Kamakura, Kanagawa",
+      "openingHours": "March–November: 8:30–17:00 (last admission 16:30); December–February: 8:30–16:30",
+      "admission": "¥500 adults, ¥200 elementary/junior high",
+      "duration": "1 hour",
+      "tips": "Engaku-ji is the first major temple exit from Kita-Kamakura station (2-minute walk), making it the natural starting point for the Kita-Kamakura temple circuit. The Zen meditation sessions (zazen) are open to foreign visitors on Sunday mornings — no reservation required. The autumn foliage is outstanding."
+    },
+    {
+      "name": "Kita-Kamakura Temple Walk",
+      "japaneseName": "北鎌倉",
+      "description": "The neighbourhood around Kita-Kamakura station (one stop north of central Kamakura) contains five major temples — Engaku-ji, Kencho-ji (chief temple of Kamakura Gozan), Tokei-ji (the 'Divorce Temple' that sheltered women seeking separation from abusive marriages), Jochi-ji, and Jokomyo-ji — connected by a 2km walking route through cedar forests, bamboo groves, and narrow temple lanes. The walk is considered by many Japan experts to be the finest 2-hour cultural walk in eastern Japan, far exceeding the more tourist-crowded Kamakura centre.",
+      "address": "Kita-Kamakura area (start at Kita-Kamakura JR Station)",
+      "openingHours": "Individual temples: various; generally 8:00–17:00",
+      "admission": "¥500 each for main temples",
+      "duration": "2–3 hours",
+      "tips": "Start at Kita-Kamakura and walk south to Kamakura central, finishing at Tsurugaoka Hachimangu. The Tokei-ji grounds are particularly beautiful for plum blossoms (February) and iris (May–June). Kencho-ji's Hansobo Shrine hike to the hilltop (40 minutes return) gives panoramic Kanto plain views."
+    },
+    {
+      "name": "Zeniarai Benten Shrine",
+      "japaneseName": "銭洗弁財天",
+      "description": "Hidden in a hillside cave accessible through a tunnel in the western hills, Zeniarai Benten (Money-Washing Benten Shrine) is Kamakura's most whimsical and beloved attraction. Worshippers wash coins and paper money in natural spring water within the cave shrine in the belief that money washed here will multiply. The approach through a narrow tunnel and the incense-filled cave filled with hundreds of small metal baskets and candles create an uniquely atmospheric ritual environment. The shrine is dedicated to Benzaiten — the goddess of everything that flows, including water, time, music, and money.",
+      "address": "2-25-16 Sasuke, Kamakura, Kanagawa",
+      "openingHours": "8:00–16:30",
+      "admission": "Free",
+      "duration": "30 minutes",
+      "tips": "The money-washing ritual requires buying a basket of incense at the entrance, lighting it at the shrine entrance, then carrying coins or bills in the basket to the natural spring water inside the cave. The money should ideally be used quickly afterwards — saving it is said to negate the benefit."
+    },
+    {
+      "name": "Yuigahama Beach",
+      "japaneseName": "由比ヶ浜",
+      "description": "Kamakura's main beach stretches 2.4km along Sagami Bay, backed by the wooded hills that contain the city's temples and shrines. From July 1 through August 31, the beach operates as a full resort with beach huts (umigoya) serving food and drinks, surf schools, shower facilities, and a vibrant summer atmosphere. Outside summer season, the beach is peaceful, wild, and offers magnificent views of the Izu Peninsula and — on clear winter days — Mount Fuji across the bay to the northwest.",
+      "address": "Yuigahama, Kamakura, Kanagawa",
+      "openingHours": "Always accessible (beach huts July–August only)",
+      "admission": "Free",
+      "duration": "1–2 hours",
+      "tips": "The 20-minute coastal walk from Kamakura Station through the Komachi-dori shopping street to the beach is excellent. The Yuigahama Hotel and nearby beach cafes are open year-round. In November, the beach at sunset with Fuji visible across the bay is extraordinary."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Kakuon-ji Temple",
+      "description": "A deeply atmospheric temple in a remote wooded valley accessible only on foot via forest paths, with extraordinary cave shrines carved into hillside rock faces and a serene garden completely unknown to most visitors.",
+      "whyVisit": "Complete solitude at one of Kamakura's most ancient sites — permission required (apply at gate, usually granted, ¥500) but the cave shrine system and carved cliff-face Buddhas are extraordinary."
+    },
+    {
+      "name": "Harakiri Yagura Cave System",
+      "description": "A network of carved rock-face cave niches (yagura) used as Kamakura-period burial chambers for samurai families, scattered throughout the forested hillsides surrounding the city.",
+      "whyVisit": "The most distinctive archaeological feature of medieval Kamakura — carved into cliff faces throughout the hills, these communal tomb caves give direct physical connection to the samurai warrior class."
+    },
+    {
+      "name": "Ten-en Hiking Trail",
+      "description": "A ridge trail connecting Kencho-ji to Zuisen-ji over the hilltops surrounding Kamakura, with Pacific Ocean and valley views through cedar forest — typically taking 2 hours with minimal fellow hikers.",
+      "whyVisit": "The most beautiful mountain perspective on Kamakura's forested valley setting — see the city from above, understand its geography, and experience genuine mountain walking 50 minutes from Tokyo."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Enoshima Island",
+      "description": "A small island connected to the mainland by a 600-metre causeway, with a Benten shrine, cave system, sea candle lighthouse, and excellent seafood restaurants — Japan's closest thing to a medieval island pilgrimage site.",
+      "distance": "10km west along the coast",
+      "duration": "Half day",
+      "transport": "Enoden tram line to Enoshima (20 min)"
+    },
+    {
+      "name": "Yokohama Chinatown",
+      "description": "Japan's largest Chinatown with 600+ restaurants and shops, adjacent to the Motomachi Western shopping district and the excellent Yamashita Park waterfront.",
+      "distance": "25km northeast",
+      "duration": "Half day",
+      "transport": "JR Yokosuka Line to Yokohama (25 min)"
+    },
+    {
+      "name": "Hayama Coast",
+      "description": "A quiet upscale seaside town between Kamakura and Yokosuka, once the summer retreat of the Imperial family, with excellent seafood restaurants and views of Fuji across the bay.",
+      "distance": "10km south along the coast",
+      "duration": "Half day",
+      "transport": "Bus from Kamakura Station (25 min)"
+    }
+  ],
+  "sources": [
+    { "name": "Kamakura City Tourism Official", "url": "https://www.city.kamakura.kanagawa.jp/visitkamakura/en/" },
+    { "name": "Kotoku-in (Great Buddha) Official", "url": "https://kotoku-in.jp/en-site/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" },
+    { "name": "Kamakura Tourism Organization", "url": "https://www.kamakura-buzan.or.jp/en/" }
+  ]
+}

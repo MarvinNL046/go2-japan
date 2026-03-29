@@ -97,6 +97,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const drinks = getAllDrinks();
   return {
     props: { drinks },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

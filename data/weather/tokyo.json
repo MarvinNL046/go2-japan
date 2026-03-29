@@ -1,0 +1,141 @@
+{
+  "slug": "tokyo",
+  "city": "Tokyo",
+  "climate_overview": "Tokyo has a temperate humid climate with four distinct seasons. Winters are mild and relatively dry, with cold northwest winds bringing occasional snow. Spring is famously beautiful, with cherry blossoms blooming in late March to early April. Summer is hot and oppressively humid, with a rainy season (tsuyu) in June and July before clear but sweltering August heat. Autumn brings comfortable temperatures and spectacular foliage from October through November. Annual rainfall averages 1,615mm, with peak precipitation in June and September. Tokyo experiences occasional typhoons between August and October.",
+  "best_months": ["March", "April", "May", "October", "November"],
+  "avoid_months": ["July", "August", "September"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 9,
+      "temp_low": 3,
+      "rainfall_mm": 52,
+      "humidity": 54,
+      "description": "January is Tokyo's coldest month, with crisp, clear days and cold nights that occasionally dip below freezing. Northwest winds can make it feel colder than the thermometer suggests. Snowfall is rare but possible, typically once or twice per year. The dry air and clear skies make this an excellent time for views of Mount Fuji from the city. Crowds are thinner at popular attractions, and hotels offer good value. Pack warm layers and a wind-resistant jacket.",
+      "activities": ["Mount Fuji viewing", "Visiting museums", "New Year shrine visits", "Winter illuminations"],
+      "events": ["New Year (Oshogatsu)", "Hatsumode temple visits", "Coming of Age Day (2nd Monday)"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 10,
+      "temp_low": 3,
+      "rainfall_mm": 56,
+      "humidity": 54,
+      "description": "February remains cold but slightly warmer than January, with the same clear skies that make Fuji views exceptional. Plum blossoms begin appearing at parks and shrines, offering Japan's first floral spectacle of the year. Setsubun bean-throwing ceremonies at temples are a lively cultural highlight. Valentine's Day is celebrated with Japanese chocolate-giving traditions. It is one of the quietest tourist months, making popular spots refreshingly uncrowded and affordable.",
+      "activities": ["Plum blossom viewing", "Fuji views", "Temple visits", "Indoor food tours"],
+      "events": ["Setsubun bean-throwing festival", "Valentine's Day", "Plum blossom festivals at Shinjuku Gyoen"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 13,
+      "temp_low": 6,
+      "rainfall_mm": 117,
+      "humidity": 57,
+      "description": "March marks Tokyo's exciting transition to spring. Temperatures rise noticeably by mid-month, and the city begins buzzing with anticipation for cherry blossom season. Rainfall increases compared to winter. Early cherry blossoms may appear at the end of March in warmer years. The weather is unpredictable — warm sunny days alternate with cold snaps — so layering is essential. Parks fill with hanami picnic groups and the city's energy becomes electric as spring arrives.",
+      "activities": ["Early cherry blossom viewing", "Hanami picnics", "Cycling through parks", "Spring temple visits"],
+      "events": ["White Day (March 14)", "Hina Matsuri Doll Festival (March 3)", "Early sakura forecasts"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 19,
+      "temp_low": 11,
+      "rainfall_mm": 125,
+      "humidity": 60,
+      "description": "April is arguably the most magical month in Tokyo. Cherry blossoms typically peak in the first week, transforming parks, riverbanks, and streets into pink-and-white dreamscapes. Ueno Park, Shinjuku Gyoen, Chidorigafuchi, and Meguro River are iconic spots for hanami (flower viewing) parties. Temperatures are perfectly comfortable for sightseeing. The downside: this is peak tourist season, with hotels commanding premium prices and popular attractions extremely crowded. Book accommodation months in advance.",
+      "activities": ["Cherry blossom hanami", "Boat rides at Chidorigafuchi", "Golden Week preparations", "Outdoor dining"],
+      "events": ["Cherry blossom peak bloom", "Shinjuku Gyoen Hanami", "Sensoji Kinryu-no-mai (Golden Dragon Dance)"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "may": {
+      "temp_high": 23,
+      "temp_low": 16,
+      "rainfall_mm": 138,
+      "humidity": 62,
+      "description": "May brings some of Tokyo's most pleasant weather — warm but not yet humid, with long daylight hours and green parks. The first week includes Golden Week (April 29–May 5), Japan's busiest holiday period, when domestic tourism surges. After Golden Week ends, mid-to-late May is arguably the best time to visit: good weather, post-cherry-blossom greenery, and relatively fewer international tourists. Wisteria blooms at Kameido Tenjin Shrine and Kawachi Wisteria Garden are spectacular.",
+      "activities": ["Golden Week festivals", "Wisteria viewing", "Outdoor markets", "Day trips to Kamakura or Nikko"],
+      "events": ["Golden Week (April 29–May 5)", "Kanda Matsuri festival (odd years)", "Wisteria festivals"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "june": {
+      "temp_high": 26,
+      "temp_low": 20,
+      "rainfall_mm": 168,
+      "humidity": 72,
+      "description": "June marks the start of tsuyu (rainy season), with persistent drizzle and overcast skies. The humidity rises noticeably and outdoor activities can feel uncomfortable. However, June has a secret beauty: hydrangeas bloom spectacularly throughout the month, with Meigetsuin in Kamakura and Hasedera temple drawing crowds. Rainfall is spread throughout the month rather than concentrated in heavy storms. Early June before the rains set in is actually quite pleasant. Bring a compact umbrella everywhere.",
+      "activities": ["Hydrangea viewing", "Indoor museum visits", "Ramen and izakaya hopping", "Rainy-day cafes"],
+      "events": ["Rainy season begins (mid-June)", "Sanno Matsuri festival (even years)", "Hydrangea festivals"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "july": {
+      "temp_high": 30,
+      "temp_low": 24,
+      "rainfall_mm": 154,
+      "humidity": 74,
+      "description": "July is hot and humid as the rainy season ends and full summer begins. Temperatures regularly exceed 30°C and the humidity makes it feel much hotter. Despite the heat, summer is festival season: Tanabata, Obon preparations, and spectacular fireworks displays light up the nights. The Sumida River Fireworks (last Saturday of July) is one of Tokyo's most spectacular events. Early mornings are the best time for outdoor sightseeing. Stay hydrated and seek air-conditioned refuges frequently.",
+      "activities": ["Summer festivals", "Fireworks watching", "Asakusa night culture", "Swimming pools"],
+      "events": ["Tanabata Festival", "Sumida River Fireworks (late July)", "Tokyo Tower summer illumination"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "august": {
+      "temp_high": 31,
+      "temp_low": 25,
+      "rainfall_mm": 168,
+      "humidity": 72,
+      "description": "August is Tokyo's hottest month, with temperatures regularly hitting 35°C and extreme humidity that makes outdoor activity genuinely exhausting in the middle of the day. Obon holidays (mid-August) see many Tokyoites leave the city, actually reducing crowds in some areas. Summer festivals continue with neighbourhood Bon Odori dances and food stalls everywhere. Mornings before 9am and evenings after 7pm are the most comfortable windows for outdoor exploration. Air-conditioned attractions like TeamLab and museums are perfect midday escapes.",
+      "activities": ["Obon festivals", "Bon Odori dancing", "Indoor attractions", "Night markets"],
+      "events": ["Obon (mid-August)", "Bon Odori festivals in every neighbourhood", "Asakusa Samba Carnival"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "september": {
+      "temp_high": 27,
+      "temp_low": 21,
+      "rainfall_mm": 210,
+      "humidity": 71,
+      "description": "September is typhoon season and statistically Tokyo's wettest month. Tropical storms can bring heavy rain and high winds, occasionally disrupting transport and outdoor plans. However, typhoons typically pass within 24–48 hours, and the days between are often gorgeous. Temperatures are still warm and pleasant when it's not raining. Crowds are relatively low after the summer peak. Silver Week holidays (around September 22–23) can cause a brief crowd spike. Cosmos flowers bloom beautifully in various parks.",
+      "activities": ["Indoor museums", "Typhoon watching (safely)", "Cosmos flower viewing", "Autumn preparation"],
+      "events": ["Respect for the Aged Day", "Autumnal Equinox Day", "Tokyo Game Show (late September)"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "october": {
+      "temp_high": 22,
+      "temp_low": 15,
+      "rainfall_mm": 165,
+      "humidity": 65,
+      "description": "October is one of Tokyo's finest months. The oppressive summer heat fades, typhoon season winds down, and comfortable temperatures of 15–22°C make sightseeing a joy. Early autumn foliage begins to appear, with ginkgo trees turning brilliant gold. Halloween celebrations have become a massive cultural event in Tokyo, with Shibuya's costume parade drawing huge international crowds on October 31. The city is lively and energetic without the crushing heat. Pack light layers for temperature swings between day and night.",
+      "activities": ["Autumn foliage previews", "Halloween celebrations in Shibuya", "Cycling", "Outdoor markets"],
+      "events": ["Halloween (Shibuya, October 31)", "Tokyo International Film Festival", "Ginkgo tree festivals"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "november": {
+      "temp_high": 17,
+      "temp_low": 9,
+      "rainfall_mm": 93,
+      "humidity": 62,
+      "description": "November brings Tokyo's spectacular autumn foliage season, with maples and ginkgo trees blazing red, orange, and gold. Shinjuku Gyoen, Rikugien Garden, and Ueno Park are transformed into extraordinary colour displays. Weather is crisp, dry, and perfect for walking — arguably the most comfortable month of the year for sightseeing. The season peaks around mid-to-late November. Crowds build significantly at foliage hotspots, so weekday morning visits are strongly recommended. Evenings are cool — bring a light jacket.",
+      "activities": ["Autumn foliage viewing (koyo)", "Garden walks", "Photography", "Day trips to Nikko or Kamakura"],
+      "events": ["Shinjuku Gyoen autumn foliage", "Rikugien illuminations", "Shichi-Go-San children's festival"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "december": {
+      "temp_high": 12,
+      "temp_low": 4,
+      "rainfall_mm": 39,
+      "humidity": 58,
+      "description": "December is cold, dry, and magical. Winter illuminations transform the city, with Roppongi Hills, Marunouchi, Midtown, and Yebisu Garden Place creating spectacular light displays. Shopping and year-end parties (bonenkai) fill every restaurant and department store. Christmas is celebrated as a romantic couples' holiday with glittering decorations. Late December brings one of the least crowded tourist periods as Japanese locals prepare for New Year. The 31st sees massive midnight crowds at temples for Joya no Kane (108 bell strikes).",
+      "activities": ["Winter illuminations", "Christmas markets", "Year-end shopping", "New Year's Eve temple visits"],
+      "events": ["Winter illuminations throughout the city", "Christmas (December 24–25)", "Omisoka New Year's Eve (December 31)"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    }
+  }
+}

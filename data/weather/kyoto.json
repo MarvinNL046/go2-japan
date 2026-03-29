@@ -1,0 +1,141 @@
+{
+  "slug": "kyoto",
+  "city": "Kyoto",
+  "climate_overview": "Kyoto has a temperate humid climate that is slightly more extreme than Tokyo's due to its inland basin location, which traps heat and cold. Winters are genuinely cold, with occasional frost and rare snowfall that dusts the temples beautifully. Springs are gorgeous — cherry blossom season rivals any city in Japan. Summers are notoriously hot and oppressively humid, among the most uncomfortable in Japan. Autumn foliage from October to December is arguably Kyoto's finest season, attracting visitors worldwide. Annual rainfall reaches 1,713mm, with June the wettest month at around 240mm.",
+  "best_months": ["March", "April", "May", "October", "November"],
+  "avoid_months": ["July", "August"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 10,
+      "temp_low": 1,
+      "rainfall_mm": 43,
+      "humidity": 67,
+      "description": "January is Kyoto's coldest month, with frosty mornings and occasional snowfall that dusts temple rooftops and garden pavilions in breathtaking fashion. Snow days are rare but magical — Kinkaku-ji and Ryoan-ji covered in white are unforgettable. Daytime temperatures can be pleasant when sunny. Tourist crowds are at their annual minimum, giving you rare solitude at world-famous sites. Bring heavy winter clothing. New Year's Day draws enormous Japanese crowds for Hatsumode shrine visits through the first week.",
+      "activities": ["Snow temple photography", "Hatsumode visits", "Indoor tea ceremony", "Museum hopping"],
+      "events": ["Oshogatsu New Year celebrations", "Hatsumode at Fushimi Inari and Yasaka Shrine", "Toka Ebisu Festival"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 11,
+      "temp_low": 1,
+      "rainfall_mm": 64,
+      "humidity": 65,
+      "description": "February remains cold but often brings clear blue-sky days ideal for exploring Kyoto's iconic sites without the summer haze. Plum blossoms emerge at Kitano Tenmangu Shrine from early February, marking the first flower season of the year with atmospheric markets and fragrant blooms. Setsubun bean-throwing ceremonies at major temples like Yoshida Jinja are lively events. Crowds stay minimal, hotels are affordable, and the city feels authentically local rather than touristy.",
+      "activities": ["Plum blossom viewing at Kitano Tenmangu", "Setsubun events", "Zen temple visits", "Nishiki Market food tour"],
+      "events": ["Setsubun (February 3)", "Kitano Tenmangu Plum Festival", "Lantern Festival at various shrines"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 15,
+      "temp_low": 4,
+      "rainfall_mm": 113,
+      "humidity": 64,
+      "description": "March brings the first real warmth to Kyoto and rapidly building anticipation for cherry blossom season. Early blooms may appear at warmer spots by late March in mild years. Weather swings between warm sunny days and cold rainy snaps — layers are essential. Crowds begin building significantly in the final week as the sakura forecast captures global attention. Early March remains relatively quiet and offers excellent value. The Higashiyama Hanatouro lantern festival illuminates historic lanes beautifully.",
+      "activities": ["Early cherry blossom scouting", "Lantern festivals", "Philosopher's Path walks", "Bamboo grove visits"],
+      "events": ["Higashiyama Hanatouro (early March)", "Omizutori ceremony at Nara (nearby)", "Early sakura openings"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 21,
+      "temp_low": 9,
+      "rainfall_mm": 125,
+      "humidity": 64,
+      "description": "April is Kyoto's peak season for cherry blossoms, typically reaching full bloom in the first week. Maruyama Park, Philosopher's Path, Kiyomizudera, and Arashiyama are absolutely stunning but intensely crowded. The Miyako Odori geisha dance performances run all month in Gion. Accommodation prices are at their highest annual peak — book six to twelve months in advance. Despite the crowds, the experience is transcendent. Visit popular spots at dawn for the best light and thinner crowds. Hanami picnics fill every park.",
+      "activities": ["Hanami cherry blossom picnics", "Geisha district visits", "Maruyama Park evening illuminations", "Temple strolls"],
+      "events": ["Miyako Odori geisha dance (all April)", "Cherry blossom peak bloom", "Yasaka Shrine Sakura Matsuri"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "may": {
+      "temp_high": 26,
+      "temp_low": 14,
+      "rainfall_mm": 150,
+      "humidity": 65,
+      "description": "May brings warm, comfortable weather and Kyoto's famous Aoi Matsuri festival on May 15, one of Japan's three great festivals with an imperial procession of hundreds in Heian-period costume. Golden Week (late April to May 5) sees enormous domestic crowds at all major sights. After Golden Week, mid-to-late May is excellent — fresh green foliage on temple grounds, comfortable warmth, and noticeably fewer tourists than April. Gardens like Kokedera (Moss Temple) and Daigo-ji are particularly beautiful in spring greenery.",
+      "activities": ["Aoi Matsuri festival", "Golden Week events", "Garden tours", "Cycling through Arashiyama"],
+      "events": ["Aoi Matsuri imperial procession (May 15)", "Golden Week (April 29–May 5)", "Mifune Matsuri boat festival"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "june": {
+      "temp_high": 30,
+      "temp_low": 19,
+      "rainfall_mm": 240,
+      "humidity": 74,
+      "description": "June is Kyoto's wettest month, with the rainy season bringing up to 240mm of precipitation. The city's 1,600+ temples and shrines take on a misty, ethereal atmosphere during rainfall that can actually be quite beautiful for photography. Hydrangeas bloom throughout the month. The Takao area and various smaller temples are less crowded than usual. Evenings are warm and pleasant when rain clears. Bring waterproof shoes and a quality umbrella. Early June before the rains intensify is still quite pleasant.",
+      "activities": ["Rainy-day temple photography", "Hydrangea viewing at Mimurotoji", "Indoor Nishiki Market exploration", "Sake brewery tours"],
+      "events": ["Rainy season (mid-June)", "Takigi Noh performances at Heian Shrine", "Hydrangea festivals"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "july": {
+      "temp_high": 34,
+      "temp_low": 24,
+      "rainfall_mm": 221,
+      "humidity": 76,
+      "description": "July brings Kyoto's most famous festival: Gion Matsuri, one of Japan's three great festivals, running the entire month with the spectacular Yamaboko Junko float parade on July 17 and 24. The catch is that Kyoto in July is brutally hot and humid — regularly exceeding 35°C in this landlocked basin city. The basin geography means heat accumulates with no ocean breeze to provide relief. Festival evenings are magical despite the heat. Visit outdoor attractions early morning only, and plan indoor activities for midday.",
+      "activities": ["Gion Matsuri float viewing", "Evening festival stalls (yatai)", "Air-conditioned temple halls", "Traditional craft workshops"],
+      "events": ["Gion Matsuri (entire month)", "Yamaboko Junko parade (July 17 and 24)", "Tanabata decorations"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "august": {
+      "temp_high": 35,
+      "temp_low": 25,
+      "rainfall_mm": 130,
+      "humidity": 74,
+      "description": "August is Kyoto's hottest month — oppressively so. Temperatures of 36–38°C combined with high humidity make this one of the most uncomfortable times to visit any Japanese city. Daimonji Gozan Okuribi on August 16 is extraordinary — five enormous bonfires lit on mountain slopes around the city to guide spirits of the dead. This is one of Japan's most moving traditional events. If visiting in August, plan heavily around air-conditioned spaces and embrace the festival culture to make the most of the heat.",
+      "activities": ["Daimonji fire festival viewing", "Obon ceremonies", "Indoor temples with gardens", "Early morning walks"],
+      "events": ["Obon (mid-August)", "Daimonji Gozan Okuribi (August 16)", "Toro Nagashi lantern floating"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "september": {
+      "temp_high": 29,
+      "temp_low": 20,
+      "rainfall_mm": 180,
+      "humidity": 73,
+      "description": "September remains hot early in the month but gradually cools to more bearable levels. Typhoon season can bring heavy rain and strong winds. Despite the weather risks, September represents a genuine bargain — accommodation prices drop sharply from summer peaks and tourist numbers thin out considerably. The city is green and lush after summer rains. Autumn colour change begins in mountain areas north of Kyoto by late September. Mid-September Jidai Matsuri and moon-viewing events offer cultural highlights.",
+      "activities": ["Post-summer temple visits", "Moon-viewing ceremonies", "Mountain day trips", "Sake festival"],
+      "events": ["Moon-viewing (Tsukimi) events", "Hassaku festival at Gion shrines", "Sake festivals in Fushimi"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "october": {
+      "temp_high": 23,
+      "temp_low": 13,
+      "rainfall_mm": 119,
+      "humidity": 68,
+      "description": "October transforms Kyoto from a summer ordeal into one of the world's most magical destinations. Temperatures become wonderfully comfortable, crowds are still manageable early in the month, and the city's ancient temples and gardens glow in autumn light. The first hints of colour change appear in mountain areas. Jidai Matsuri (Festival of Ages) on October 22 is a magnificent procession through 1,200 years of Japanese history. Kurama Fire Festival on October 22 evening is one of Japan's most dramatic events.",
+      "activities": ["Early autumn foliage", "Jidai Matsuri procession", "Kurama Fire Festival", "Night temple illuminations"],
+      "events": ["Jidai Matsuri (October 22)", "Kurama Fire Festival (October 22)", "Early autumn colour change"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "november": {
+      "temp_high": 17,
+      "temp_low": 7,
+      "rainfall_mm": 65,
+      "humidity": 69,
+      "description": "November is Kyoto's most spectacular month and arguably its busiest. Autumn foliage peaks magnificently from mid-to-late November, painting the temple gardens and mountain slopes in burning crimson, amber, and gold. Tofuku-ji, Eikan-do, Arashiyama, and Nanzen-ji are extraordinary. Night illuminations at major temples create an otherworldly atmosphere. This is the single most crowded period in Kyoto — book accommodation eight to twelve months ahead and arrive at every attraction before 9am if possible.",
+      "activities": ["Peak autumn foliage viewing", "Night illuminations at temples", "Bamboo grove in autumn colour", "Photography walks"],
+      "events": ["Peak koyo autumn foliage", "Tofuku-ji autumn illumination", "Arashiyama Hanatouro lantern festival (November)"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "december": {
+      "temp_high": 12,
+      "temp_low": 3,
+      "rainfall_mm": 44,
+      "humidity": 70,
+      "description": "December brings cold, crisp weather and late autumn foliage lingering into early month at some sites. Christmas is not traditionally significant in Japan, making December a surprisingly peaceful time to visit after the November foliage peak crowds disperse. The city feels authentically local with bonenkai (year-end parties) at every restaurant. A rare snowfall transforms Kyoto's temples into extraordinary winter landscapes — the kind of photograph that defines travel. New Year's Eve sees the famous 108 bell strikes at Chion-in temple.",
+      "activities": ["Late autumn foliage (early December)", "Winter temple visits", "Year-end food markets", "New Year's Eve bells"],
+      "events": ["Late koyo at Kozan-ji and Arashiyama", "Shimai Kobo flea market at Toji Temple (December 21)", "Joya no Kane New Year bells"],
+      "crowd_level": "low",
+      "price_level": "low"
+    }
+  }
+}

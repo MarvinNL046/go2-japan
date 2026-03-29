@@ -1,0 +1,92 @@
+{
+  "slug": "kamakura",
+  "cityName": "Kamakura",
+  "introduction": "Kamakura's accommodation reflects its character as a historical day-trip destination from Tokyo that increasingly rewards overnight stays. The city has a limited but high-quality selection of accommodation: a handful of ryokan near the ancient temples, some excellent boutique hotels in the Hase area near the Great Buddha, and guesthouses favored by the young, coastal lifestyle crowd. Kamakura's most important accommodation advantage is that staying overnight allows you to experience the temples and bamboo groves before 8am, when you will have them entirely to yourself — the contrast with the 10am crowd is extraordinary. The Enoshima Electric Railway (Enoden) connects Kamakura Station to the beach towns of Yuigahama and Zaimokuza, and the most atmospheric accommodation clusters around the coastal neighborhoods. For a classic Kamakura experience, stay near Kamakura Station for temple access, or in the Hase area for a quieter, more residential atmosphere.",
+  "bestAreas": [
+    {
+      "name": "Kamakura Station Area",
+      "description": "The central area around Kamakura Station and Komachi-dori shopping street provides the best access to the city's temples, Tsurugaoka Hachimangu Shrine, and the trail network. Accommodation ranges from small guesthouses to mid-range hotels. Most convenient for full temple exploration.",
+      "bestFor": "Temple sightseeing, Komachi-dori access, first-time visitors, day-trip extension",
+      "priceRange": "¥5,000–¥25,000 ($33–$167)"
+    },
+    {
+      "name": "Hase Area",
+      "description": "The neighborhood around Hase Station (Enoden line) near the Great Buddha and Hase-dera Temple has a quieter, more residential character than central Kamakura. Boutique hotels and small guesthouses are scattered through the side streets. The beach at Yuigahama is a 10-minute walk.",
+      "bestFor": "Quieter atmosphere, Great Buddha access, beach proximity, boutique hotels",
+      "priceRange": "¥6,000–¥30,000 ($40–$200)"
+    },
+    {
+      "name": "Yuigahama Beach",
+      "description": "The beach neighborhood attracts a relaxed, café-culture crowd on weekends. Small guesthouses and surf-oriented accommodation sit alongside boutique hotels with ocean views. Best from spring to early autumn when the beach culture is active.",
+      "bestFor": "Beach access, summer holidays, surfing culture, relaxed atmosphere, families",
+      "priceRange": "¥4,000–¥20,000 ($27–$133)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "K's House Kamakura",
+      "type": "Hostel",
+      "priceRange": "¥2,800–¥4,500 ($19–$30)",
+      "description": "The Kamakura branch of Japan's K's House hostel chain, in a renovated traditional building near Kamakura Station. Mix of dorms and private rooms, social atmosphere, bicycle rental available. Excellent base for temple hopping and early morning visits before the crowds arrive."
+    },
+    {
+      "name": "Yuigahama Hotel",
+      "type": "Small guesthouse",
+      "priceRange": "¥4,500–¥9,000 ($30–$60)",
+      "description": "A small, casual guesthouse near Yuigahama beach with simple Japanese and Western rooms. Popular with surfers and beach visitors in summer, and hikers exploring the temple trails year-round. Communal areas encourage interaction between guests."
+    },
+    {
+      "name": "Kamakura Guesthouse",
+      "type": "Traditional guesthouse",
+      "priceRange": "¥3,500–¥7,000 ($23–$47)",
+      "description": "A small guesthouse in a traditional building near Kamakura Station offering simple but authentic accommodation. Futon on tatami mats, shared bath, and a communal kitchen create an authentic Japanese homestay atmosphere."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Hotel Metropolitan Kamakura",
+      "type": "Mid-range hotel",
+      "priceRange": "¥12,000–¥25,000 ($80–$167)",
+      "description": "A comfortable and well-positioned hotel in central Kamakura with easy access to major sights. The Metropolitan chain maintains consistently high standards across Japan. Rooms are clean and modern by Japanese hotel standards, with a good restaurant on site."
+    },
+    {
+      "name": "WeBase Kamakura",
+      "type": "Modern hybrid hostel/hotel",
+      "priceRange": "¥5,000–¥15,000 ($33–$100)",
+      "description": "A contemporary accommodation concept combining private hotel rooms with hostel common areas, 3 minutes walk from Yuigahama Station. Breakfast from the renowned bakery Liberte is included. Popular with both solo travelers and couples seeking a social atmosphere without full dormitory accommodation."
+    },
+    {
+      "name": "Kamakura Prince Hotel",
+      "type": "Seaside hotel",
+      "priceRange": "¥18,000–¥40,000 ($120–$267)",
+      "description": "Overlooking Shichirigahama beach with panoramic ocean views, this Prince Hotel offers some of the most scenic accommodation in the Kamakura area. The terrace restaurant and ocean view rooms make it particularly special in clear weather when Mount Fuji is visible across the bay."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "Terrace Inn Kamakura",
+      "type": "Boutique luxury inn",
+      "priceRange": "¥20,000–¥50,000 ($133–$333) per person",
+      "description": "A small, refined boutique inn near Kamakura's eastern temples with beautifully decorated Japanese-style rooms, private garden, and meticulous hospitality. The kaiseki-style dinners feature locally sourced Kamakura vegetables and Sagami Bay seafood."
+    },
+    {
+      "name": "Relais & Chateaux Property (Inamuragasaki area)",
+      "type": "Luxury boutique resort",
+      "priceRange": "¥40,000–¥80,000 ($267–$533)",
+      "description": "The Inamuragasaki area on the Kamakura coast has attracted a small cluster of high-end boutique hotels and inns with ocean views. These properties combine Western luxury standards with Japanese hospitality in a uniquely scenic coastal setting."
+    }
+  ],
+  "bookingTips": [
+    "Kamakura is typically visited as a day trip from Tokyo (50 minutes on JR Yokosuka Line). Staying overnight specifically for the early morning temple experience is the key reason to book accommodation here.",
+    "The best time to be at Kamakura's temples is before 8:30am — Tsurugaoka Hachimangu, Engaku-ji, and the Great Buddha area are virtually empty before the 10am tourist rush. An overnight stay makes this possible.",
+    "Weekend accommodation in Kamakura fills quickly during spring (cherry blossom) and hydrangea season (June). Book 4–6 weeks ahead for weekend stays during these periods.",
+    "The Enoden (Enoshima Electric Railway) day pass (¥800) is the best way to move between accommodation areas — it connects Kamakura Station, Hase (Great Buddha area), and Yuigahama beach.",
+    "If day-tripping from Tokyo, book the 7:12am Yokosuka Line from Tokyo Station for arrival at 8:05am — you will have Tsurugaoka Hachimangu and Engaku-ji to yourself for nearly two hours.",
+    "Guesthouses and smaller inns in Kamakura rarely have English-speaking staff but are accustomed to foreign visitors. A booking through a major platform (Booking.com, Expedia) generally ensures smooth communication."
+  ],
+  "sources": [
+    { "name": "Live Japan — Where to Stay in Kamakura", "url": "https://livejapan.com/en/in-tokyo/in-pref-kanagawa/in-kamakura/article-a0005180/" },
+    { "name": "Matcha JP — Kamakura Hotels", "url": "https://matcha-jp.com/en/17289" },
+    { "name": "The Hotel Guru — Kamakura", "url": "https://www.thehotelguru.com/best-hotels-in/japan/kamakura" }
+  ]
+}

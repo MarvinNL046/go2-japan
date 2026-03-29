@@ -1,0 +1,116 @@
+{
+  "slug": "nikko",
+  "city": "Nikko",
+  "introduction": "Two hours north of Tokyo in the mountains of Tochigi Prefecture, Nikko is home to one of Japan's most lavishly decorated religious complexes: the Tosho-gu mausoleum-shrine built in 1617 to honour Tokugawa Ieyasu, the founder of the Tokugawa Shogunate that ruled Japan for 265 years. The UNESCO World Heritage site encompasses the Tosho-gu, Futarasan Shrine, and Rinnoji Temple complex, all set within ancient cedar forests on mountain slopes. Beyond the shrine complex, the Nikko National Park offers extraordinary waterfalls (the 97-metre Kegon Falls), mountain lakes (Lake Chuzenji), volcanic hot springs, and some of Japan's finest autumn foliage in October and November. The Tosho-gu's Grand Festivals in May and October feature thousand-person Edo-period processions of extraordinary historical spectacle.",
+  "topAttractions": [
+    {
+      "name": "Tosho-gu Shrine",
+      "japaneseName": "日光東照宮",
+      "description": "The mausoleum-shrine of Tokugawa Ieyasu, founder of the Tokugawa Shogunate that unified and governed Japan from 1603 to 1868, is one of Japan's most ornately decorated religious structures — so lavish that subsequent shoguns deliberately chose simpler designs to avoid comparison. The entire complex was constructed in 1617 with materials from across Japan, featuring 508 intricate wood carvings on the Yomeimon Gate alone, gilded surfaces, detailed paintings, and the famous Three Wise Monkeys carving on the Sacred Stable building. The innermost Okumiya sanctuary, accessed via 207 stone steps through ancient cedar forest, houses Ieyasu's actual tomb.",
+      "address": "2301 Sannai, Nikko, Tochigi",
+      "openingHours": "April–October: 8:00–17:00 (last entry 16:00); November–March: 8:00–16:00 (last entry 15:00)",
+      "admission": "¥1,300 adults, ¥450 children (Tosho-gu and Treasure House). Combined with Treasure Museum: ¥2,100",
+      "duration": "1.5–2 hours",
+      "tips": "The Yomeimon Gate ('Gate of Sunlight') was deliberately left with one pillar installed upside down — deliberate imperfection to avoid invoking the jealousy of the gods. The Three Wise Monkeys carving is on the Sacred Horse Stable (Shinkyu) — the original source of the famous concept. The okusha inner shrine at the top of the cedar staircase is particularly powerful."
+    },
+    {
+      "name": "Kegon Falls",
+      "japaneseName": "華厳の滝",
+      "description": "Japan's most famous waterfall drops 97 metres from the overflow of Lake Chuzenji, appearing as a single powerful column of white water plunging through a rocky gorge flanked by twelve smaller falls. An elevator descends 100 metres to an observation platform at the base, allowing close-range views of the thundering water and the spray-cloud it creates. In winter, the falls partially freeze in formations of ice pillars and chandeliers. Spring snowmelt brings the largest water volume; autumn foliage frames the falls in red and gold.",
+      "address": "Chugushi, Nikko, Tochigi",
+      "openingHours": "November–March: 9:00–16:30; April–October: 8:00–17:00",
+      "admission": "Observation elevator: ¥570 adults, ¥340 children (free deck: ¥0)",
+      "duration": "45 minutes",
+      "tips": "The free outdoor observation deck gives perfectly good views without the elevator cost. The elevator is worth it for the close base-level views and to see the twelve smaller falls only visible from the bottom. Arrive at opening to beat tour groups. The walk from Lake Chuzenji along the lakeside to the falls is beautiful."
+    },
+    {
+      "name": "Lake Chuzenji",
+      "japaneseName": "中禅寺湖",
+      "description": "A crater lake at 1,270 metres altitude formed 20,000 years ago by the lava flow of Mount Nantai, Lake Chuzenji is the source of Kegon Falls and surrounded by forested mountain slopes. The lake's clarity is exceptional — visibility to 8 metres — and the surrounding mountains including 2,486-metre Nantai-san (climbable July 1–November 11) provide dramatic backdrops. The Irohazaka switchback road (48 hairpin bends ascending 440 metres in 9km) connecting the valley town to the lakeside plateau is itself a celebrated autumn foliage destination.",
+      "address": "Chugushi, Nikko, Tochigi (lakeside)",
+      "openingHours": "Always accessible",
+      "admission": "Free (boat rental and cruises charged separately)",
+      "duration": "2 hours for lakeside walks",
+      "tips": "The boat cruises on the lake provide the best mountain reflections and Nantai-san views. The Irohazaka road is severely congested on autumn weekends (October–November) — take buses instead of driving. The Italian Villa Museum on the lakeside (former summer embassy residence) is architecturally interesting."
+    },
+    {
+      "name": "Rinnoji Temple",
+      "japaneseName": "輪王寺",
+      "description": "Nikko's oldest temple, founded in 766 AD by the Buddhist monk Shodo Shonin, anchors the religious complex that precedes even the Tosho-gu by 850 years. The main hall (Sanbutsudo) houses three gilt standing Buddhas each 7–8 metres high — representing the three deities of Nikko's sacred mountain. The Shoyo-en stroll garden is one of Kanto's finest, with the mountain peaks reflected in its central pond. The Treasure House (Homotsuden) contains hundreds of cultural assets and National Treasures accumulated over 1,200 years of temple history.",
+      "address": "2300 Sannai, Nikko, Tochigi",
+      "openingHours": "April–October: 8:00–17:00; November–March: 8:00–16:00",
+      "admission": "¥400 adults, ¥200 children (Sanbutsudo). Shoyo-en garden: ¥200",
+      "duration": "1 hour",
+      "tips": "The Shoyo-en garden is particularly beautiful in autumn with mountain reflections. The temple is directly adjacent to the Tosho-gu and Futarasan Shrine — the three major sites form a single complex best explored together."
+    },
+    {
+      "name": "Cedar Avenue (Nikko Sugi Namiki)",
+      "japaneseName": "日光杉並木",
+      "description": "One of the longest tree-lined avenues in the world, 37km of sugi (Japanese cedar) trees planted along the roads approaching Nikko from three directions between 1629 and 1651 as a pious gift to Tosho-gu by the feudal lord Matsudaira Masatsuna, who could not afford materials for the shrine itself. The trees, now over 370 years old, average 27 metres in height with immense girth, creating cathedral-like green tunnels. The trees are designated National Natural Monuments. The main avenue approach from Niko town centre to the shrine complex is 2km of ancient cedar.",
+      "address": "Nikko, Tochigi (approach roads to Tosho-gu)",
+      "openingHours": "Always accessible",
+      "admission": "Free",
+      "duration": "30–45 minutes walk",
+      "tips": "The dawn approach along the main cedar avenue — before tour buses arrive — is one of Japan's most atmospheric walks. The massive Ichi-no-torii red torii gate at the start of the main avenue marks the beginning of the sacred approach. The avenue smells extraordinary after rain."
+    },
+    {
+      "name": "Yumoto Onsen",
+      "japaneseName": "湯元温泉",
+      "description": "The highest altitude hot spring resort in the Nikko National Park (1,478m), on the shores of Lake Yunoko, Yumoto is a quiet collection of traditional ryokan centred on an outdoor hot spring pool visible from the road. The area's source spring (Yu-ike) is a boiling sulphur pond where geothermal water emerges at 75°C in a reed-surrounded meadow. In summer, the highland plateau is covered in wildflowers; in October, the surrounding forest blazes with early Kanto autumn colour. The Yunoko lake in early morning mist is deeply atmospheric.",
+      "address": "Yumoto, Nikko, Tochigi",
+      "openingHours": "Ryokan day bathing typically 10:00–15:00",
+      "admission": "Day bathing at ryokan: ¥500–1,500",
+      "duration": "2 hours (plus travel time from Nikko town)",
+      "tips": "The 30-minute Yu-no-lake trail around Lake Yunoko is a beautiful autumn walk. The Yumoto onsen water is highly sulphurous — the distinctive smell is normal and the water quality is excellent. Bus from Chuzenji takes 40 minutes."
+    },
+    {
+      "name": "Futarasan Shrine",
+      "japaneseName": "二荒山神社",
+      "description": "Co-listed with Tosho-gu as a UNESCO World Heritage site, Futarasan Shrine is Nikko's oldest shrine and the spiritual protector of Mount Nantai, the region's sacred volcanic peak. Founded in 782 AD by the monk Shodo Shonin following his legendary first ascent of Mount Nantai, the shrine enshrines the mountain's deity and those of Mounts Nyoho and Taro. The main hall, Karamon (Chinese-style gate), and Betto-in sub-temple are National Treasures. The sacred spring water ('Mitarashi-sui') flowing from the shrine grounds is believed to have protective powers.",
+      "address": "2307 Sannai, Nikko, Tochigi",
+      "openingHours": "April–October: 8:00–17:00; November–March: 8:00–16:00",
+      "admission": "¥300 adults, ¥100 children",
+      "duration": "45 minutes",
+      "tips": "Futarasan is directly adjacent to Tosho-gu and often rushed by visitors focused on the latter — spend proper time here, as the atmosphere is significantly more serene. The New Year midnight bell-ringing ceremony draws large local crowds on December 31–January 1."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Takinoo Shrine",
+      "description": "A small isolated shrine hidden deep in cedar forest above the main shrine complex, accessible via a 20-minute forest path from Futarasan Shrine, dedicated to the goddess of luck and matchmaking.",
+      "whyVisit": "Virtually no foreign visitors find this atmospheric shrine — the forest walk is beautiful and the small vermilion buildings in deep cedar shade are extraordinarily peaceful."
+    },
+    {
+      "name": "Ryuzu Falls",
+      "description": "A 210-metre cascade above Lake Chuzenji where the Yukawa River drops in two streams over a large boulder resembling a dragon's head, framed by spectacular maple trees in autumn.",
+      "whyVisit": "More dramatic than Kegon Falls for autumn colour photography — the bridge over the falls at peak October foliage is one of Kanto's finest autumn scenes, with significantly fewer visitors."
+    },
+    {
+      "name": "Kanman-ga-fuchi Abyss",
+      "description": "A basalt canyon carved by an ancient lava flow from Mount Nantai, where the Daiya River rushes through a narrow gorge lined with 70+ stone Jizo statues in various states of mossy decay.",
+      "whyVisit": "The most atmospheric 30-minute walk in Nikko — completely free, usually uncrowded, and combining dramatic geological scenery with a procession of ancient stone guardian figures that feel genuinely ancient."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Mashiko Pottery Village",
+      "description": "Famous pottery town 40km east of Nikko where Hamada Shoji established Japan's most important folk-craft pottery tradition — studios and kilns open to visitors with excellent pieces available to purchase.",
+      "distance": "40km east",
+      "duration": "Full day",
+      "transport": "Bus from Utsunomiya (40 min)"
+    },
+    {
+      "name": "Nasu Highland Plateau",
+      "description": "A volcanic highland plateau with hot springs, highland ranch experiences, safari parks, and dramatic mountain scenery — popular with Japanese families.",
+      "distance": "50km north",
+      "duration": "Full day",
+      "transport": "JR Tohoku Shinkansen to Nasu-Shiobara (30 min from Utsunomiya)"
+    }
+  ],
+  "sources": [
+    { "name": "Visit Nikko Official", "url": "https://www.visitnikko.jp/en/" },
+    { "name": "Tosho-gu Official", "url": "https://www.toshogu.jp/english/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" },
+    { "name": "Nikko Tourism Association", "url": "https://nikko-kanko.com/en/" }
+  ]
+}

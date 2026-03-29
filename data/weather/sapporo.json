@@ -1,0 +1,141 @@
+{
+  "slug": "sapporo",
+  "city": "Sapporo",
+  "climate_overview": "Sapporo is one of the snowiest cities in the world, receiving over 4.8 metres of snowfall annually. The Hokkaido capital has a semi-continental climate with long, cold winters (December–March) and warm, surprisingly pleasant summers that lack the humidity plaguing the rest of Japan. There is no tsuyu rainy season in Hokkaido, making June and early July particularly delightful. The famous Sapporo Snow Festival in February attracts millions. Summers see lavender fields bloom in nearby Furano in July. Autumn foliage begins early — late September through October — making Hokkaido one of Japan's first autumn destinations each year.",
+  "best_months": ["June", "July", "August", "September", "October"],
+  "avoid_months": ["January", "February", "March"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": -1,
+      "temp_low": -8,
+      "rainfall_mm": 115,
+      "humidity": 74,
+      "description": "January brings bitterly cold temperatures and heavy snowfall — Sapporo is one of the world's snowiest cities. The entire city transforms into a winter wonderland, with mountains of snow lining every street. However, the Sapporo Snow Festival in early February is the main winter draw, with preparations visible in January. Powder skiing at Niseko, Rusutsu, and Furano are world-class. The indoor malls, ramen shops, and the Sapporo Underground Walking Space keep the city fully functional despite heavy snow. Not for the cold-averse.",
+      "activities": ["Powder skiing at Niseko or Rusutsu", "Indoor shopping underground", "Sapporo ramen Yokocho", "Snow Festival preparations"],
+      "events": ["New Year at Hokkaido Jingu", "Ice skating at Odori Park", "Pre-Snow Festival events"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "february": {
+      "temp_high": -1,
+      "temp_low": -9,
+      "rainfall_mm": 94,
+      "humidity": 72,
+      "description": "February is Sapporo's coldest month but also its most famous event month. The Sapporo Snow Festival (first week of February) fills Odori Park and Susukino with extraordinary ice sculptures — some the size of buildings — and transforms the city into a global tourist destination. Hundreds of sculptures range from replicas of world monuments to fantasy castles, all lit at night. Crowds are enormous during the festival. Skiing at nearby resorts is exceptional with perfect powder conditions. Dress in serious thermal layers.",
+      "activities": ["Sapporo Snow Festival", "Ice sculpture viewing at night", "Powder skiing day trips", "Warm ramen after outdoor events"],
+      "events": ["Sapporo Snow Festival (first week of February)", "Ice sculptures at Susukino", "Otaru Snow Light Path festival"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "march": {
+      "temp_high": 3,
+      "temp_low": -6,
+      "rainfall_mm": 67,
+      "humidity": 68,
+      "description": "March remains cold with continued snowfall through the first half, then a dramatic transition toward spring in the second half. The snowpack begins melting rapidly, revealing city streets and beginning the gradual spring thaw. Snow slopes remain excellent for skiing through mid-March. First signs of spring — buds on trees, snowdrops — appear by month's end. Tourist numbers drop significantly after the Snow Festival, offering good value. The dramatic thaw and resulting rushing meltwater streams through the city create their own visual spectacle.",
+      "activities": ["Late season skiing", "Spring thaw photography", "Hokkaido Shrine visit", "Sapporo Beer Museum"],
+      "events": ["Late ski season at resorts", "Spring thaw begins", "Sapporo International Short Film Festival"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "april": {
+      "temp_high": 10,
+      "temp_low": -1,
+      "rainfall_mm": 57,
+      "humidity": 62,
+      "description": "April brings spring to Sapporo with cherry blossoms arriving 2–3 weeks later than Honshu due to the cold climate. The Maruyama Park cherry blossom season typically peaks in late April to early May — magnificent late-season sakura viewing for those who missed it on Honshu. The city emerges from winter with tremendous energy. Tulips and spring flowers begin appearing in Nakajima Park. Ski resorts in the mountains may still be operating in early April. The Sapporo Marathon and outdoor sports season begins.",
+      "activities": ["Late cherry blossom viewing", "Maruyama Park hanami", "Spring outdoor exploration", "Hokkaido Museum visit"],
+      "events": ["Late cherry blossom season (late April/early May)", "Sapporo Marathon preparations", "Spring opening of outdoor parks"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "may": {
+      "temp_high": 18,
+      "temp_low": 5,
+      "rainfall_mm": 64,
+      "humidity": 62,
+      "description": "May is one of Sapporo's most pleasant months. Temperatures are comfortably warm without the humidity of mainland Japan, cherry blossoms peak in early May (extended Golden Week season), and the city's parks burst with tulips and spring flowers. Hokkaido has no rainy season — this is a significant advantage over all other major Japanese destinations. Golden Week brings many visitors from Honshu escaping the crowds of popular mainland sites. The surrounding countryside becomes green and beautiful for cycling and hiking.",
+      "activities": ["Cherry blossom peak (early May)", "Odori Park tulip festival", "Day trips to countryside farms", "Cycling in emerging greenery"],
+      "events": ["Cherry blossom peak at Maruyama", "Golden Week (April 29–May 5)", "Lilac Festival (late May)", "Sapporo Odori Park opening"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "june": {
+      "temp_high": 22,
+      "temp_low": 12,
+      "rainfall_mm": 68,
+      "humidity": 68,
+      "description": "June is one of Sapporo's finest months and a secret gem for travellers who discover that Hokkaido has no rainy season. While the rest of Japan suffers under tsuyu, Sapporo offers comfortable, clear weather with temperatures of 20–22°C — ideal for outdoor exploration. Lilac Festival takes place in late May/early June at Odori Park. Lavender begins blooming in Furano (1.5 hours south) from late June. The city is energetic without the humidity that makes mainland Japan uncomfortable in summer. An underrated time to visit.",
+      "activities": ["Furano lavender early season", "Odori Park lilac festival", "Summer outdoor dining", "Cycling the Hokkaido countryside"],
+      "events": ["Sapporo Lilac Festival", "YOSAKOI Soran Festival (June)", "Lavender season begins at Furano"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "july": {
+      "temp_high": 26,
+      "temp_low": 18,
+      "rainfall_mm": 82,
+      "humidity": 74,
+      "description": "July brings Hokkaido's peak summer season with warm, pleasant temperatures of 24–26°C and no oppressive humidity — a revelation compared to mainland Japan at the same time. Furano's lavender fields reach full bloom, creating purple carpet hillsides that are one of Japan's most photographed landscapes. The YOSAKOI Soran Festival (if not June) brings thousands of costumed dancers to Odori Park. Biei's patchwork hills in summer colours and the Hokkaido countryside cycling season are at their finest.",
+      "activities": ["Furano lavender peak bloom", "Biei blue pond and patchwork hills", "Hokkaido cycling tours", "Outdoor beer gardens"],
+      "events": ["Furano lavender peak (early-mid July)", "Sapporo Summer Festival", "Hokkaido Beer Garden Festival (Odori Park)"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "august": {
+      "temp_high": 27,
+      "temp_low": 20,
+      "rainfall_mm": 140,
+      "humidity": 76,
+      "description": "August is Sapporo's warmest month and peak summer season. The city hosts massive beer gardens in Odori Park through mid-August — the Sapporo Summer Festival beer garden is one of the largest in the world, with thousands of seats under giant LED-lit trees. Obon holidays in mid-August mean temporary crowd reductions in the city. Hokkaido's countryside is at its greenest and most beautiful. The wettest month of the summer, but rainfall comes in manageable afternoon showers rather than persistent rainy-season drizzle.",
+      "activities": ["Odori Park beer gardens", "Furano sunflower fields", "Obon festivals", "Lake Toya and Noboribetsu day trips"],
+      "events": ["Sapporo Summer Festival beer gardens (July–August)", "Obon (mid-August)", "Hokkaido countryside farm festivals"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "september": {
+      "temp_high": 22,
+      "temp_low": 13,
+      "rainfall_mm": 130,
+      "humidity": 72,
+      "description": "September marks the beginning of Hokkaido's extraordinary autumn foliage season — beginning 4–6 weeks earlier than the rest of Japan. High mountain areas like Daisetsuzan National Park begin turning brilliant scarlet and gold from mid-September. This early autumn timing makes Hokkaido unique in Japan and draws foliage chasers who want to experience the season across the country by starting in the north and working south. Temperatures are ideal for hiking. Crowds are moderate and accommodation excellent value.",
+      "activities": ["Early autumn foliage at Daisetsuzan", "Mountain hiking in colour change", "Lake Akan reflections", "Photography tours"],
+      "events": ["Daisetsuzan National Park early foliage (mid-September)", "Autumnal Equinox", "Hokkaido harvest food festivals"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "october": {
+      "temp_high": 15,
+      "temp_low": 7,
+      "rainfall_mm": 118,
+      "humidity": 72,
+      "description": "October brings Sapporo's peak autumn foliage season, with the city's parks and the surrounding mountains in full colour. Hokkaido University's ginkgo tree promenade turns brilliant gold — one of the most beautiful autumn scenes in northern Japan. Maruyama Park and Hokkaido Shrine grounds are magnificent in autumn colour. Jozankei Hot Spring (one hour south) is spectacularly framed by red and orange mountain slopes. Temperatures can be cool, particularly at night. Light jacket or fleece essential for evening outings.",
+      "activities": ["Hokkaido University ginkgo promenade", "Jozankei autumn foliage onsen", "Maruyama Park maple viewing", "Daisetsuzan hiking"],
+      "events": ["Peak Sapporo autumn foliage", "Hokkaido University ginkgo season", "Autumn food festivals"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "november": {
+      "temp_high": 7,
+      "temp_low": 0,
+      "rainfall_mm": 103,
+      "humidity": 74,
+      "description": "November brings Sapporo's rapid transition into winter, with the first substantial snowfalls typically arriving mid-month and transforming the city white. Early November still has the tail of autumn colour and is very pleasant for those who accept some cold risk. The famous Sapporo Autumn Fest in Odori Park (October into early November) celebrates Hokkaido's extraordinary food culture with regional producers and restaurants. By month's end, ski resorts are preparing to open and the city shifts into winter mode.",
+      "activities": ["Late autumn foliage early November", "Sapporo Autumn Fest", "Pre-ski resort season", "First snow photography"],
+      "events": ["Sapporo Autumn Fest (October–November)", "First snowfall", "Ski resort pre-opening"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "december": {
+      "temp_high": 2,
+      "temp_low": -5,
+      "rainfall_mm": 136,
+      "humidity": 76,
+      "description": "December brings Sapporo fully into winter with heavy snowfall, ski resorts opening, and the city taking on its famous snow-city character. The Sapporo White Illumination festival on Odori Park and Ekimae-dori street turns the snow-covered city into a sparkling winter spectacle. Christmas is celebrated with markets and illuminations. Year-end parties fill the Susukino entertainment district. Ski resorts at Niseko, Rusutsu, and Furano typically open in December with powder that draws skiers from around the world.",
+      "activities": ["Sapporo White Illumination", "Ski season opening at Niseko", "Winter hot pot dining", "Christmas illuminations"],
+      "events": ["Sapporo White Illumination (November–December)", "Ski resorts open (mid-December)", "Christmas markets", "New Year countdown"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    }
+  }
+}

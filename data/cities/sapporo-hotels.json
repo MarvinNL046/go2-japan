@@ -1,0 +1,104 @@
+{
+  "slug": "sapporo",
+  "cityName": "Sapporo",
+  "introduction": "Sapporo is one of Japan's most livable and accessible cities for international visitors, with a grid-based street layout inherited from its Meiji-era American-influenced city planning that makes navigation intuitive. Accommodation is concentrated in three main areas: the Susukino entertainment district (best for food and nightlife), the Odori Park central area (best for sightseeing and balance), and the Sapporo Station area (best for transport connections). Hotels in Sapporo offer exceptional value compared to Tokyo or Osaka — well-appointed mid-range properties are widely available at ¥8,000–¥15,000 per room. The winter season (November–March) transforms Sapporo into Japan's premier ski and snow festival destination: the February Snow Festival draws 2 million visitors and requires booking many months in advance. Summer in Sapporo is surprisingly warm and pleasant, with the city's parks and beer gardens at their best. The proximity to excellent ski resorts (Niseko, Furano) and hot spring towns makes Sapporo an ideal Hokkaido base.",
+  "bestAreas": [
+    {
+      "name": "Susukino",
+      "description": "Sapporo's vibrant entertainment and nightlife district, famous for its ramen alleys, izakaya, jingisukan restaurants, and neon-lit streets. The highest concentration of food and drinking establishments in Hokkaido. Hotels here range from capsule options to mid-range business hotels. Best for food lovers and night owls.",
+      "bestFor": "Ramen, izakaya, yatai-style bars, late-night dining, food tourism, nightlife",
+      "priceRange": "¥3,500–¥30,000 ($23–$200)"
+    },
+    {
+      "name": "Odori Park Area",
+      "description": "The central green axis running east-west through Sapporo, the site of the Snow Festival in February and the Beer Garden in summer. Staying near Odori Park provides the most balanced position in the city — equidistant from Sapporo Station and Susukino, with multiple subway access points. Best for first-time Sapporo visitors.",
+      "bestFor": "First-time visitors, Snow Festival access, balanced location, Sapporo Clock Tower",
+      "priceRange": "¥5,000–¥50,000 ($33–$333)"
+    },
+    {
+      "name": "Sapporo Station (Kita ward)",
+      "description": "The main transport hub connecting Sapporo to New Chitose Airport (37 minutes by Limited Express), Hokkaido's railway network, and day trip buses to Niseko, Furano, and other Hokkaido destinations. The station's underground shopping complex and multiple department stores create a self-contained hub.",
+      "bestFor": "Transit connections, airport access, ski resort day trips, Hokkaido exploration",
+      "priceRange": "¥5,000–¥60,000 ($33–$400)"
+    },
+    {
+      "name": "Nakajima Park",
+      "description": "A quieter, more residential area south of Susukino, centered around the beautiful Nakajima Park with its historical Hasso-an tea house. Several smaller ryokan and boutique hotels offer a more peaceful atmosphere than the entertainment districts while maintaining easy subway access.",
+      "bestFor": "Quiet atmosphere, ryokan experience, park setting, couples, longer stays",
+      "priceRange": "¥6,000–¥40,000 ($40–$267)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Sapporo International Youth Hostel",
+      "type": "Youth hostel",
+      "priceRange": "¥2,800–¥4,500 ($19–$30)",
+      "description": "Sapporo's main YHA-affiliated hostel, a 10-minute walk from Sapporo Station, with clean dormitories, a communal kitchen, and Japanese breakfast service. The organized atmosphere and helpful English-speaking staff make it an excellent budget base."
+    },
+    {
+      "name": "Sotetsu Fresa Inn Sapporo-Susukino",
+      "type": "Budget business hotel",
+      "priceRange": "¥6,500–¥11,000 ($43–$73)",
+      "description": "A well-reviewed budget business hotel in the Susukino entertainment district. Modern rooms, efficient service, and a superb location for food exploration. Part of a reliable national chain with consistent quality standards."
+    },
+    {
+      "name": "Capsule Hotel Sapporo (multiple)",
+      "type": "Capsule hotel",
+      "priceRange": "¥2,800–¥5,000 ($19–$33)",
+      "description": "Several well-run capsule hotels operate near Susukino and Sapporo Station, many with excellent communal bath facilities using Hokkaido hot spring water. Dormy Inn Sapporo Annex offers traditional-style large bath facilities at budget prices."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Tmark City Hotel Sapporo Odori",
+      "type": "Business hotel",
+      "priceRange": "¥8,000–¥16,000 ($53–$107)",
+      "description": "A modern, well-positioned mid-range hotel a short walk from Odori Park and the subway. Clean, functional rooms with comfortable beds and reliable WiFi. One of the best value-to-location ratios in central Sapporo."
+    },
+    {
+      "name": "Dormy Inn Premium Sapporo",
+      "type": "Business hotel with onsen",
+      "priceRange": "¥10,000–¥20,000 ($67–$133)",
+      "description": "The flagship Dormy Inn property in Sapporo, with a large communal hot spring bath using Hokkaido natural mineral water, a late-night ramen service, and spacious (by Japanese standards) rooms. Consistently rated one of Sapporo's best mid-range hotels."
+    },
+    {
+      "name": "Hotel Keihan Sapporo",
+      "type": "Mid-range hotel",
+      "priceRange": "¥9,000–¥18,000 ($60–$120)",
+      "description": "A comfortable mid-range option near Sapporo Station operated by the Kyoto-based Keihan group. Japanese-style communal bath, comfortable rooms, and a breakfast buffet featuring Hokkaido dairy products, seafood, and soup curry options."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "JR Tower Hotel Nikko Sapporo",
+      "type": "Luxury hotel",
+      "priceRange": "¥20,000–¥60,000 ($133–$400)",
+      "description": "Occupying the upper floors of the JR Tower above Sapporo Station, the Nikko offers panoramic views of the city and Hokkaido mountains from floors 22–35. The Sky J restaurant on floor 35 and the large pool and spa facilities make it Sapporo's most complete luxury hotel experience."
+    },
+    {
+      "name": "Sapporo Grand Hotel",
+      "type": "Historic luxury hotel",
+      "priceRange": "¥18,000–¥45,000 ($120–$300)",
+      "description": "Opened in 1934, the Grand Hotel is Sapporo's most historic Western-style hotel, a Meiji-era landmark in the heart of the city between Odori Park and Susukino. The main building retains period architectural character; the East Wing offers modern rooms. Multiple restaurants including a Sapporo institution."
+    },
+    {
+      "name": "Onsen Ryokan in Jozankei (30 min from Sapporo)",
+      "type": "Luxury onsen ryokan",
+      "priceRange": "¥20,000–¥60,000 ($133–$400) per person with meals",
+      "description": "Jozankei Onsen, 30 minutes south of Sapporo by bus, is Hokkaido's most celebrated hot spring resort. Several luxury ryokan — including Daiichi Takimotokan and Hoshino Resorts Kai Jozankei — offer the full ryokan experience with Hokkaido kaiseki dinners and outdoor hot spring baths in a mountain river valley."
+    }
+  ],
+  "bookingTips": [
+    "The Sapporo Snow Festival (first week of February) is one of Japan's most popular events — accommodation in all of Sapporo sells out months in advance. Book 4–6 months ahead minimum for Festival dates.",
+    "Winter visitors who plan to ski at Niseko or Furano should note that Sapporo's central hotels are less convenient than Niseko village accommodation for skiing. Consider whether Sapporo is better as a base or as a single-night gateway.",
+    "New Chitose Airport is 37 minutes from Sapporo Station by airport Limited Express (¥1,150) — the most straightforward airport-to-city connection outside Tokyo. Staying near Sapporo Station eliminates the need for a taxi.",
+    "Sapporo's mid-range hotels offer exceptional value compared to Tokyo equivalents — budget an extra ¥5,000–¥8,000 per night over what you'd spend on Tokyo mid-range for noticeably better rooms.",
+    "Jozankei Onsen (30 min by bus from Sapporo Station) offers the ryokan experience accessible from the city without needing to travel far into Hokkaido. Book one night here as a complement to city-based Sapporo stays.",
+    "Summer visitors (June–August) enjoy Sapporo's beer gardens — several operate outdoors in Odori Park and near the Sapporo Brewery. Hotel proximity to Odori Park is a genuine advantage in summer."
+  ],
+  "sources": [
+    { "name": "Sapporo Station — Where to Stay Guide", "url": "https://www.sapporostation.com/where-to-stay-in-sapporo-guide-to-the-best-locations/" },
+    { "name": "Get Lost in Japan — Sapporo", "url": "https://getlostinjapan.com/where-to-stay-in-sapporo/" },
+    { "name": "Miss Tourist — Sapporo Hotels", "url": "https://misstourist.com/where-to-stay-in-sapporo-japan/" }
+  ]
+}

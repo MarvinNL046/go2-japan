@@ -1,0 +1,165 @@
+{
+  "slug": "tokyo",
+  "city": "Tokyo",
+  "introduction": "Tokyo is a city of infinite layers — a place where a 1,400-year-old temple stands beside a neon-lit electronics district, and where the world's greatest concentration of Michelin-starred restaurants shares space with ¥500 ramen counters. With over 37 million people in its metropolitan area, Tokyo is the world's largest city, yet it operates with remarkable calm and order. From the sacred quiet of Meiji Shrine's forested precinct to the dizzying energy of Shibuya Crossing, from ancient Asakusa's temple market to the futuristic teamLab digital art museums, Tokyo rewards explorers willing to venture beyond the obvious. Every neighbourhood has its own distinct personality, making this a city you could return to a dozen times and still discover new worlds.",
+  "topAttractions": [
+    {
+      "name": "Senso-ji Temple",
+      "japaneseName": "浅草寺",
+      "description": "Tokyo's oldest and most visited temple, founded in 628 AD, anchors the historic Asakusa neighbourhood with magnificent drama. The approach through the iconic Kaminarimon (Thunder Gate) with its 700kg red lantern leads along Nakamise-dori, a 250-metre street of traditional craft and sweet stalls that has been operating for 300 years. The main hall enshrines a tiny golden image of Kannon — goddess of mercy — and welcomes millions of visitors annually regardless of religion. The five-storied pagoda, the adjacent Asakusa Shrine (one of Tokyo's rare original Edo-period wooden structures), and the morning incense rituals make dawn visits particularly moving.",
+      "address": "2-3-1 Asakusa, Taito-ku, Tokyo",
+      "openingHours": "Temple grounds: always open. Main hall: 6:00–17:00 (October–March 6:30–17:00)",
+      "admission": "Free",
+      "duration": "1–2 hours",
+      "tips": "Visit before 8am to experience the temple in near-solitude. The rickshaw rides start from outside Kaminarimon. Don't miss the Nakamise street food — ningyo-yaki cakes and agemanju fried buns are the local specialties."
+    },
+    {
+      "name": "Shibuya Scramble Crossing",
+      "japaneseName": "渋谷スクランブル交差点",
+      "description": "The world's busiest pedestrian crossing turns an everyday act of walking into a spectacle of urban choreography. At peak times during evening rush hour, up to 3,000 people cross simultaneously from five directions, yet somehow navigate without collision — a demonstration of Tokyo's social precision. The crossing is best experienced at street level first (the sensory experience of being swept along in the crowd is memorable), then from above at the Shibuya Sky observation deck, Starbucks Reserve Roastery, or Mag's Park. The surrounding area — including the famous Hachiko statue memorial (a loyal dog who waited for his deceased owner at this station for nine years) — is one of Tokyo's most important social gathering points.",
+      "address": "Shibuya Station East Exit, Shibuya, Tokyo",
+      "openingHours": "Always accessible (24/7)",
+      "admission": "Free",
+      "duration": "30 minutes–1 hour",
+      "tips": "Friday and Saturday evenings from 7–9pm have the highest crossing volumes. For overhead photography, the Mag's Park rooftop on the Shibuya Hikarie building is free and has excellent angles. The Hachiko statue is around the corner from the Hachiko exit of the station."
+    },
+    {
+      "name": "Meiji Jingu Shrine",
+      "japaneseName": "明治神宮",
+      "description": "One of Japan's most important Shinto shrines, dedicated to Emperor Meiji and Empress Shoken, occupies 70 hectares of forested land in the heart of Harajuku — a verdant sanctuary that feels miles from the urban jungle surrounding it. The approach along wide gravel paths beneath towering cedar and cypress trees, past enormous torii gates and sake barrel displays, creates a deeply atmospheric transition between city and sacred space. The main shrine complex was rebuilt after wartime destruction but faithfully recreates the 1920 originals. New Year's Day draws over 3 million worshippers — the largest hatsumode gathering in Japan. The adjacent Meiji Jingu Gaien park is famous for its ginkgo tree promenade in November.",
+      "address": "1-1 Yoyogi Kamizono-cho, Shibuya, Tokyo",
+      "openingHours": "Sunrise to sunset (varies by month: approximately 5:00–18:00)",
+      "admission": "Free (Meiji Jingu Museum: ¥1,000)",
+      "duration": "1–1.5 hours",
+      "tips": "The forested paths are beautiful year-round but especially atmospheric in early morning mist. Combine with nearby Harajuku's Takeshita Street for a striking contrast between ancient and ultra-modern Tokyo culture."
+    },
+    {
+      "name": "Tokyo Skytree",
+      "japaneseName": "東京スカイツリー",
+      "description": "At 634 metres, Tokyo Skytree is the world's second-tallest structure and Japan's tallest building, offering unparalleled views across the Tokyo Metropolitan Area from two observation decks at 350m and 450m. On clear winter days, Mount Fuji is clearly visible 100km to the southwest. The tower serves as a digital broadcast antenna for the region. The surrounding Skytree Town complex includes a large aquarium, a planetarium, restaurants, and shopping. The structure's design references traditional Japanese aesthetics — a triple helix base structure echoing pagoda spires — despite its obviously contemporary form.",
+      "address": "1-1-2 Oshiage, Sumida-ku, Tokyo",
+      "openingHours": "10:00–21:00 (last entry 20:00)",
+      "admission": "Tembo Deck (350m): ¥2,100 adults, ¥950 children; Tembo Galleria (450m): additional ¥1,000",
+      "duration": "1.5–2 hours",
+      "tips": "Book tickets online in advance, especially for weekends. On clear winter days (December–February), Mount Fuji views are best. The nearby Nakamise shopping street in Asakusa (15-minute walk) makes a natural extension."
+    },
+    {
+      "name": "Shinjuku Gyoen National Garden",
+      "japaneseName": "新宿御苑",
+      "description": "A magnificent 58.3-hectare garden that blends three distinct landscape styles — formal French formal gardens, English landscape design, and a traditional Japanese garden — into one of Tokyo's most serene escapes. Originally an imperial household garden until 1949, it now welcomes the public with nearly 1,500 cherry trees of 65 different varieties, making it Japan's finest place for extended sakura season (early March to mid-April). The tropical greenhouse, 19th-century French greenhouse, and the traditional Japanese garden's pond and stone lanterns each offer distinct beauty.",
+      "address": "11 Naito-machi, Shinjuku-ku, Tokyo",
+      "openingHours": "9:00–16:30 (closed Mondays, except during cherry blossom season)",
+      "admission": "¥500 adults, ¥250 high school students, ¥125 elementary and junior high",
+      "duration": "2–3 hours",
+      "tips": "No alcohol is permitted in the garden — making it the most pleasant and family-friendly hanami spot in Tokyo. The south entrance (JR Sendagaya station) is less crowded than the main Shinjuku entrance. The greenhouse tropical display is remarkable year-round."
+    },
+    {
+      "name": "Tsukiji Outer Market",
+      "japaneseName": "築地場外市場",
+      "description": "While the wholesale fish auction moved to Toyosu in 2018, the outer market — the 100+ stalls and restaurants surrounding the former inner market — continues to be one of Tokyo's most atmospheric food destinations. Fresh tuna sashimi, tamagoyaki (sweet rolled omelette), grilled scallops, sea urchin, and extraordinary street food can be consumed for breakfast or brunch starting from around 8am. The covered shopping lanes are a treasure of professional cooking knives, lacquerware, ceramics, and nori seaweed. The area feels genuinely local, catering to chefs and food professionals from across Tokyo.",
+      "address": "4-16-2 Tsukiji, Chuo-ku, Tokyo",
+      "openingHours": "Most stalls 8:00–14:00 (some from 5:00, most closed Sunday and Wednesday)",
+      "admission": "Free to enter",
+      "duration": "1–2 hours",
+      "tips": "Arrive by 9am for the best selection and most atmospheric experience. The tuna sashimi breakfast sets at the sushi bars are exceptional value (¥1,500–3,000 for multi-piece sets). The professional knife shops accept credit cards and will ship internationally."
+    },
+    {
+      "name": "Hamarikyu Gardens",
+      "japaneseName": "浜離宮恩賜庭園",
+      "description": "A stunning 250,000 square-metre traditional Japanese tidal garden nestled between the towers of Shiodome and Shimbashi, created as a Tokugawa shogunate duck-hunting ground in the 17th century. The central saltwater ponds connect to Tokyo Bay through sluice gates, meaning the water level rises and falls with the tides. A traditional teahouse on an island in the main pond serves matcha and wagashi sweets in a setting of extraordinary elegance. The contrast between the 400-year-old pine trees and surrounding skyscrapers creates some of Tokyo's most unique photographic perspectives.",
+      "address": "1-1 Hamarikyu-teien, Chuo-ku, Tokyo",
+      "openingHours": "9:00–17:00 (closed Mondays)",
+      "admission": "¥300 adults, free for children under 15",
+      "duration": "1.5 hours",
+      "tips": "The Sumida River ferry service connects Hamarikyu to Asakusa (35 minutes, ¥1,060) — a superb way to experience Tokyo from the water. The garden is particularly beautiful during cherry blossom season and in November's autumn foliage."
+    },
+    {
+      "name": "teamLab Planets",
+      "japaneseName": "チームラボ プラネッツ",
+      "description": "A groundbreaking immersive digital art museum in Toyosu where visitors remove their shoes and wade through shin-deep water reflecting infinite light installations, walk through rooms of projected flowers blooming and falling around them, and become physically surrounded by interactive art that responds to their presence. Created by the art collective teamLab, the Planets experience is more intimate and visceral than its sister Borderless museum. The six installations include a massive forest of hanging orchids, infinite mirrored rooms, and universe-scale light fields. One of the most extraordinary contemporary art experiences in the world.",
+      "address": "6-1-16 Toyosu, Koto-ku, Tokyo",
+      "openingHours": "9:00–21:00 (last entry 20:00; extended hours some seasons)",
+      "admission": "¥3,200–3,600 adults (varies by date), ¥1,000 children 4–12",
+      "duration": "1.5–2 hours",
+      "tips": "Book online well in advance — this sells out weeks ahead, especially weekends. Wear comfortable clothes you don't mind getting slightly wet (waterproof bag for valuables recommended). The experience is most magical after dark — book later afternoon slots."
+    },
+    {
+      "name": "Ueno Park & Museums",
+      "japaneseName": "上野公園",
+      "description": "Tokyo's largest public park, in Taito Ward, houses the greatest concentration of museums in Japan within its 53 hectares, including the Tokyo National Museum (largest in Asia), Tokyo Metropolitan Art Museum, National Museum of Nature and Science, National Museum of Western Art (UNESCO World Heritage), and Ueno Zoo. The park's 1,200 cherry trees along the main promenade create one of Tokyo's most famous hanami scenes. Shinobazu Pond, with its ancient lotus plants and Buddhist island temple, provides a contemplative respite within this museum district.",
+      "address": "Ueno Park, Taito-ku, Tokyo",
+      "openingHours": "Park: always open. Tokyo National Museum: 9:30–17:00 (Fri/Sat until 20:00, closed Monday)",
+      "admission": "Park free. Tokyo National Museum: ¥1,000 adults, ¥500 university students, free under 18",
+      "duration": "Half to full day",
+      "tips": "The Tokyo National Museum houses over 120,000 objects and requires curation — focus on the Japanese Gallery (Honkan) and the Gallery of Horyuji Treasures for the finest Buddhist sculpture and lacquerware. The Nezu Museum in nearby Minami-Aoyama is exceptional for those wanting smaller, curated collections."
+    },
+    {
+      "name": "Odaiba & teamLab Borderless",
+      "japaneseName": "お台場",
+      "description": "A man-made island in Tokyo Bay connected by monorail and the Rainbow Bridge, Odaiba offers sweeping views of the Tokyo skyline and Rainbow Bridge from its waterfront park. The MORI Building Digital Art Museum: teamLab Borderless (reopened in Azabudai Hills in 2024) offers a world-leading immersive art experience across 50+ digital art installations through 10,000 square metres of gallery space. The island also features the DiverCity Tokyo Plaza with its giant Gundam statue, teamLab athletes fitness club, Palette Town, and the historic replica Statue of Liberty.",
+      "address": "Odaiba, Minato-ku / Koto-ku, Tokyo (teamLab Borderless: 1-2-4 Azabudai, Minato-ku)",
+      "openingHours": "teamLab Borderless: 9:00–21:00 (last entry 20:00)",
+      "admission": "teamLab Borderless: ¥3,800–4,200 adults, ¥1,200 children 4–12",
+      "duration": "3–4 hours for Odaiba area; 2–3 hours for teamLab Borderless",
+      "tips": "Book teamLab Borderless tickets weeks in advance online. The Yurikamome monorail from Shimbashi station provides dramatic bridge crossing views. The Odaiba beach park at night, with the Rainbow Bridge illuminated, is a beautiful free experience."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Yanaka Cemetery & Old Town",
+      "description": "One of Tokyo's few neighbourhoods that survived both the 1923 earthquake and wartime bombing, Yanaka retains its Edo-period layout of narrow lanes, traditional wooden merchant houses, small temples, and independent craft shops.",
+      "whyVisit": "Experience authentic old Tokyo that most tourists miss entirely — a living historical district with excellent artisan shops, third-generation sweet makers, and a famous cemetery that locals use as a park."
+    },
+    {
+      "name": "Koenji Underground Music Scene",
+      "description": "A western Tokyo neighbourhood famous for second-hand vintage clothing stores, independent bookshops, and a thriving underground live music scene with dozens of small venues hosting everything from jazz to punk.",
+      "whyVisit": "See the real Tokyo creative underground — Koenji is where Japanese youth culture lives unperformed, with coffee shops where patrons stay for hours and record shops specialising in single genres."
+    },
+    {
+      "name": "Nezu Shrine Tunnel of Torii",
+      "description": "A serene alternative to Fushimi Inari in Kyoto, Nezu Shrine has its own network of small vermilion torii gates climbing a hillside, framing stone fox statues and moss-covered lanterns in an atmospheric forest tunnel.",
+      "whyVisit": "Magnificent torii tunnel photographs without the crushing crowds of Fushimi Inari — plus the famous azalea festival in April/May when 3,000 azalea plants bloom simultaneously in the shrine's garden."
+    },
+    {
+      "name": "Shimokitazawa Theatre District",
+      "description": "Tokyo's bohemian arts neighbourhood, packed with small live music venues, independent theatres, used bookstores, vintage clothing shops, and curry restaurants beloved by actors and musicians.",
+      "whyVisit": "The most authentic young-creative neighbourhood in Tokyo — free of large tourist sights but overflowing with character, great food, and the energy of a city living for itself rather than for visitors."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Nikko",
+      "description": "UNESCO World Heritage shrine and temple complex in the mountains of Tochigi Prefecture, featuring the extraordinarily ornate Tosho-gu mausoleum, cedar avenues, and spectacular waterfalls.",
+      "distance": "140km north of Tokyo",
+      "duration": "Full day",
+      "transport": "JR Nikko Line or Tobu Nikko Line from Shinjuku/Asakusa (1.5–2 hours)"
+    },
+    {
+      "name": "Kamakura",
+      "description": "Coastal city with 19 Buddhist temples and 5 Shinto shrines, anchored by the famous 13.35-metre bronze Great Buddha (Kotoku-in) and surrounded by wooded hiking trails.",
+      "distance": "50km south of Tokyo",
+      "duration": "Full day",
+      "transport": "JR Yokosuka Line from Tokyo Station (55 minutes)"
+    },
+    {
+      "name": "Hakone",
+      "description": "Hot spring resort town in the volcanic mountains of Kanagawa Prefecture with Mount Fuji views, the Hakone Open Air Museum, and scenic Lake Ashi boat cruises.",
+      "distance": "80km southwest of Tokyo",
+      "duration": "Full day or overnight",
+      "transport": "Romancecar Limited Express from Shinjuku (85 minutes)"
+    },
+    {
+      "name": "Mount Fuji 5th Station",
+      "description": "The highest point accessible by road on Japan's iconic sacred mountain, offering extraordinary views, hiking in season (July 1–September 10), and the Fuji Subaru Line experience.",
+      "distance": "100km west of Tokyo",
+      "duration": "Full day",
+      "transport": "Highway bus from Shinjuku Station (2.5 hours to 5th Station)"
+    }
+  ],
+  "sources": [
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" },
+    { "name": "GO TOKYO Official Travel Guide", "url": "https://www.gotokyo.org/en/" },
+    { "name": "Tokyo Metropolitan Government", "url": "https://www.metro.tokyo.lg.jp/english/" },
+    { "name": "teamLab Planets Official Site", "url": "https://planets.teamlab.art/tokyo/" }
+  ]
+}

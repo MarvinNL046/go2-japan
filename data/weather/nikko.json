@@ -1,0 +1,141 @@
+{
+  "slug": "nikko",
+  "city": "Nikko",
+  "climate_overview": "Nikko sits at 600–800 metres elevation in the mountains of Tochigi Prefecture, making it significantly cooler than Tokyo year-round. The area is famous for heavy rainfall and snowfall, particularly in winter and during the summer rainy season. July has extraordinary rainfall averages of 339mm — the highest of any major Japanese tourist destination. Winters are cold with heavy snow that closes some mountain roads. The autumn foliage season from late October through mid-November is Nikko's absolute finest time, considered among the best in all Japan. The area's cedar forests, waterfalls, and mountain lakes are beautiful year-round.",
+  "best_months": ["May", "October", "November"],
+  "avoid_months": ["July", "August", "January", "February"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 3,
+      "temp_low": -5,
+      "rainfall_mm": 62,
+      "humidity": 74,
+      "description": "January is bitterly cold in Nikko, with temperatures regularly falling below -5°C overnight and heavy snowfall that transforms the cedar forests and temple grounds into extraordinary winter scenes. The Tosho-gu shrine buildings and their elaborate carvings dusted with snow are stunningly beautiful. Lake Yunoko in the higher mountains may freeze completely. Tourist numbers are very low, giving exceptional access to the UNESCO World Heritage shrines without crowds. Serious winter clothing and yakumo boots are essential. Hot spring ryokan provide excellent refuge.",
+      "activities": ["Snow-dusted Tosho-gu visits", "Frozen waterfall photography", "Hot spring onsen bathing", "Cedar forest snow walks"],
+      "events": ["New Year at Futarasan Shrine", "Winter snow festivals", "Yakusha Matsuri preparations"],
+      "crowd_level": "very_low",
+      "price_level": "very_low"
+    },
+    "february": {
+      "temp_high": 4,
+      "temp_low": -4,
+      "rainfall_mm": 60,
+      "humidity": 72,
+      "description": "February remains very cold with continued snowfall and frozen waterfalls. The Kegon Falls can form dramatic ice formations on its rocky edges. Yumoto Onsen area at higher elevation receives deep snow and is popular with winter sports enthusiasts. The snow-covered approach to Tosho-gu shrine along the cedar avenue is one of the most magnificent winter scenes in Japan. Plum blossom previews begin at lower elevations. Very few tourists make this an extremely private experience at one of Japan's finest shrines.",
+      "activities": ["Kegon Falls ice formations", "Yumoto Onsen ski area", "Snow temple photography", "Cedar avenue winter walk"],
+      "events": ["Setsubun (February 3)", "Plum blossom early season", "Ice festival at Yumoto"],
+      "crowd_level": "very_low",
+      "price_level": "very_low"
+    },
+    "march": {
+      "temp_high": 8,
+      "temp_low": -1,
+      "rainfall_mm": 115,
+      "humidity": 72,
+      "description": "March sees gradual warming and snowmelt filling the rivers and waterfalls with roaring spring water. Kegon Falls is at its most dramatic this month as snowmelt floods the system. Cherry blossoms do not reach Nikko until late April due to the altitude. Weather is variable — warm sunny days alternate with late snow showers. The area begins waking from winter but retains quiet, uncrowded conditions. Hiking trails can be muddy and wet, but the primeval forests begin their spring green transformation.",
+      "activities": ["Kegon Falls spring roar", "Forest hiking in snow transition", "Tosho-gu early season visit", "Onsen in warming weather"],
+      "events": ["Spring thaw at mountain lakes", "Early hiking season opening", "Futarasan Shrine spring festival"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "april": {
+      "temp_high": 14,
+      "temp_low": 4,
+      "rainfall_mm": 175,
+      "humidity": 72,
+      "description": "April brings cherry blossoms to the lower elevations of Nikko, though the timing runs one to two weeks later than Tokyo due to altitude. The cherry trees along the Daiya River and around Rinnoji Temple are beautiful. Rainfall increases significantly and the waterfalls swell to their full spring power. The Tosho-gu Spring Grand Festival on May 17-18 (with preparations throughout April) is one of Japan's most spectacular traditional events. Golden Week approaches, filling accommodation weeks ahead.",
+      "activities": ["Cherry blossoms along Daiya River", "Kegon Falls spring visit", "Spring Tosho-gu visit", "Yumoto Lake thawing"],
+      "events": ["Cherry blossom season", "Tosho-gu Spring Grand Festival preparations", "Spring waterfall season"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "may": {
+      "temp_high": 19,
+      "temp_low": 9,
+      "rainfall_mm": 205,
+      "humidity": 72,
+      "description": "May is one of Nikko's finest months. The Tosho-gu Spring Grand Festival on May 17–18 is extraordinary — a thousand people in Edo-period armour and costumes participate in a procession from Futarasan Shrine to Tosho-gu and back, with horseback archery and ancient music. Golden Week before the festival sees enormous crowds; the week after is far more manageable. Fresh green foliage softens the elaborate shrines. Rhododendrons and other wildflowers bloom along mountain hiking paths in spectacular fashion.",
+      "activities": ["Tosho-gu Spring Grand Festival", "Rhododendron mountain hiking", "Kegon Falls", "Golden Week exploration"],
+      "events": ["Tosho-gu Spring Grand Festival (May 17-18)", "Golden Week (April 29–May 5)", "Azalea blooming on mountain slopes"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "june": {
+      "temp_high": 23,
+      "temp_low": 14,
+      "rainfall_mm": 250,
+      "humidity": 78,
+      "description": "June is wet in Nikko as the rainy season begins, with waterfalls and mountain streams at their most dramatic volume. The Nikko National Park takes on a misty, primordial atmosphere. Hydrangeas bloom along the steep mountain roads. Tourist numbers drop significantly from Golden Week, making this an excellent value time for those who don't mind carrying an umbrella. The cedar forests are magnificently lush and green, with morning mist creating ethereal atmosphere.",
+      "activities": ["Rainy season waterfall photography", "Misty forest walks", "Hydrangea viewing", "Onsen in atmospheric rain"],
+      "events": ["Rainy season", "Hydrangea season", "Mountain lake mist season"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "july": {
+      "temp_high": 26,
+      "temp_low": 18,
+      "rainfall_mm": 339,
+      "humidity": 82,
+      "description": "July is Nikko's wettest month with an extraordinary 339mm of rainfall — more than any other major tourist destination in Japan. The waterfalls, particularly Kegon, reach their absolute maximum power and drama this month, with spray visible from the observation deck. Despite the rain, Nikko's cool mountain temperatures make it a popular escape from Tokyo's summer heat — the mountain town is 8–10°C cooler. Carry waterproofs and waterproof shoes at all times. Morning visits to the shrine complex before afternoon downpours are advisable.",
+      "activities": ["Maximum-power Kegon Falls", "Mountain cooling escape from Tokyo", "Indoor shrine complex", "Waterfall photography in rain"],
+      "events": ["Peak rainy season", "Mountain summer festivals", "Nikko waterfalls at maximum flow"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "august": {
+      "temp_high": 27,
+      "temp_low": 18,
+      "rainfall_mm": 248,
+      "humidity": 80,
+      "description": "August continues the mountain summer season with Nikko significantly cooler than lowland Japan. The Obon festival brings families to the area and the mountain shrines hold special ceremonies. Summer mountain hiking is popular on Nantai-san (2,486m) with trails opening July 1 and closing November 11. The summit views of Lake Chuzenji below and distant mountains are extraordinary on clear mornings. Afternoon thunderstorms are common. The cedar-lined road to the shrines under summer foliage is deeply atmospheric.",
+      "activities": ["Mt. Nantai-san summit hiking", "Obon ceremonies at shrines", "Lake Chuzenji kayaking", "Cedar avenue forest walks"],
+      "events": ["Obon (mid-August)", "Mountain shrine Obon ceremonies", "Summer hiking season peak"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "september": {
+      "temp_high": 23,
+      "temp_low": 14,
+      "rainfall_mm": 218,
+      "humidity": 79,
+      "description": "September brings continued rainfall and typhoon risk but gradually cooling temperatures that hint at autumn. Crowds are significantly lower than August and hotel prices drop noticeably. Early autumn colour change begins on the highest mountain elevations. The Tosho-gu Autumn Grand Festival on October 17 means preparation activities begin this month. Lake Yunoko and the Oku-Nikko highland plateau at 1,500m begin showing the first colour changes in late September.",
+      "activities": ["Early autumn scouting in highland areas", "Lake Yunoko walks", "Post-summer shrine visits", "Peaceful forest bathing"],
+      "events": ["Autumnal Equinox", "Early colour change at Oku-Nikko plateau", "Autumn festival preparations"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "october": {
+      "temp_high": 17,
+      "temp_low": 7,
+      "rainfall_mm": 165,
+      "humidity": 76,
+      "description": "October is Nikko's finest month. Autumn foliage begins at the highest elevations — Oku-Nikko and Lake Yunoko blaze orange and crimson first — then gradually works down to the valley floor through the month. The Tosho-gu Autumn Grand Festival on October 17 is extraordinary — the same thousand-person Edo-period procession as the spring festival, this time in the magnificent autumn setting. By late October, the cedars, maples, and birches around the shrines are in full colour.",
+      "activities": ["Oku-Nikko plateau autumn foliage", "Tosho-gu Autumn Grand Festival", "Lake Yunoko autumn colours", "Mountain hiking in foliage"],
+      "events": ["Tosho-gu Autumn Grand Festival (October 17)", "Peak foliage at Oku-Nikko (early October)", "Irohazaka mountain road autumn colours"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "november": {
+      "temp_high": 11,
+      "temp_low": 2,
+      "rainfall_mm": 112,
+      "humidity": 74,
+      "description": "November brings the season's foliage peak to the valley floor and the famous Tosho-gu shrine complex itself. The elaborate gold-and-lacquer architecture against blazing crimson maple leaves is one of Japan's most extraordinary visual experiences. The Irohazaka mountain switchback road between the valley and the highland plateau is ablaze with colour and crowds. Early November weekends are extremely busy — visit mid-week or early morning. By late November temperatures drop sharply and first frosts arrive, signalling winter's approach.",
+      "activities": ["Tosho-gu in peak autumn foliage", "Irohazaka switchback road leaves", "Kegon Falls in autumn colours", "Last warm onsen season days"],
+      "events": ["Peak valley-floor autumn foliage (mid-November)", "Last warm mountain hiking before winter", "Autumn foliage illuminations"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "december": {
+      "temp_high": 6,
+      "temp_low": -2,
+      "rainfall_mm": 60,
+      "humidity": 72,
+      "description": "December brings the first winter snows to Nikko, closing higher mountain roads and returning the area to its quiet winter state. The cedar avenue and shrine complex in light snowfall are breathtakingly beautiful. Crowds are minimal. New Year at Futarasan Shrine draws local worshippers but few foreign tourists. Onsen bathing in the mountain cold is at its most restorative. The waterfalls begin forming ice edges. A peaceful, authentic side of this magnificent area reveals itself to those willing to face the cold.",
+      "activities": ["First snow photography at shrines", "Winter onsen bathing", "Cedar avenue winter walk", "Kegon Falls early ice formation"],
+      "events": ["New Year at Futarasan Shrine", "Winter opening of Yomeimon restoration", "First snowfall season"],
+      "crowd_level": "very_low",
+      "price_level": "very_low"
+    }
+  }
+}

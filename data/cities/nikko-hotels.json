@@ -1,0 +1,98 @@
+{
+  "slug": "nikko",
+  "cityName": "Nikko",
+  "introduction": "Nikko's accommodation spans a spectrum uniquely suited to its dual identity as a UNESCO World Heritage shrine town and a mountain hot spring resort. Central Nikko town offers standard hotels and minshuku (traditional family-run inns) within walking distance of the Toshogu shrines. The outlying onsen areas — Kinugawa Onsen (20 minutes east), Chuzenjiko Onsen (lakeside, 30 minutes up the mountain road), and the remote Yumoto Onsen — each provide a distinct hot spring resort experience increasingly removed from the tourist crowds. A ryokan or minshuku stay in Nikko is part of the cultural experience: Nikko's traditional inns serve kaiseki meals featuring yuba (tofu skin), Tochigi wagyu, and mountain vegetables, and the shared hot spring baths are an essential Japanese ritual in a setting of ancient forests. Nikko is increasingly popular for longer stays combining temple sightseeing with hiking, waterfalls, and onsen.",
+  "bestAreas": [
+    {
+      "name": "Nikko Town (Tobu/JR Station Area)",
+      "description": "The central town area has the widest range of accommodation and is 15–20 minutes walk from the Toshogu shrine complex. Mix of budget hotels, minshuku, and mid-range properties. Convenient for day-based sightseeing with access to both train stations and the local bus network.",
+      "bestFor": "Shrine access, day-trip extension, budget to mid-range options, convenience",
+      "priceRange": "¥5,000–¥25,000 ($33–$167)"
+    },
+    {
+      "name": "Kinugawa Onsen",
+      "description": "A hot spring resort area along the Kinugawa River, 20 minutes east of Nikko by Tobu Limited Express. More developed than Nikko's remote onsen areas, with a full range of accommodation from budget to luxury ryokan. Some of the best value ryokan in the Nikko area are located here.",
+      "bestFor": "Hot spring ryokan, riverside setting, value for money, onsen enthusiasts",
+      "priceRange": "¥8,000–¥45,000 ($53–$300) per person with meals"
+    },
+    {
+      "name": "Chuzenjiko Onsen (Lake Chuzenji)",
+      "description": "Located 1,269 meters above sea level at Lake Chuzenji, reached by the famous 48-curve mountain hairpin road. A handful of lakeside ryokan and resort hotels offer stunning views across the lake toward Mount Nantai. The area is particularly beautiful in autumn foliage and cool in summer.",
+      "bestFor": "Nature lovers, autumn foliage, mountain escape, Lake Chuzenji access",
+      "priceRange": "¥15,000–¥50,000 ($100–$333) per person with meals"
+    },
+    {
+      "name": "Yumoto Onsen",
+      "description": "The most remote and tranquil of Nikko's hot spring areas, on the shores of Lake Yunoko deep in the Okunikko mountains. Just a handful of ryokan and onsen facilities, surrounded by protected national park forest. Sulfurous hot spring water with a distinctive mineral character.",
+      "bestFor": "Complete mountain escape, sulfurous onsen, wildlife, off-the-beaten-path Japan",
+      "priceRange": "¥12,000–¥40,000 ($80–$267) per person with meals"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Turtle Inn Nikko",
+      "type": "Guesthouse",
+      "priceRange": "¥4,500–¥7,000 ($30–$47)",
+      "description": "One of Nikko's longest-established foreigner-friendly guesthouses, popular with independent travelers since the 1980s. A 10-minute walk from Toshogu, the family-run inn offers a genuine local welcome, bicycle rental, and helpful local knowledge. Both Western and Japanese rooms available."
+    },
+    {
+      "name": "Nikko Station Hotel Classic",
+      "type": "Budget hotel",
+      "priceRange": "¥6,000–¥10,000 ($40–$67)",
+      "description": "A reliable budget hotel adjacent to Tobu Nikko Station, offering clean, simple rooms with everything needed for a comfortable stay. The most practical budget accommodation for those arriving by train from Tokyo."
+    },
+    {
+      "name": "Minshuku Kasegawa",
+      "type": "Minshuku (family inn)",
+      "priceRange": "¥5,000–¥9,000 ($33–$60) per person with breakfast",
+      "description": "A traditional family-run minshuku near central Nikko offering simple tatami rooms with home-cooked Japanese breakfast. The informal, family atmosphere and local knowledge of the owners create a genuine cultural experience at budget prices."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Nikko Kanaya Hotel",
+      "type": "Historic Western-style hotel",
+      "priceRange": "¥18,000–¥40,000 ($120–$267)",
+      "description": "Japan's oldest Western-style resort hotel, open since 1873 — predating the Fujiya Hotel in Hakone. The original Victorian main building contains rooms of historical character, with natural hot spring baths added later. Former guests include Albert Einstein, Indira Gandhi, and the Rockefellers. The historic wing rooms are worth the premium."
+    },
+    {
+      "name": "Hotel Seikoen",
+      "type": "Ryokan with onsen",
+      "priceRange": "¥14,000–¥30,000 ($93–$200) per person with meals",
+      "description": "A well-regarded traditional ryokan in central Nikko with natural hot spring baths and kaiseki dinners featuring fresh yuba, Tochigi mountain vegetables, and local wagyu. Attentive service and a quiet garden setting make this one of the best mid-range ryokan in the area."
+    },
+    {
+      "name": "Kinugawa Kanaya Hotel",
+      "type": "Ryokan",
+      "priceRange": "¥12,000–¥35,000 ($80–$233) per person with meals",
+      "description": "Part of the Kanaya group's hot spring resort in the Kinugawa Onsen area. River-facing rooms with outdoor hot spring baths. The kaiseki dinners include the area's specialty ingredients and are served in individual private dining rooms."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "Nikko Lakeside Hotel",
+      "type": "Luxury resort hotel",
+      "priceRange": "¥25,000–¥60,000 ($167–$400)",
+      "description": "A lakeside resort on the shores of Lake Chuzenji at 1,269 meters elevation. Rooms facing the lake with Mount Nantai in the background offer one of the finest mountain hotel views in Japan. Natural hot spring facilities and seasonal kaiseki meals."
+    },
+    {
+      "name": "Ryugon (Uonuma area, 2 hours from Nikko)",
+      "type": "Ultra-luxury ryokan reference",
+      "priceRange": "¥40,000–¥100,000 ($267–$667) per person with meals",
+      "description": "For those seeking the ultimate Nikko-area ryokan experience, the Yumoto Onsen ryokan in Okunikko offer the most remote and pristine setting. Several properties with just 5–8 rooms are surrounded entirely by national park forest."
+    }
+  ],
+  "bookingTips": [
+    "Nikko's autumn foliage (typically mid-October to mid-November) is among Japan's most spectacular and creates the highest accommodation pressure of the year. Book 2–3 months ahead for any quality ryokan.",
+    "Minshuku (family-run inns) in the Nikko area offer the most authentic local experience at significantly lower prices than formal ryokan. Look for properties that include home-cooked dinner and breakfast.",
+    "The Kinugawa Onsen and Chuzenji Onsen areas offer the same hot spring benefits as Hakone at lower prices — if hot spring bathing is a priority, Nikko provides excellent value.",
+    "The historic Nikko Kanaya Hotel offers a genuinely different experience from both standard hotels and ryokan — Victorian era architecture with Japanese hot spring baths. Worth the premium for history enthusiasts.",
+    "Yumoto Onsen, the most remote area, requires advance planning as access is by infrequent bus (approximately 50 minutes from Nikko). Accommodation is limited — book early.",
+    "The Tobu Nikko Pass (from Asakusa, ¥2,840 for 2 days including train and bus) covers all transportation in Nikko including mountain buses to Chuzenji and Yumoto — buy before departure."
+  ],
+  "sources": [
+    { "name": "Japan Guide — Nikko Hotels", "url": "https://www.japan-guide.com/hotels/nikko.html" },
+    { "name": "Visit Nikko — Ryokan Guide", "url": "https://www.visitnikko.jp/en/stories/ryokan-minshuku-pension-which-accommodation-should-i-choose/" },
+    { "name": "Two By the World — Nikko Accommodation", "url": "https://twobytheworld.com/where-to-stay-in-nikko-japan/" }
+  ]
+}

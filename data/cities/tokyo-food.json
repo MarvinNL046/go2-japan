@@ -1,0 +1,141 @@
+{
+  "slug": "tokyo",
+  "cityName": "Tokyo",
+  "introduction": "Tokyo holds more Michelin stars than any other city on earth, yet its culinary greatness extends far beyond fine dining. From ¥500 standing soba counters in train stations to legendary omakase sushi experiences, the city's food culture is defined by an obsessive pursuit of perfection at every price point. Tokyo's food scene reflects the city itself: endlessly diverse, relentlessly innovative, and deeply rooted in tradition. The capital specializes in shoyu ramen with curly noodles, monjayaki (the gooey Tokyo-style savory pancake), wagyu beef, fresh sushi from Tsukiji Outer Market, and panko-crusted tonkatsu. Street food ranges from crispy taiyaki fish-shaped cakes filled with sweet red bean paste to steaming takoyaki octopus balls. Each neighborhood has its own food identity — the standing ramen counters of Shinjuku, the yakitori alleys of Yurakucho under the train tracks, the traditional sweets of Asakusa's Nakamise-dori. For serious food lovers, Tokyo is arguably the greatest food city in the world.",
+  "signatureDishes": [
+    {
+      "name": "Sushi (Omakase)",
+      "japaneseName": "寿司",
+      "description": "Tokyo is the global capital of sushi. From conveyor-belt kaiten-zushi starting at ¥1,000 to legendary omakase experiences, the city's proximity to the Tsukiji and Toyosu markets ensures unmatched freshness. Nigiri in Tokyo traditionally uses slightly warmer rice seasoned with red vinegar (akazu) from the Edo tradition.",
+      "priceRange": "¥1,000–¥50,000+",
+      "whereToTry": "Tsukiji Outer Market stalls, Sushi Saito (Akasaka), Sukiyabashi Jiro (Ginza), Midori Sushi (Umeda)",
+      "tip": "For Toyosu tuna auction access, register online 2 months in advance. Outer Market stalls require no booking and serve excellent sushi from 7am."
+    },
+    {
+      "name": "Shoyu Ramen",
+      "japaneseName": "醤油ラーメン",
+      "description": "Tokyo's signature ramen style uses a soy sauce (shoyu) based broth with curly thin noodles, chicken-and-dashi stock, and toppings of chashu pork, nori, and a soft-boiled marinated egg. The flavor is clear, complex, and unmistakably savory — lighter than tonkotsu but deeply satisfying.",
+      "priceRange": "¥800–¥1,500",
+      "whereToTry": "Fuunji (Shinjuku, for tsukemen), Afuri (Harajuku, yuzu shio), Ichiran (multiple locations), Taishoken (Ikebukuro, tsukemen originator)",
+      "tip": "Most ramen shops use ticket vending machines (shokkenki) at the entrance. Insert cash, press your selection, and hand the ticket to the chef."
+    },
+    {
+      "name": "Tonkatsu",
+      "japaneseName": "とんかつ",
+      "description": "Thick-cut pork loin or fillet, coated in panko breadcrumbs and deep-fried to golden perfection. Served with finely shredded cabbage, rice, miso soup, and a rich Worcestershire-based sauce. The best tonkatsu shops use premium Kurobuta (Berkshire) pork and change their frying oil multiple times daily.",
+      "priceRange": "¥1,500–¥4,000",
+      "whereToTry": "Maisen (Omotesando, in a converted bathhouse), Butagumi (Nishi-Azabu), Tonki (Meguro, since 1939)",
+      "tip": "Order the hire-katsu (fillet) for a leaner, more delicate cut, or rosu-katsu (loin) for richer, juicier meat."
+    },
+    {
+      "name": "Monjayaki",
+      "japaneseName": "もんじゃ焼き",
+      "description": "Tokyo's answer to Osaka's okonomiyaki — a loose, watery batter of flour, dashi, and cabbage cooked on a iron griddle. Unlike okonomiyaki, monja starts liquid and cooks into a crispy, umami-rich layer you scrape directly off the griddle with a small metal spatula. Classic toppings include mentaiko, mochi, and cheese.",
+      "priceRange": "¥800–¥1,500 per portion",
+      "whereToTry": "Monja Street (Tsukishima), with around 60 specialty shops on a 400-meter strip",
+      "tip": "The proper technique is to make a ring of solid ingredients, then pour the batter into the center. Let it cook until crispy on the bottom before scraping and eating."
+    },
+    {
+      "name": "Yakitori",
+      "japaneseName": "焼き鳥",
+      "description": "Charcoal-grilled chicken skewers sold in izakaya and specialist yakitori bars. Every part of the bird is used — thighs (momo), breast (mune), liver (reba), heart (hatsu), cartilage (nankotsu), and skin (kawa). Seasoned with either salt (shio) or tare, a sweet soy glaze. Eaten standing up at the counter with cold draft beer.",
+      "priceRange": "¥150–¥350 per skewer",
+      "whereToTry": "Omoide Yokocho (Memory Lane, Shinjuku), Yurakucho yakitori alley under the train tracks, Toriyoshi (multiple locations)",
+      "tip": "Order a mix of salt and tare preparations to appreciate the difference. Negima (chicken and leek alternating) is the classic starting skewer."
+    },
+    {
+      "name": "Tamagoyaki",
+      "japaneseName": "玉子焼き",
+      "description": "Japanese rolled omelet made by folding thin layers of seasoned egg over a rectangular pan. In Tokyo's traditional Tsukiji style, it is slightly sweet, fluffy, and intensely eggy. A benchmark for any sushi restaurant's quality — if the tamagoyaki is excellent, the rest of the meal will be too.",
+      "priceRange": "¥200–¥500",
+      "whereToTry": "Tsukiji Outer Market (several tamagoyaki stalls serve freshly made samples), any sushi restaurant",
+      "tip": "At Tsukiji Outer Market, look for stalls grilling tamagoyaki to order on a rectangular copper pan — they will usually give you a sample on a stick."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Sushi Saito",
+      "address": "1F Ark Hills South Tower, 1-4-5 Roppongi, Minato, Tokyo",
+      "cuisine": "Omakase sushi",
+      "priceRange": "¥30,000–¥50,000",
+      "description": "Widely considered one of the world's greatest sushi restaurants, Jiro Saito trained directly under the late Jiro Ono. Reservations require a connection through a hotel concierge or a known regular. The 30-piece omakase focuses on absolute ingredient perfection.",
+      "highlight": "Nearly impossible to book without a hotel concierge — book months ahead"
+    },
+    {
+      "name": "Afuri Ramen",
+      "address": "3-63-1 Jingumae, Shibuya, Tokyo (Harajuku location)",
+      "cuisine": "Yuzu shio ramen",
+      "priceRange": "¥1,000–¥1,400",
+      "description": "Famous for its fragrant yuzu citrus and light shio (salt) broth, Afuri has popularized a lighter, aromatic style of Tokyo ramen. The yuzu shio ramen topped with chashu and a soft-boiled tamago is the signature dish. Clean, stylish interior; multiple Tokyo locations.",
+      "highlight": "The yuzu shio ramen is a refreshing departure from heavy tonkotsu styles"
+    },
+    {
+      "name": "Maisen",
+      "address": "4-8-5 Jingumae, Shibuya, Tokyo (Omotesando)",
+      "cuisine": "Tonkatsu",
+      "priceRange": "¥1,800–¥3,500",
+      "description": "Tokyo's most beloved tonkatsu institution, housed in a converted 1945 public bathhouse. The interior retains soaring ceilings and original tile work. Their Kurobuta (black pig) hire-katsu set is renowned for its juicy, tender interior and perfectly golden crust.",
+      "highlight": "The converted bathhouse setting is as memorable as the food"
+    },
+    {
+      "name": "Taishoken",
+      "address": "Higashi-Ikebukuro, Toshima, Tokyo",
+      "cuisine": "Tsukemen (dipping ramen)",
+      "priceRange": "¥900–¥1,200",
+      "description": "Birthplace of tsukemen — the style where noodles are served separately and dipped into concentrated broth. The original Taishoken, founded by Kazuo Yamagishi in 1961, is a pilgrimage site for ramen enthusiasts. The thick, chewy noodles and deeply savory dipping broth are unchanged since inception.",
+      "highlight": "The original inventor of tsukemen (dipping noodles) — a piece of ramen history"
+    },
+    {
+      "name": "Tonki",
+      "address": "1-1-2 Shimo-Meguro, Meguro, Tokyo",
+      "cuisine": "Tonkatsu",
+      "priceRange": "¥1,500–¥2,800",
+      "description": "Open since 1939, Tonki is the definitive old-school Tokyo tonkatsu institution. The counter seats look directly into the open kitchen where chefs in white coats tend multiple pans simultaneously. The rosu-katsu set with rice, miso, and pickles is the only choice — and it is perfect.",
+      "highlight": "Unchanged since 1939 — eat at the counter and watch the chefs at work"
+    },
+    {
+      "name": "Tsukiji Outer Market",
+      "address": "4-16-2 Tsukiji, Chuo, Tokyo",
+      "cuisine": "Seafood, sushi, market stalls",
+      "priceRange": "¥300–¥3,000",
+      "description": "Though the inner wholesale market moved to Toyosu in 2018, over 400 shops and stalls remain. Fresh sushi, tamagoyaki, oysters, wagyu beef skewers, and matcha sweets. The best morning food experience in Tokyo. Arrive before 9am for the freshest selection and manageable crowds.",
+      "highlight": "Arrive at 7–8am for the freshest sushi and grilled tamagoyaki straight from the pan"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Ameyoko Market (Ueno)",
+      "description": "A 400-meter covered market stretching under the Yamanote Line tracks between Ueno and Okachimachi stations. Around 400 stalls selling fresh seafood (grilled scallops, octopus skewers, fresh crab), dried fish, nuts, and street snacks. A post-war black market that evolved into one of Tokyo's liveliest food streets.",
+      "bestFor": "Grilled seafood skewers, fresh fruit, affordable izakaya, nostalgic atmosphere"
+    },
+    {
+      "name": "Omoide Yokocho (Shinjuku)",
+      "description": "Memory Lane — a narrow alley packed with tiny yakitori stalls, each seating 6–10 people. Smoke rises from charcoal grills, draft Sapporo flows freely, and the atmosphere is unforgettable. The alley dates to the postwar occupation era and has changed little since.",
+      "bestFor": "Yakitori, kushiyaki, cold beer, izakaya culture at its most atmospheric"
+    },
+    {
+      "name": "Asakusa Nakamise-dori",
+      "description": "The 250-meter approach to Senso-ji Temple lined with traditional food stalls selling ningyo-yaki (small cakes shaped like Asakusa landmarks), senbei (rice crackers), matcha soft serve, and imo-kenpi (candied sweet potato sticks).",
+      "bestFor": "Traditional Japanese sweets, ningyo-yaki, matcha treats, senbei"
+    },
+    {
+      "name": "Tsukishima Monja Street",
+      "description": "The definitive destination for monjayaki — Tokyo's unique savory pancake. Around 60 specialty restaurants line a 400-meter shopping street on this island neighborhood in the Sumida River. Each restaurant has a slightly different house sauce and specialty toppings.",
+      "bestFor": "Monjayaki, okonomiyaki, interactive table-side cooking experience"
+    }
+  ],
+  "foodTips": [
+    "Many restaurants use shokkenki (ticket vending machines) at the entrance — insert cash, select your meal from the button display (usually with photos), and hand the ticket to staff. No Japanese required.",
+    "Convenience stores (7-Eleven, FamilyMart, Lawson) are genuinely excellent for quick meals — fresh onigiri, bento boxes, hot foods, and quality coffee at ¥100–¥600.",
+    "Tipping is never done in Japan and can cause offense. Exceptional service is already included in the price.",
+    "Lunch sets (teishoku or ranchi set) at even upscale restaurants offer the same quality as dinner at 30–50% of the evening price. Many Michelin-starred restaurants offer lunch menus from ¥3,000–¥5,000.",
+    "Standing (tachigui) restaurants near train stations — for ramen, soba, or curry — serve fast, cheap, delicious food for ¥400–¥800. Look for the noren (fabric divider) over the door.",
+    "Most izakaya charge a small otoshi (table charge) of ¥300–¥500 per person, which includes a small appetizer automatically brought to your table.",
+    "Restaurant queues (gyoretsu) are a sign of quality in Tokyo. If 20 people are waiting outside a ramen shop at noon, it is worth joining the line."
+  ],
+  "sources": [
+    { "name": "Japan Guide — Tokyo Food", "url": "https://www.japan-guide.com/e/e3075.html" },
+    { "name": "Magical Trip — Tokyo Food Guide", "url": "https://www.magical-trip.com/media/tokyo-food-guide-2024-the-best-eats-drinks-sweets-in-japans-culinary-capital/" },
+    { "name": "Girl Eat World — Tokyo Food Guide", "url": "https://girleatworld.net/tokyo-food-guide/" }
+  ]
+}

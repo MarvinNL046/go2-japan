@@ -1,0 +1,127 @@
+{
+  "slug": "fukuoka",
+  "cityName": "Fukuoka",
+  "introduction": "Fukuoka is Japan's most underrated food city, and locals will happily tell you it is the best. The city gave the world tonkotsu ramen — the silky, rich pork bone broth style that has conquered ramen shops globally — but in Fukuoka, it is called Hakata ramen (after the city's old name) and served at hundreds of independent shops, each with its own broth formula simmered for 8–21 hours. Beyond ramen, Fukuoka is famous for its yatai — wooden outdoor food stalls that appear at night along the waterways and roadsides, serving everything from tonkotsu ramen to yakitori to Chinese-influenced gyoza. The city's location on Hakata Bay provides exceptional fresh seafood: mentaiko (spicy fermented cod roe, a Fukuoka invention brought from Korea after WWII), fresh sea bream, mackerel, and the seasonal fugu (puffer fish). Motsu-nabe (offal hot pot with garlic and chili) and mizutaki (chicken collagen hot pot) are the cold-weather essentials. Fukuoka eats with an intensity and democracy that makes it one of the most exciting food cities in Japan.",
+  "signatureDishes": [
+    {
+      "name": "Hakata Ramen",
+      "japaneseName": "博多ラーメン",
+      "description": "Fukuoka's tonkotsu ramen is distinct from the heavier, cloudier versions found elsewhere: the Hakata style has thin, straight noodles cooked firm (kata-me), a milky white broth of pork bones simmered at high heat for 8–21 hours, minimal toppings (chashu, green onion, sesame, ginger), and the essential kaedama (extra noodle refill) when you finish. The focus is entirely on the broth.",
+      "priceRange": "¥700–¥1,200",
+      "whereToTry": "Ichiran (founded Fukuoka 1960), Hakata Daruma (since 1963), Shin-Shin (locals' favorite), Menya GAGA",
+      "tip": "Order kata-me (firm noodles) as a first-timer — the thin noodles overcook quickly in the hot broth. Ask for kaedama (additional noodle refill) when your bowl is nearly empty."
+    },
+    {
+      "name": "Mentaiko",
+      "japaneseName": "明太子",
+      "description": "Spicy marinated pollock roe (tarako) seasoned with chili, mirin, and sake. Fukuoka's most famous culinary export, originally inspired by Korean myeongnanjeot (spicy cod roe) and perfected by the Fukuya shop in 1949. Eaten over rice, mixed into pasta, stuffed into baguette rolls, or as a standalone izakaya dish. Available lightly seared or raw.",
+      "priceRange": "¥600–¥3,000 for packaged mentaiko; ¥300–¥800 as a dish",
+      "whereToTry": "Fukuya Honten (the original mentaiko shop, 1949), Hakata Mentaikan (mentaiko showcase shop), yatai stalls along Nakasu",
+      "tip": "Buy quality mentaiko from Fukuya as a food souvenir — vacuum-packed versions travel well. The best quality is from pollack roe (tarako), not cheaper surimi substitutes."
+    },
+    {
+      "name": "Motsu-nabe",
+      "japaneseName": "もつ鍋",
+      "description": "Fukuoka's signature hot pot — beef or pork offal (intestines and stomach) simmered in a robust broth of soy sauce or miso base, heavy on garlic and togarashi chili, with loads of cabbage, garlic chives (nira), and enoki mushrooms. Rich in collagen and intensely savory. A post-war dish born from a desire to use every part of the animal.",
+      "priceRange": "¥1,500–¥3,000 per person",
+      "whereToTry": "Hakata Motsu-nabe Yamanaka (Nakasu area), Rakutenchi (downtown Fukuoka), specialist motsu-nabe restaurants near Nakasu",
+      "tip": "Finish the motsu-nabe by adding chanpon noodles or rice to the remaining broth — the concentrated pot liquid at the end is the best part."
+    },
+    {
+      "name": "Mizutaki",
+      "japaneseName": "水炊き",
+      "description": "Fukuoka's collagen-rich chicken hot pot — chicken pieces and vegetables slowly simmered in a pure chicken bone broth until the collagen dissolves into a silky, natural white stock. Eaten first as a soup course (the broth alone), then the chicken and vegetables are eaten with ponzu and sesame sauce. A Fukuoka culinary tradition for over 100 years.",
+      "priceRange": "¥3,000–¥6,000 per person",
+      "whereToTry": "Hakata Mizutaki Toriden (Tenjin), Suikozo (Nakasu), traditional mizutaki restaurants near Tenjin",
+      "tip": "Start by drinking the pure broth as a small cup — this is the correct Fukuoka way to appreciate mizutaki. The chicken fat and collagen dissolved into the broth is the signature experience."
+    },
+    {
+      "name": "Yatai Culture",
+      "japaneseName": "屋台",
+      "description": "Fukuoka's most distinctive food culture: around 150 wooden outdoor stalls that appear each evening along the Nakasu riverside, Tenjin, and other locations. Each yatai seats 6–10 people at a counter, serves a short menu of tonkotsu ramen, yakitori, gyoza, and sake, and is run by a single operator. The intimate, outdoor dining experience is unique to Fukuoka.",
+      "priceRange": "¥500–¥2,000 per person",
+      "whereToTry": "Nakasu riverside, Tenjin area, Nagahama near the fish market (open all night)",
+      "tip": "Look for yatai stalls operating from approximately 6pm to 1am. Sit at the counter, order the ramen or yakitori, and enjoy conversation with the owner — it is the most authentic Fukuoka experience."
+    },
+    {
+      "name": "Hakata Gion Teppanyaki Gyoza",
+      "japaneseName": "博多餃子",
+      "description": "Fukuoka's pan-fried gyoza (dumplings) have a distinct character: thin crispy skin, porky-garlicky filling, and a preference for eating without soy sauce (the gyoza is seasoned internally). The city's geographic and cultural proximity to China via the historic Hakata trade route created a gyoza culture slightly different from Tokyo or Osaka.",
+      "priceRange": "¥400–¥800 for a plate",
+      "whereToTry": "Yatai stalls in Nakasu and Tenjin, Gyoza no Manshu (multiple locations), izakaya throughout Hakata",
+      "tip": "Fukuoka gyoza are smaller and thinner-skinned than the bulkier versions elsewhere. Order as a starter at any izakaya — they arrive fast and hot."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Hakata Daruma Main Shop",
+      "address": "3-2-19 Nakasu, Hakata, Fukuoka",
+      "cuisine": "Hakata tonkotsu ramen",
+      "priceRange": "¥700–¥1,000",
+      "description": "Founded in 1963, Daruma is one of the historic originals of Hakata ramen culture. The founder's son continues the original recipe: pork bones simmered for 16 hours to produce a milky, rich broth that is still thicker and more intense than the current Ichiran style. Counter seating, no frills.",
+      "highlight": "A founding Hakata ramen institution since 1963 — pork bones simmered 16 hours"
+    },
+    {
+      "name": "Ichiran",
+      "address": "1-22 Daimyo, Chuo, Fukuoka (original Fukuoka location)",
+      "cuisine": "Tonkotsu ramen (private booth style)",
+      "priceRange": "¥890–¥1,200",
+      "description": "Founded in Fukuoka in 1960, Ichiran invented the solo booth ramen experience: each diner sits in a private wooden compartment, orders on a form (noodle firmness, broth richness, spice level), and receives the bowl through a curtained window. The fragrant tonkotsu broth is lighter than Daruma's but intensely refined.",
+      "highlight": "The original Fukuoka Ichiran — where the solo booth ramen concept was invented"
+    },
+    {
+      "name": "Fukuya Honten",
+      "address": "1-11-17 Higashi-nakasu, Hakata, Fukuoka",
+      "cuisine": "Mentaiko (original shop, est. 1949)",
+      "priceRange": "¥800–¥3,000",
+      "description": "The original mentaiko shop in Japan, founded in 1949 by Toshio Kawahara who adapted Korean spiced roe for Japanese tastes. Today Fukuya operates a modern retail and restaurant concept. The best place to buy quality mentaiko as a souvenir and sample it fresh alongside rice.",
+      "highlight": "The original mentaiko shop in Japan — since 1949 and still the best"
+    },
+    {
+      "name": "Nakasu Yatai Stalls",
+      "address": "Nakasu Island, Hakata, Fukuoka",
+      "cuisine": "Ramen, yakitori, gyoza, mixed izakaya",
+      "priceRange": "¥500–¥2,000 per person",
+      "description": "Fukuoka's most famous yatai district, on a narrow island between two rivers at the heart of the city. Around 20–30 stalls operate from sunset to the early hours. Each has a unique character — the most popular stalls have loyal regulars who return to the same operator for years.",
+      "highlight": "The most atmospheric outdoor dining experience in Japan — counter seating under lanterns"
+    },
+    {
+      "name": "Hakata Mizutaki Toriden",
+      "address": "8-16 Watanabe-dori, Chuo, Fukuoka",
+      "cuisine": "Mizutaki (chicken collagen hot pot)",
+      "priceRange": "¥3,500–¥6,000",
+      "description": "Toriden is considered the best mid-range mizutaki restaurant in Fukuoka, serving the chicken hot pot in the traditional way: broth first as a soup course, then chicken pieces and vegetables with ponzu and sesame. The collagen-rich broth is a genuine natural stock from chicken bones, not augmented.",
+      "highlight": "Best mizutaki in Fukuoka — drink the broth first for the full traditional experience"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Nakasu Yatai District",
+      "description": "The heart of Fukuoka's yatai culture — wooden stalls line the banks of the Naka River from evening until late night. Tonkotsu ramen, yakitori, gyoza, and cold beer served at close-quarter counters. The most authentic and unique street food experience in Japan.",
+      "bestFor": "Tonkotsu ramen, yakitori, mentaiko dishes, outdoor izakaya culture"
+    },
+    {
+      "name": "Tenjin Underground Dining",
+      "description": "Tenjin's underground shopping complex and surrounding streets have dense concentrations of ramen shops, izakaya, and mentaiko specialty stores. The Tenjin yatai area along Showa-dori is slightly more tourist-accessible than Nakasu.",
+      "bestFor": "Ramen, mentaiko shops, standing bars, department store basement food halls"
+    },
+    {
+      "name": "Nagahama Fish Market Area",
+      "description": "The wholesale fish market near the harbor is surrounded by early-morning ramen shops (open from midnight) catering to market workers and night-owl food tourists. The freshest fish and most intense Hakata ramen experience in the city.",
+      "bestFor": "Fresh seafood, late-night Hakata ramen, authentic working-class atmosphere"
+    }
+  ],
+  "foodTips": [
+    "Hakata ramen and tonkotsu ramen are the same thing — 'Hakata' is the local name for the style. If you order tonkotsu in Fukuoka, locals will understand.",
+    "The yatai stalls begin operating around 6pm and close between midnight and 2am. Arrive early (6–7pm) for the best selection and before the stalls fill up.",
+    "Buy quality mentaiko from Fukuya — vacuum-packed mentaiko travels well and makes an extraordinary food souvenir. One of Japan's best edible gifts.",
+    "Motsu-nabe and mizutaki are best in winter (November–February) when the hearty hot pots match the cold weather.",
+    "Hakata ramen etiquette: order kaedama (extra noodle refill for about ¥100) when your bowl is almost empty rather than a second bowl — this is the local custom.",
+    "Fukuoka's food is significantly cheaper than Tokyo or Osaka — a full tonkotsu ramen meal costs ¥700–¥1,000, and yatai meals rarely exceed ¥2,000 per person including drinks."
+  ],
+  "sources": [
+    { "name": "Japan Guide — Fukuoka Food", "url": "https://www.japan-guide.com/e/e4811.html" },
+    { "name": "Will Fly for Food — Fukuoka", "url": "https://www.willflyforfood.net/fukuoka-food-guide/" },
+    { "name": "Matcha JP — Fukuoka Food Map", "url": "https://matcha-jp.com/en/5790" }
+  ]
+}

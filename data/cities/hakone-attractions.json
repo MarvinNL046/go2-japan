@@ -1,0 +1,123 @@
+{
+  "slug": "hakone",
+  "city": "Hakone",
+  "introduction": "Hakone is Japan's most accessible mountain hot spring resort — just 90 minutes from Tokyo by Romancecar express — and arguably the country's finest concentration of natural beauty in a compact area. The 92km² volcanic Hakone-Ashigara quasi-national park centres on Lake Ashi, the Mount Hakone volcanic group, Owakudani active volcanic valley, and a network of traditional hot spring (onsen) ryokan towns at Yumoto, Miyanoshita, and Gora. Mount Fuji views — when clouds cooperate — frame the lake and mountain scenery in iconic Japanese imagery. The Hakone Free Pass covers all transport within the circuit: Romancecar, buses, the switchback mountain railway, ropeway over the volcanic crater, lake cruise pirate ships, and return to Tokyo.",
+  "topAttractions": [
+    {
+      "name": "Hakone Open Air Museum",
+      "japaneseName": "彫刻の森美術館",
+      "description": "Japan's first outdoor sculpture museum, opened in 1969, spreads across 70,000 square metres of mountain landscape displaying 120+ works by internationally renowned sculptors including Henry Moore, Rodin, Picasso, Niki de Saint Phalle, and Taro Okamoto. The permanent Picasso Pavilion houses 300 works — the largest Picasso collection in Japan. The outdoor sculptures are positioned to be experienced with the mountain landscape as living backdrop, changing with seasons and light. The Stained Glass Sky Chapel — a tower of stained glass surrounding a spiral staircase — is architecturally remarkable.",
+      "address": "1121 Ninotaira, Hakone, Ashigarashimo-gun, Kanagawa",
+      "openingHours": "9:00–17:00 (last entry 16:30); open daily",
+      "admission": "¥1,600 adults (¥1,400 with Hakone Free Pass), ¥800 university/high school, ¥400 children",
+      "duration": "2 hours",
+      "tips": "The free foot bath (ashiyu) within the museum grounds is open to all visitors — an ideal mid-walk relaxation. The sculpture garden walks are outdoor, so wear comfortable shoes. The museum café has excellent views over the sculpture lawns."
+    },
+    {
+      "name": "Owakudani Volcanic Valley",
+      "japaneseName": "大涌谷",
+      "description": "The most dramatic volcanic landscape in the Hakone area, Owakudani (Great Boiling Valley) is an active geological site where steam vents, sulphur fumaroles, and bubbling hot spring pools fill the grey-white crater landscape with perpetual mist. Created about 3,000 years ago by a volcanic eruption, the area is famous for the black eggs (kuro-tamago) hard-boiled in the volcanic hot springs — the mineral deposits turn the shells black and, according to local legend, eating one extends your life by seven years. The ropeway over the valley offers dramatic overhead views of the steaming landscape.",
+      "address": "Owakudani, Hakone, Ashigarashimo-gun, Kanagawa",
+      "openingHours": "9:00–17:00 (ropeway dependent on weather/volcanic activity)",
+      "admission": "Included in Hakone Free Pass; ropeway segment: ¥1,000 without pass",
+      "duration": "1 hour",
+      "tips": "The ropeway periodically closes due to elevated volcanic activity — check before planning as your primary activity. On clear days, the ropeway's Fuji views are extraordinary. Black eggs can be purchased at the Owakudani station for ¥500 per bag of five. The sulphur smell is intense — normal and harmless."
+    },
+    {
+      "name": "Lake Ashi Cruise",
+      "japaneseName": "芦ノ湖",
+      "description": "Lake Ashi (Ashino-ko), formed in the caldera of an ancient volcanic eruption, is Hakone's centrepiece and the most famous vantage point for Mount Fuji views in the entire region. The lake surface reflects the dormant volcanic cone on clear mornings, creating Japan's most recognised mountain reflection image. The sightseeing boats — styled as 17th-century pirate galleons — operate between Moto-Hakone and Togendai, passing the famous red torii gate of Hakone Shrine that appears to rise from the water at the lake's edge. The lake circuit connects the ropeway at Togendai to the old post town of Moto-Hakone.",
+      "address": "Moto-Hakone, Hakone, Ashigarashimo-gun, Kanagawa",
+      "openingHours": "Boats approximately 9:30–17:00 (seasonal, roughly every 30 minutes)",
+      "admission": "Included in Hakone Free Pass; single crossing ¥1,200 without pass",
+      "duration": "30–40 minutes crossing",
+      "tips": "The clearest Fuji views from the lake are in winter (November–February) early morning, before 10am. The pirate ships are purely atmospheric — genuinely fun. The Hakone Shrine torii gate at the lake's edge (Moto-Hakone) is most dramatic at high water in morning light."
+    },
+    {
+      "name": "Hakone Shrine",
+      "japaneseName": "箱根神社",
+      "description": "A Shinto shrine on the heavily forested slopes of Mount Hakone, dating to 757 AD, approached via a magnificent avenue of aged cedar trees. The shrine's lakeside torii gate appears to float on Lake Ashi and is one of Japan's most photographed subjects. The main shrine complex climbs through the forest with stone lanterns and multiple worship halls. The adjacent Peace Torii (1952) at the lake's edge was built to commemorate the San Francisco Peace Treaty signing. The combination of ancient cedars, mountain mist, and lake reflections creates one of Japan's most atmospheric shrine environments.",
+      "address": "80-1 Moto-Hakone, Hakone, Ashigarashimo-gun, Kanagawa",
+      "openingHours": "Always open",
+      "admission": "Free",
+      "duration": "45 minutes",
+      "tips": "The lakeside torii is a 10-minute walk from the Moto-Hakone bus stop. The shrine is most atmospheric in early morning mist or late afternoon when day tourists have departed. The long cedar avenue approach from the bus stop is a beautiful forest walk."
+    },
+    {
+      "name": "Hakone Tozan Railway",
+      "japaneseName": "箱根登山鉄道",
+      "description": "Japan's steepest mountain railway operates from Odawara or Hakone-Yumoto up to Gora, switchbacking three times on gradients up to 1:8.5 while passing through forests that in June are lined with over 10,000 hydrangeas blooming in blue, white, and purple. The journey through the mountain, with views across valleys and the sound of the train's brakes on the steep curves, is an attraction in itself. The railway connects seamlessly to the Hakone Ropeway at Gora via the funicular to Sounzan.",
+      "address": "Operates from Hakone-Yumoto to Gora",
+      "openingHours": "Approximately 6:30–22:00 (service frequency varies)",
+      "admission": "Included in Hakone Free Pass; Hakone-Yumoto to Gora: ¥780 without pass",
+      "duration": "40 minutes Hakone-Yumoto to Gora",
+      "tips": "The hydrangea season (mid-June to mid-July) is uniquely beautiful from the train — seats on the right side (descending from Gora) give the best views. The railway runs late night trains for ryokan guests returning from Odawara after Tokyo day trips."
+    },
+    {
+      "name": "Pola Museum of Art",
+      "japaneseName": "ポーラ美術館",
+      "description": "A world-class art museum embedded in the Hakone beech forest, housing the extraordinary Pola collection of Impressionist and Post-Impressionist masterpieces — Monet, Renoir, Picasso, Matisse, Cézanne — alongside Japanese modern art in elegant galleries designed by Nikken Sekkei. The natural light filtering through the forest into the glass-fronted galleries creates an extraordinary viewing environment. The surrounding forest walking trail is curated as an outdoor art installation.",
+      "address": "1285 Kozukayama, Sengokuhara, Hakone, Kanagawa",
+      "openingHours": "9:00–17:00 (last entry 16:30; open daily)",
+      "admission": "¥1,800 adults, ¥1,300 university/high school, ¥900 middle school and under",
+      "duration": "2 hours",
+      "tips": "Not included in the Hakone Free Pass transport network — take a taxi from Gora (10 min) or bus from Togendai. The Monet water lily series (three major works) is the collection highlight. The forest trail connecting to nearby Lala Garden (free) adds an excellent 30-minute walk."
+    },
+    {
+      "name": "Yumoto Onsen Town",
+      "japaneseName": "箱根湯本温泉",
+      "description": "The gateway town and oldest onsen resort in Hakone, with hot spring traditions stretching back 1,200 years. The Hayakawa River runs through the centre, lined with ryokan that pipe alkaline sulphate hot spring water directly from underground sources into private and communal bathing facilities. The town's shopping street (Yumoto-Honcho) offers excellent Hakone craft traditions — wooden Hakone marquetry boxes (yosegi-zaiku), traditional sweets, and Japanese sake. The free footbath (ashiyu) at Yumoto Station plaza allows anyone to experience the waters briefly.",
+      "address": "Yumoto, Hakone, Kanagawa (first stop from Odawara)",
+      "openingHours": "Town always accessible; footbath typically 9:00–20:00",
+      "admission": "Free to walk; ryokan day bathing from ¥1,500–3,000",
+      "duration": "1–2 hours for day visit",
+      "tips": "The public day bathing (higaeri) at ryokan Fukuzumiro and Yumotosou offers full facility access without an overnight stay. The Souvenirs of yosegi-zaiku marquetry are Hakone's finest gift — puzzle boxes and traditional patterns are made by artisans at workshops visible from Tozan railway."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Amazake Chaya Teahouse",
+      "description": "A 400-year-old thatched teahouse on the ancient Tokaido road between Moto-Hakone and Hakone-Yumoto, serving amazake (sweet fermented rice drink) and mochi — unchanged since Edo-period travelers rested here.",
+      "whyVisit": "One of the most atmospheric historical experiences in the Kanto region — drinking the same sweet drink that Edo-period pilgrims drank, in the same building, on the same ancient road."
+    },
+    {
+      "name": "Kannonji-dori Morning Market",
+      "description": "A small morning market in Odawara (Hakone gateway city) that operates beside the castle moat on weekends, with local farmers selling vegetables, fruits, and prepared foods to residents.",
+      "whyVisit": "Authentic local market culture before or after Hakone visits — Odawara Castle and market together make an excellent morning before taking the Tozan railway up the mountain."
+    },
+    {
+      "name": "Sengokuhara Susuki Grasslands",
+      "description": "Vast silver pampas grass (susuki) fields on the Sengokuhara plateau, best in October when the feathery silver plumes sway in autumn wind with Fuji as backdrop.",
+      "whyVisit": "One of Japan's finest seasonal landscape experiences that very few foreign visitors include in Hakone itineraries — the silver grasslands against autumn sky are quintessentially Japanese."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Odawara Castle",
+      "description": "The gateway city to Hakone has its own excellent reconstructed castle, Odawara-jo — headquarters of the Hojo clan for 100 years and one of Japan's finest castle experiences.",
+      "distance": "15km east (base of the Hakone mountains)",
+      "duration": "2 hours",
+      "transport": "Hakone-Tozan Railway to Odawara (40 min)"
+    },
+    {
+      "name": "Mount Fuji 5th Station",
+      "description": "The highest point reachable by road on Fuji, with panoramic views of the surrounding lake district. Fuji climbing season is July 1–September 10.",
+      "distance": "30km north",
+      "duration": "Half day",
+      "transport": "Bus from Gotemba or Kawaguchiko (seasonal)"
+    },
+    {
+      "name": "Atami Coastal Resort",
+      "description": "An Edo-period hot spring resort on the Izu Peninsula coast with excellent seafood, traditional ryokan, and a fine art museum (MOA) with superb Pacific views.",
+      "distance": "25km south",
+      "duration": "Full day",
+      "transport": "JR Tokaido Line from Odawara (15 minutes)"
+    }
+  ],
+  "sources": [
+    { "name": "Hakone Tourism Official", "url": "https://www.hakone.or.jp/en/" },
+    { "name": "Hakone Open Air Museum Official", "url": "https://www.hakone-oam.or.jp/en/" },
+    { "name": "Odakyu Hakone Free Pass Info", "url": "https://www.odakyu.jp/english/passes/hakone/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" }
+  ]
+}

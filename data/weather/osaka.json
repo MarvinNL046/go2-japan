@@ -1,0 +1,141 @@
+{
+  "slug": "osaka",
+  "city": "Osaka",
+  "climate_overview": "Osaka has a temperate humid climate similar to Kyoto, slightly moderated by its coastal location on Osaka Bay. Winters are mild compared to most of Japan, with snow extremely rare. Spring brings excellent cherry blossom viewing at Osaka Castle and along the Okawa River. Summers are hot and humid with the rainy season beginning in June, but Osaka's vibrant street food culture makes even hot evenings enjoyable. Autumn foliage peaks in November and is less crowded than Kyoto. Annual rainfall is approximately 1,340mm, making it drier than Kyoto. The city is a year-round destination.",
+  "best_months": ["March", "April", "May", "October", "November"],
+  "avoid_months": ["July", "August"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 10,
+      "temp_low": 3,
+      "rainfall_mm": 45,
+      "humidity": 64,
+      "description": "January is Osaka's coldest month, though significantly milder than much of Japan. Snow is extremely rare in the city centre. Clear winter days offer excellent conditions for exploring without summer heat or crowds. Osaka's famous indoor food culture — takoyaki, okonomiyaki, and ramen shops — provides warm refuge on cold days. New Year celebrations fill the first week with visits to Sumiyoshi Taisha and Osaka Tenmangu shrines. Tourist crowds are at their lowest, making this one of the best value times to visit.",
+      "activities": ["New Year shrine visits", "Indoor food tours", "Dotonbori night strolls", "Osaka Castle grounds walk"],
+      "events": ["Oshogatsu New Year (January 1)", "Hatsumode at Sumiyoshi Taisha", "Toka Ebisu Festival (January 9-11)"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 11,
+      "temp_low": 3,
+      "rainfall_mm": 60,
+      "humidity": 62,
+      "description": "February brings cold but pleasant weather with the first hints of spring. Plum blossoms appear at Osaka Castle Park and Manno Park, offering the season's first floral displays. The Setsubun bean-throwing ceremony brings lively crowds to Osaka's temples. Osaka International Film Festival and various food events take place this month. Hotel rates and flight prices are at their annual minimum, making February excellent value for budget-conscious travellers who don't mind cool temperatures.",
+      "activities": ["Plum blossom viewing", "Setsubun temple events", "Kuromon Market tours", "Spa and onsen visits"],
+      "events": ["Setsubun (February 3)", "Plum blossom festivals", "Osaka International Film Festival"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 15,
+      "temp_low": 7,
+      "rainfall_mm": 104,
+      "humidity": 62,
+      "description": "March brings warming temperatures and the exciting anticipation of cherry blossom season. Early blossoms begin appearing in the last week of March along the Okawa River and at Osaka Castle. Weather can be unpredictable with warm sunny days and cool rainy periods alternating. The Osaka Marathon takes place in March, bringing energy to the city streets. Namba and Shinsaibashi shopping areas become lively as spring fashion launches. Crowds build quickly toward month's end as sakura forecasts are released.",
+      "activities": ["Early sakura walks", "Spring shopping", "Osaka Marathon watching", "Minami nightlife"],
+      "events": ["Osaka Marathon", "Early cherry blossom openings", "Spring department store sales"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 21,
+      "temp_low": 12,
+      "rainfall_mm": 103,
+      "humidity": 62,
+      "description": "April is peak cherry blossom season in Osaka, with the Okawa River and Osaka Castle's 600 cherry trees putting on spectacular displays. The Osaka-jo Park hanami scene is enormous and festive with food stalls, music, and thousands of picnickers. Temperatures are very comfortable for exploring. Compared to Kyoto, Osaka is slightly less overwhelmed with tourists, making it a good cherry blossom alternative. Golden Week approaches at month's end, driving hotel prices up. Book accommodation and popular restaurants well in advance.",
+      "activities": ["Okawa River cherry blossom cruise", "Osaka Castle hanami", "Dotonbori boat rides", "Namba food crawl"],
+      "events": ["Cherry blossom peak bloom", "Osaka International Spring Beer Festival", "Shitennoji Wasso Festival"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "may": {
+      "temp_high": 26,
+      "temp_low": 17,
+      "rainfall_mm": 145,
+      "humidity": 64,
+      "description": "May brings warm, beautiful weather and two distinct experiences. Golden Week (late April to May 5) is one of Japan's busiest travel periods, with packed attractions and premium hotel prices. After Golden Week ends, mid-to-late May is delightful: comfortable warmth, fresh green foliage, vibrant festival atmosphere, and thinner crowds. Osaka's street food culture reaches peak vibrancy with evening food stall culture along the canals. Universal Studios Japan is best visited in mid-May on weekdays.",
+      "activities": ["Universal Studios Japan", "Wisteria viewing", "Tempozan area exploration", "Evening canal walks"],
+      "events": ["Golden Week (April 29–May 5)", "Osaka Castle Park greenery season", "Namba Grand Sumo Tournament preview events"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "june": {
+      "temp_high": 29,
+      "temp_low": 22,
+      "rainfall_mm": 185,
+      "humidity": 73,
+      "description": "June marks the start of the rainy season (tsuyu), bringing frequent drizzle and overcast skies. Humidity rises sharply and outdoor exploration becomes less comfortable, though Osaka's extensive underground shopping arcade network — stretching over 2.7km — makes the city uniquely weather-proof. Rain actually enhances the atmosphere of Dotonbori and Namba at night. Hydrangeas bloom along roadsides and in smaller gardens. Early June before the rains fully arrive can still be very pleasant.",
+      "activities": ["Underground shopping arcades", "Indoor food markets", "Rainy Dotonbori photography", "Aquarium Kaiyukan"],
+      "events": ["Rainy season begins (mid-June)", "Osaka Summer Festival preparations", "Hydrangea walks"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "july": {
+      "temp_high": 33,
+      "temp_low": 26,
+      "rainfall_mm": 157,
+      "humidity": 76,
+      "description": "July is hot, humid, and intensely festive in Osaka. The famous Tenjin Matsuri (July 24–25) is one of Japan's three great festivals, featuring spectacular boat processions along the Okawa River and enormous fireworks. Summer brings yakitori stalls and beer gardens to rooftops and riverside spaces throughout the city. Osaka's food culture ensures that even the hottest evenings feel like parties. Visit outdoor sites in early morning and retreat to air-conditioning during the midday heat peak.",
+      "activities": ["Tenjin Matsuri", "River fireworks viewing", "Rooftop beer gardens", "Night food markets"],
+      "events": ["Tenjin Matsuri festival (July 24–25)", "Tenjin Matsuri fireworks", "Summer beer gardens open citywide"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "august": {
+      "temp_high": 33,
+      "temp_low": 26,
+      "rainfall_mm": 90,
+      "humidity": 74,
+      "description": "August is Osaka's hottest month with average highs of 33°C and relentless humidity. Obon holidays in mid-August see many local residents returning to their hometowns, paradoxically reducing city congestion. Universal Studios Japan hosts special summer events. Naniwa Yodogawa Fireworks on August 8 is one of the largest fireworks displays in Japan. The heat is intense but Osaka's energy never fades — the city simply shifts its activities to mornings, evenings, and air-conditioned environments.",
+      "activities": ["Obon festivals", "Yodogawa Fireworks", "Universal Studios special events", "Air-conditioned attraction visits"],
+      "events": ["Obon (mid-August)", "Naniwa Yodogawa Fireworks (August 8)", "PL Peace Festival Fireworks nearby"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "september": {
+      "temp_high": 29,
+      "temp_low": 22,
+      "rainfall_mm": 130,
+      "humidity": 72,
+      "description": "September is typhoon season and remains warm and humid early in the month, gradually cooling to more pleasant conditions. Typhoons can occasionally disrupt travel, but the city recovers quickly. Tourist numbers are notably lower than summer peak, and hotel prices drop. The Kishiwada Danjiri Festival in mid-September (in the nearby Kishiwada area, 30 minutes from Osaka) is one of Japan's most thrillingly dangerous festivals, featuring teams racing massive wooden floats through narrow streets.",
+      "activities": ["Kishiwada Danjiri Festival", "Post-summer exploration", "Day trips to Kobe or Nara", "Autumn food season begins"],
+      "events": ["Kishiwada Danjiri Matsuri (2nd weekend of September)", "Autumnal Equinox Day", "New sake season begins"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "october": {
+      "temp_high": 23,
+      "temp_low": 15,
+      "rainfall_mm": 112,
+      "humidity": 67,
+      "description": "October brings Osaka's most comfortable weather of the year. Temperatures are ideal for walking — cool enough to explore for hours but warm enough for shirtsleeves during the day. Tourist numbers are moderate and well-distributed. Early autumn foliage begins appearing at nearby mountain areas, and day trips to Minoh Park for maple leaves become popular. Halloween celebrations in the Shinsaibashi and Dotonbori areas bring costumed crowds for the last week of October.",
+      "activities": ["Minoh Park waterfall and foliage", "Halloween in Shinsaibashi", "Osaka food tours", "Cycling along the Okawa"],
+      "events": ["Halloween (last week of October)", "Minoh Park foliage walks", "Osaka Food Festival events"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "november": {
+      "temp_high": 17,
+      "temp_low": 9,
+      "rainfall_mm": 68,
+      "humidity": 66,
+      "description": "November is one of Osaka's finest months, with comfortable temperatures, low rainfall, and beautiful autumn foliage at Osaka Castle, Minoh Park, and various temples. Unlike Kyoto, autumn foliage crowds in Osaka are much more manageable, making it possible to enjoy the season without extreme queuing. The crisp air is perfect for long food-focused walks through Shinsekai, Hozenji Yokocho, and the covered shopping arcades. Illumination events begin at month's end.",
+      "activities": ["Osaka Castle autumn foliage", "Minoh Park maple leaves", "Shinsekai neighbourhood exploration", "Illumination events"],
+      "events": ["Autumn foliage at Osaka Castle", "Minoh Maple Leaf Festival", "Illuminage winter lights begin"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "december": {
+      "temp_high": 12,
+      "temp_low": 5,
+      "rainfall_mm": 44,
+      "humidity": 67,
+      "description": "December brings cool, dry weather and festive energy to Osaka. Christmas markets and illuminations appear throughout the city, with Universal Studios Japan's holiday events being particularly spectacular. The Hikari Renaissance illumination festival along the Nakanoshima riverbank transforms the area into a river of lights. Year-end parties fill every restaurant in Dotonbori. New Year's Eve is celebrated with temple bell-ringing and massive crowds at Sumiyoshi Taisha for midnight first-shrine-visits. Hotels offer good rates outside the New Year period.",
+      "activities": ["Universal Studios Japan Christmas events", "Nakanoshima illuminations", "Year-end Dotonbori dining", "New Year's shrine visits"],
+      "events": ["Hikari Renaissance illumination festival", "Universal Studios Japan holiday events", "Omisoka New Year's Eve"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    }
+  }
+}

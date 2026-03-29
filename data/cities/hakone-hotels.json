@@ -1,0 +1,92 @@
+{
+  "slug": "hakone",
+  "cityName": "Hakone",
+  "introduction": "Hakone is one of Japan's premier hot spring (onsen) resort destinations, located in the mountains 90km southwest of Tokyo with views of Mount Fuji on clear days. The accommodation experience here centers on the ryokan — traditional Japanese inns where the room rate includes an elaborate multi-course kaiseki dinner, a traditional breakfast, access to private and communal hot spring baths, and the full Japanese inn ritual of yukata robes, in-room service, and attentive hospitality. Choosing where to stay in Hakone is primarily choosing which onsen town appeals to you: Hakone-Yumoto is the most accessible gateway town with the widest range of budgets; Gora offers a quieter, more refined experience in the mountains; Miyanoshita is historic and forested; Kowakidani and the Lake Ashi area provide dramatic volcanic and lake scenery. Hakone's top ryokan are considered some of the finest in Japan, and even mid-range options typically include hot spring baths and kaiseki meals. This is the closest true ryokan experience to Tokyo.",
+  "bestAreas": [
+    {
+      "name": "Hakone-Yumoto",
+      "description": "The main gateway to Hakone, accessible directly by Odakyu train from Shinjuku (approximately 90 minutes). The most affordable and diverse accommodation base, with ryokan, business hotels, and budget guesthouses alongside hot spring bathhouses and a lively shopping street. The Hakone-Yumoto onsen district has been welcoming travelers for over 400 years.",
+      "bestFor": "First-time Hakone visitors, budget-conscious ryokan experience, easy Tokyo access",
+      "priceRange": "¥8,000–¥60,000 ($53–$400) per person with meals at ryokan"
+    },
+    {
+      "name": "Gora",
+      "description": "The mid-mountain area accessible by the narrow-gauge Hakone Tozan mountain railway from Yumoto, Gora is quieter and more refined. The Gora Onsen district contains some of Hakone's most celebrated luxury ryokan, including the former Imperial retreat. The Hakone Open-Air Museum is a 5-minute walk.",
+      "bestFor": "Luxury ryokan, romantic couples, Mount Fuji views, Hakone Open-Air Museum",
+      "priceRange": "¥20,000–¥100,000+ ($133–$667+) per person with meals"
+    },
+    {
+      "name": "Motohakone/Lake Ashi",
+      "description": "The lakeside area offers spectacular views of Mount Fuji reflected in Lake Ashi on clear days. Access is by bus or ropeway from Gora, and the area is anchored by the historical Hakone Sekisho checkpoint. Several excellent ryokan and resort hotels use the lake views as their primary attraction.",
+      "bestFor": "Mount Fuji views, lake scenery, Hakone Shrine, ropeway access",
+      "priceRange": "¥15,000–¥80,000 ($100–$533) per person with meals"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Hakone Tent",
+      "type": "Backpacker hostel",
+      "priceRange": "¥3,500–¥6,500 ($23–$43)",
+      "description": "One of the few genuinely budget-friendly options in Hakone, near Hakone-Yumoto Station. Both dorm beds and private rooms available in a clean, modern hostel. Access to the local public onsen bathhouses (sento) nearby. The best budget base for exploring Hakone's sights."
+    },
+    {
+      "name": "Fontaine Bleau Hakone",
+      "type": "Pension (Western-style inn)",
+      "priceRange": "¥8,000–¥15,000 ($53–$100) per person with breakfast",
+      "description": "A family-run Western-style inn (pension) in Hakone offering a comfortable, informal alternative to the full ryokan experience at lower cost. Private outdoor hot spring bath access. A good entry-level option for those not ready to commit to a full ryokan tariff."
+    },
+    {
+      "name": "Yumoto Fujiya Hotel",
+      "type": "Mid-budget hotel with onsen",
+      "priceRange": "¥10,000–¥20,000 ($67–$133) per person with meals",
+      "description": "A mid-range hotel in Yumoto with access to natural hot spring facilities and simple Japanese-style rooms. The meals lean toward traditional but are simpler than full kaiseki. Good value for a first ryokan-style experience."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Fujiya Hotel",
+      "type": "Historic Western-style hotel",
+      "priceRange": "¥20,000–¥50,000 ($133–$333) per person with meals",
+      "description": "Japan's oldest Western-style hotel, open since 1878, in Miyanoshita. The main building retains its Meiji-era character with painted ceilings, wooden floors, and period furniture. Natural hot spring baths. Former guests include Charlie Chaplin, John Lennon, and multiple heads of state."
+    },
+    {
+      "name": "Tamanoyu",
+      "type": "Ryokan",
+      "priceRange": "¥20,000–¥45,000 ($133–$300) per person with meals",
+      "description": "A well-regarded mid-tier ryokan in Hakone-Yumoto with a private riverside location, multiple indoor and outdoor hot spring baths, and seasonal kaiseki meals. The Tamanoyu is considered one of the best value ryokan in Hakone for the quality of both food and facilities."
+    },
+    {
+      "name": "Hakoneso",
+      "type": "Ryokan with lake views",
+      "priceRange": "¥22,000–¥50,000 ($147–$333) per person with meals",
+      "description": "A traditional ryokan on the shores of Lake Ashi with private onsen facilities and panoramic lake views. The kaiseki dinners incorporate fresh lake trout (yamame) and seasonal Hakone mountain vegetables."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "Gora Kadan",
+      "type": "Ultra-luxury ryokan",
+      "priceRange": "¥60,000–¥150,000 ($400–$1,000) per person with meals",
+      "description": "Occupying the former summer retreat of the Imperial family, Gora Kadan is universally regarded as one of Japan's finest ryokan. The 19 guest rooms in the original villa wing have private outdoor baths fed by the Gora hot spring. The kaiseki dinners are considered among the best in the Kanto region."
+    },
+    {
+      "name": "Arcana Izu (near Hakone/Ito area)",
+      "type": "Luxury villa ryokan",
+      "priceRange": "¥50,000–¥120,000 ($333–$800) per person with meals",
+      "description": "A boutique luxury ryokan in the Izu Peninsula mountains, each room a standalone villa with private rotenburo (outdoor stone bath). The property combines modern Japanese design with traditional onsen culture."
+    }
+  ],
+  "bookingTips": [
+    "Ryokan rates in Hakone are quoted per person and almost always include dinner and breakfast — account for this when comparing with room-only hotel rates. A ¥25,000 per person rate with two kaiseki meals is often better value than it appears.",
+    "Golden Week (late April–early May) and New Year are the busiest periods in Hakone. Book 3–6 months ahead for any quality ryokan during these times.",
+    "The Hakone Free Pass (Odakyu, ¥4,600 from Shinjuku for 2 days) covers the Odakyu Limited Express from Tokyo and unlimited travel on all Hakone transportation including mountain railway, cable car, ropeway, and Lake Ashi boats. Buy before booking accommodation.",
+    "Most Hakone ryokan set dinner at 6pm or 6:30pm — plan your sightseeing to be back at the inn by 5:30pm. Missing the set dinner time can be logistically complicated.",
+    "The private outdoor bath (kashikiri buro or rotenburo) is the defining luxury in Hakone ryokan. Check whether rooms include a private bath or whether the rate refers to communal facility access.",
+    "Weekday ryokan rates are typically 20–30% lower than weekend rates in Hakone. If your schedule is flexible, a Monday–Thursday stay is significantly more affordable."
+  ],
+  "sources": [
+    { "name": "Bucket List Bri — Where to Stay in Hakone", "url": "https://bucketlistbri.com/where-to-stay-in-hakone/" },
+    { "name": "Wanderlust Designers — Hakone Ryokan with Private Onsen", "url": "https://www.wanderlustdesigners.com/ryokan-in-hakone-with-private-onsen/" },
+    { "name": "Japan Guide — Hakone Hotels", "url": "https://www.japan-guide.com/hotels/hakone.html" }
+  ]
+}

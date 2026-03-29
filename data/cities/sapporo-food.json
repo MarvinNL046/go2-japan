@@ -1,0 +1,127 @@
+{
+  "slug": "sapporo",
+  "cityName": "Sapporo",
+  "introduction": "Sapporo sits at the center of Hokkaido, Japan's most bountiful agricultural and seafood-producing region, and the city's food culture reflects this extraordinary larder. Hokkaido's cold, clean waters produce the finest seafood in Japan — uni (sea urchin) considered the sweetest in the country, enormous snow and king crab from the Sea of Okhotsk, premium salmon, scallops, and ikura (salmon roe). Sapporo's signature ramen is miso-based — a style developed in the 1950s to complement Hokkaido's cold winters with a warming, rich broth. Beyond ramen, the city is known for jingisukan (grilled mutton cooked on a dome-shaped iron pan, named after Genghis Khan), soup curry (a Sapporo invention: curry-spiced broth with large vegetable chunks and often a whole chicken leg), and Hokkaido dairy products so superior that they anchor an entire sweets industry. The Sapporo Beer Museum reminds visitors that Hokkaido's clean barley and pure water made Sapporo Japan's original brewing city. Eating in Sapporo means eating the best Japan's agriculture produces.",
+  "signatureDishes": [
+    {
+      "name": "Sapporo Miso Ramen",
+      "japaneseName": "札幌味噌ラーメン",
+      "description": "One of Japan's three great regional ramen styles, developed in Sapporo in 1955 by Morito Omiya. The broth combines rich pork bone stock with Hokkaido red miso (akamiso), creating a dark, intensely savory soup. Topped with stir-fried ground pork, corn, butter, and bamboo shoots. The corn and butter addition is a Hokkaido signature.",
+      "priceRange": "¥800–¥1,400",
+      "whereToTry": "Sumire (Susukino, the most famous), Ramen Yokocho (Susukino alley with 17 shops), Ganso Ramen Yokocho, Lemon (Sapporo Station area)",
+      "tip": "The corn and butter topping is not optional — order it with both for the authentic Sapporo miso ramen experience. The butter melts into the hot broth to add richness."
+    },
+    {
+      "name": "Kaisen Don (Seafood Rice Bowl)",
+      "japaneseName": "海鮮丼",
+      "description": "A bowl of seasoned rice loaded with the day's fresh catch from Hokkaido waters: salmon (sake), salmon roe (ikura), sea urchin (uni), scallops (hotate), tuna, and sweet shrimp (ama-ebi). The flagship Sapporo version at Nijo Market is the ikura don — served in ceramic bowls, they continue adding salmon roe until it nearly overflows.",
+      "priceRange": "¥1,500–¥4,000",
+      "whereToTry": "Nijo Market (Odori, open daily from 7am), Hachikyo (izakaya, famous for overflowing ikura donburi), Curb Market stalls",
+      "tip": "Hachikyo izakaya is famous for its tradition: if you cannot finish the overflowing ikura don, you are required to apologize to the fishermen who caught it. Most people finish it."
+    },
+    {
+      "name": "Jingisukan",
+      "japaneseName": "ジンギスカン",
+      "description": "Thinly sliced lamb or mutton grilled on a dome-shaped iron pan — the raised center cooks the meat while vegetables cook in the juices that run down the sides. Named after Genghis Khan (the dome shape supposedly references a Mongolian helmet), invented in Hokkaido in the 1930s. Served at casual yakiniku-style restaurants throughout Sapporo.",
+      "priceRange": "¥1,500–¥3,000 per person",
+      "whereToTry": "Jingisukan Daruma Main Shop (since 1954, Susukino), Sapporo Beer Garden (the most famous jingisukan venue, unlimited jingisukan and beer sets)",
+      "tip": "Sapporo Beer Garden offers an all-you-can-eat jingisukan and draft Sapporo beer set for approximately ¥4,200 — one of the best value meal experiences in Japan."
+    },
+    {
+      "name": "Soup Curry",
+      "japaneseName": "スープカレー",
+      "description": "A Sapporo invention from the 1970s: a deeply spiced, aromatic broth (think curry flavor without the thick roux) containing oversized chunks of roasted vegetables — half a potato, a whole chicken drumstick, large pieces of carrot and eggplant. The broth is drunk as soup, the vegetables eaten with the included rice. Sapporo has over 200 soup curry restaurants.",
+      "priceRange": "¥1,000–¥1,800",
+      "whereToTry": "Garaku (Odori, consistently rated #1), Spicy Curry Rakkyo (Nakajima Park area), Magic Spice (Tsukisamu, the original 1993 shop)",
+      "tip": "Most soup curry shops let you choose spice level (0–10+) and rice volume separately from the curry. Start at spice level 3–5 to appreciate the broth without being overwhelmed."
+    },
+    {
+      "name": "Hokkaido Uni (Sea Urchin)",
+      "japaneseName": "北海道ウニ",
+      "description": "Hokkaido produces Japan's finest sea urchin — the cold Okhotsk and Pacific waters produce uni with a sweet, clean, briny flavor unmatched elsewhere. White uni (Ezo bafun uni) from Rishiri Island and murasaki uni from northern Hokkaido are the premium varieties. Available as gunkan maki sushi, over rice as a uni don, or as a simple sake snack.",
+      "priceRange": "¥1,500–¥6,000 depending on grade",
+      "whereToTry": "Nijo Market seafood stalls, Sushi Zen (premium omakase), izakaya throughout Susukino",
+      "tip": "Avoid uni at chain conveyor sushi restaurants — the quality difference between fresh Hokkaido uni from a market and pre-packaged uni is enormous. Pay the premium at Nijo Market."
+    },
+    {
+      "name": "Hokkaido Crab",
+      "japaneseName": "北海道カニ",
+      "description": "Three types of Hokkaido crab define winter eating in Sapporo: snow crab (zuwaigani), king crab (tarabagani), and the prized hairy crab (kegani, best September–November). Available at Nijo Market to eat fresh, or at specialist restaurants as shabu-shabu, grilled, or in full course meals.",
+      "priceRange": "¥3,000–¥15,000 for a crab course",
+      "whereToTry": "Kani Honke (the most famous crab restaurant, since 1971), Nijo Market stalls (most affordable), specialty crab restaurants in Susukino",
+      "tip": "Hairy crab season (September to November) is considered the absolute peak of Hokkaido crab — the roe (kani miso) inside is uniquely rich and available only in this species."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Sumire",
+      "address": "5-3-2 Minami, Chuo, Sapporo (Susukino area)",
+      "cuisine": "Sapporo miso ramen",
+      "priceRange": "¥900–¥1,300",
+      "description": "Consistently considered Sapporo's finest miso ramen, Sumire's broth is prepared from a deeply fermented miso paste and rich pork stock, topped with stir-fried ground pork, a generous piece of chashu, bamboo shoots, and the classic corn and butter. One of the most imitated but rarely matched ramen in Japan.",
+      "highlight": "Sapporo's gold standard miso ramen — worth any queue; they have limited hours"
+    },
+    {
+      "name": "Hachikyo",
+      "address": "Susukino area, Sapporo (near Susukino Station)",
+      "cuisine": "Izakaya — seafood and ikura don",
+      "priceRange": "¥2,000–¥5,000",
+      "description": "Rated the #1 izakaya in Sapporo by multiple publications, Hachikyo is famous for its overflowing ikura donburi — they keep adding fresh salmon roe to your bowl until it's piled impossibly high. The izakaya tradition requires you to finish the bowl completely, honoring the fishermen. Also excellent: fresh crab, uni sashimi, and Hokkaido-only fish dishes.",
+      "highlight": "The famous overflowing ikura don — finish it or apologize to the fishermen"
+    },
+    {
+      "name": "Garaku",
+      "address": "South 2, West 2, Chuo, Sapporo (near Odori Park)",
+      "cuisine": "Soup curry",
+      "priceRange": "¥1,100–¥1,700",
+      "description": "Consistently voted the best soup curry restaurant in Sapporo, Garaku's broth is built on a complex spice blend of over 30 ingredients, and the vegetables are roasted before adding to the curry — creating a deeper, caramelized flavor. The chicken leg soup curry is the signature order.",
+      "highlight": "Rated best soup curry in Sapporo — 30+ spices in the broth; arrive before opening or queue"
+    },
+    {
+      "name": "Kani Honke",
+      "address": "Odori area, Chuo, Sapporo",
+      "cuisine": "Hokkaido crab (full course)",
+      "priceRange": "¥8,000–¥20,000 for a crab course",
+      "description": "The most famous and established crab restaurant in Sapporo, open since 1971. Full kaiseki-style crab courses using snow crab, king crab, and hairy crab depending on season — all cooked multiple ways: shabu-shabu, grilled, sashimi, and crab miso soup. The décor is famously extravagant.",
+      "highlight": "Sapporo's most famous crab restaurant since 1971 — full Hokkaido crab courses"
+    },
+    {
+      "name": "Jingisukan Daruma Main Shop",
+      "address": "5 Minami 4 Jo Nishi, Chuo, Sapporo",
+      "cuisine": "Jingisukan (grilled lamb)",
+      "priceRange": "¥2,000–¥3,500 per person",
+      "description": "The original and most celebrated jingisukan restaurant in Sapporo, operating since approximately 1954 in its current location. The smoke-stained walls and dome-shaped iron pans are unchanged. The lamb is pre-marinated in a ginger-soy sauce. Order extra beer.",
+      "highlight": "The original Sapporo jingisukan institution — unchanged since the 1950s"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Ramen Yokocho (Susukino)",
+      "description": "Two famous ramen alley concentrations in Susukino: the original Ganso Ramen Yokocho (16 tiny ramen stalls) and the newer Shin Ramen Yokocho, both in Susukino's entertainment district. The intimate, smoke-filled atmosphere of the original alley is a Sapporo food pilgrimage site.",
+      "bestFor": "Miso ramen, shio ramen, shoyu ramen, late-night ramen after Susukino bars"
+    },
+    {
+      "name": "Nijo Market (二条市場)",
+      "description": "Sapporo's daily fish market open from 7am to 6pm, with stalls selling fresh Hokkaido seafood, crabs, melons, corn, dairy, and prepared foods. Many stalls cook to order — grilled scallops, sea urchin rice bowls, and fresh crab legs are commonly eaten standing at market stalls.",
+      "bestFor": "Fresh uni, grilled scallops, ikura don, fresh Hokkaido dairy, crab at market prices"
+    },
+    {
+      "name": "Susukino Entertainment District",
+      "description": "Sapporo's famous nightlife district with the highest concentration of izakaya, ramen shops, jingisukan restaurants, and seafood bars. The neon signs, covered arcades, and street food stalls make this the most atmospheric evening eating area in Hokkaido.",
+      "bestFor": "Jingisukan, ramen, izakaya, craft beer, late-night eating"
+    }
+  ],
+  "foodTips": [
+    "Hokkaido uni is available year-round in Sapporo but peaks in summer (June–August). Fresh uni from the morning market bears no resemblance to the packaged variety — pay the premium.",
+    "Soup curry is a Sapporo invention that has not spread widely outside Hokkaido — it is worth trying specifically here. Start at spice level 3–5 as a first-timer.",
+    "Jingisukan at Sapporo Beer Garden includes unlimited draft Sapporo beer — the original Sapporo lager tastes noticeably different in Sapporo than it does bottled elsewhere.",
+    "Nijo Market is best on weekday mornings for the best selection and least crowds. Weekend mornings are manageable; weekend afternoons can be very crowded.",
+    "Sapporo's winters are severe — cold-weather Hokkaido dishes like miso ramen, crab shabu-shabu, and motsu nabe are best appreciated November through March.",
+    "Hokkaido dairy products (milk, butter, soft serve, cheese) are a legitimate reason to eat in Sapporo. The fresh milk from Hokkaido's dairy farms has a richer, creamier flavor than mainland Japan dairy."
+  ],
+  "sources": [
+    { "name": "ByFood — What to Eat in Sapporo", "url": "https://www.byfood.com/blog/sapporo/what-to-eat-in-sapporo" },
+    { "name": "Magical Trip — Sapporo Food Guide", "url": "https://www.magical-trip.com/media/sapporo-food-guide-2025-10-must-try-local-dishes-best-restaurants/" },
+    { "name": "Girl Eat World — Sapporo Food Guide", "url": "https://girleatworld.net/sapporo-food-guide/" }
+  ]
+}

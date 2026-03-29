@@ -1,0 +1,141 @@
+{
+  "slug": "hakone",
+  "city": "Hakone",
+  "climate_overview": "Hakone is a mountainous hot spring resort in Kanagawa Prefecture at elevations of 700–1,400 metres, making it significantly cooler than Tokyo and the Kanto plains. Its climate is more changeable and wetter than lowland Japan, with frequent mist and clouds that are part of its mystical character. Mount Fuji views — Hakone's great draw — are most reliable in winter when clear, dry air dominates. Spring brings beautiful azalea and cherry blossoms on mountain slopes. Autumn foliage is spectacular. Annual rainfall exceeds 2,000mm, with summer the wettest season. The area is renowned for its onsens, which are perfect year-round.",
+  "best_months": ["October", "November", "December", "January", "February"],
+  "avoid_months": ["June", "July", "September"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 7,
+      "temp_low": -1,
+      "rainfall_mm": 96,
+      "humidity": 72,
+      "description": "January brings Hakone's best chance of clear Fuji views — crisp, cold air sweeps away clouds and the snow-capped peak is visible for days at a time. Temperatures in the mountains can drop below freezing at night, but the onsens are at their most magical and restorative. Lake Ashi sometimes freezes around the edges in the coldest years. Snow occasionally dusts the higher elevations beautifully. Tourist numbers are low outside New Year. Pack serious warm clothing — mountain temperatures are several degrees colder than Tokyo.",
+      "activities": ["Mount Fuji viewing", "Onsen bathing", "Lake Ashi boat cruise", "Hakone Shrine winter visit"],
+      "events": ["New Year at Hakone Shrine", "Winter Fuji views peak season", "Hakone Ekiden relay race (January 2-3)"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 8,
+      "temp_low": -1,
+      "rainfall_mm": 105,
+      "humidity": 70,
+      "description": "February continues to offer excellent Fuji views on clear days, with cold dry air maximising visibility. Snow can fall on the mountain passes and higher areas, creating stunning winter landscapes. Plum blossoms begin appearing at lower elevations, heralding spring's approach. Onsen bathing under falling snow is one of Japan's most quintessential experiences and easily arranged at traditional ryokan. The Hakone Gora area's walking paths through snowy cedar forests are particularly atmospheric and lightly visited.",
+      "activities": ["Snow onsen experiences", "Mount Fuji photography", "Hakone Open Air Museum indoor galleries", "Plum blossom viewing at lower elevations"],
+      "events": ["Plum blossom early season", "Ongoing Fuji clear-view season", "Valentine's Day ryokan packages"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 12,
+      "temp_low": 3,
+      "rainfall_mm": 180,
+      "humidity": 70,
+      "description": "March brings warming temperatures and more variable weather as spring approaches. Fuji views are still good early in the month but increasing moisture can bring clouds. Cherry blossoms begin appearing at lower mountain elevations in late March, creating beautiful scenes with snowfields still visible on Fuji behind them. The Hakone area's gardens begin coming to life. Weather alternates between clear spring days and cold rainy periods, so flexible itinerary planning is wise. Onsen remain excellent value and deeply enjoyable.",
+      "activities": ["Early cherry blossoms", "Spring mountain walks", "Open Air Museum sculpture garden", "Owakudani crater hike"],
+      "events": ["Early sakura season", "Spring garden openings", "Hakone vegetation awakening"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 17,
+      "temp_low": 7,
+      "rainfall_mm": 230,
+      "humidity": 72,
+      "description": "April brings cherry blossoms to Hakone's mountain slopes and valley floors, with Gora Park and the Hakone botanical gardens erupting in pink. The combination of blossoms, mountain scenery, and occasional Fuji views through clear spring air is spectacular. Rainfall increases significantly this month — mountain weather can change rapidly, so bring waterproofs. Golden Week sees Hakone's accommodation fill completely — book months in advance. Morning mist on Lake Ashi creates hauntingly beautiful atmospheric scenes.",
+      "activities": ["Cherry blossom mountain walks", "Lake Ashi misty morning cruise", "Gora Park flower viewing", "Onsen ryokan stays"],
+      "events": ["Cherry blossom peak", "Golden Week preparations", "Rhododendron and azalea early season"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "may": {
+      "temp_high": 21,
+      "temp_low": 12,
+      "rainfall_mm": 235,
+      "humidity": 72,
+      "description": "May's Golden Week brings Hakone to maximum capacity — ryokan and hotels book out completely and the Hakone Ropeway has long queues. However, after Golden Week ends, mid-to-late May is beautiful: rhododendrons and azaleas bloom spectacularly on the slopes, temperatures are comfortable for hiking, and the mountain greenery is at its most vibrant. Fuji views are less reliable as humidity increases but still possible early morning. The Hakone Free Pass covers most transport and offers excellent value.",
+      "activities": ["Azalea and rhododendron viewing", "Mt. Kamiyama hiking", "Hakone Free Pass day trip", "Owakudani valley walk"],
+      "events": ["Golden Week (April 29–May 5)", "Azalea festivals", "Hakone Open Air Museum spring events"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "june": {
+      "temp_high": 25,
+      "temp_low": 17,
+      "rainfall_mm": 380,
+      "humidity": 80,
+      "description": "June is Hakone's wettest month by far and Fuji views become rare as persistent cloud cover settles over the mountains. The area takes on a misty, mysterious atmosphere that is beautiful in its own right but frustrating for those seeking Fuji photographs. Hydrangeas bloom spectacularly throughout the area in purple, white, and blue. The Hakone Tozan Railway — itself a tourist attraction — runs through a famous hydrangea-lined stretch. Visit for onsen and atmosphere rather than mountain views.",
+      "activities": ["Hydrangea viewing along Tozan Railway", "Onsen in the mist", "Indoor museum visits", "Atmospheric misty lake views"],
+      "events": ["Rainy season hydrangea peak", "Hakone Tozan Railway hydrangea season", "Misty lake photography"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "july": {
+      "temp_high": 28,
+      "temp_low": 20,
+      "rainfall_mm": 310,
+      "humidity": 81,
+      "description": "July remains wet and misty but the rainy season officially ends by mid-month and views of Fuji begin improving. Summer visitors enjoy the mountain altitude which is 5–7°C cooler than Tokyo. The Owakudani volcanic valley's sulphur vents are dramatic in mist. Official Mt. Fuji climbing season opens July 1, with the 5th Station 30 minutes from Hakone by bus. Lake Ashi boating and outdoor activities are possible on dry days. Evenings at ryokan with outdoor baths (rotenburo) are spectacular on clear nights.",
+      "activities": ["Mount Fuji climbing base", "Outdoor onsen under stars", "Lake Ashi rowing boats", "Owakudani black eggs"],
+      "events": ["Mt. Fuji climbing season opens (July 1)", "Fireworks over Lake Ashi", "Summer mountain hiking season"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "august": {
+      "temp_high": 28,
+      "temp_low": 20,
+      "rainfall_mm": 250,
+      "humidity": 80,
+      "description": "August is Hakone's peak summer season. Families escape Tokyo's intense heat by retreating to the cooler mountains — temperatures are meaningfully more comfortable here. The area fills with domestic tourists enjoying the resort atmosphere. Fuji views are possible in the mornings of clear days before afternoon clouds build. Lake Ashi boat cruises continue at peak schedule. The mountain roads can be congested on weekends and during Obon. Mid-week visits are strongly recommended for parking and queue management.",
+      "activities": ["Mountain resort hiking", "Hakone Free Pass exploration", "Glass of the ropeway over Owakudani", "Lakeside swimming"],
+      "events": ["Obon (mid-August)", "Lake Ashi summer events", "Mountain festivals"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "september": {
+      "temp_high": 24,
+      "temp_low": 17,
+      "rainfall_mm": 290,
+      "humidity": 80,
+      "description": "September remains wet and typhoon-susceptible, with the ropeway occasionally closing for safety during storms. Hakone's mountain terrain can make typhoon conditions particularly challenging. However, between storms the weather is very pleasant and crowds thin out from August peak. The first hints of autumn colour appear on higher elevations by late September. This transitional month offers good value accommodation. The mountain atmosphere begins shifting from summer energy to the contemplative autumn mood.",
+      "activities": ["Post-typhoon clear day hiking", "Early autumn colour scouting", "Onsen recovery days", "Photography walks"],
+      "events": ["Autumnal Equinox Day", "Early autumn colour begins at elevation", "Hakone hiking trail maintenance season"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "october": {
+      "temp_high": 18,
+      "temp_low": 11,
+      "rainfall_mm": 170,
+      "humidity": 75,
+      "description": "October is when Hakone returns to its finest form. Fuji views become reliable again as dry autumn air dominates. Autumn foliage begins changing in earnest, with higher elevations blazing first in spectacular colour — reds, oranges, and golds against the backdrop of the snow-dusted peak. Temperatures are ideal for hiking. The Hakone area begins emptying of summer crowds while the autumn colour draws new visitors. October often has superb clear mornings that last until early afternoon before clouds build.",
+      "activities": ["Fuji viewing with autumn colours", "Ropeway over autumn foliage", "Hiking to Mt. Kamiyama", "Ryokan with outdoor rotenburo"],
+      "events": ["Autumn foliage begins", "Clear Fuji view season opens", "Hakone Daimyo Procession (November, nearby)"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "november": {
+      "temp_high": 13,
+      "temp_low": 5,
+      "rainfall_mm": 115,
+      "humidity": 74,
+      "description": "November brings peak autumn foliage to Hakone, with the mountain valleys and forests ablaze in colour. The Hakone Ropeway over Owakudani offers extraordinary views — volcanic steam, autumn colour, and Fuji behind — in a single panorama. The Hakone Daimyo Procession on November 3 recreates an Edo-period procession with hundreds of participants in period costume along the old Tokaido road. Fuji views are excellent. Weekend accommodation books solid — reserve well in advance.",
+      "activities": ["Ropeway over autumn foliage", "Hakone Daimyo Procession", "Peak Fuji clear views", "Outdoor onsen in cool air"],
+      "events": ["Hakone Daimyo Procession (November 3)", "Peak autumn foliage", "Clear Fuji views peak season"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "december": {
+      "temp_high": 9,
+      "temp_low": 1,
+      "rainfall_mm": 85,
+      "humidity": 72,
+      "description": "December brings cold, clear winter weather and some of the best Fuji views of the year. The snow-capped peak glows pink at sunset and reflects in the icy still surface of Lake Ashi on calm mornings. Late autumn foliage can still linger into early December. Winter illuminations at Hakone's resorts and the Gora Koen garden create romantic atmospheres. The crowds are thin apart from Christmas and New Year's period. Hot spring bathing in cold mountain air is at its most atmospheric and therapeutic.",
+      "activities": ["Winter Fuji views", "Rotenburo outdoor hot spring bathing", "Lake Ashi mirror reflection photography", "Gora winter illuminations"],
+      "events": ["Winter illuminations", "New Year at Hakone Shrine", "Best Fuji clear-view season begins"],
+      "crowd_level": "low",
+      "price_level": "low"
+    }
+  }
+}

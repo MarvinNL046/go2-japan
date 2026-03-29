@@ -1,0 +1,133 @@
+{
+  "slug": "hiroshima",
+  "city": "Hiroshima",
+  "introduction": "Hiroshima bears its history with extraordinary courage and grace. The city that was destroyed in six seconds by the world's first atomic bomb on August 6, 1945 — killing 140,000 people by year's end — rebuilt itself into a thriving modern city of 1.2 million while preserving a profound commitment to nuclear abolition and world peace. The Peace Memorial Museum is one of the most important institutions in the world. Yet Hiroshima is far more than its history: the Seto Inland Sea gateway, the best okonomiyaki in Japan, Japan's leading oyster production, the sacred island of Miyajima, and a vibrant street-food culture make it one of Japan's most rewarding destinations. The Hiroshima Carp baseball team is fiercely beloved and deeply connected to the city's spirit of resilience.",
+  "topAttractions": [
+    {
+      "name": "Hiroshima Peace Memorial Museum",
+      "japaneseName": "広島平和記念資料館",
+      "description": "One of the world's most important museums and one of the most emotionally significant places on earth. The museum presents the history of the atomic bombing of August 6, 1945 through extraordinarily preserved artefacts — melted bottles, shadowed stone, a child's scorched lunch box, a watch stopped at 8:15am — alongside scientific and political context, survivor testimonies, and a committed argument for nuclear weapons abolition. The 2019 renovation dramatically improved the presentation. The experience is profoundly sobering and deeply humanising. Every visitor should allow at least two to three hours for proper engagement.",
+      "address": "1-2 Nakajimacho, Naka-ku, Hiroshima",
+      "openingHours": "8:30–18:00 (July–August until 19:00, August 5–6 until 20:00; December–February until 17:00; closed December 30–January 1)",
+      "admission": "¥200 adults, ¥100 high school students, free for middle school and under",
+      "duration": "2–3 hours minimum",
+      "tips": "Book timed-entry tickets online before visiting, especially August. The Cenotaph's arch frames the Atomic Bomb Dome through the Peace Memorial Park — a powerful sightline to seek. The museum audio guide (¥300) adds significant context. Allow time to sit and process — the experience requires emotional space."
+    },
+    {
+      "name": "Atomic Bomb Dome (Genbaku Dome)",
+      "japaneseName": "原爆ドーム",
+      "description": "The partial ruins of the Hiroshima Prefectural Industrial Promotion Hall, maintained exactly as it stood after the atomic blast of August 6, 1945 — the only structure that survived near the hypocenter (about 160 metres away). The UNESCO World Heritage site stands at the head of the Peace Memorial Park as both a memorial to those who died and a warning against nuclear weapons. The dome's survival was due to the near-vertical angle of the blast, which destroyed buildings horizontally but partially spared this one directly below. At night, the illuminated ruin is extraordinarily powerful against the dark sky.",
+      "address": "1-10 Otemachi, Naka-ku, Hiroshima",
+      "openingHours": "Always accessible (exterior)",
+      "admission": "Free (exterior viewing only)",
+      "duration": "30 minutes",
+      "tips": "The most powerful viewing angle is from across the Motoyasu River, with the dome reflected in the water. August 6 evening sees 50,000 paper lanterns floating on the river in front of the dome — one of the most moving moments in contemporary Japan."
+    },
+    {
+      "name": "Miyajima Island (Itsukushima Shrine)",
+      "japaneseName": "宮島・厳島神社",
+      "description": "The sacred island of Itsukushima, 20 minutes by ferry from Hiroshima port, is one of Japan's three officially designated 'scenic views' and the site of the UNESCO World Heritage Itsukushima Shrine. The shrine's famous floating torii gate — actually seated on tidal flats but appearing to float at high tide in dramatic vermilion against the mountains — is Japan's most reproduced image. The entire island is considered sacred, with deer roaming freely, no cremations allowed, no births, and historically no deaths permitted. The forested mountain (Misen, 535m) accessible by cable car has extraordinary views.",
+      "address": "Miyajima, Hatsukaichi, Hiroshima Prefecture",
+      "openingHours": "Itsukushima Shrine: 6:30–18:00 (hours vary by season)",
+      "admission": "¥300 adults, ¥100 children (shrine only)",
+      "duration": "Half to full day",
+      "tips": "Check tide tables before visiting — high tide gives the floating torii effect, low tide allows walking to the gate. The sunset from Miyajima ferry terminal with the gate silhouetted is spectacular. The maple leaf (momiji) manju cakes and fresh oysters are Miyajima's food specialties. Consider staying overnight to experience the island after day-tourists depart."
+    },
+    {
+      "name": "Peace Memorial Park",
+      "japaneseName": "広島平和記念公園",
+      "description": "A 12.2-hectare park built on the hypocentre of the atomic bombing, containing the Peace Memorial Museum, Children's Peace Monument (the origami crane memorial to Sadako Sasaki), the Flame of Peace (which will burn until all nuclear weapons are eliminated), the Cenotaph Memorial, and the Atomic Bomb Dome across the river. The entire park is a unified architectural work designed by Kenzo Tange in 1954 on a north-south axis that aligns the cenotaph, flame, and dome in a deliberate sightline of remembrance. The Hiroshima National Peace Memorial Hall for Atomic Bomb Victims contains photo archives of the dead.",
+      "address": "1-2 Nakajimacho, Naka-ku, Hiroshima",
+      "openingHours": "Always open",
+      "admission": "Free (museum: ¥200)",
+      "duration": "1–2 hours for the park (separate from museum)",
+      "tips": "The Peace Memorial Ceremony takes place every August 6 at 8:15am — the exact moment of the bombing — with the Prime Minister, foreign dignitaries, hibakusha (survivors), and public in attendance. Paper cranes can be left at the Children's Peace Monument (11 million are donated annually from around the world)."
+    },
+    {
+      "name": "Hiroshima Castle",
+      "japaneseName": "広島城",
+      "description": "Originally built in 1589 by the powerful daimyo Mori Terumoto, Hiroshima Castle was the centrepiece of a thriving castle town (joshu) until its destruction in the atomic blast — it stood 1.3km from the hypocenter. The current reconstruction (1958) houses an excellent five-floor museum of feudal Hiroshima history, castle town life, and samurai culture. The extensive moated grounds contain original stone walls and two surviving turrets (sumi-yagura) that are designated Important Cultural Properties. The castle's second floor has hands-on samurai armour exhibits for children.",
+      "address": "21-1 Motomachicho, Naka-ku, Hiroshima",
+      "openingHours": "9:00–18:00 (December–February until 17:00)",
+      "admission": "¥370 adults, ¥180 students, free under 15",
+      "duration": "1 hour",
+      "tips": "The castle grounds are one of Hiroshima's best cherry blossom spots (late March–early April). The view from the top floor tower over the rebuilt city — knowing it was completely destroyed in 1945 — adds an extraordinary layer of meaning to the panorama."
+    },
+    {
+      "name": "Shukkeien Garden",
+      "japaneseName": "縮景園",
+      "description": "A miniature landscape garden created in 1620 for the Lord of Hiroshima domain, featuring a central pond with small islands and curved bridges replicating famous Chinese and Japanese landscapes in compressed form. The garden was severely damaged by the atomic bomb blast (only 1.3km from the hypocenter) and was used as a triage and relief camp for bomb victims. Restored in 1951, it now provides a place of extraordinary beauty and contemplation. The spring cherry blossoms and November maple foliage are particularly outstanding.",
+      "address": "2-11 Kaminoboricho, Naka-ku, Hiroshima",
+      "openingHours": "9:00–18:00 (October–March until 17:00; closed December 29–31)",
+      "admission": "¥260 adults, ¥150 high school students, ¥100 elementary",
+      "duration": "1 hour",
+      "tips": "The garden is directly adjacent to the Hiroshima Prefectural Art Museum, which together make an excellent two-hour combination. The teahouse café (Seifuroan) within the garden serves matcha and sweets in traditional setting."
+    },
+    {
+      "name": "Okonomimura (Hiroshima Okonomiyaki Village)",
+      "japaneseName": "お好み村",
+      "description": "A multi-storey building in central Hiroshima housing 24 independent okonomiyaki restaurants, each with a counter seating around ten people, where you watch the chef layer Hiroshima-style okonomiyaki before you: noodles, cabbage, pork, oysters or other toppings, all under a thin egg crepe with sweet okonomi sauce. Hiroshima-style is categorically different from Osaka-style — layered rather than mixed — and this building is the definitive place to experience the full range. Each restaurant has been operating for decades and has its devoted regulars.",
+      "address": "5-13 Shintenchicho, Naka-ku, Hiroshima",
+      "openingHours": "11:00–23:00 (varies by individual restaurant)",
+      "admission": "Free to enter; okonomiyaki from ¥900",
+      "duration": "1 hour",
+      "tips": "Sit at the counter for the full experience of watching your dish being made. Yakisoba okonomiyaki is the standard order; adding fresh oysters (kaki, seasonal October–May) is the local luxury upgrade. The 2nd floor has the most atmospheric original-style restaurants."
+    },
+    {
+      "name": "Hiroshima Prefectural Art Museum",
+      "japaneseName": "広島県立美術館",
+      "description": "A strong prefectural art museum adjacent to Shukkeien Garden with an impressive collection of modern Japanese art, with particular depth in Hiroshima-connected work and post-war avant-garde movements. The Salvador Dali collection on permanent display — including 'Dream Caused by the Flight of a Bee' — is the strongest Dali presence in Japan. The changing exhibition programme regularly brings significant international and Japanese modern art to Hiroshima.",
+      "address": "2-22 Kaminoboricho, Naka-ku, Hiroshima",
+      "openingHours": "9:00–17:00 (Friday until 20:00; closed Monday)",
+      "admission": "¥510 permanent collection; special exhibitions vary",
+      "duration": "1.5 hours",
+      "tips": "Combine with adjacent Shukkeien Garden for a full morning — the two share an entrance area. The museum café has excellent lunch sets and views over the garden pond."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Mitaki-dera Temple",
+      "description": "A complex of Buddhist halls and miniature stone Buddha figures tucked deep into a forested ravine in the western hills of Hiroshima, accessible via a 30-minute bus ride followed by a 15-minute forest path walk.",
+      "whyVisit": "One of the most atmospheric and least-visited temples near any major Japanese city — the combination of natural setting, moss-covered stone figures, and mountain stream is extraordinary, with almost no foreign tourists."
+    },
+    {
+      "name": "Tokaichi Market Street",
+      "description": "An old covered shopping arcade in the Yokogawa district that has been in continuous operation for over 150 years, serving the local neighbourhood with fresh produce, butchers, and craft food producers.",
+      "whyVisit": "The most authentic working market street in Hiroshima — completely untouristed and showing genuine local commercial life, excellent for photography and tasting regional produce."
+    },
+    {
+      "name": "Onomichi",
+      "description": "A hillside port city 80km east of Hiroshima with a famous temple walk, a cat-populated narrow lane network, and the starting point of the Shimanami Kaido cycling route to Shikoku.",
+      "whyVisit": "Beloved by Japanese creatives and filmmakers — Ozu Yasujiro shot several films here — Onomichi's maze of lanes, cats, and sea views offer some of western Japan's finest slow travel."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Miyajima Island",
+      "description": "Sacred island with the floating torii gate, free-roaming deer, and the forested mountain Misen — technically accessible as a day trip but best experienced with an overnight stay.",
+      "distance": "20km by ferry from Hiroshima",
+      "duration": "Half or full day",
+      "transport": "JR line to Miyajimaguchi (25 min) then ferry (10 min)"
+    },
+    {
+      "name": "Iwakuni Kintaikyo Bridge",
+      "description": "A spectacular five-arched wooden bridge built in 1673 spanning the Nishiki River, with an adjacent castle on the hillside above. The bridge is reconstructed periodically using traditional techniques.",
+      "distance": "45km southwest",
+      "duration": "Half day",
+      "transport": "JR Sanyo Line to Iwakuni (30 min) then bus"
+    },
+    {
+      "name": "Onomichi Shimanami Kaido",
+      "description": "The famous cycling route connecting Honshu to Shikoku via six islands and nine bridges, beginning at Onomichi. The first section can be cycled as a day trip from Hiroshima.",
+      "distance": "80km east",
+      "duration": "Full day",
+      "transport": "JR Sanyo Shinkansen to Onomichi (35 min)"
+    }
+  ],
+  "sources": [
+    { "name": "Hiroshima Peace Memorial Museum Official", "url": "http://hpmmuseum.jp/?lang=eng" },
+    { "name": "Visit Hiroshima Official Tourism", "url": "https://visithiroshima.net/" },
+    { "name": "Miyajima Official Tourism", "url": "https://www.visit-miyajima-japan.com/en/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" }
+  ]
+}

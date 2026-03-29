@@ -1,0 +1,110 @@
+{
+  "slug": "kyoto",
+  "cityName": "Kyoto",
+  "introduction": "Kyoto offers one of the most distinctive accommodation experiences in Japan, where traditional ryokan (Japanese inns) compete with modern luxury hotels in a city of extraordinary cultural density. Choosing where to stay in Kyoto matters enormously — the city's key sights are spread across different districts, and the wrong base can mean expensive taxi rides or long bus journeys. Downtown Kyoto (Kawaramachi/Shijo area) is the most practical base for first-time visitors, offering central position, excellent transport connections, and the widest range of price options. The Gion district offers the most authentic traditional atmosphere with the most ryokan options, but at higher prices. Kyoto Station area suits those prioritizing Shinkansen access to other cities. The ryokan experience — sleeping on futon in a tatami room, wearing yukata robes, eating a kaiseki dinner in-room — is a genuine cultural immersion that many visitors cite as the highlight of their entire Japan trip.",
+  "bestAreas": [
+    {
+      "name": "Downtown (Kawaramachi/Shijo)",
+      "description": "The commercial and entertainment heart of Kyoto, centered on the crossing of Kawaramachi and Shijo streets. The most convenient base: walking distance to Nishiki Market, Gion, and the Kamo River; excellent bus and subway connections to all major temples. The most concentrated choice of hotels, restaurants, and shops.",
+      "bestFor": "First-time visitors, convenience, shopping, dining, transport connectivity",
+      "priceRange": "¥6,000–¥60,000 ($40–$400)"
+    },
+    {
+      "name": "Gion/Higashiyama",
+      "description": "Kyoto's most iconic traditional district, with preserved machiya townhouses, lantern-lit cobblestone lanes, and geisha spotting in the evening. The most atmospheric area to stay, with numerous ryokan and boutique hotels. Prices are the highest in Kyoto outside Arashiyama luxury properties, and the area is busy with tourists throughout the day.",
+      "bestFor": "Ryokan experience, traditional atmosphere, Kiyomizudera access, romance",
+      "priceRange": "¥10,000–¥100,000+ ($67–$670+)"
+    },
+    {
+      "name": "Kyoto Station Area",
+      "description": "The area immediately around Kyoto's main station offers the best transport connectivity in the city — direct Shinkansen access, subway lines, and bus networks. Good for visitors treating Kyoto as a hub for day trips to Osaka, Nara, or Hiroshima. Hotels here are often slightly cheaper than downtown, and quality ranges widely.",
+      "bestFor": "Transit-focused travelers, day-trip bases, Fushimi Inari access, practicality",
+      "priceRange": "¥5,000–¥40,000 ($33–$267)"
+    },
+    {
+      "name": "Arashiyama",
+      "description": "The bamboo grove and riverside district in Kyoto's western suburbs, 30 minutes from central Kyoto. A handful of exceptional luxury ryokan make this area one of Japan's greatest accommodation experiences, but it is impractical for first-time visitors wanting to explore multiple sights. Best for a dedicated one or two-night ryokan splurge.",
+      "bestFor": "Luxury ryokan, bamboo grove access, rural atmosphere, couples/honeymoon",
+      "priceRange": "¥25,000–¥150,000+ ($167–$1,000+)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "K's House Kyoto",
+      "type": "Hostel",
+      "priceRange": "¥2,500–¥6,000 ($17–$40)",
+      "description": "One of Japan's most recommended budget hostels, located in a renovated machiya townhouse south of Nijo Castle. Mix of dorm beds and private rooms with traditional Japanese elements. Social common areas, free breakfast, bike rental. The authentic building creates an experience far beyond standard hostel stays."
+    },
+    {
+      "name": "Piece Hostel Sanjo",
+      "type": "Boutique hostel",
+      "priceRange": "¥3,000–¥7,000 ($20–$47)",
+      "description": "A stylish, design-forward hostel near Sanjo bridge in central Kyoto, with a café attached. Private rooms and mixed dorms in a thoughtfully designed modern building. Excellent central location and genuinely good coffee from the in-house café."
+    },
+    {
+      "name": "Toyoko Inn Kyoto-Shijo-Karasuma",
+      "type": "Budget business hotel",
+      "priceRange": "¥7,000–¥12,000 ($47–$80)",
+      "description": "One of the chain's most central Kyoto locations — the Shijo-Karasuma intersection is the best possible base for Kyoto exploration. Free breakfast, clean and compact rooms, excellent transport access. Book months ahead for peak season."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Hotel Granvia Kyoto",
+      "type": "Large business hotel (in Kyoto Station)",
+      "priceRange": "¥15,000–¥30,000 ($100–$200)",
+      "description": "Directly connected to Kyoto Station with panoramic city views from upper floors. The Granvia is the best-positioned hotel for Shinkansen travelers using Kyoto as a hub. Rooms on the north side face the mountains; south-facing rooms have city and Osaka views."
+    },
+    {
+      "name": "Mitsui Garden Hotel Kyoto Sanjo",
+      "type": "Modern Japanese hotel",
+      "priceRange": "¥12,000–¥25,000 ($80–$167)",
+      "description": "Well-regarded mid-range choice in central Kyoto with a communal onsen bath on a high floor. Rooms incorporate subtle Japanese design elements without being a full ryokan. Excellent value for location and amenities."
+    },
+    {
+      "name": "Nishiyama Ryokan",
+      "type": "Ryokan (mid-range)",
+      "priceRange": "¥18,000–¥40,000 ($120–$267) per person including meals",
+      "description": "A traditional ryokan in downtown Kyoto offering the full Japanese inn experience — tatami rooms, futon bedding, yukata robes, and in-room kaiseki meals — at a more accessible price than the high-end Gion properties. Multilingual staff make it welcoming for first-time ryokan guests."
+    },
+    {
+      "name": "Togetsutei (Arashiyama)",
+      "type": "Ryokan",
+      "priceRange": "¥20,000–¥60,000 ($133–$400) per person with meals",
+      "description": "A beautifully situated ryokan on the Oi River in Arashiyama with views of the famous moon-viewing bridge (Togetsukyo). Private onsen baths, kaiseki dinners with seasonal river fish, and the bamboo grove a short walk away."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "Aman Kyoto",
+      "type": "Ultra-luxury resort",
+      "priceRange": "¥120,000–¥400,000+ ($800–$2,670+)",
+      "description": "Hidden in a forested garden on the grounds adjacent to Kinkaku-ji (Golden Pavilion), Aman Kyoto is considered one of the world's great urban resort experiences. 26 guest pavilions in a 3,200-year-old forest garden. The onsen spa, tea ceremonies, and private moonlit garden walks create an experience unlike any hotel in Japan."
+    },
+    {
+      "name": "HOSHINOYA Kyoto",
+      "type": "Luxury floating ryokan",
+      "priceRange": "¥60,000–¥150,000+ ($400–$1,000+) per person with meals",
+      "description": "Accessible only by boat from Arashiyama, HOSHINOYA Kyoto sits deep in a forested gorge unreachable by road. The journey by river boat through the bamboo-lined Oi River is itself an extraordinary experience. Traditional architecture with contemporary luxury interiors."
+    },
+    {
+      "name": "The Ritz-Carlton Kyoto",
+      "type": "Luxury hotel",
+      "priceRange": "¥60,000–¥200,000+ ($400–$1,330+)",
+      "description": "Located on the banks of the Kamo River near the Sanjo Bridge, the Ritz-Carlton Kyoto combines the brand's signature luxury with Japanese aesthetic sensitivity. The suites overlooking the river toward the Higashiyama mountains are among the finest hotel rooms in Japan."
+    }
+  ],
+  "bookingTips": [
+    "Kyoto is the most difficult city in Japan to book accommodation during peak seasons. Cherry blossom (late March to mid-April) and autumn foliage (late November) require reservations 3–6 months ahead for any quality ryokan or mid-range hotel.",
+    "Ryokan rates are almost always quoted per person including dinner and breakfast — a rate of ¥30,000 per person means ¥60,000 per night for two people with two kaiseki dinners. Confirm what is included when comparing prices.",
+    "The ryokan experience requires some cultural knowledge: remove shoes at the genkan entrance, wear the provided yukata around the property, and understand that dinner service time is typically fixed (6pm or 6:30pm).",
+    "Gion district ryokan prices routinely start from ¥30,000 per person per night including meals. Budget travelers should stay downtown and do day trips into Gion.",
+    "Kyoto's bus system (¥250 per ride, or ¥700 for a day pass) covers all major tourist sites — staying near a major bus stop or subway station is more important than staying in a 'famous' neighborhood.",
+    "The Kyoto Station area has multiple good mid-range hotels that are cheaper than downtown equivalents — if you're using Kyoto as a Kansai hub, this is often the best value option."
+  ],
+  "sources": [
+    { "name": "Bon Traveler — Where to Stay in Kyoto", "url": "https://www.bontraveler.com/where-to-stay-in-kyoto-japan/" },
+    { "name": "Japan Highlights — Kyoto Accommodation", "url": "https://www.japanhighlights.com/japan/kyoto/where-to-stay" },
+    { "name": "Nerd Nomads — Kyoto Hotels", "url": "https://nerdnomads.com/where-to-stay-in-kyoto" }
+  ]
+}

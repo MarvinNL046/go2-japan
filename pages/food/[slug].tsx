@@ -402,6 +402,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   }
   return {
     props: { dish },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

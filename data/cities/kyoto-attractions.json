@@ -1,0 +1,138 @@
+{
+  "slug": "kyoto",
+  "city": "Kyoto",
+  "introduction": "Japan's ancient capital for over a thousand years, Kyoto holds more cultural treasures per square kilometre than anywhere else on earth. Seventeen UNESCO World Heritage sites, over 1,600 Buddhist temples, 400 Shinto shrines, and hundreds of traditional gardens are preserved within a compact, walkable city of 1.5 million. Kyoto is where Japanese aesthetics were defined — the wabi-sabi of a moss garden, the controlled drama of a Noh stage, the precise choreography of the tea ceremony, the geometric perfection of karesansui dry rock gardens. The geisha culture of Gion remains living and visible. The seasons transform the same temple grounds into entirely different landscapes: cherry blossoms in April, brilliant summer moss in June, crimson maples in November, and occasional ethereal snow in January.",
+  "topAttractions": [
+    {
+      "name": "Fushimi Inari Taisha",
+      "japaneseName": "伏見稲荷大社",
+      "description": "The head shrine of 30,000 Inari shrines across Japan, Fushimi Inari's famous network of over 10,000 vermilion torii gates winds up the forested slopes of Mount Inari (233m) in one of Japan's most instantly recognisable and photographed images. Each torii was donated by a business or individual as an offering to Inari — the deity of foxes, rice, agriculture, industry, and worldly success. The full hiking circuit to the summit and back takes 2–3 hours through atmospheric forest. The lower sections near the shrine buildings are extremely crowded; dawn or late afternoon visits thin the crowds significantly.",
+      "address": "68 Fukakusa Yabunouchicho, Fushimi-ku, Kyoto",
+      "openingHours": "24 hours (main shrine buildings/office: 8:30–16:30)",
+      "admission": "Free",
+      "duration": "1–3 hours depending on how far you hike",
+      "tips": "Arrive before 7am or after 5pm for tunnel photographs without crowds. The Okusha rest area halfway up offers excellent tofu dishes. The stone fox (kitsune) messengers carrying symbolic items in their mouths (key, rice, scroll, jewel) represent different blessings."
+    },
+    {
+      "name": "Kinkaku-ji (Golden Pavilion)",
+      "japaneseName": "金閣寺",
+      "description": "The Zen Buddhist temple of Rokuon-ji, universally known as Kinkaku-ji (Golden Pavilion), has the top two floors of its three-storey pavilion covered in gold leaf that blazes in morning sunlight and reflects in the mirror surface of Kyoko-chi (Mirror Pond). Originally built in 1397 as a retirement villa for Shogun Ashikaga Yoshimitsu, it became a temple after his death per his wishes. The current structure was rebuilt in 1955 after a disturbed monk burned it down in 1950 — an act of destruction immortalised in Mishima Yukio's famous novel. The different architectural styles of each floor (Heian palatial, Muromachi samurai, Zen Chinese) represent the three worlds of Buddhism.",
+      "address": "1 Kinkakujicho, Kita-ku, Kyoto",
+      "openingHours": "9:00–17:00 daily",
+      "admission": "¥500 adults, ¥300 children (primary and middle school)",
+      "duration": "45 minutes–1 hour",
+      "tips": "Morning light from the east creates the most dramatic golden reflections on the pond. The site is one-way — follow the prescribed path. Extend the visit to neighbouring Ryoan-ji (15-minute walk) for the famous dry rock garden, creating one of Kyoto's best half-day cultural circuits."
+    },
+    {
+      "name": "Arashiyama Bamboo Grove",
+      "japaneseName": "嵐山竹林",
+      "description": "A 500-metre path through towering bamboo that creates a green cathedral of sound and filtered light — the rustling and creaking of the stalks produces the specific noise designated by Japan as one of the 100 Soundscapes to Preserve. The grove is part of the Arashiyama district, which also contains the spectacular Tenryu-ji (the largest Zen garden in Japan, a UNESCO World Heritage site), Jojakko-ji's atmospheric hillside moss temple, the Otagi Nenbutsu-ji with its 1,200 carved stone figures, and the wild monkey mountain park.",
+      "address": "Sagaogurayama Tabuchiyamacho, Ukyo-ku, Kyoto (Arashiyama district)",
+      "openingHours": "Always accessible (24/7)",
+      "admission": "Free",
+      "duration": "2–3 hours for the broader Arashiyama area",
+      "tips": "Visit at dawn (around 5–6am) to experience the grove in silence with extraordinary light. The rickshaw rides from trained student rickshaw drivers provide cultural context and great photos. The Tenryu-ji garden ¥500 admission is essential — considered Kyoto's finest garden."
+    },
+    {
+      "name": "Kiyomizudera Temple",
+      "japaneseName": "清水寺",
+      "description": "Perched on the wooded slopes of Otawa-yama, Kiyomizudera's enormous wooden stage — built without a single nail — extends over the hillside 13 metres above the trees, offering breathtaking views over the valley and Kyoto's panorama. The complex is one of Japan's most ancient and revered sites, founded in 778 AD (current buildings date from 1633). The Otawa Waterfall below the main hall has three streams believed to grant longevity, success in studies, and fortunate love respectively. The stone lane approaching through Sannen-zaka and Ninenzaka — preserved merchant quarter lanes — is one of Kyoto's finest walks.",
+      "address": "1-294 Kiyomizu, Higashiyama-ku, Kyoto",
+      "openingHours": "6:00–18:00 (varies by season, special night illumination events 18:30–21:30)",
+      "admission": "¥500 adults, ¥200 children",
+      "duration": "1.5–2 hours",
+      "tips": "The night illumination events in spring (late March/early April), summer, and autumn are extraordinary — the lit temple against the dark forested hillside is magical. The walk from Gion through Maruyama Park and Sannen-zaka is the classic approach."
+    },
+    {
+      "name": "Ryoan-ji Rock Garden",
+      "japaneseName": "龍安寺",
+      "description": "The most famous karesansui (dry landscape garden) in the world: fifteen moss-covered stones arranged in raked white gravel in a precise 25x10 metre rectangle, with no obvious explanation of their arrangement and design. Created by an unknown master in the late 15th century, it has never been convincingly explained — the stones are positioned so that only 14 can be seen at once from any angle. The mystery is intentional. The surrounding Ryoan-ji complex encompasses a beautiful Kyoko-chi pond garden, enormous ancient trees, and the quieter back paths that most visitors miss.",
+      "address": "13 Ryoanji Goryonoshita-cho, Ukyo-ku, Kyoto",
+      "openingHours": "8:00–17:00 (December–February 8:30–16:30)",
+      "admission": "¥600 adults, ¥300 children",
+      "duration": "45 minutes–1 hour",
+      "tips": "The viewing platform is a wooden verandah — arrive early to get an unobstructed position for contemplation. The pond garden circuit that most visitors skip is worth 20 minutes. Combine with Kinkaku-ji, 15 minutes walk north, for an ideal morning."
+    },
+    {
+      "name": "Nijo Castle",
+      "japaneseName": "二条城",
+      "description": "The UNESCO World Heritage Edo-period palace complex served as the Kyoto residence of the Tokugawa shoguns. The Ninomaru Palace, designated a national treasure, contains extraordinary painted screen doors and ceilings in every room, while the famous 'nightingale floors' (uguisubari) in the corridors were engineered to creak with every footstep — a built-in security system against assassins. The Ninomaru Garden is a fine example of early Edo landscape design. The castle grounds are also excellent for cherry blossom season, with 800 trees.",
+      "address": "541 Nijojo-cho, Nakagyo-ku, Kyoto",
+      "openingHours": "8:45–17:00 (last entry 16:00; closed Tuesdays December–January and August)",
+      "admission": "¥1,300 adults (includes palace and garden), ¥400 junior high/elementary",
+      "duration": "1.5–2 hours",
+      "tips": "The nightingale floor effect is most noticeable in quieter areas — listen for the chirping squeak underfoot. The painted interiors are spectacular — gold tigers on cedar doors by Kano school masters. Audio guides are available in English."
+    },
+    {
+      "name": "Philosopher's Path",
+      "japaneseName": "哲学の道",
+      "description": "A 2-kilometre stone path along a cherry-tree-lined canal that connects Ginkaku-ji (Silver Pavilion) in the north to Nanzen-ji in the south, named for philosopher Nishida Kitaro who is said to have used it for daily meditation. The path passes small shrines, independent cafes, craft studios, and neighbourhood gardens in one of Kyoto's most purely pleasant walks. In spring, the canal becomes a pink tunnel of cherry blossoms. In autumn, maples turn the water gold. The small independent restaurants and coffee shops along the path represent some of Kyoto's best neighbourhood dining.",
+      "address": "Tetsugaku-no-michi, Sakyo-ku, Kyoto (between Ginkaku-ji and Nanzen-ji)",
+      "openingHours": "Always accessible",
+      "admission": "Free",
+      "duration": "1–1.5 hours for the walk; add time for Ginkaku-ji and Nanzen-ji",
+      "tips": "Walk from south (Nanzen-ji) to north (Ginkaku-ji) in morning light. The small Otoyo Shrine at the path's midpoint features unusual fox guardian statues. Nanzen-ji's aqueduct — a Roman-style red brick structure running through the temple grounds — is one of Kyoto's most surprising sights."
+    },
+    {
+      "name": "Gion District",
+      "japaneseName": "祇園",
+      "description": "Kyoto's most famous entertainment and geisha district retains extraordinary amounts of its Edo-period character in the preserved machiya (wooden townhouse) streetscapes of Hanamikoji-dori and Shimbashi. Geiko (Kyoto term for geisha) and their apprentice maiko are genuine working professionals who still entertain in private ochaya (teahouse) settings — not performers for tourists. They can occasionally be spotted in the early evenings on their way to engagements. The Yasaka Shrine at the eastern end of Gion is the focus of the spectacular Gion Matsuri festival in July.",
+      "address": "Gion, Higashiyama-ku, Kyoto (Hanamikoji-dori is the main street)",
+      "openingHours": "Streets always open; best experienced 17:00–21:00",
+      "admission": "Free to walk",
+      "duration": "1–2 hours",
+      "tips": "Do not photograph, pursue, or attempt to touch geiko or maiko — this is aggressive behaviour that has become a serious problem. Respect is mandatory. The best sightings occur around 17:30–18:30 as they head to evening engagements. Pontocho lantern-lit alley, parallel to the Kamo River, has excellent restaurants."
+    }
+  ],
+  "hiddenGems": [
+    {
+      "name": "Fushimi Momoyama Castle",
+      "description": "A striking white castle keep reconstructed in 1964 on a mountain above Fushimi, offering panoramic views over the sake-brewing district and the Uji River valley below.",
+      "whyVisit": "Virtually no foreign tourists visit this castle — a refreshing contrast to Kyoto's most famous sites, with beautiful mountain walking trails and views that rival any paid observation deck."
+    },
+    {
+      "name": "Kurama-Kibune Mountain Villages",
+      "description": "Twin villages in the mountains north of Kyoto accessible by the charming Eizan Kurama-bound train. Kurama has a mountain temple with atmospheric stone stair approaches; Kibune features riverside restaurants serving kaiseki over the stream.",
+      "whyVisit": "A genuine Kyoto mountain experience a world away from tourist circuits — particularly magical for the Kurama Fire Festival in October and river dining in summer."
+    },
+    {
+      "name": "Daitoku-ji Complex",
+      "description": "A vast Zen temple complex in north Kyoto containing 22 sub-temples, many with exceptional private gardens normally visible only through gates, but with four sub-temples open to the public including Daisen-in with its acclaimed rock garden.",
+      "whyVisit": "Even serious Kyoto visitors often miss this — the Daisen-in garden is considered second only to Ryoan-ji, yet receives a fraction of the visitors. The autumn foliage here is outstanding."
+    },
+    {
+      "name": "Nishiki Market",
+      "description": "A 400-metre covered shopping arcade running parallel to Shijo-dori known as 'Kyoto's Kitchen' — 130 specialty food stalls and shops in a space barely 5 metres wide, operating for 400 years.",
+      "whyVisit": "The best place in Japan to taste Japanese culinary culture in concentrated form — try fresh yuba (tofu skin), pickled vegetables, grilled skewers, and matcha everything, all from shops with centuries of tradition."
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": "Nara",
+      "description": "Japan's ancient capital before Kyoto, famous for 1,200 free-roaming sika deer in Nara Park and the world's largest bronze Buddha at Todai-ji temple.",
+      "distance": "45km south of Kyoto",
+      "duration": "Full day",
+      "transport": "JR Nara Line from Kyoto Station (45 minutes)"
+    },
+    {
+      "name": "Osaka",
+      "description": "Japan's food capital just 15 minutes by Shinkansen, offering Dotonbori neon food culture, Osaka Castle, and some of the world's best street food.",
+      "distance": "70km southwest of Kyoto",
+      "duration": "Full day or evening trip",
+      "transport": "JR Shinkansen (15 min) or Hankyu/Keihan express train (40–50 min)"
+    },
+    {
+      "name": "Amanohashidate",
+      "description": "One of Japan's three official 'views' (Nihon Sankei) — a 3.6km pine tree sandbar that appears to float in Miyazu Bay, best viewed from the hills at either end.",
+      "distance": "100km north of Kyoto",
+      "duration": "Full day",
+      "transport": "Kyoto Tango Railway from Kyoto Station (2 hours)"
+    }
+  ],
+  "sources": [
+    { "name": "Kyoto City Tourism Official", "url": "https://kyoto.travel/en/" },
+    { "name": "Japan National Tourism Organization", "url": "https://www.japan.travel/en/" },
+    { "name": "Kinkaku-ji Official Website", "url": "https://kinkakujitemple.com/" },
+    { "name": "Fushimi Inari Official Website", "url": "https://inari.jp/en/" }
+  ]
+}

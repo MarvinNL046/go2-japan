@@ -1,0 +1,111 @@
+{
+  "slug": "kamakura",
+  "cityName": "Kamakura",
+  "introduction": "Kamakura's food identity is shaped by its coastal location on Sagami Bay and its 700-year history as Japan's medieval capital. The city's signature ingredient is shirasu — raw and semi-dried whitebait (baby anchovies and sardines) fished daily from Sagami Bay between March and December. Nama shirasu (raw whitebait) bowls, served at seafront restaurants with fresh morning catches, are Kamakura's most iconic food experience. The city also reflects its Buddhist heritage in a quietly vegetarian-friendly food culture: numerous shojin ryori restaurants near the ancient temples, sesame tofu specialties, and a deep culture of traditional Japanese sweets (wagashi). Kamakura's café culture is uniquely developed for a Japanese city of its size — the coastal neighborhoods of Yuigahama and Zaimokuza are lined with artisan coffee shops, bakeries, and beach-view restaurants that attract weekend visitors from Tokyo. The combination of fresh seafood, Buddhist heritage, and Tokyo-influenced café culture makes Kamakura one of Japan's most complete food experiences in a compact, walkable city.",
+  "signatureDishes": [
+    {
+      "name": "Nama Shirasu Don",
+      "japaneseName": "生しらす丼",
+      "description": "Raw whitebait (baby anchovies and sardines) served over a bowl of warm seasoned rice with a drizzle of soy sauce or ponzu. The fish are caught in Sagami Bay each morning and must be eaten the same day. The texture is silky and the flavor is clean ocean-sweet. The most Kamakura-specific food experience available.",
+      "priceRange": "¥1,200–¥2,500",
+      "whereToTry": "Shirasuya (Komachi-dori), Hase Shokudo (Hase area), Wasai Yakura (near Kamakura Station), Tobiccho (Sagami Bay catch)",
+      "tip": "Available only March to December, and only when the boats go out — bad weather cancels fishing. Check with your restaurant when you arrive whether fresh shirasu is available that day."
+    },
+    {
+      "name": "Kama-age Shirasu",
+      "japaneseName": "釜揚げしらす",
+      "description": "Whitebait briefly boiled in salted water and piled generously over rice. More delicate than dried shirasu, with a soft, slightly warm texture and a cleaner flavor than raw. Available year-round (unlike the seasonal nama shirasu) and beloved as a comfort food by Kamakura residents.",
+      "priceRange": "¥1,000–¥2,000",
+      "whereToTry": "The same shirasu specialists as nama shirasu — most restaurants offer both styles",
+      "tip": "If raw shirasu isn't available due to weather or season, kama-age is the equally delicious cooked alternative. Order both as a comparison set if the restaurant offers it."
+    },
+    {
+      "name": "Zendera Mochi",
+      "japaneseName": "禅寺餅",
+      "description": "Soft, freshly pounded mochi rice cakes associated with Kamakura's zen temple culture. Found at traditional sweet shops throughout the city, often filled with red bean paste (anko) or coated in kinako (roasted soybean flour) and sweet soy sauce. The temple town aesthetic and mochi culture are inseparable.",
+      "priceRange": "¥200–¥600",
+      "whereToTry": "Hagiwara (near Tsurugaoka Hachimangu), traditional sweet shops along Komachi-dori, temple tea houses",
+      "tip": "Komachi-dori shopping street has multiple traditional sweet shops selling freshly made mochi and wagashi. Sample as you walk — most sell individual pieces."
+    },
+    {
+      "name": "Kamakura Shogun Cuisine (Shojin Ryori)",
+      "japaneseName": "精進料理",
+      "description": "The Buddhist vegetarian tradition brought from Kyoto to Kamakura with the Zen temples in the 12th century. Several restaurants near Engaku-ji and Kencho-ji temples serve shojin ryori set meals using seasonal vegetables, tofu, sesame, and no meat or fish. A meditative eating experience.",
+      "priceRange": "¥2,500–¥8,000 for a course",
+      "whereToTry": "Hachinoki (near Kencho-ji Temple), Zuisen-ji temple vicinity",
+      "tip": "Hachinoki near Kencho-ji is one of the most respected shojin ryori restaurants in the Kanto region outside Kyoto. Reserve at least a few days ahead."
+    },
+    {
+      "name": "Shonan Tamagoyaki",
+      "japaneseName": "湘南玉子焼き",
+      "description": "A Kamakura specialty rolled omelet (tamagoyaki) infused with the flavor of shirasu whitebait and light dashi broth. The sweet, layered egg roll has a distinctive savory accent from the dried whitebait. A popular izakaya starter and bento ingredient throughout the Shonan coast.",
+      "priceRange": "¥500–¥900",
+      "whereToTry": "Traditional restaurants along the coast, izakaya in central Kamakura",
+      "tip": "Order as a starter at any traditional restaurant — the combination of sweet egg and umami whitebait is distinctly Kamakura."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Shirasuya Honten",
+      "address": "1-9 Komachi, Kamakura, Kanagawa",
+      "cuisine": "Shirasu (whitebait) specialties",
+      "priceRange": "¥1,200–¥2,500",
+      "description": "Kamakura's most recognized specialist in shirasu cuisine, using daily catches from Sagami Bay. The nama shirasu don and kama-age shirasu don are the signatures, served with miso soup and pickles. The Komachi-dori location is convenient and highly rated on Tripadvisor.",
+      "highlight": "The benchmark shirasu restaurant in Kamakura — fresh morning catch every day"
+    },
+    {
+      "name": "Hachinoki",
+      "address": "7 Yamanouchi, Kamakura, Kanagawa (near Kencho-ji Temple)",
+      "cuisine": "Shojin ryori (Buddhist vegetarian)",
+      "priceRange": "¥3,000–¥8,000",
+      "description": "One of the most celebrated shojin ryori restaurants in the Kanto region, serving Buddhist vegetarian cuisine adjacent to Kencho-ji Temple. The multi-course meals use seasonal vegetables, sesame tofu, simmered mountain vegetables, and temple-style preparations. Reservations essential.",
+      "highlight": "The finest Buddhist vegetarian cuisine in Kanto — reserve well in advance"
+    },
+    {
+      "name": "Wasai Yakura",
+      "address": "2-11-16 Komachi, Kamakura, Kanagawa",
+      "cuisine": "Japanese seasonal cuisine with shirasu",
+      "priceRange": "¥1,500–¥4,000",
+      "description": "A well-regarded Japanese restaurant 10 minutes from Kamakura Station specializing in ingredients from the local Shonan coast, including daily shirasu, seasonal fish from Misaki Port, and fresh Kamakura vegetables. The multi-item lunch sets are excellent value.",
+      "highlight": "Seasonal Kamakura ingredients served elegantly — the shirasu lunch sets are outstanding"
+    },
+    {
+      "name": "Komachi-dori Street Stalls",
+      "address": "Komachi-dori, Kamakura",
+      "cuisine": "Street food and sweets",
+      "priceRange": "¥200–¥800",
+      "description": "The 300-meter shopping street leading from Kamakura Station to Tsurugaoka Hachimangu is lined with shirasu soft serve, fresh mochi stalls, matcha ice cream shops, and traditional sweet vendors. Walking Komachi-dori while snacking is the quintessential Kamakura tourist experience.",
+      "highlight": "The most pleasant street food walk in the Kanto region — sample multiple stalls"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Komachi-dori",
+      "description": "Kamakura's most famous shopping street, 300 meters from the station to Tsurugaoka Hachimangu. Lined with shirasu-flavored soft serve stalls, mochi shops, traditional sweet vendors, and small restaurants. An essential food stroll.",
+      "bestFor": "Shirasu soft serve, mochi, wagashi, rice cracker shops, casual lunch"
+    },
+    {
+      "name": "Yuigahama Beach Area",
+      "description": "The beach neighborhood has a relaxed café culture developed for Tokyo day-trippers. Artisan coffee shops, craft beer bars, and beach-view restaurants populate the streets between the beach and the train station. More relaxed and less tourist-focused than Komachi-dori.",
+      "bestFor": "Artisan coffee, craft beer, beach-view dining, weekend brunch culture"
+    },
+    {
+      "name": "Hase Shoreline",
+      "description": "The area around Hase Station (Enoden railway) near the Great Buddha has a cluster of whitebait restaurants, traditional tea houses, and small cafes. Hase Shokudo specializes in shirasu with ocean views. Less crowded than central Kamakura.",
+      "bestFor": "Fresh shirasu don, ocean-view dining, shirasu tamagoyaki, matcha tea houses"
+    }
+  ],
+  "foodTips": [
+    "Fresh nama shirasu (raw whitebait) is only available March to December, and only on days when fishing boats go out — check on arrival whether today's catch is available.",
+    "Komachi-dori is extremely crowded on weekends from 10am. Visit early (9am) or late (3pm onward) for a more pleasant experience.",
+    "Kamakura's Buddhist temple heritage means shojin ryori (vegetarian temple cuisine) is excellent here — if you are vegetarian, this is one of the best cities in Japan to eat well.",
+    "Most shirasu specialists offer both nama (raw) and kama-age (boiled) versions — order a comparison if available to experience both.",
+    "Kamakura is a perfect half-day from Tokyo (50 minutes by JR Yokosuka Line) — time your visit to arrive for a shirasu lunch and leave by 3pm before the day-tripper crowds depart.",
+    "The Enoshima Electric Railway (Enoden) coastal line connects Kamakura to Enoshima, where additional seafood restaurants are located along the famous causeway bridge."
+  ],
+  "sources": [
+    { "name": "Kanpai Japan — Shirasu in Kamakura", "url": "https://www.kanpai-japan.com/kamakura/hase-shokudo-shirasu-restaurant" },
+    { "name": "Savor Japan — Kamakura Restaurants", "url": "https://savorjapan.com/contents/discover-oishii-japan/must-visit-5-recommended-restaurants-hiroshima" },
+    { "name": "Live Japan — Kamakura", "url": "https://livejapan.com/en/in-tokyo/in-pref-kanagawa/in-kamakura/" }
+  ]
+}

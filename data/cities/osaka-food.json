@@ -1,0 +1,132 @@
+{
+  "slug": "osaka",
+  "cityName": "Osaka",
+  "introduction": "Osaka has a concept the rest of Japan doesn't: kuidaore — eat until you drop. The city's residents famously spend proportionally more of their income on food than any other Japanese city, and the culture reflects this obsession. Osaka is Japan's street food capital, the birthplace of both takoyaki (octopus balls) and okonomiyaki (savory pancakes), and home to the nation's most famous food market, Kuromon Ichiba. The canal-side Dotonbori district is lined with neon signs and restaurants elbow to elbow, where the smell of frying kushikatsu and bubbling takoyaki hangs permanently in the air. Osaka food is about directness and generosity — the flavors are bolder, the portions larger, and the prices more democratic than Kyoto or Tokyo. The city has earned the nickname 'tenka no daidokoro' (the nation's kitchen) because historically it was the distribution point for food from across Japan. Eating your way through Osaka remains one of the most joyful experiences in all of Japan.",
+  "signatureDishes": [
+    {
+      "name": "Takoyaki",
+      "japaneseName": "たこ焼き",
+      "description": "Osaka's most iconic street food: spherical golden balls of savory batter filled with diced octopus, pickled ginger, and green onion, cooked in a special dimpled iron pan. Finished with okonomiyaki sauce, Japanese mayonnaise, bonito flakes that wave in the heat, and powdered aonori seaweed. Eaten hot, usually in sets of 6 or 8.",
+      "priceRange": "¥400–¥700 for 6–8 pieces",
+      "whereToTry": "Takoyaki Wanaka (Dotonbori), Konamon Museum (Amerika-mura), Takoyaki Doraku Wanaka, Dotonbori street stalls",
+      "tip": "They are extremely hot when fresh — wait 60 seconds before biting. The crunch on the outside and molten interior is the goal."
+    },
+    {
+      "name": "Okonomiyaki",
+      "japaneseName": "お好み焼き",
+      "description": "Osaka-style savory pancake made with wheat flour batter, grated yam, shredded cabbage, eggs, and your choice of additions: pork belly, seafood, cheese, or kimchi. Mixed into the batter and cooked on a teppan (iron griddle) — unlike Hiroshima's layered style. Topped with okonomiyaki sauce, mayonnaise, bonito flakes, and aonori.",
+      "priceRange": "¥800–¥1,500",
+      "whereToTry": "Mizuno (Dotonbori, since 1945), Fukutaro (Namba), street restaurants around Namba and Shinsaibashi",
+      "tip": "Osaka-style mixes everything into the batter together (Kansai-style), while Hiroshima-style layers ingredients. In Osaka, do not mix while cooking — let it set before flipping once."
+    },
+    {
+      "name": "Kushikatsu",
+      "japaneseName": "串かつ",
+      "description": "Skewers of meat, vegetables, seafood, and cheese coated in egg and panko breadcrumbs, then deep-fried to golden perfection. Dipped once (never twice — the no double-dipping rule is sacred) into a communal pot of slightly sweet Worcestershire sauce. The most democratic food in Osaka: every ingredient from pork to quail egg to lotus root gets the same glorious treatment.",
+      "priceRange": "¥100–¥300 per skewer",
+      "whereToTry": "Shinsekai district (the birthplace of kushikatsu), Daruma (multiple locations), Janjan Yokocho alley",
+      "tip": "The double-dipping ban is absolute and enforced with signs in every kushikatsu restaurant. Use the offered cabbage leaf to scoop extra sauce if needed."
+    },
+    {
+      "name": "Negiyaki",
+      "japaneseName": "ねぎ焼き",
+      "description": "A Osaka specialty that few tourists discover — a thinner, crispier version of okonomiyaki dominated by green onion (negi), which fills the entire pancake. Seasoned with ponzu soy sauce rather than okonomiyaki sauce. Associated with the working-class neighborhoods of Kyobashi and Tsuruhashi.",
+      "priceRange": "¥700–¥1,200",
+      "whereToTry": "Yukari (Shinsaibashi), traditional restaurants in Tsuruhashi Korean town area",
+      "tip": "Order negiyaki alongside regular okonomiyaki to compare the textures — the negiyaki is far crispier and more aromatic."
+    },
+    {
+      "name": "Fugu",
+      "japaneseName": "ふぐ",
+      "description": "Osaka is Japan's most famous city for fugu (puffer fish), which requires specially licensed chefs to prepare safely. Available as sashimi (tessa), hot pot (fugu nabe), or deep-fried karaage. The flavor is surprisingly delicate and mild. Best eaten in winter when fugu is in season (October–March). Osaka consumes roughly 60% of Japan's annual fugu supply.",
+      "priceRange": "¥5,000–¥20,000 for a fugu course",
+      "whereToTry": "Zuboraya (Dotonbori, famous giant fugu lantern sign), licensed fugu specialists in Namba",
+      "tip": "Only eat fugu at restaurants with a licensed fugu chef (fugu chori-shi) — the blowfish liver and ovaries contain tetrodotoxin. Licensed restaurants have zero safety incidents."
+    },
+    {
+      "name": "Osaka-style Sushi (Oshizushi)",
+      "japaneseName": "押し寿司",
+      "description": "Before nigiri became dominant, Osaka's style of pressed sushi (oshizushi) was Japan's standard — rice pressed into a wooden mold with cured mackerel (battera) or other toppings, then sliced into rectangles. Denser and more vinegary than Tokyo-style nigiri. Available at traditional sushi shops and as takeaway at station bento counters.",
+      "priceRange": "¥500–¥2,000 for a box",
+      "whereToTry": "Yohachi (oshizushi specialist near Kuromon Market), department store basement food halls, traditional sushi-ya in Namba",
+      "tip": "Battera (cured mackerel oshizushi) wrapped in kombu is Osaka's most traditional sushi and tastes nothing like the standard mackerel sashimi — try it at a specialist shop."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Mizuno",
+      "address": "1-4-15 Dotonbori, Chuo, Osaka",
+      "cuisine": "Okonomiyaki",
+      "priceRange": "¥1,000–¥2,000",
+      "description": "Open since 1945, Mizuno is often called the definitive Osaka okonomiyaki restaurant. They are credited with perfecting the Osaka-style yam (yamaimo) mixture that gives okonomiyaki its signature fluffy interior. Long queues form daily at their Dotonbori location. Order the signature sea bream and potato okonomiyaki.",
+      "highlight": "Open since 1945 — the original Osaka okonomiyaki master; expect queues"
+    },
+    {
+      "name": "Daruma",
+      "address": "2-3-9 Ebisuhigashi, Naniwa, Osaka (Shinsekai main branch)",
+      "cuisine": "Kushikatsu",
+      "priceRange": "¥1,500–¥3,000",
+      "description": "The most famous kushikatsu chain, founded in Shinsekai district — the birthplace of the dish. The original Shinsekai branch captures the full atmosphere: red lanterns, retro signage, and towers of golden skewers arriving continuously. The sauce pot is communal; the rule is absolute.",
+      "highlight": "The original Shinsekai location captures the authentic kushikatsu atmosphere"
+    },
+    {
+      "name": "Kuromon Ichiba Market",
+      "address": "2-4-1 Nipponbashi, Chuo, Osaka",
+      "cuisine": "Market — seafood, wagyu, produce stalls",
+      "priceRange": "¥300–¥3,000",
+      "description": "Osaka's legendary covered market, operating since 1822. About 150 shops supply the city's restaurants with fresh seafood, wagyu beef, produce, and pickles. Many stalls offer grilled scallops, fresh tuna sashimi, Kobe beef skewers, and Hokkaido uni (sea urchin) to eat on the spot. Best visited 10am–1pm.",
+      "highlight": "Try fresh uni (sea urchin) or grilled wagyu on a stick from the market stalls"
+    },
+    {
+      "name": "Zuboraya",
+      "address": "2-5-10 Dotonbori, Chuo, Osaka",
+      "cuisine": "Fugu (puffer fish)",
+      "priceRange": "¥5,000–¥15,000",
+      "description": "Famous for its giant glowing fugu lantern signs hanging above the Dotonbori canal, Zuboraya is the most recognizable fugu restaurant in Japan. The full fugu course — sashimi (tessa), hot pot, and crispy karaage — is the classic Osaka winter experience. Licensed fugu chefs have maintained a perfect safety record.",
+      "highlight": "The giant fugu lanterns are iconic Dotonbori — dine here for the full Osaka experience"
+    },
+    {
+      "name": "Takoyaki Wanaka",
+      "address": "3-9-19 Namba, Chuo, Osaka (multiple locations)",
+      "cuisine": "Takoyaki",
+      "priceRange": "¥550–¥700 for 8 pieces",
+      "description": "Consistently voted Osaka's best takoyaki by locals, Wanaka uses a slightly firmer outer shell and exceptionally fresh octopus. The sauce-to-mayo ratio is perfectly calibrated. Multiple locations throughout Osaka, but the Namba location has the best atmosphere.",
+      "highlight": "Voted best takoyaki in Osaka by local polls — the crunch-to-soft ratio is perfect"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Dotonbori",
+      "description": "Osaka's most famous entertainment district, running along the canal. Neon signs, giant food mascots (the Glico Running Man, the Kani Doraku crab), and wall-to-wall restaurants and street food stalls. The most intense concentration of food in Japan — takoyaki stalls, ice cream shops, kushikatsu bars, and ramen restaurants compete for space.",
+      "bestFor": "Takoyaki, okonomiyaki, fugu, ice cream, Osaka street food atmosphere"
+    },
+    {
+      "name": "Shinsekai",
+      "description": "A retro district built in 1912 that still retains its working-class, Showa-era atmosphere. The birthplace of kushikatsu and the home of Osaka's most authentic street-food culture. The Janjan Yokocho alley is lined with old-school izakaya, shogi (Japanese chess) clubs, and kushikatsu shops.",
+      "bestFor": "Kushikatsu (birthplace), retro izakaya, affordable street eating, Tsutenkaku Tower views"
+    },
+    {
+      "name": "Kuromon Ichiba Market",
+      "description": "The covered market that has supplied Osaka's restaurants since 1822. Stall vendors sell fresh wagyu skewers, grilled scallops, uni rice bowls, giant tuna sashimi, and fresh fruit. Walk through eating from stall to stall — a Osaka institution for food lovers.",
+      "bestFor": "Fresh seafood on sticks, wagyu beef, uni donburi, market atmosphere"
+    },
+    {
+      "name": "Namba Yatai (Night Stalls)",
+      "description": "The area around Namba and along the Dotonbori canal comes alive at night with temporary yatai food stalls selling everything from yakitori to dumplings to cold Asahi beer. The mix of tourists and locals eating standing up along the canal is a quintessential Osaka experience.",
+      "bestFor": "Yakitori, gyoza, cold beer, casual Osaka evening atmosphere"
+    }
+  ],
+  "foodTips": [
+    "Osaka has a rule: kuidaore — eat until you drop. Budget more than you think. Food is cheap and excellent, but you will keep finding things to try.",
+    "The sacred kushikatsu rule: never dip a skewer twice into the communal sauce. If you need more sauce, use the provided cabbage leaf as a scoop. Breaking this rule is a genuine social transgression.",
+    "Osaka's best eating is often done walking — street food culture here means takoyaki, grilled skewers, and ice cream are consumed while strolling through Dotonbori.",
+    "Osaka's lunch prices are remarkably generous: even restaurants in tourist areas serve teishoku lunch sets with 5–6 items for ¥800–¥1,200.",
+    "Try fugu (puffer fish) in winter (October–March) — Osaka consumes 60% of Japan's annual fugu supply and has some of the best licensed fugu chefs.",
+    "Kuromon Market is best visited between 10am and 1pm when all stalls are open and freshest — it becomes crowded with tourists by 11am and winds down by 5pm."
+  ],
+  "sources": [
+    { "name": "Japan Guide — Osaka Food", "url": "https://www.japan-guide.com/e/e4022.html" },
+    { "name": "Magical Trip — Osaka Street Food", "url": "https://www.magical-trip.com/media/osakas-best-street-food-guide-2024-enjoy-amazing-osaka-gourmet/" },
+    { "name": "Will Fly for Food — Osaka Restaurants", "url": "https://www.willflyforfood.net/osaka-food-guide-25-must-try-restaurants/" }
+  ]
+}

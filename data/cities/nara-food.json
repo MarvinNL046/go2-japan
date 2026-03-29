@@ -1,0 +1,111 @@
+{
+  "slug": "nara",
+  "cityName": "Nara",
+  "introduction": "Nara's food culture is rooted in 1,300 years of history as Japan's first permanent capital. The city's cuisine reflects its dual identity as a Buddhist pilgrim destination and an imperial seat — shojin ryori (Buddhist vegetarian cooking), ancient fermented foods, and tea ceremony sweets dominate the food landscape. Nara Prefecture's most distinctive specialties include kakinoha-zushi (sushi wrapped in antibacterial persimmon leaves), narazuke (the oldest pickled vegetables in Japan, steeped in sake lees for up to three years), and Miwa somen (ultra-thin noodles made in the same village for over 1,200 years). The soft water from the Yoshino mountains is key to the region's sake production, and Nara sake is considered among Japan's finest. The deer that wander freely through Nara Park create a surreal backdrop for any meal in the open-air food stalls along the park approach. The city is best experienced as a food destination by slowing down and embracing the ancient, fermented, and seasonal.",
+  "signatureDishes": [
+    {
+      "name": "Kakinoha-zushi",
+      "japaneseName": "柿の葉ずし",
+      "description": "Small parcels of vinegared rice topped with salt-cured mackerel or salmon, individually wrapped in antibacterial persimmon leaves and pressed for 1–2 days. The persimmon leaf imparts a subtle tannic flavor and the pressing creates a dense, concentrated sushi unlike any other in Japan. A centuries-old preservation technique from the pre-refrigeration era.",
+      "priceRange": "¥1,200–¥2,000 for a box of 10",
+      "whereToTry": "Kakinoha Zushi Tanaka (main Nara branch), Hiraso (Nara), station kiosks at Kintetsu Nara Station",
+      "tip": "Kakinoha-zushi makes an excellent souvenir or picnic food in Nara Park — buy a box and eat them on the grass surrounded by deer."
+    },
+    {
+      "name": "Narazuke Pickles",
+      "japaneseName": "奈良漬け",
+      "description": "Japan's oldest surviving pickled vegetable, dating from the 8th century when Nara (Heijo-kyo) was the capital. White cucumbers, melons, watermelon rind, and ginger are submerged in sake lees (sake kasu) for months or years — the finest are steeped for 3 or more years and develop a deep amber color and intensely complex, slightly alcoholic flavor.",
+      "priceRange": "¥500–¥3,000 depending on age and size",
+      "whereToTry": "Nakatanido (Nara), Nishikizuke (established specialist), souvenir shops throughout Naramachi and near Todai-ji",
+      "tip": "The cheapest narazuke are sharp and young. For the complex, deeply fermented version, buy from a specialist who ages their pickles for 2–3 years. The price difference reflects years of fermentation."
+    },
+    {
+      "name": "Miwa Somen",
+      "japaneseName": "三輪そうめん",
+      "description": "Among the finest somen (thin wheat noodles) in Japan, made in the Miwa district of central Nara using a technique over 1,200 years old. The noodles are stretched by hand to extraordinary fineness, then dried in mountain air. The result has a springy, silky texture superior to mass-produced somen. Served cold in summer or hot in winter.",
+      "priceRange": "¥700–¥1,500 as a restaurant dish; ¥600–¥2,000 as packaged souvenir",
+      "whereToTry": "Somen Yamamoto (Miwa area), specialty restaurants near Omiwa Shrine, traditional restaurants in central Nara",
+      "tip": "Miwa somen is available as a beautiful souvenir — buy bundled noodles from the Miwa area or specialist shops. The thin, handmade variety tastes markedly different from supermarket somen."
+    },
+    {
+      "name": "Chagayu (Green Tea Rice Porridge)",
+      "japaneseName": "茶粥",
+      "description": "A Nara tradition with roots in Buddhist temple cooking: rice simmered in bancha or hojicha green tea to produce a light, aromatic porridge. Served as part of the traditional Japanese morning meal at ryokan in Nara. The tea imparts a subtle earthiness and the dish pairs perfectly with narazuke pickles.",
+      "priceRange": "¥400–¥800 as part of a breakfast set",
+      "whereToTry": "Traditional ryokan in Nara Park area, Mizuya Chaya (tea house near Todai-ji), traditional breakfast sets at local restaurants",
+      "tip": "If you stay at a traditional inn in Nara, request the Japanese breakfast — the combination of chagayu, grilled fish, pickles, and miso soup is the authentic Nara morning meal."
+    },
+    {
+      "name": "Yamato Wagyu Beef",
+      "japaneseName": "大和牛",
+      "description": "Nara Prefecture's regional wagyu brand has been recognized since the Kamakura period (1185–1333). Yamato beef cattle are raised in the mountain regions of southern Nara, producing meat with characteristic marbling, soft texture, and clean, rich flavor. Available at specialist beef restaurants in central Nara.",
+      "priceRange": "¥3,000–¥8,000 for a beef course",
+      "whereToTry": "Yamatogyu restaurants in downtown Nara, Niku no Hanayama (Nara)",
+      "tip": "Yamato wagyu is far less famous internationally than Kobe or Matsuzaka beef, but local aficionados consider it superior in tenderness. Ask specifically for Yamato beef when ordering."
+    }
+  ],
+  "bestRestaurants": [
+    {
+      "name": "Kakinoha Zushi Tanaka",
+      "address": "1-11 Baba Shinmeicho, Nara",
+      "cuisine": "Kakinoha-zushi (persimmon leaf sushi)",
+      "priceRange": "¥1,500–¥2,500",
+      "description": "The most established specialist in Nara's signature dish, Tanaka has been perfecting kakinoha-zushi for generations. Their mackerel and salmon varieties are the benchmark. The shop also offers set meals that pair the sushi with other Nara specialties.",
+      "highlight": "The gold standard for Nara's signature pressed sushi"
+    },
+    {
+      "name": "Nakatanido",
+      "address": "29 Hashimotocho, Nara",
+      "cuisine": "Mochi sweets and narazuke",
+      "priceRange": "¥200–¥1,200",
+      "description": "Famous for yomogi mochi (mugwort rice cakes) pounded to order with great theatrical energy outside the shop. The chewy, fresh-pounded mochi filled with sweet red bean paste is worth queuing for. Also stocks excellent narazuke pickles.",
+      "highlight": "Watch the mochi pounding performance outside before buying — an Instagrammable Nara experience"
+    },
+    {
+      "name": "Mizuya Chaya",
+      "address": "Near Nigatsu-do, Nara Park area",
+      "cuisine": "Traditional Japanese tea house",
+      "priceRange": "¥600–¥1,500",
+      "description": "A traditional tea house near the Todai-ji complex in Nara Park, serving matcha, wagashi sweets, and chagayu (green tea rice porridge). The tatami setting and views of the park's ancient trees make this the most atmospheric refreshment stop in Nara.",
+      "highlight": "Matcha and traditional sweets overlooking Nara Park — the perfect midday break"
+    },
+    {
+      "name": "Shizuka",
+      "address": "Naramachi area, Nara",
+      "cuisine": "Traditional kaiseki and obanzai",
+      "priceRange": "¥2,500–¥8,000",
+      "description": "One of the best casual kaiseki-style restaurants in Naramachi's historic merchant district. Uses seasonal Yamato vegetables, Miwa somen, and local ingredients in traditional preparations. The old machiya townhouse setting enhances the experience.",
+      "highlight": "Seasonal Nara cuisine in a beautifully preserved Naramachi townhouse"
+    }
+  ],
+  "streetFoodAreas": [
+    {
+      "name": "Higashimuki Shopping Arcade",
+      "description": "Nara's main covered shopping street connecting Kintetsu Nara Station to Nara Park. Lined with traditional sweet shops, narazuke pickle vendors, senbei (rice cracker) stalls, and casual restaurants. The most convenient food street for visitors arriving by Kintetsu train.",
+      "bestFor": "Narazuke pickles, mochi sweets, deer senbei crackers, matcha soft serve"
+    },
+    {
+      "name": "Naramachi Streets",
+      "description": "The well-preserved historic merchant district south of Nara Park, with narrow lanes of old machiya townhouses converted into cafes, craft shops, and restaurants. A more relaxed, local atmosphere than the main tourist approach.",
+      "bestFor": "Traditional cafes, artisan food shops, kakinoha-zushi, Nara sake tasting"
+    },
+    {
+      "name": "Nara Park Gate Area",
+      "description": "The entrance to Nara Park where deer roam freely among vendors selling deer senbei crackers (specially baked for deer feeding — do not eat them yourself), fresh mochi, and traditional sweets. Food stalls are concentrated near Todai-ji and Kasuga Taisha.",
+      "bestFor": "Deer senbei (¥200 a bundle for feeding deer), grilled mochi, traditional sweets"
+    }
+  ],
+  "foodTips": [
+    "Nara's food scene is quieter and less developed than Kyoto or Osaka — plan to eat at the places listed specifically rather than wandering and finding options.",
+    "Kakinoha-zushi must be eaten fresh — the ideal window is 12–24 hours after pressing. Vacuum-packed versions sold as souvenirs have a different (inferior) texture.",
+    "Deer senbei crackers sold in Nara Park are baked for deer and have no seasoning — if you want food for yourself, look for the mochi stalls and tea houses inside the park.",
+    "Nara sake (morohaku) is some of Japan's finest due to the clean mountain water. Look for local izakaya in Naramachi serving Nara Prefecture sake alongside traditional small dishes.",
+    "Budget ¥1,500–¥2,500 for lunch to eat well. Nara is cheaper than Kyoto for comparable quality at traditional restaurants.",
+    "The best souvenir foods from Nara: narazuke pickles, kakinoha-zushi boxes, Miwa somen noodles, and higashiyama mochi sweets."
+  ],
+  "sources": [
+    { "name": "JNTO — Nara Local Flavours", "url": "https://www.japan.travel/en/ca/cuisine/kansai/nara/" },
+    { "name": "Live Japan — Dining in Nara", "url": "https://livejapan.com/en/in-kansai/in-pref-nara/in-nara_ikoma_tenri/article-a2000162/" },
+    { "name": "Visit Nara — Eat and Drink", "url": "https://www.visitnara.jp/eat-and-drink/" }
+  ]
+}

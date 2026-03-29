@@ -56,6 +56,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const cities = getAllCities();
   return {
     props: { cities },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

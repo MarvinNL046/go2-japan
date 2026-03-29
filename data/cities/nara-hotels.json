@@ -1,0 +1,92 @@
+{
+  "slug": "nara",
+  "cityName": "Nara",
+  "introduction": "Nara is most commonly visited as a day trip from Kyoto or Osaka, but the city rewards an overnight stay — when the day-tripper crowds clear out after 4pm, the ancient temples and free-roaming deer in Nara Park take on a magical quality that cannot be experienced from a single day visit. Accommodation in Nara is modest compared to Kyoto, with a smaller selection but consistently excellent value. The two best areas are around Nara Park (for the most atmospheric and scenic experience, with several good ryokan) and the station area (for practical transport connections and the widest range of hotels). Nara's ryokan experience is notably more affordable than Kyoto's — a high-quality ryokan with traditional kaiseki dinner and the famous chagayu (green tea rice porridge) breakfast costs roughly half what comparable accommodation charges in Kyoto's Gion district. The city is compact and almost entirely walkable, making location less critical than in Tokyo or Osaka.",
+  "bestAreas": [
+    {
+      "name": "Nara Park Area",
+      "description": "The area immediately around Nara Park offers the most atmospheric accommodation — deer wander freely through the grounds of nearby temples and approach hotel gardens in the mornings. Several ryokan are positioned within 10 minutes walk of Todai-ji, Kasuga Taisha, and the major temples. Best for those seeking an immersive cultural experience.",
+      "bestFor": "Ryokan experience, sunrise at temples without crowds, deer encounters, romantic couples",
+      "priceRange": "¥8,000–¥60,000 ($53–$400) per person"
+    },
+    {
+      "name": "Naramachi Historic District",
+      "description": "The preserved merchant quarter south of Nara Park, with narrow streets of traditional townhouses (machiya). Several guesthouses and small boutique hotels are housed in renovated machiya buildings, offering an authentic historic atmosphere at more affordable prices than the Park area ryokan.",
+      "bestFor": "Budget travelers, historic atmosphere, authentic local culture, machiya experience",
+      "priceRange": "¥4,000–¥20,000 ($27–$133)"
+    },
+    {
+      "name": "Station Area (JR/Kintetsu Nara)",
+      "description": "The area around both Nara train stations (5 minutes apart on foot) has the most hotels and best transport connectivity. Less atmospheric than the Park area, but practical for day-trippers making it an overnight stay, or those using Nara as a Kansai base.",
+      "bestFor": "Transit connectivity, late arrivals, budget hotels, day-trip expansion",
+      "priceRange": "¥4,000–¥18,000 ($27–$120)"
+    }
+  ],
+  "budgetOptions": [
+    {
+      "name": "Guesthouse Nara Komachi",
+      "type": "Guesthouse",
+      "priceRange": "¥3,000–¥5,500 ($20–$37)",
+      "description": "A small, friendly guesthouse in the Naramachi district offering both dorm beds and private rooms in a traditional building. The communal areas facilitate meeting fellow travelers, and the location in historic Naramachi offers excellent local atmosphere."
+    },
+    {
+      "name": "Super Hotel Nara Yamato-Saidaiji",
+      "type": "Budget business hotel",
+      "priceRange": "¥5,500–¥9,000 ($37–$60)",
+      "description": "Part of the reliable Super Hotel chain, positioned near Yamato-Saidaiji Station with good Kintetsu Line connections to Kyoto and Osaka. Includes free natural hot spring bath (onsen). One of the better budget chain options in the Nara area."
+    },
+    {
+      "name": "Onyado Nono Nara",
+      "type": "Budget ryokan with hot spring",
+      "priceRange": "¥6,500–¥12,000 ($43–$80)",
+      "description": "A short walk from JR Nara Station, this budget-friendly Japanese inn includes access to natural hot spring baths at no additional charge. A genuine ryokan introduction — tatami rooms, yukata robes, and traditional atmosphere — at an accessible price."
+    }
+  ],
+  "midrangeOptions": [
+    {
+      "name": "Hotel Sunroute Nara",
+      "type": "Business hotel",
+      "priceRange": "¥8,000–¥15,000 ($53–$100)",
+      "description": "One of Nara's best mid-range business hotels, with comfortable rooms and a central location between the station and Nara Park. The breakfast set featuring regional Nara foods is a genuine highlight."
+    },
+    {
+      "name": "Kankaso Ryokan",
+      "type": "Ryokan",
+      "priceRange": "¥15,000–¥35,000 ($100–$233) per person with meals",
+      "description": "An intimate, highly-regarded ryokan with just 10 rooms set in a Japanese garden with stone lanterns and traditional architecture. Tatami rooms with paper screen partitions (shoji) and quality kaiseki dinners using Nara ingredients including kakinoha-zushi and Yamato vegetables."
+    },
+    {
+      "name": "Nara Hotel",
+      "type": "Historic Western-style hotel",
+      "priceRange": "¥20,000–¥40,000 ($133–$267)",
+      "description": "Opening in 1909, the Nara Hotel is one of Japan's classic Meiji-era Western-style hotels, built in a European style with Japanese roof elements. Guests have included the Emperor of Japan, Albert Einstein, and Audrey Hepburn. The historic wing rooms are larger and more atmospheric than the modern addition."
+    }
+  ],
+  "luxuryOptions": [
+    {
+      "name": "Tsukihitei",
+      "type": "Luxury ryokan",
+      "priceRange": "¥40,000–¥80,000 ($267–$533) per person with meals",
+      "description": "Considered the finest ryokan in Nara, Tsukihitei is set in a private forest west of Nara Park with 10 traditional rooms overlooking a pond garden. The privacy, natural setting, and exceptional kaiseki meals using Nara Prefecture ingredients make it one of the great ryokan experiences in the Kansai region."
+    },
+    {
+      "name": "Harashima",
+      "type": "Luxury ryokan with private garden",
+      "priceRange": "¥35,000–¥70,000 ($233–$467) per person with meals",
+      "description": "A refined, small ryokan adjacent to Nara Park with private garden rooms and views of the surrounding forest. The in-room kaiseki dinners incorporate Nara specialties including Yamato wagyu, Miwa somen, and kakinoha-zushi components."
+    }
+  ],
+  "bookingTips": [
+    "Nara's best ryokan have only 8–12 rooms each and book out months ahead during spring and autumn seasons. If a specific property interests you, book before any other accommodation in Japan.",
+    "Staying in Nara even one night transforms the experience — the temples and deer park after 4pm are completely different from the midday tourist rush. Budget a single night even on a tight schedule.",
+    "Nara ryokan prices are roughly half of equivalent Kyoto properties — if the ryokan experience is a priority, Nara is the most affordable city in Kansai to have it.",
+    "The Kintetsu Nara Line connects to Kyoto in 35 minutes and Osaka in 45 minutes — staying in Nara as a Kansai hub is practical, though the hotel choice is more limited than these cities.",
+    "Traditional breakfast at Nara ryokan typically includes chagayu (green tea rice porridge) — a local tradition worth requesting specifically if not automatically offered.",
+    "Deer are active at dawn and dusk in Nara Park. Ryokan and hotels adjacent to the park offer views of free-roaming deer from rooms and gardens at these times."
+  ],
+  "sources": [
+    { "name": "The Navigatio — Where to Stay in Nara", "url": "https://thenavigatio.com/where-to-stay-in-nara/" },
+    { "name": "Japan 365 Days — Nara Ryokans", "url": "https://www.japan365days.com/best_ryokans_in_nara.php" },
+    { "name": "Nara Station — Accommodation Guide", "url": "https://www.narastation.com/where-to-stay-in-nara-guide-to-the-best-locations/" }
+  ]
+}

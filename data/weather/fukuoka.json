@@ -1,0 +1,141 @@
+{
+  "slug": "fukuoka",
+  "city": "Fukuoka",
+  "climate_overview": "Fukuoka has a mild temperate climate on Hakata Bay in northern Kyushu, benefiting from warm Tsushima Current waters that moderate winter temperatures. Winters are Japan's mildest on the main islands, with snow extremely rare. Summers are hot and humid but sea breezes provide relief compared to inland cities. The rainy season in June is the wettest month with 272mm — Fukuoka receives more rainfall than most of Japan. Typhoons from the southwest are more frequent here than in eastern Japan. Spring cherry blossoms at Maizuru Park are outstanding. Annual rainfall totals 1,685mm. The famous yatai outdoor food stall culture operates year-round.",
+  "best_months": ["March", "April", "October", "November"],
+  "avoid_months": ["July", "August"],
+  "monthly_weather": {
+    "january": {
+      "temp_high": 11,
+      "temp_low": 3,
+      "rainfall_mm": 68,
+      "humidity": 64,
+      "description": "January is Fukuoka's coolest month but remains surprisingly mild compared to the rest of Japan — rarely freezing in the city centre. Snow is extremely unusual. The famous Hakata yatai food stalls along the Nakasu riverbank and Tenjin areas operate in winter, with the cosy intimate atmosphere of enclosed stall curtains making steaming bowls of ramen and offal hotpot (motsunabe) feel particularly satisfying. New Year celebrations at Hakozaki Gu and Sumiyoshi Shrine draw large local crowds. One of Japan's best-value winter city breaks.",
+      "activities": ["Yatai food stall dining", "New Year shrine visits", "Fukuoka Castle ruins walk", "Dazaifu Tenmangu day trip"],
+      "events": ["New Year at Hakozaki Gu and Kushida Shrine", "Tamaseseri festival (January 3)", "Winter yatai season"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "february": {
+      "temp_high": 12,
+      "temp_low": 3,
+      "rainfall_mm": 72,
+      "humidity": 62,
+      "description": "February is dry and mild in Fukuoka with plum blossoms beginning to appear at Dazaifu Tenmangu Shrine (30 minutes south), one of Japan's most important plum-viewing destinations. The Setsubun ceremony at Kushida Shrine draws large crowds for the bean-throwing rites. Hakataori silk weaving and traditional crafts workshops are active in this traditionally slower season. A great time to explore Fukuoka's excellent dining scene without tourist crowds. Hakata ramen, tonkotsu pork bone broth, and mentaiko spicy cod roe are all at their seasonal best.",
+      "activities": ["Dazaifu plum blossom viewing", "Kushida Shrine Setsubun", "Hakata ramen deep-dive", "Fukuoka Tower views"],
+      "events": ["Setsubun (February 3) at Kushida Shrine", "Dazaifu Tenmangu Plum Festival", "Hakata Dontaku preparations begin"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "march": {
+      "temp_high": 15,
+      "temp_low": 7,
+      "rainfall_mm": 112,
+      "humidity": 64,
+      "description": "March brings warming temperatures and early cherry blossoms to Fukuoka, which bloom slightly ahead of Tokyo due to the warmer Kyushu climate. Maizuru Park around Fukuoka Castle and Ohori Park become showpiece cherry blossom destinations. Rainfall increases through the month. The Fukuoka Marathon and various spring events fill the calendar. The city's gateway role makes it an excellent base for cherry blossom exploration across northern Kyushu — Yanagawa canal town and Mount Unzen are within easy day-trip range.",
+      "activities": ["Early cherry blossoms at Maizuru Park", "Ohori Park spring walks", "Day trips to Yanagawa", "Fukuoka Marathon watching"],
+      "events": ["Fukuoka Marathon (March)", "Early sakura season", "Spring arrival at Ohori Park"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "april": {
+      "temp_high": 20,
+      "temp_low": 12,
+      "rainfall_mm": 115,
+      "humidity": 65,
+      "description": "April is Fukuoka's best month for cherry blossoms, with Maizuru Park, Ohori Park, and the Nishijin area putting on beautiful displays. The Hakata Dontaku Port Festival on May 3–4 (one of Japan's largest festivals with over 2 million attendees) begins its preparations and preliminary events in late April. The weather is perfect — warm but not hot, with spring breezes off Hakata Bay. Fukuoka is noticeably less overwhelmed with tourists than Kyoto or Tokyo during sakura season, making it an excellent alternative.",
+      "activities": ["Cherry blossom Maizuru Park", "Ohori Park hanami", "Canal City shopping", "Fukuoka City Museum"],
+      "events": ["Cherry blossom peak", "Hakata Dontaku preparations", "Spring boat tours of Hakata Bay"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "may": {
+      "temp_high": 25,
+      "temp_low": 17,
+      "rainfall_mm": 130,
+      "humidity": 68,
+      "description": "May brings Fukuoka's famous Hakata Dontaku Port Festival on May 3–4, one of Japan's biggest festivals with over 2 million visitors, featuring 1,800 performers in colourful traditional costumes parading through the streets. Golden Week coincides with the festival, making accommodation extremely scarce. The weather is warm and comfortable. Post-Golden Week, mid-to-late May is excellent: warm weather, the wisteria at Kawachi Wisteria Garden is extraordinary, and crowds thin rapidly. The city feels energetic and festive.",
+      "activities": ["Hakata Dontaku festival", "Wisteria garden visits", "Ohori Park walks", "Day trips to Nagasaki"],
+      "events": ["Hakata Dontaku Port Festival (May 3-4)", "Golden Week (April 29–May 5)", "Wisteria season at Kawachi"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "june": {
+      "temp_high": 27,
+      "temp_low": 20,
+      "rainfall_mm": 272,
+      "humidity": 78,
+      "description": "June is Fukuoka's wettest month, receiving 272mm — over a quarter of the annual rainfall in a single month. The rainy season brings persistent heavy showers and high humidity. The city's extensive covered shopping arcade network (Tenjin Underground City, Daimaru Fukuoka, Canal City arcades) makes this surprisingly navigable. Hydrangeas bloom throughout residential streets and parks. The famous Hakata Gion Yamakasa preparations begin in June, building the towering float structures that will race through the streets in July.",
+      "activities": ["Underground arcade shopping", "Yamakasa float building viewing", "Indoor Fukuoka Asian Art Museum", "Rainy day izakaya tours"],
+      "events": ["Hakata Gion Yamakasa float construction begins", "Rainy season", "Hydrangea season"],
+      "crowd_level": "low",
+      "price_level": "low"
+    },
+    "july": {
+      "temp_high": 32,
+      "temp_low": 25,
+      "rainfall_mm": 278,
+      "humidity": 80,
+      "description": "July brings Fukuoka's most spectacular event: the Hakata Gion Yamakasa. Seven teams race enormous 1-ton floats through the old Hakata streets in a climactic race at 4:59 AM on July 15 — one of Japan's most thrilling and authentic matsuri. The competitive racing of these massive structures through narrow streets is extraordinary. The full two-week festival includes display floats (kazariyama) displayed around the city. The heat is intense but the festival atmosphere is electrifying and overwhelms discomfort.",
+      "activities": ["Hakata Gion Yamakasa festival", "Float race viewing (July 15 dawn)", "Kazariyama display floats", "Yatai evening dining"],
+      "events": ["Hakata Gion Yamakasa (July 1-15)", "Yamakasa Oiyama race (July 15 at 4:59 AM)", "Tanabata celebrations"],
+      "crowd_level": "very_high",
+      "price_level": "very_high"
+    },
+    "august": {
+      "temp_high": 33,
+      "temp_low": 26,
+      "rainfall_mm": 172,
+      "humidity": 78,
+      "description": "August is hot and humid with temperatures regularly reaching 33°C. Hakata Bay beaches at Uminonakamichi Seaside Park and Nokonoshima Island become popular escapes. Obon festivals in mid-August include outdoor dancing and fireworks over the bay. The city is vibrant at night with yatai stalls full of locals and tourists seeking evening relief from the heat. Fukuoka's gateway position makes it a base for exploring Nagasaki (1.5 hours) and Beppu's famous hot springs (2 hours) even in summer heat.",
+      "activities": ["Uminonakamichi beach", "Obon festivals", "Hakata Bay evening cruises", "Day trips to Beppu onsen"],
+      "events": ["Obon (mid-August)", "Fireworks over Hakata Bay", "Bon Odori at Ohori Park"],
+      "crowd_level": "high",
+      "price_level": "high"
+    },
+    "september": {
+      "temp_high": 28,
+      "temp_low": 22,
+      "rainfall_mm": 178,
+      "humidity": 76,
+      "description": "September marks the transition from summer humidity toward autumn comfort, though typhoons from the Pacific can bring heavy rain and strong winds to Kyushu, which lies in the main typhoon path. Between storms, the weather becomes progressively more pleasant. Tourist numbers drop significantly after August, and hotel prices follow. Autumn food season — chestnuts, mushrooms, and Kyushu's new-harvest rice — begins this month. The salt-air walks along Hakata Bay are pleasant in the cooling temperatures.",
+      "activities": ["Hakata Bay coastal walks", "Autumn food season begins", "Day trips to Yanagawa", "Fukuoka City Museum"],
+      "events": ["Autumnal Equinox", "Autumn food festivals", "New rice harvest celebrations"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "october": {
+      "temp_high": 23,
+      "temp_low": 15,
+      "rainfall_mm": 83,
+      "humidity": 68,
+      "description": "October is one of Fukuoka's finest months, with comfortable temperatures, reduced rainfall, and excellent conditions for outdoor exploration. The Dazaifu Tenmangu Autumn Festival and surrounding area's foliage begin in earnest. Nokonoshima Island's cosmos flower fields reach peak bloom, offering extraordinary flower landscape views from the island ferry. The city's food scene is at its seasonal peak with autumn seafood, new rice, and mushroom dishes. A great month to explore western Japan with Fukuoka as a base.",
+      "activities": ["Nokonoshima cosmos flowers", "Dazaifu autumn foliage", "Ohori Park autumn walks", "Western Japan day trips"],
+      "events": ["Nokonoshima cosmos peak bloom", "Dazaifu Tenmangu Autumn Festival", "Early autumn foliage"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "november": {
+      "temp_high": 17,
+      "temp_low": 10,
+      "rainfall_mm": 75,
+      "humidity": 66,
+      "description": "November brings beautiful autumn foliage to Fukuoka's parks and the Dazaifu area. Ohori Park's maple trees turn brilliant red around the lakeside path. Dazaifu Tenmangu's forested approach is particularly beautiful in November. Temperatures are perfectly comfortable for walking and the crowds at Ohori Park and Fukuoka Castle ruins are manageable. The yatai evening culture becomes particularly atmospheric in the cool autumn air. This is one of the best months to explore the Kitakyushu and Yanagawa regions on day trips.",
+      "activities": ["Ohori Park autumn foliage", "Dazaifu autumn maples", "Evening yatai in cool air", "Day trips across Kyushu"],
+      "events": ["Peak autumn foliage at Ohori Park", "Dazaifu Tenmangu autumn events", "Autumn food festival"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    },
+    "december": {
+      "temp_high": 13,
+      "temp_low": 5,
+      "rainfall_mm": 55,
+      "humidity": 66,
+      "description": "December in Fukuoka is cool, dry, and festive. Christmas illuminations appear throughout Canal City and Tenjin shopping areas. Year-end bonenkai parties fill every izakaya and ramen shop. The winter yatai stalls along the Nakasu River reach their most atmospheric with steam rising from the hot pots and warm lantern light glowing through the canvas curtains. New Year preparations at Kushida Shrine — Japan's oldest Hakata folk tradition — create a festive atmosphere across the Hakata old town district.",
+      "activities": ["Winter yatai dining", "Christmas illuminations", "Kushida Shrine New Year preparations", "Year-end food exploration"],
+      "events": ["Winter illuminations at Canal City and Tenjin", "New Year preparations at Kushida Shrine", "Omisoka New Year's Eve"],
+      "crowd_level": "medium",
+      "price_level": "medium"
+    }
+  }
+}
