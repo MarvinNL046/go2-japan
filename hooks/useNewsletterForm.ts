@@ -1,8 +1,10 @@
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 
 type Status = 'idle' | 'loading' | 'success' | 'error';
 
 export function useNewsletterForm() {
+  const { locale } = useRouter();
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<Status>('idle');
 
@@ -15,7 +17,7 @@ export function useNewsletterForm() {
       const res = await fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, site: 'go2japan', locale: locale || 'en' }),
       });
       if (!res.ok) throw new Error();
       setStatus('success');

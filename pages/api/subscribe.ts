@@ -3,13 +3,14 @@ import { Resend } from 'resend';
 import WelcomeEmail from '../../emails/WelcomeEmail';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
+const CONVEX_SITE_URL = process.env.CONVEX_SITE_URL || 'https://formal-tern-925.eu-west-1.convex.site';
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { email } = req.body;
+  const { email, site = 'go2japan', locale = 'en' } = req.body;
 
   if (!email || typeof email !== 'string') {
     return res.status(400).json({ error: 'Email is required' });
@@ -20,13 +21,33 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     return res.status(400).json({ error: 'Invalid email address' });
   }
 
-  try {
-    await resend.contacts.create({
+  // Store in Convex and Resend in parallel
+  const [convexResult, resendResult] = await Promise.allSettled([
+    // Convex — central subscriber store
+    fetch(`${CONVEX_SITE_URL}/api/subscribe`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, site, locale }),
+    }).then(async (r) => {
+      if (!r.ok) throw new Error(`Convex ${r.status}: ${await r.text()}`);
+      return r.json();
+    }),
+    // Resend — email marketing
+    resend.contacts.create({
       email,
       audienceId: process.env.RESEND_AUDIENCE_ID!,
-    });
-  } catch (error: any) {
-    console.error('Resend contact creation error:', error);
+    }),
+  ]);
+
+  if (convexResult.status === 'rejected') {
+    console.error('Convex subscribe error:', convexResult.reason);
+  }
+  if (resendResult.status === 'rejected') {
+    console.error('Resend contact creation error:', resendResult.reason);
+  }
+
+  // Fail only if both failed
+  if (convexResult.status === 'rejected' && resendResult.status === 'rejected') {
     return res.status(500).json({ error: 'Failed to subscribe' });
   }
 

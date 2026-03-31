@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import CityCard from '../components/CityCard';
+import EmailCapture from '../components/EmailCapture';
 import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig } from '../site.config';
 
@@ -47,6 +48,9 @@ export default function Home({ cities }: HomeProps) {
             >
               {t('sections.readMore')}
             </Link>
+          </div>
+          <div className="mt-8 max-w-lg mx-auto bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-lg">
+            <EmailCapture variant="hero" />
           </div>
         </div>
       </section>
