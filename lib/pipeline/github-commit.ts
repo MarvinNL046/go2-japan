@@ -1,4 +1,5 @@
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const VERCEL_DEPLOY_HOOK = process.env.VERCEL_DEPLOY_HOOK;
 const REPO_OWNER = "MarvinNL046";
 const REPO_NAME = "go2-japan";
 const BRANCH = "main";
@@ -94,6 +95,16 @@ export async function commitFilesToGitHub(
   }
 
   console.log(`[github-commit] Committed ${files.length} files: ${newCommitData.sha}`);
+
+      // Trigger Vercel redeploy (GitHub API commits don't fire webhooks)
+      if (VERCEL_DEPLOY_HOOK) {
+        try {
+          const hookRes = await fetch(VERCEL_DEPLOY_HOOK, { method: "POST" });
+          console.log(`[github-commit] Vercel deploy hook: ${hookRes.status}`);
+        } catch (err) {
+          console.warn("[github-commit] Deploy hook failed (non-fatal):", err);
+        }
+      }
   return {
     sha: newCommitData.sha,
     url: newCommitData.html_url,
