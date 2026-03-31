@@ -378,6 +378,22 @@ ${post.content}`;
 // Sitemap internal link loader
 // -------------------------------------------------------------------
 
+const buildAnchor = (url: string, section: string): string => {
+  const parts = url.split("/").filter(Boolean);
+  const lastPart = parts[parts.length - 1] || section;
+  const name = lastPart.replace(/-/g, " ").replace(/\b\w/g, (c: string) => c.toUpperCase());
+  const sectionLabels: Record<string, string> = {
+    city: "travel guide", islands: "island guide", food: "food guide",
+    blog: "", compare: "comparison", region: "region guide",
+    visa: "", "practical-info": "",
+  };
+  const label = sectionLabels[section];
+  if (label && !name.toLowerCase().includes("guide") && !name.toLowerCase().includes(section)) {
+    return `${name} ${label}`;
+  }
+  return name;
+};
+
 async function loadSitemapLinks(): Promise<string> {
   const siteUrl = "https://go2-japan.com";
 
@@ -410,7 +426,7 @@ async function loadSitemapLinks(): Promise<string> {
       if (!p || p === "/") continue;
       const section = p.split("/")[1] || "other";
       if (!groups[section]) groups[section] = [];
-      if (groups[section].length < 12) {
+      if (groups[section].length < 15) {
         groups[section].push(url);
       }
     }
@@ -420,9 +436,7 @@ async function loadSitemapLinks(): Promise<string> {
       if (urls.length === 0) continue;
       result += `${section}:\n`;
       for (const url of urls) {
-        const parts = url.split("/").filter(Boolean);
-        const lastPart = parts[parts.length - 1] || section;
-        const anchor = lastPart.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+        const anchor = buildAnchor(url, section);
         result += `- [${anchor}](${url})\n`;
       }
       result += "\n";
@@ -645,20 +659,22 @@ Answer here.
 ### Question two here?
 Answer here.
 \`\`\`
-3-5 questions matching common Google search queries.
+5-7 questions targeting Google "People Also Ask" queries. Each answer must be concise (2-4 sentences) and include at least one specific fact, price, or actionable detail.
 
 9. CONCLUSION:
 Summarize key points, include a clear CTA linking to a relevant go2-japan.com page, and a trust statement.
 
 ---
 
-INTERNAL LINKING (critical for SEO — MANDATORY: include 5-8 internal links naturally woven throughout the body):
+INTERNAL LINKING (critical for SEO — MANDATORY: include 10-15 internal links naturally woven throughout the body):
 - Spread links across the article — do NOT put all links in the conclusion
-- Use natural anchor text (e.g., "Tokyo" not "click here")
-- EVERY internal link MUST have a full URL. NEVER write [Link Text] without (https://go2-japan.com/...). If you're unsure of the URL, use the closest match from the sitemap above or omit the link entirely.
-- Link city mentions to city guide pages: e.g., [Tokyo](https://go2-japan.com/city/tokyo/)
-- Link food mentions to food pages: e.g., [Japanese food guide](https://go2-japan.com/food/)
-- Link practical mentions to practical info: [Getting around Japan](https://go2-japan.com/practical-info/)
+- EVERY H2 section MUST contain at least 1 internal link
+- Use keyword-rich anchor text (e.g., "our Tokyo travel guide", "Kyoto temple walking guide") — NEVER "click here" or bare city names
+- No duplicate anchor text — each internal link must have a unique anchor phrase
+- EVERY internal link MUST have a full URL on go2-japan.com. NEVER write [Link Text] without (https://go2-japan.com/...). If you're unsure of the URL, use the closest match from the sitemap above or omit the link entirely.
+- Link city mentions to city guide pages: e.g., [our Tokyo travel guide](https://go2-japan.com/city/tokyo/)
+- Link food mentions to food pages: e.g., [complete Japanese food guide](https://go2-japan.com/food/)
+- Link practical mentions to practical info: [getting around Japan by train](https://go2-japan.com/practical-info/)
 - Pick additional RELEVANT links from the sitemap below
 
 Available internal links (use the most relevant ones):
@@ -666,12 +682,13 @@ ${sitemapLinks}
 ${widgetReference ? `\nWRITER REFERENCE (additional context):\n${widgetReference}\n` : ''}
 ---
 
-E-E-A-T SIGNALS (critical for Google trust):
-- EXPERIENCE: Reference hands-on visits ("When we explored...", "Our team spent a week...")
+E-E-A-T SIGNALS (critical for Google trust and AdSense approval):
+- EXPERIENCE: Reference hands-on visits ("When we explored...", "Our team spent a week...") — every 2-3 sections must have at least one first-person experience signal
 - EXPERTISE: Use precise, accurate details — prices in JPY, distances in km, specific venue names
 - AUTHORITATIVENESS: Cite credible sources (JNTO, Lonely Planet, Japan Times) in Did You Know callouts
 - TRUSTWORTHINESS: Be honest about negatives and tourist traps. Say "avoid" when necessary.
 - Every statistic MUST have a source cited.
+- Include a brief affiliate disclosure sentence near the top of the article (after the Key Takeaways table): "*Some links in this article are affiliate links — if you book through them, we earn a small commission at no extra cost to you. This helps us keep go2-japan.com free and up to date.*"
 
 EXTERNAL LINKING:
 Include 3-5 credible external links (JNTO, Lonely Planet, Japan Times, official venue websites).
@@ -692,8 +709,9 @@ ANTI-HALLUCINATION RULES (CRITICAL — FOLLOW EXACTLY):
 
 ---
 
-TARGET LENGTH: 1800-2500 words of body content (excluding frontmatter).
+TARGET LENGTH: 2500-3500 words of body content (excluding frontmatter).
 TONE: Knowledgeable, warm, practical — like advice from a well-traveled friend who knows Japan deeply.
+ANTI-AI DETECTION: Vary sentence length (mix short punchy sentences with longer descriptive ones). Avoid starting consecutive paragraphs with the same word. Use contractions naturally ("don't", "we've", "it's"). Avoid overused AI filler phrases like "delve into", "it's worth noting", "nestled in", "a testament to", "vibrant tapestry". Write with personality and occasional mild humor.
 ${contextSection}
 
 RESPOND WITH THE COMPLETE BLOG POST — frontmatter + Markdown body only. No preamble, no explanation.`;
