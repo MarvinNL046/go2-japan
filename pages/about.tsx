@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import { siteConfig } from '../site.config';
@@ -103,6 +104,32 @@ export default function About() {
             <li><strong>Transparency:</strong> We are open about our affiliate partnerships and how we fund this site. Our recommendations are never influenced by commercial relationships.</li>
             <li><strong>Continuous improvement:</strong> Japan is always evolving, and so is our content. We treat every guide as a living document.</li>
           </ul>
+
+          <h2>Meet the Founder</h2>
+          <div className="grid grid-cols-1 md:grid-cols-[180px_1fr] gap-6 not-prose my-8">
+            <div className="flex-shrink-0">
+              <Image
+                src="/images/team/marvin.webp"
+                alt="Marvin — Founder of Go2Japan"
+                width={180}
+                height={180}
+                className="rounded-2xl object-cover"
+              />
+            </div>
+            <div>
+              <h3 className="text-xl font-bold text-brand-secondary mb-2">Marvin</h3>
+              <p className="text-sm text-brand-primary font-medium mb-3">Founder &amp; Developer</p>
+              <p className="text-gray-700 mb-3">
+                Marvin is a Dutch travel technology specialist and the creator of the Go2 Travel Network — a growing
+                family of independent destination guides. With a passion for exploring Japan and a background in
+                web development, he builds data-driven, practical travel guides that help travelers plan better trips.
+              </p>
+              <p className="text-gray-700">
+                The Go2 network now spans multiple destinations across Asia, Europe, and the Americas, with each site
+                offering in-depth city guides, local food recommendations, transport routes, and honest travel advice.
+              </p>
+            </div>
+          </div>
 
           <h2>Get in Touch</h2>
           <p>
