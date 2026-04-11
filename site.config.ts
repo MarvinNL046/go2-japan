@@ -220,7 +220,7 @@ export const siteConfig: SiteConfig = {
     siteUrl: 'https://go2-japan.com',
     ogImage: '/images/og-default.jpg',
     twitterHandle: 'go2japan',
-    googleAnalyticsId: '', // Set via env var NEXT_PUBLIC_GA_ID or hardcode here
+    googleAnalyticsId: 'G-C7GTZK1N6K',
     indexNowKey: '',       // Set via env var INDEXNOW_KEY or hardcode here
   },
 
