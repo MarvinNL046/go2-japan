@@ -1,0 +1,11 @@
+{
+  "country": "Japan",
+  "siteName": "Go2Japan",
+  "hostname": "go2-japan.com",
+  "locales": ["en"],
+  "autocompleteSeeds": {
+    "en": ["Japan travel", "Japan backpacker", "Japan digital nomad", "Japan visa"]
+  },
+  "newsQuery": "Japan",
+  "scrapeNewsSources": []
+}

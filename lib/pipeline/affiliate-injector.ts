@@ -1,5 +1,5 @@
 // -------------------------------------------------------------------
-// Affiliate link injection for go2-japan.com blog posts
+// Affiliate link injection for go2thailand.com blog posts
 // -------------------------------------------------------------------
 // Partners and their tracking URLs:
 //   Booking.com   → https://booking.tpo.lv/2PT1kR82
@@ -14,27 +14,30 @@
 // -------------------------------------------------------------------
 
 export const AFFILIATE_LINKS = {
-  booking: "https://booking.tpo.lv/2PT1kR82",
-  klook: "https://klook.tpo.lv/7Dt6WApj",
-  getyourguide: "https://getyourguide.tpo.lv/GuAFfGGK",
-  "12go": "https://12go.tpo.lv/tNA80urD",
-  saily: "https://saily.tpo.lv/rf9lidnE",
-  trip: "https://trip.tpo.lv/TmObooZ5",
-  viator: "https://viator.tpo.lv/TUcQTS5u",
-  nordvpn: "https://nordvpn.tpo.lv/ekHF1i55",
-  nordpass: "https://nordvpn.tpo.lv/tp12zNjC",
+  booking: "https://booking.tpo.lv/2PT1kR82?subid=blog",
+  klook: "https://klook.tpo.lv/7Dt6WApj?subid=blog",
+  getyourguide: "https://getyourguide.tpo.lv/GuAFfGGK?subid=blog",
+  "12go": "https://12go.tpo.lv/tNA80urD?subid=blog",
+  saily: "https://saily.tpo.lv/rf9lidnE?subid=blog",
+  trip: "https://trip.tpo.lv/TmObooZ5?subid=blog",
+  viator: "https://viator.tpo.lv/TUcQTS5u?subid=blog",
+  nordvpn: "https://nordvpn.tpo.lv/ekHF1i55?subid=blog",
+  nordpass: "https://nordvpn.tpo.lv/tp12zNjC?subid=blog",
 } as const;
 
 export type AffiliatePartner = keyof typeof AFFILIATE_LINKS;
 
+// Specific deep links for contextual matching
 export const SPECIFIC_AFFILIATE_LINKS = {
-  "booking-deals": "https://booking.tpo.lv/pDNjHJA1",
-  "booking-flights": "https://booking.tpo.lv/LUkugxWF",
-  "booking-car-rental": "https://booking.tpo.lv/Nmm5XgwI",
-  "trip-trains": "https://trip.tpo.lv/gNIdNBmi",
-  "trip-bundles": "https://trip.tpo.lv/L83mcBdE",
-  "trip-airport-transfers": "https://trip.tpo.lv/hY8hOUey",
-  "trip-car-rental": "https://trip.tpo.lv/zGKhdcce",
+  // Booking.com specific pages
+  "booking-deals": "https://booking.tpo.lv/pDNjHJA1?subid=blog",
+  "booking-flights": "https://booking.tpo.lv/LUkugxWF?subid=blog",
+  "booking-car-rental": "https://booking.tpo.lv/Nmm5XgwI?subid=blog",
+  // Trip.com specific pages
+  "trip-trains": "https://trip.tpo.lv/gNIdNBmi?subid=blog",
+  "trip-bundles": "https://trip.tpo.lv/L83mcBdE?subid=blog",
+  "trip-airport-transfers": "https://trip.tpo.lv/hY8hOUey?subid=blog",
+  "trip-car-rental": "https://trip.tpo.lv/zGKhdcce?subid=blog",
 } as const;
 
 // -------------------------------------------------------------------
@@ -44,67 +47,82 @@ export const SPECIFIC_AFFILIATE_LINKS = {
 interface AffiliateRule {
   pattern: RegExp;
   partner: AffiliatePartner;
+  // Text to use for the inline link anchor
   linkText: string;
-  overrideUrl?: string;
+  overrideUrl?: string; // Use this URL instead of the generic partner URL
 }
 
+// Rules are evaluated in order — first match wins for inline injection
 const AFFILIATE_RULES: AffiliateRule[] = [
+  // Specific deep-link rules (evaluated first, before generic partner rules)
   {
     pattern: /\b(car rental|rent a car|hire a car|rental car)\b/i,
     partner: "booking" as AffiliatePartner,
     linkText: "Rent a Car on Booking.com",
-    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI",
+    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI?subid=blog",
   },
   {
-    pattern: /\b(airport transfer|airport shuttle|airport taxi|airport pickup|airport drop|Narita Express|Haruka Express|limousine bus)\b/i,
+    pattern: /\b(airport transfer|airport shuttle|airport taxi|airport pickup|airport drop)\b/i,
     partner: "trip" as AffiliatePartner,
     linkText: "Book Airport Transfer",
-    overrideUrl: "https://trip.tpo.lv/hY8hOUey",
+    overrideUrl: "https://trip.tpo.lv/hY8hOUey?subid=blog",
   },
   {
-    pattern: /\b(shinkansen|bullet train|JR Pass|Japan Rail Pass|train to|train from|Japanese train|railway|train route|train station|Tokaido|Sanyo|Hokuriku)\b/i,
+    pattern: /\b(train to|train from|Thai train|railway|train route|train station|Hua Lamphong|Bang Sue)\b/i,
     partner: "trip" as AffiliatePartner,
     linkText: "Book Train on Trip.com",
-    overrideUrl: "https://trip.tpo.lv/gNIdNBmi",
+    overrideUrl: "https://trip.tpo.lv/gNIdNBmi?subid=blog",
   },
   {
     pattern: /\b(hotel.*deal|travel deal|best deal|discount hotel|cheap hotel|hotel offer|last.?minute)\b/i,
     partner: "booking" as AffiliatePartner,
     linkText: "See Deals on Booking.com",
-    overrideUrl: "https://booking.tpo.lv/pDNjHJA1",
+    overrideUrl: "https://booking.tpo.lv/pDNjHJA1?subid=blog",
   },
+  // eSIM / SIM Card → Saily
   {
-    pattern: /\b(eSIM|e-SIM|SIM card|data SIM|travel SIM|mobile data|internet connection|stay connected|pocket WiFi|pocket wifi)\b/i,
+    pattern: /\b(eSIM|e-SIM|SIM card|data SIM|travel SIM|mobile data|internet connection|stay connected)\b/i,
     partner: "saily",
     linkText: "Get Saily eSIM",
   },
+  // Transport: bus, minivan, ferry, train, boat → 12Go
   {
-    pattern: /\b(bus ticket|bus ride|highway bus|night bus|overnight bus|ferry|ferry ride|boat ticket|boat ride|train ticket|train ride|train journey|book.*transport|book.*transfer|12Go|Willer Express)\b/i,
+    pattern:
+      /\b(bus ticket|bus ride|minivan|night bus|overnight bus|ferry|ferry ride|boat ticket|boat ride|train ticket|train ride|train journey|book.*transport|book.*transfer|12Go|Songthaew|shared taxi|slow boat)\b/i,
     partner: "12go",
     linkText: "Book on 12Go",
   },
+  // Flights / trip search → Trip.com
   {
-    pattern: /\b(flight|flights|book.*flight|search.*flight|airline|trip\.com|cheap flight|domestic flight|fly to)\b/i,
+    pattern:
+      /\b(flight|flights|book.*flight|search.*flight|airline|trip\.com|cheap flight|domestic flight|fly to)\b/i,
     partner: "trip",
     linkText: "Search on Trip.com",
   },
+  // Activities: tour, cooking class, snorkeling, diving, etc. → Klook (primary)
   {
-    pattern: /\b(cooking class|snorkeling tour|snorkeling|diving course|scuba diving|day trip|bike tour|Klook|boat tour|island tour|temple tour|tea ceremony|sumo tournament|onsen experience|kimono rental)\b/i,
+    pattern:
+      /\b(cooking class|snorkeling tour|snorkeling|diving course|scuba diving|day trip|elephant sanctuary|muay thai class|zip.?lin|kayak tour|Klook|boat tour|island tour|jungle trek)\b/i,
     partner: "klook",
     linkText: "Book on Klook",
   },
+  // Activities: Viator/Tripadvisor tours → Viator
   {
     pattern: /\b(Viator|Tripadvisor tour|TripAdvisor experience)\b/i,
     partner: "viator",
     linkText: "Book on Viator",
   },
+  // Activities: general tour/activity → GetYourGuide (secondary)
   {
-    pattern: /\b(guided tour|walking tour|food tour|group tour|tour operator|activities|excursion|experience|GetYourGuide)\b/i,
+    pattern:
+      /\b(guided tour|walking tour|food tour|group tour|tour operator|activities|excursion|experience|GetYourGuide)\b/i,
     partner: "getyourguide",
     linkText: "Book on GetYourGuide",
   },
+  // Hotels / accommodation → Booking.com
   {
-    pattern: /\b(hotel|hotels|hostel|resort|ryokan|minshuku|capsule hotel|accommodation|accommodations|where to stay|book.*stay|Booking\.com|place to stay|lodging|guesthouse|guest house)\b/i,
+    pattern:
+      /\b(hotel|hotels|hostel|resort|guesthouse|guest house|villa|bungalow|accommodation|accommodations|where to stay|book.*stay|Booking\.com|place to stay|lodging)\b/i,
     partner: "booking",
     linkText: "Book on Booking.com",
   },
@@ -126,90 +144,90 @@ interface CtaBox {
 const CTA_BOXES: CtaBox[] = [
   {
     partner: "booking",
-    emoji: "\u{1F3E8}",
+    emoji: "🏨",
     heading: "Book Your Stay",
-    body: "Compare hotels, ryokans, and hostels across Japan with free cancellation on most bookings.",
-    cta: "Search Hotels on Booking.com \u2192",
+    body: "Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.",
+    cta: "Search Hotels on Booking.com →",
   },
   {
     partner: "klook",
-    emoji: "\u{1F392}",
+    emoji: "🎒",
     heading: "Book Tours & Activities",
-    body: "Skip the hassle \u2014 book Japan day trips, temple tours, tea ceremonies, and experiences in advance with instant confirmation.",
-    cta: "Browse Activities on Klook \u2192",
+    body: "Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.",
+    cta: "Browse Activities on Klook →",
   },
   {
     partner: "12go",
-    emoji: "\u{1F68C}",
-    heading: "Book Transport in Japan",
-    body: "Book highway buses, ferries, and transfers between Japanese cities easily online. Compare routes and prices.",
-    cta: "Book Transport on 12Go \u2192",
+    emoji: "🚌",
+    heading: "Book Transport in Thailand",
+    body: "Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.",
+    cta: "Book Transport on 12Go →",
   },
   {
     partner: "saily",
-    emoji: "\u{1F4F1}",
-    heading: "Stay Connected in Japan",
-    body: "Get a Japan eSIM before you land. No physical SIM needed \u2014 activate instantly on your phone.",
-    cta: "Get Saily eSIM for Japan \u2192",
+    emoji: "📱",
+    heading: "Stay Connected in Thailand",
+    body: "Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.",
+    cta: "Get Saily eSIM for Thailand →",
   },
   {
     partner: "getyourguide",
-    emoji: "\u{1F5FA}\uFE0F",
-    heading: "Explore Japan with a Guide",
-    body: "Discover the best guided tours and activities in Tokyo, Kyoto, Osaka and beyond.",
-    cta: "Browse Tours on GetYourGuide \u2192",
+    emoji: "🗺️",
+    heading: "Explore Thailand with a Guide",
+    body: "Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.",
+    cta: "Browse Tours on GetYourGuide →",
   },
   {
     partner: "trip",
-    emoji: "\u2708\uFE0F",
-    heading: "Find Flights to Japan",
-    body: "Search and compare flights to Tokyo, Osaka, Kyoto and Sapporo at the best prices.",
-    cta: "Search Flights on Trip.com \u2192",
+    emoji: "✈️",
+    heading: "Find Flights to Thailand",
+    body: "Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.",
+    cta: "Search Flights on Trip.com →",
   },
   {
     partner: "viator",
-    emoji: "\u{1F3DB}\uFE0F",
+    emoji: "🏛️",
     heading: "Popular Tours by Viator",
-    body: "Browse top-rated Japan tours and experiences curated by Tripadvisor's Viator.",
-    cta: "Explore Tours on Viator \u2192",
+    body: "Browse top-rated Thailand tours and experiences curated by Tripadvisor's Viator.",
+    cta: "Explore Tours on Viator →",
   },
   {
     partner: "nordvpn",
-    emoji: "\u{1F512}",
+    emoji: "🔒",
     heading: "Stay Secure Online While Traveling",
-    body: "Protect your connection on public WiFi in Japan. NordVPN keeps your data private wherever you are.",
-    cta: "Get NordVPN \u2192",
+    body: "Protect your connection on public WiFi in Thailand. NordVPN keeps your data private wherever you are.",
+    cta: "Get NordVPN →",
   },
   {
     partner: "nordpass",
-    emoji: "\u{1F511}",
+    emoji: "🔑",
     heading: "Manage Your Passwords Safely",
-    body: "Travel stress-free with NordPass \u2014 a secure password manager that keeps all your accounts safe.",
-    cta: "Get NordPass \u2192",
+    body: "Travel stress-free with NordPass — a secure password manager that keeps all your accounts safe.",
+    cta: "Get NordPass →",
   },
   {
     partner: "booking" as AffiliatePartner,
-    emoji: "\u{1F697}",
-    heading: "Rent a Car in Japan",
-    body: "Compare car rental prices across Japan. Pick up at airports or city locations with flexible cancellation.",
-    cta: "Compare Car Rentals \u2192",
-    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI",
+    emoji: "🚗",
+    heading: "Rent a Car in Thailand",
+    body: "Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.",
+    cta: "Compare Car Rentals →",
+    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI?subid=blog",
   },
   {
     partner: "trip" as AffiliatePartner,
-    emoji: "\u{1F682}",
-    heading: "Book Shinkansen Tickets",
-    body: "Bullet train tickets from Tokyo to Kyoto, Osaka, Hiroshima, and beyond. Book online, skip the queue.",
-    cta: "Book Train Tickets \u2192",
-    overrideUrl: "https://trip.tpo.lv/gNIdNBmi",
+    emoji: "🚂",
+    heading: "Book Train Tickets in Thailand",
+    body: "Thai railway tickets from Bangkok to Chiang Mai, Hua Hin, and beyond. Book online, skip the queue.",
+    cta: "Book Train Tickets →",
+    overrideUrl: "https://trip.tpo.lv/gNIdNBmi?subid=blog",
   },
   {
     partner: "trip" as AffiliatePartner,
-    emoji: "\u{1F695}",
-    heading: "Airport Transfers in Japan",
-    body: "Pre-book your airport pickup in Tokyo Narita, Haneda, or Osaka Kansai. No haggling, fixed prices.",
-    cta: "Book Airport Transfer \u2192",
-    overrideUrl: "https://trip.tpo.lv/hY8hOUey",
+    emoji: "🚕",
+    heading: "Airport Transfers in Thailand",
+    body: "Pre-book your airport pickup in Bangkok, Phuket, or Chiang Mai. No haggling, fixed prices.",
+    cta: "Book Airport Transfer →",
+    overrideUrl: "https://trip.tpo.lv/hY8hOUey?subid=blog",
   },
 ];
 
@@ -217,23 +235,40 @@ const CTA_BOXES: CtaBox[] = [
 // Inline link injection
 // -------------------------------------------------------------------
 
+// Inject affiliate links inline into the Markdown content.
+// Finds the FIRST occurrence of each matching keyword and wraps it in a link.
+// Only injects once per partner to avoid over-linking.
 export function injectInlineLinks(content: string): string {
+  // Track which partners have already been linked inline
   const injected = new Set<AffiliatePartner>();
+
+  // Work on the body only (skip YAML frontmatter)
   const { frontmatter, body } = splitFrontmatter(content);
+
   let processedBody = body;
 
   for (const rule of AFFILIATE_RULES) {
     if (injected.has(rule.partner)) continue;
+
     const url = rule.overrideUrl || AFFILIATE_LINKS[rule.partner];
+
+    // Find the first match in the body
     const match = rule.pattern.exec(processedBody);
     if (!match) continue;
+
+    // Don't inject inside an existing Markdown link [...](...) or code block
     const matchIndex = match.index;
     if (isInsideLink(processedBody, matchIndex)) continue;
     if (isInsideCodeBlock(processedBody, matchIndex)) continue;
 
+    // Replace only the first occurrence with an inline link
     const originalText = match[0];
     const linkedText = `[${originalText}](${url})`;
-    processedBody = processedBody.slice(0, matchIndex) + linkedText + processedBody.slice(matchIndex + originalText.length);
+    processedBody =
+      processedBody.slice(0, matchIndex) +
+      linkedText +
+      processedBody.slice(matchIndex + originalText.length);
+
     injected.add(rule.partner);
   }
 
@@ -244,46 +279,82 @@ export function injectInlineLinks(content: string): string {
 // CTA box injection
 // -------------------------------------------------------------------
 
-export function injectCtaBoxes(content: string, count: number = 3): string {
+// Inject 2-3 affiliate CTA boxes into the content at strategic positions.
+// Boxes are placed after H2 sections to break up the content naturally.
+export function injectCtaBoxes(
+  content: string,
+  count: number = 3
+): string {
   const { frontmatter, body } = splitFrontmatter(content);
+
+  // Select which CTA boxes to inject based on content relevance
   const selectedBoxes = selectRelevantCtaBoxes(body, count);
   if (selectedBoxes.length === 0) return content;
 
+  // Find H2 section positions to insert after
   const h2Positions = findH2Positions(body);
+
   if (h2Positions.length < 2) {
+    // Not enough H2s — append at end of body
     const ctaMarkdown = selectedBoxes.map(renderCtaBox).join("\n\n");
     return frontmatter + body.trimEnd() + "\n\n" + ctaMarkdown + "\n";
   }
 
+  // Insert boxes at evenly spaced H2 boundaries
   const insertPositions = pickInsertPositions(h2Positions, selectedBoxes.length);
+
+  // Insert from end to start to avoid messing up indices
   let processedBody = body;
   for (let i = insertPositions.length - 1; i >= 0; i--) {
     const pos = insertPositions[i];
     const box = renderCtaBox(selectedBoxes[i]);
-    processedBody = processedBody.slice(0, pos) + "\n\n" + box + "\n\n" + processedBody.slice(pos);
+    processedBody =
+      processedBody.slice(0, pos) +
+      "\n\n" +
+      box +
+      "\n\n" +
+      processedBody.slice(pos);
   }
 
   return frontmatter + processedBody;
 }
 
 // -------------------------------------------------------------------
-// Main entry point
+// Main entry point — inject both inline links and CTA boxes
 // -------------------------------------------------------------------
 
 export interface InjectionOptions {
-  inlineLinks?: boolean;
-  ctaBoxes?: boolean;
-  ctaCount?: number;
-  processWidgets?: boolean;
+  inlineLinks?: boolean;   // Inject inline affiliate links (default: true)
+  ctaBoxes?: boolean;      // Inject CTA blockquote boxes (default: true)
+  ctaCount?: number;       // Number of CTA boxes to inject (default: 2)
+  processWidgets?: boolean; // Process <!-- WIDGET:type --> placeholders (default: true)
 }
 
-export function injectAffiliateLinks(content: string, options: InjectionOptions = {}): string {
-  const { inlineLinks = true, ctaBoxes = true, ctaCount = 2, processWidgets = true } = options;
+export function injectAffiliateLinks(
+  content: string,
+  options: InjectionOptions = {}
+): string {
+  const {
+    inlineLinks = true,
+    ctaBoxes = true,
+    ctaCount = 2,
+    processWidgets = true,
+  } = options;
+
   let result = content;
 
-  if (processWidgets) result = processWidgetPlaceholders(result);
-  if (inlineLinks) result = injectInlineLinks(result);
-  if (ctaBoxes) result = injectCtaBoxes(result, ctaCount);
+  // Process AI-placed widget placeholders first so they render before automatic CTA injection
+  if (processWidgets) {
+    result = processWidgetPlaceholders(result);
+  }
+
+  if (inlineLinks) {
+    result = injectInlineLinks(result);
+  }
+
+  if (ctaBoxes) {
+    result = injectCtaBoxes(result, ctaCount);
+  }
 
   return result;
 }
@@ -342,30 +413,45 @@ function renderCtaBox(box: CtaBox): string {
 </div>`;
 }
 
+// -------------------------------------------------------------------
+// Widget placeholder processing
+// -------------------------------------------------------------------
+
+// Replace <!-- WIDGET:type --> and <!-- WIDGET:tip:text --> placeholders with styled HTML
 export function processWidgetPlaceholders(content: string): string {
   const { frontmatter, body } = splitFrontmatter(content);
+
   let processedBody = body;
 
+  // Normalize various widget placeholder formats the AI might use before the main replacement loop.
+  // The AI sometimes writes widgets in wrong formats (plain text, list items, etc.).
+  // - "- WIDGET:booking" or "* WIDGET:booking" → <!-- WIDGET:booking -->
   processedBody = processedBody.replace(/^[-*]\s*WIDGET:(\w+)\s*$/gm, '<!-- WIDGET:$1 -->');
+  // - "WIDGET:booking" (plain text on a line, no dashes) → <!-- WIDGET:booking -->
   processedBody = processedBody.replace(/^WIDGET:(\w+)\s*$/gm, '<!-- WIDGET:$1 -->');
+  // - "- WIDGET:[link text](url)" (AI wrapped widget name in a Markdown link) → remove entirely
   processedBody = processedBody.replace(/^[-*]\s*WIDGET:\[.*?\]\(.*?\)\s*$/gm, '');
+  // - "- WIDGET:tip:text" → <!-- WIDGET:tip:text -->
   processedBody = processedBody.replace(/^[-*]\s*WIDGET:tip:(.+)$/gm, '<!-- WIDGET:tip:$1 -->');
 
+  // Replace partner widget placeholders with data-widget div + fallback CTA
   for (const box of CTA_BOXES) {
     const placeholder = `<!-- WIDGET:${box.partner} -->`;
     if (processedBody.includes(placeholder)) {
       const fallbackHtml = renderCtaBox(box);
+      // Wrap in data-widget div so client-side JS can inject the real script widget
       const widgetHtml = `<div data-widget="${box.partner}" style="margin:32px 0;">${fallbackHtml}</div>`;
       processedBody = processedBody.replace(placeholder, widgetHtml);
     }
   }
 
+  // Replace tip widget placeholders: <!-- WIDGET:tip:Your tip text here -->
   processedBody = processedBody.replace(
     /<!-- WIDGET:tip:(.+?) -->/g,
     (_, tipText) => {
       return `<div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
-    <span style="font-size:28px;line-height:1;">\u{1F4A1}</span>
+    <span style="font-size:28px;line-height:1;">💡</span>
     <div style="flex:1;">
       <strong style="font-size:18px;color:#92400E;display:block;margin-bottom:6px;">Pro Tip</strong>
       <p style="color:#78350F;margin:0;font-size:15px;line-height:1.5;">${tipText}</p>
@@ -378,24 +464,30 @@ export function processWidgetPlaceholders(content: string): string {
   return frontmatter + processedBody;
 }
 
+// Select CTA boxes most relevant to the post content
 function selectRelevantCtaBoxes(body: string, count: number): CtaBox[] {
   const lower = body.toLowerCase();
   const scored = CTA_BOXES.map((box) => {
     let score = 0;
-    if (box.partner === "booking" && (lower.includes("hotel") || lower.includes("stay") || lower.includes("accommodation") || lower.includes("ryokan") || lower.includes("capsule"))) score += 3;
-    if (box.partner === "klook" && (lower.includes("tour") || lower.includes("activity") || lower.includes("tea ceremony") || lower.includes("temple") || lower.includes("onsen") || lower.includes("kimono"))) score += 3;
-    if (box.partner === "12go" && (lower.includes("bus") || lower.includes("ferry") || lower.includes("train") || lower.includes("transport") || lower.includes("transfer") || lower.includes("shinkansen"))) score += 3;
-    if (box.partner === "saily" && (lower.includes("esim") || lower.includes("sim") || lower.includes("data") || lower.includes("internet") || lower.includes("connected") || lower.includes("pocket wifi"))) score += 3;
+    if (box.partner === "booking" && (lower.includes("hotel") || lower.includes("stay") || lower.includes("accommodation"))) score += 3;
+    if (box.partner === "klook" && (lower.includes("tour") || lower.includes("activity") || lower.includes("cooking class") || lower.includes("elephant") || lower.includes("snorkeling"))) score += 3;
+    if (box.partner === "12go" && (lower.includes("bus") || lower.includes("ferry") || lower.includes("train") || lower.includes("transport") || lower.includes("transfer"))) score += 3;
+    if (box.partner === "saily" && (lower.includes("esim") || lower.includes("sim") || lower.includes("data") || lower.includes("internet") || lower.includes("connected"))) score += 3;
     if (box.partner === "getyourguide" && (lower.includes("tour") || lower.includes("guide") || lower.includes("excursion"))) score += 2;
     if (box.partner === "trip" && (lower.includes("flight") || lower.includes("airport") || lower.includes("fly"))) score += 3;
+    // Everyone gets base score — Booking.com and Klook are always relevant for Thailand
     if (box.partner === "booking") score += 1;
     if (box.partner === "klook") score += 1;
     return { box, score };
   });
 
-  return scored.sort((a, b) => b.score - a.score).slice(0, count).map((s) => s.box);
+  return scored
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count)
+    .map((s) => s.box);
 }
 
+// Find character positions (end of line) after H2 headings in Markdown
 function findH2Positions(body: string): number[] {
   const positions: number[] = [];
   const lines = body.split("\n");
@@ -403,12 +495,15 @@ function findH2Positions(body: string): number[] {
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-    charPos += line.length + 1;
+    charPos += line.length + 1; // +1 for newline
+
     if (line.match(/^## /)) {
+      // Find the end of this H2's first paragraph (2+ blank lines or next H2)
       let endPos = charPos;
       for (let j = i + 1; j < lines.length && j < i + 20; j++) {
         const nextLine = lines[j];
         endPos += nextLine.length + 1;
+        // Stop at next heading or after a substantial paragraph
         if (nextLine.match(/^#{1,3} /) && j > i + 3) break;
       }
       positions.push(endPos);
@@ -418,28 +513,44 @@ function findH2Positions(body: string): number[] {
   return positions;
 }
 
-function pickInsertPositions(positions: number[], count: number): number[] {
-  if (positions.length <= count) return positions.slice(1);
+// Pick evenly spaced insert positions from available H2 positions
+function pickInsertPositions(
+  positions: number[],
+  count: number
+): number[] {
+  if (positions.length <= count) return positions.slice(1); // Skip very first section
+
   const step = Math.floor(positions.length / (count + 1));
   return Array.from({ length: count }, (_, i) => positions[(i + 1) * step]);
 }
 
+// Check if a position in the string is inside an existing Markdown link
 function isInsideLink(text: string, pos: number): boolean {
+  // Look backwards for unmatched [ and forwards for ](
   const before = text.slice(Math.max(0, pos - 200), pos);
   const after = text.slice(pos, Math.min(text.length, pos + 200));
+  // If there's a [ before that corresponds to a ]( after, we're inside a link
   const openBracket = before.lastIndexOf("[");
   const closeBracket = after.indexOf("](");
   return openBracket !== -1 && closeBracket !== -1 && openBracket > before.lastIndexOf("]");
 }
 
+// Check if a position is inside a code block (``` ... ```)
 function isInsideCodeBlock(text: string, pos: number): boolean {
   const before = text.slice(0, pos);
   const codeBlockCount = (before.match(/```/g) || []).length;
+  // If there's an odd number of ``` before the position, we're inside a code block
   return codeBlockCount % 2 === 1;
 }
 
-function splitFrontmatter(content: string): { frontmatter: string; body: string } {
+// Split content into frontmatter and body
+function splitFrontmatter(content: string): {
+  frontmatter: string;
+  body: string;
+} {
   const match = content.match(/^(---[\s\S]*?---\n?)([\s\S]*)$/);
-  if (match) return { frontmatter: match[1], body: match[2] };
+  if (match) {
+    return { frontmatter: match[1], body: match[2] };
+  }
   return { frontmatter: "", body: content };
 }
