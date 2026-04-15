@@ -8,4 +8,7 @@
   },
   "newsQuery": "Japan",
   "scrapeNewsSources": []
+,
+  "repoOwner": "MarvinNL046",
+  "repoName": "go2-japan.com"
 }
