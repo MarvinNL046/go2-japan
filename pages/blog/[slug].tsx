@@ -14,6 +14,8 @@ import ShareButtons from '../../components/ShareButtons';
 import NewsletterSidebar from '../../components/NewsletterSidebar';
 import { siteConfig } from '../../site.config';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
+import { useGsapBlogHero } from '../../components/animations/useGsapBlogHero';
+import { useGsapScrollReveal } from '../../components/animations/useGsapScrollReveal';
 
 interface Source {
   name: string;
@@ -61,6 +63,10 @@ const WIDGET_SCRIPTS: Record<string, string> = {
 };
 
 export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
+
+  // GSAP entrance animations — respects prefers-reduced-motion automatically
+  const heroRef = useGsapBlogHero<HTMLElement>();
+  useGsapScrollReveal('[data-blog-content]');
   const { locale } = useRouter();
 
   // Hydrate widget placeholders with real Travelpayouts embed scripts on the client
@@ -176,7 +182,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
       <article className="bg-warm-50 min-h-screen">
         {/* Hero Section */}
-        <section className="relative h-[400px] lg:h-[500px]">
+        <section ref={heroRef} className="relative h-[400px] lg:h-[500px]">
           <Image
             src={post.image}
             alt={post.title}
