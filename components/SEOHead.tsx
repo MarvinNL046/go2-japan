@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import { ReactNode } from 'react';
 import { siteConfig } from '../site.config';
 
@@ -12,7 +13,16 @@ interface SEOHeadProps {
 }
 
 export default function SEOHead({ title, description, ogImage, path, jsonLd, children }: SEOHeadProps) {
-  const canonicalUrl = path ? `${siteConfig.seo.siteUrl}${path}` : undefined;
+  const router = useRouter();
+
+  // Most pages never passed `path`, so most pages shipped without a canonical -
+  // including the homepage, while apex and www both serve it. Fall back to the
+  // route actually being rendered. During prerender asPath can still hold the
+  // unsubstituted pattern ("/city/[slug]"); emitting that as a canonical would
+  // be worse than none, so those fall through to no canonical as before.
+  const routePath = router?.asPath?.split(/[?#]/)[0];
+  const resolved = path ?? (routePath && !routePath.includes('[') ? routePath : undefined);
+  const canonicalUrl = resolved ? `${siteConfig.seo.siteUrl}${resolved}` : undefined;
 
   return (
     <Head>
